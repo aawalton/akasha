@@ -1,0 +1,22 @@
+---
+id: da5b3daa-dacf-5d62-aa34-4cdfe38ed201
+page-type-slug: mp-readout
+title: "Upkeep activity"
+slug: upkeep-activity
+domain-parent-slug: upkeep
+required-reading-slugs:
+  - readout
+label: Activity
+unit: calories
+place: 5
+scale-slug: activity-calories
+group-slugs:
+  - upkeep
+query-slug: activity-calories-on-day
+wire-key: activity
+settled: true
+---
+
+# Definition
+
+- **Upkeep activity** — how much Alan has moved today.
