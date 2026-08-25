@@ -1,4 +1,5 @@
 ---
+id: fdea8b2a-6374-503b-857e-df79b3ad520a
 page-type-slug: mp-readout-display
 title: "Readout display inbox stoplights"
 slug: readout-display-inbox-stoplights

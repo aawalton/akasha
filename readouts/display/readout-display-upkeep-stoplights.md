@@ -1,4 +1,5 @@
 ---
+id: 2d6b5ee7-77ce-53b4-8378-a547e625db93
 page-type-slug: mp-readout-display
 title: "Readout display upkeep stoplights"
 slug: readout-display-upkeep-stoplights

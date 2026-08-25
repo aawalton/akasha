@@ -1,4 +1,5 @@
 ---
+id: 79621771-4c2f-58a7-90eb-840a95e85ff7
 page-type-slug: mp-readout-display
 title: "Readout display values stoplights"
 slug: readout-display-values-stoplights

@@ -1,4 +1,5 @@
 ---
+id: 0119eb79-114b-5225-85b3-ffad81487bab
 page-type-slug: mp-readout-display
 title: "Readout display persona stoplights"
 slug: readout-display-persona-stoplights
