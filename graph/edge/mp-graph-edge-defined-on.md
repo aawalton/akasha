@@ -5,7 +5,6 @@ title: "Mp graph edge defined on"
 slug: mp-graph-edge-defined-on
 domain-parent-slug: mp-graph-edge
 code-type: defined-on
-roots: true
 derives: to
 from-node:
   kind: page

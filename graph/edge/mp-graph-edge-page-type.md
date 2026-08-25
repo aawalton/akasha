@@ -5,7 +5,6 @@ title: "Mp graph edge page type"
 slug: mp-graph-edge-page-type
 domain-parent-slug: mp-graph-edge
 code-type: page-type
-roots: true
 derives: from
 from-node:
   kind: page

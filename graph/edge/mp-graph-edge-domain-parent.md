@@ -5,7 +5,6 @@ title: "Mp graph edge domain parent"
 slug: mp-graph-edge-domain-parent
 domain-parent-slug: mp-graph-edge
 code-type: domain-parent
-roots: true
 derives: none
 from-node:
   kind: page
