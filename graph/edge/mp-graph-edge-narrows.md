@@ -3,7 +3,6 @@ id: d96e391c-2a99-574e-9292-6c5ba0f17a31
 page-type-slug: mp-graph-edge
 title: "Mp graph edge narrows"
 slug: mp-graph-edge-narrows
-domain-parent-slug: mp-graph-edge
 derives: none
 from-node:
   kind: page
