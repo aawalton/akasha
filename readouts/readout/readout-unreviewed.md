@@ -12,8 +12,7 @@ none-left-words: All reviewed!
 none-left-emoji: 🎉
 group-slugs:
   - readout-group-categorization
-source-slug: readout-source-categorization
-source-key: unreviewed
+read-live-from: monarch
 ---
 
 # Definition
