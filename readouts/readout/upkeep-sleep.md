@@ -1,8 +1,8 @@
 ---
-id: e8b8b707-0ecb-5cbd-b1a1-ceebe80c5826
+id: a4cac299-a5d4-5117-849c-035d9ec5d417
 page-type-slug: mp-readout
-title: "Alan harness stoplights upkeep sleep"
-slug: alan-harness-stoplights-upkeep-sleep
+title: "Upkeep sleep"
+slug: upkeep-sleep
 domain-parent-slug: alan-harness-stoplights-upkeep
 required-reading-slugs:
   - readout
@@ -19,4 +19,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights upkeep sleep** — how long Alan slept last night.
+- **Upkeep sleep** — how long Alan slept last night.

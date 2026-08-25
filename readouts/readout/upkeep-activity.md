@@ -1,8 +1,8 @@
 ---
-id: bb38bfac-0d7a-5f58-be2e-e42a9bcb1f54
+id: 8df6e1a6-8ef1-52b0-99f6-568c97080a24
 page-type-slug: mp-readout
-title: "Alan harness stoplights upkeep activity"
-slug: alan-harness-stoplights-upkeep-activity
+title: "Upkeep activity"
+slug: upkeep-activity
 domain-parent-slug: alan-harness-stoplights-upkeep
 required-reading-slugs:
   - readout
@@ -19,4 +19,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights upkeep activity** — how much Alan has moved today.
+- **Upkeep activity** — how much Alan has moved today.

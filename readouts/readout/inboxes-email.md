@@ -1,8 +1,8 @@
 ---
-id: 6adade8c-6875-52ed-b367-c81aa903c286
+id: 8e5af01e-914f-5137-90f1-5b7092deb2a2
 page-type-slug: mp-readout
-title: "Alan harness stoplights inboxes email"
-slug: alan-harness-stoplights-inboxes-email
+title: "Inboxes email"
+slug: inboxes-email
 domain-parent-slug: alan-harness-stoplights-inboxes
 required-reading-slugs:
   - readout
@@ -20,4 +20,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights inboxes email** — how near Alan's mail came to empty today.
+- **Inboxes email** — how near Alan's mail came to empty today.

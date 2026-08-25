@@ -7,12 +7,12 @@ domain-parent-slug: alan-harness-stoplights
 required-reading-slugs:
   - alan-readouts
 sequence-slugs:
-  - alan-harness-stoplights-upkeep-safety
-  - alan-harness-stoplights-upkeep-surplus
-  - alan-harness-stoplights-upkeep-capacity
-  - alan-harness-stoplights-upkeep-plants
-  - alan-harness-stoplights-upkeep-activity
-  - alan-harness-stoplights-upkeep-sleep
+  - upkeep-safety
+  - upkeep-surplus
+  - upkeep-capacity
+  - upkeep-plants
+  - upkeep-activity
+  - upkeep-sleep
 sort-order: place
 settled: true
 ---

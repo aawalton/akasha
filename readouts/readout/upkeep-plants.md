@@ -1,8 +1,8 @@
 ---
-id: d6546e0b-ee45-5905-a9c4-1a71ce52ba34
+id: f182074d-6d94-518f-8fcc-b8f57401814f
 page-type-slug: mp-readout
-title: "Alan harness stoplights upkeep plants"
-slug: alan-harness-stoplights-upkeep-plants
+title: "Upkeep plants"
+slug: upkeep-plants
 domain-parent-slug: alan-harness-stoplights-upkeep
 required-reading-slugs:
   - readout
@@ -19,4 +19,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights upkeep plants** — how much of a day's plants Alan has eaten.
+- **Upkeep plants** — how much of a day's plants Alan has eaten.

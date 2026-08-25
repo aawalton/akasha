@@ -1,8 +1,8 @@
 ---
-id: a32629e6-31c5-5e6e-a915-b3d95509cefc
+id: adc01b9f-a306-5b7a-bfac-a651404a24da
 page-type-slug: mp-readout
-title: "Alan harness stoplights inboxes tasks"
-slug: alan-harness-stoplights-inboxes-tasks
+title: "Inboxes tasks"
+slug: inboxes-tasks
 domain-parent-slug: alan-harness-stoplights-inboxes
 required-reading-slugs:
   - readout
@@ -21,4 +21,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights inboxes tasks** — how many of Alan's tasks are waiting.
+- **Inboxes tasks** — how many of Alan's tasks are waiting.

@@ -1,8 +1,8 @@
 ---
-id: 6ebd4367-ed0c-5251-8ca6-55303d278035
+id: e6fb9fcc-5fa6-5a77-935d-5f86d24a4efb
 page-type-slug: mp-readout
-title: "Alan harness stoplights upkeep safety"
-slug: alan-harness-stoplights-upkeep-safety
+title: "Upkeep safety"
+slug: upkeep-safety
 domain-parent-slug: alan-harness-stoplights-upkeep
 required-reading-slugs:
   - readout
@@ -21,7 +21,7 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights upkeep safety** — how safe the place Alan is in stands.
+- **Upkeep safety** — how safe the place Alan is in stands.
 
 # Design
 

@@ -1,8 +1,8 @@
 ---
-id: 6042d9d7-d378-580a-9ed7-0bc8e29a8ca6
+id: 47ec5a58-bea2-548a-b668-647670a0f805
 page-type-slug: mp-readout
-title: "Alan harness stoplights inboxes questions"
-slug: alan-harness-stoplights-inboxes-questions
+title: "Inboxes questions"
+slug: inboxes-questions
 domain-parent-slug: alan-harness-stoplights-inboxes
 required-reading-slugs:
   - readout
@@ -19,4 +19,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights inboxes questions** — how many questions are open across the fleet.
+- **Inboxes questions** — how many questions are open across the fleet.

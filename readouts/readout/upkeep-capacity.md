@@ -1,8 +1,8 @@
 ---
-id: 4636bbf2-5921-5fda-82c4-c65332109ca9
+id: d65c1956-1c78-5773-8641-53558fd4455b
 page-type-slug: mp-readout
-title: "Alan harness stoplights upkeep capacity"
-slug: alan-harness-stoplights-upkeep-capacity
+title: "Upkeep capacity"
+slug: upkeep-capacity
 domain-parent-slug: alan-harness-stoplights-upkeep
 required-reading-slugs:
   - readout
@@ -19,4 +19,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights upkeep capacity** — how much stress capacity Alan has in hand.
+- **Upkeep capacity** — how much stress capacity Alan has in hand.

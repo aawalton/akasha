@@ -1,8 +1,8 @@
 ---
-id: ad07fcf5-61b4-567e-99f1-cd75e4fc9dbb
+id: b11fe274-e0fe-50ee-a567-0e4523ab54d7
 page-type-slug: mp-readout
-title: "Alan harness stoplights upkeep surplus"
-slug: alan-harness-stoplights-upkeep-surplus
+title: "Upkeep surplus"
+slug: upkeep-surplus
 domain-parent-slug: alan-harness-stoplights-upkeep
 required-reading-slugs:
   - readout
@@ -20,7 +20,7 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights upkeep surplus** — how much of Alan's sleep the day has not spent.
+- **Upkeep surplus** — how much of Alan's sleep the day has not spent.
 
 # Design
 

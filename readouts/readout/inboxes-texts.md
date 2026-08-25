@@ -1,8 +1,8 @@
 ---
-id: 0dc4b313-85ec-5d2c-b641-d121e1cdd1d0
+id: 67aa9441-50fe-58bd-b4f5-460cfb0e0fc3
 page-type-slug: mp-readout
-title: "Alan harness stoplights inboxes texts"
-slug: alan-harness-stoplights-inboxes-texts
+title: "Inboxes texts"
+slug: inboxes-texts
 domain-parent-slug: alan-harness-stoplights-inboxes
 required-reading-slugs:
   - readout
@@ -21,4 +21,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights inboxes texts** — how many texts are unread.
+- **Inboxes texts** — how many texts are unread.

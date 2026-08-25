@@ -1,8 +1,8 @@
 ---
-id: 74014604-5908-5b3c-9701-2c480dc2f9a5
+id: 8a4f1648-ded3-5d8f-aafb-ec4cfaa99439
 page-type-slug: mp-readout
-title: "Alan harness stoplights inboxes temper tasks"
-slug: alan-harness-stoplights-inboxes-temper-tasks
+title: "Inboxes temper tasks"
+slug: inboxes-temper-tasks
 domain-parent-slug: alan-harness-stoplights-inboxes
 required-reading-slugs:
   - readout
@@ -21,4 +21,4 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights inboxes temper tasks** — how many Temper tasks are waiting.
+- **Inboxes temper tasks** — how many Temper tasks are waiting.

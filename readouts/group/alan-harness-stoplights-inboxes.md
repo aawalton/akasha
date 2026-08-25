@@ -7,11 +7,11 @@ domain-parent-slug: alan-harness-stoplights
 required-reading-slugs:
   - alan-readouts
 sequence-slugs:
-  - alan-harness-stoplights-inboxes-email
-  - alan-harness-stoplights-inboxes-tasks
-  - alan-harness-stoplights-inboxes-temper-tasks
-  - alan-harness-stoplights-inboxes-texts
-  - alan-harness-stoplights-inboxes-questions
+  - inboxes-email
+  - inboxes-tasks
+  - inboxes-temper-tasks
+  - inboxes-texts
+  - inboxes-questions
 sort-order: place
 settled: true
 ---
