@@ -3,7 +3,6 @@ id: 9ebb7cf9-d21a-52a5-aec3-3cdcc829b23c
 page-type-slug: mp-graph-edge-producer
 title: "Mp graph edge producer frontmatter"
 slug: mp-graph-edge-producer-frontmatter
-producer-path: akasha:graph/producers/frontmatter.edge.producer.ts
 edges-slugs:
   - mp-graph-edge-page-type
   - mp-graph-edge-extends
