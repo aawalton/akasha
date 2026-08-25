@@ -1,0 +1,21 @@
+---
+id: 36f58de5-9320-59df-b4a6-ea3005beaef5
+page-type-slug: mp-readout-widget
+title: "Readout widget smilingjenny surplus"
+slug: readout-widget-smilingjenny-surplus
+domain-parent-slug: alan-readouts
+app-slug: smilingjenny-ios
+display-slug: readout-display-surplus
+caption: "Alan's Surplus"
+gallery-name: "Surplus"
+gallery-description: "Hours of sleep left after what Alan's day cost."
+families:
+  - small
+kind: SurplusWidget
+feed: https://smilingjenny.me/api/surplus
+place: 3
+---
+
+# Definition
+
+- **Readout widget smilingjenny surplus** — the tile on Jenny's phone showing how much of Alan's night the day has left him.

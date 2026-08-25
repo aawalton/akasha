@@ -1,0 +1,21 @@
+---
+id: fdfcc4f4-9512-59eb-b6aa-788303891de1
+page-type-slug: mp-readout-widget
+title: "Readout widget alanwalton upkeep stoplights"
+slug: readout-widget-alanwalton-upkeep-stoplights
+domain-parent-slug: alan-readouts
+app-slug: alanwalton-ios
+display-slug: readout-display-upkeep-stoplights
+gallery-name: "Upkeep"
+gallery-description: "Your six upkeep stoplights, at a glance."
+families:
+  - small
+kind: HabitStoplightsWidget
+feed: https://alanwalton.com/api/habit-stoplights
+opens: capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1
+place: 6
+---
+
+# Definition
+
+- **Readout widget alanwalton upkeep stoplights** — the tile on Alan's phone showing whether his upkeep is working.
