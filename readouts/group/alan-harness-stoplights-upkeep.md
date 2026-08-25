@@ -24,5 +24,3 @@ settled: true
 # Design
 
 Safety's color reports where Alan is, and never whether he did well.
-
-Hygiene's figure is a mean of six colors, not a reading of anything.
