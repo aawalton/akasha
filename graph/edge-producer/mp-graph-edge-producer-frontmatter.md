@@ -5,12 +5,6 @@ slug: mp-graph-edge-producer-frontmatter
 domain-parent-slug: mp-graph-edge-producer
 code-name: frontmatter
 producer-path: akasha:graph/producers/frontmatter.edge.producer.ts
-reads-path:
-  - instructions:pages/**
-  - memory:pages/**
-  - stories:pages/**
-  - books:pages/**
-  - akasha:**
 depends-on-slugs:
   - mp-graph-node-producer-page
 edges-slugs:
