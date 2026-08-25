@@ -5,7 +5,9 @@ title: "Readout widget alanwalton upkeep stoplights"
 slug: readout-widget-alanwalton-upkeep-stoplights
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-upkeep-stoplights
+group-slugs:
+  - readout-group-upkeep
+widget-path: code:packages/alanwalton/native-shell/ios-widget/UpkeepStoplightsWidget.swift
 gallery-name: "Upkeep"
 gallery-description: "Your six upkeep stoplights, at a glance."
 families:

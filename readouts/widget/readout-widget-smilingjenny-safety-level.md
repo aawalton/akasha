@@ -5,7 +5,8 @@ title: "Readout widget smilingjenny safety level"
 slug: readout-widget-smilingjenny-safety-level
 domain-parent-slug: alan-readouts
 app-slug: smilingjenny-ios
-display-slug: readout-display-safety-level
+group-slugs:
+  - readout-group-safety
 caption: "Alan's Safety"
 gallery-name: "Safety"
 gallery-description: "Where Alan's safety level stands today."

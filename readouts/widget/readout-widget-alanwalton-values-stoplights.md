@@ -5,7 +5,9 @@ title: "Readout widget alanwalton values stoplights"
 slug: readout-widget-alanwalton-values-stoplights
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-values-stoplights
+group-slugs:
+  - readout-group-values
+widget-path: code:packages/alanwalton/native-shell/ios-widget/ValuesStoplightsWidget.swift
 gallery-name: "Values"
 gallery-description: "Your six daily values stoplights, at a glance."
 families:

@@ -5,7 +5,9 @@ title: "Readout widget alanwalton surplus"
 slug: readout-widget-alanwalton-surplus
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-surplus
+group-slugs:
+  - readout-group-surplus
+widget-path: code:packages/shared/ring/ios-widget/SurplusRing.swift
 caption: "Surplus"
 gallery-name: "Surplus"
 gallery-description: "Hours of sleep left after what your day cost."

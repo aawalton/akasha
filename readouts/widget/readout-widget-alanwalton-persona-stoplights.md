@@ -5,7 +5,9 @@ title: "Readout widget alanwalton persona stoplights"
 slug: readout-widget-alanwalton-persona-stoplights
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-persona-stoplights
+group-slugs:
+  - readout-group-personas
+widget-path: code:packages/alanwalton/native-shell/ios-widget/PersonaStoplightsWidget.swift
 gallery-name: "Personas"
 gallery-description: "Every persona's stoplight for today, on one tile."
 families:

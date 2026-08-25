@@ -5,7 +5,8 @@ title: "Readout widget alanwalton claude usage"
 slug: readout-widget-alanwalton-claude-usage
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-claude-usage
+group-slugs:
+  - readout-group-claude-usage
 caption: "Weekly Usage"
 gallery-name: "Claude Usage"
 gallery-description: "Claude account usage and when capacity comes back."

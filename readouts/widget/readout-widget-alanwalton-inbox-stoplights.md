@@ -5,7 +5,9 @@ title: "Readout widget alanwalton inbox stoplights"
 slug: readout-widget-alanwalton-inbox-stoplights
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-inbox-stoplights
+group-slugs:
+  - readout-group-inboxes
+widget-path: code:packages/alanwalton/native-shell/ios-widget/InboxStoplightsWidget.swift
 gallery-name: "Inboxes"
 gallery-description: "Your five inbox stoplights, at a glance."
 families:

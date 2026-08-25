@@ -5,7 +5,9 @@ title: "Readout widget alanwalton categorize"
 slug: readout-widget-alanwalton-categorize
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-categorize
+group-slugs:
+  - readout-group-categorization
+widget-path: code:packages/shared/ring/ios-widget/CategorizeRing.swift
 gallery-name: "Left to Review"
 gallery-description: "How many of the past year's transactions Monarch is waiting to have reviewed."
 families:

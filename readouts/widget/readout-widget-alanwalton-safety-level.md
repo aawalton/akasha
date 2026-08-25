@@ -5,7 +5,8 @@ title: "Readout widget alanwalton safety level"
 slug: readout-widget-alanwalton-safety-level
 domain-parent-slug: alan-readouts
 app-slug: alanwalton-ios
-display-slug: readout-display-safety-level
+group-slugs:
+  - readout-group-safety
 caption: "Safety"
 gallery-name: "Safety"
 gallery-description: "Where your safety level stands today."
