@@ -3,7 +3,7 @@ id: 429b0db3-93db-51f6-8b13-c81013309b16
 page-type-slug: mp-readout-widget
 title: "Readout widget alanwalton safety level"
 slug: readout-widget-alanwalton-safety-level
-domain-parent-slug: alan-readouts
+domain-parent-slug: mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - readout-group-safety

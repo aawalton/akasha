@@ -3,7 +3,7 @@ id: a6f2fd5f-e95b-52eb-91ad-8fb1b717cbb6
 page-type-slug: mp-readout-widget
 title: "Readout widget alanwalton values stoplights"
 slug: readout-widget-alanwalton-values-stoplights
-domain-parent-slug: alan-readouts
+domain-parent-slug: mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - readout-group-values

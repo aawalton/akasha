@@ -3,7 +3,7 @@ id: 1f91151d-80ab-5135-845a-96927acc3f03
 page-type-slug: mp-readout
 title: "Readout weekly back"
 slug: readout-weekly-back
-domain-parent-slug: readout
+domain-parent-slug: readout-group-claude-usage
 label: 7d back
 unit: hours
 place: 3

@@ -3,7 +3,7 @@ id: 7fd587d2-0d55-53ff-a900-0e727fedd7f8
 page-type-slug: mp-readout-widget
 title: "Readout widget smilingjenny safety level"
 slug: readout-widget-smilingjenny-safety-level
-domain-parent-slug: alan-readouts
+domain-parent-slug: mp-readouts
 app-slug: smilingjenny-ios
 group-slugs:
   - readout-group-safety

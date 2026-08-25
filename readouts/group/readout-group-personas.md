@@ -3,9 +3,7 @@ id: 9180e2d1-b25d-5863-bf73-76bd586620aa
 page-type-slug: mp-readout-group
 title: "Readout group personas"
 slug: readout-group-personas
-domain-parent-slug: alan-harness-stoplights
-required-reading-slugs:
-  - alan-readouts
+domain-parent-slug: mp-readouts
 settled: true
 ---
 

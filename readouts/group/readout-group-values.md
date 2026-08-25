@@ -3,9 +3,7 @@ id: 3e1c19a4-8b64-55bc-bf73-9f1ed664e202
 page-type-slug: mp-readout-group
 title: "Readout group values"
 slug: readout-group-values
-domain-parent-slug: alan-harness-stoplights
-required-reading-slugs:
-  - alan-readouts
+domain-parent-slug: mp-readouts
 sequence-slugs:
   - faith
   - love

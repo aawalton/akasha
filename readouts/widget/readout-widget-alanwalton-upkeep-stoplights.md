@@ -3,7 +3,7 @@ id: fdfcc4f4-9512-59eb-b6aa-788303891de1
 page-type-slug: mp-readout-widget
 title: "Readout widget alanwalton upkeep stoplights"
 slug: readout-widget-alanwalton-upkeep-stoplights
-domain-parent-slug: alan-readouts
+domain-parent-slug: mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - readout-group-upkeep

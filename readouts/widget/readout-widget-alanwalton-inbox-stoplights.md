@@ -3,7 +3,7 @@ id: 9164e7df-36b6-5c2f-a0c5-e1c432c25fb3
 page-type-slug: mp-readout-widget
 title: "Readout widget alanwalton inbox stoplights"
 slug: readout-widget-alanwalton-inbox-stoplights
-domain-parent-slug: alan-readouts
+domain-parent-slug: mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - readout-group-inboxes

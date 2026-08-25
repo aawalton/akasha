@@ -3,7 +3,7 @@ id: e7ebac80-e499-5d57-9658-58446f444b7b
 page-type-slug: mp-readout
 title: "Readout weekly ends"
 slug: readout-weekly-ends
-domain-parent-slug: readout
+domain-parent-slug: readout-group-claude-usage
 label: 7d ends
 unit: hours
 place: 4

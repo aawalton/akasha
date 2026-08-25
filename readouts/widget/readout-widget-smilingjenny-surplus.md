@@ -3,7 +3,7 @@ id: 36f58de5-9320-59df-b4a6-ea3005beaef5
 page-type-slug: mp-readout-widget
 title: "Readout widget smilingjenny surplus"
 slug: readout-widget-smilingjenny-surplus
-domain-parent-slug: alan-readouts
+domain-parent-slug: mp-readouts
 app-slug: smilingjenny-ios
 group-slugs:
   - readout-group-surplus

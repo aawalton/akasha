@@ -3,9 +3,7 @@ id: 51036c2f-7c4c-5a73-a05d-ac55acefed31
 page-type-slug: mp-readout-group
 title: "Readout group inboxes"
 slug: readout-group-inboxes
-domain-parent-slug: alan-harness-stoplights
-required-reading-slugs:
-  - alan-readouts
+domain-parent-slug: mp-readouts
 sequence-slugs:
   - readout-inboxes-email
   - readout-inboxes-tasks

@@ -3,7 +3,7 @@ id: 8ea312db-9139-59bd-9c44-d67c3f1b3e30
 page-type-slug: mp-readout-group
 title: "Readout group categorization"
 slug: readout-group-categorization
-domain-parent-slug: readout-system
+domain-parent-slug: mp-readouts
 ---
 
 # Definition
