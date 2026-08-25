@@ -10,8 +10,7 @@ place: 1
 color-from-slug: readout-weekly-ends
 group-slugs:
   - readout-group-claude-usage
-source-slug: readout-source-claude-usage
-source-key: avgUsedPct
+query-slug: claude-accounts-mean-weekly-used
 ---
 
 # Definition

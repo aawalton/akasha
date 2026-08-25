@@ -12,7 +12,7 @@ place: 6
 scale-slug: readout-scale-sleep-hours
 group-slugs:
   - alan-harness-stoplights-upkeep
-source-slug: readout-source-sleep
+query-slug: sleep-hours-on-day
 wire-key: sleep
 settled: true
 ---

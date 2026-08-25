@@ -12,7 +12,7 @@ place: 3
 scale-slug: readout-scale-capacity-hours
 group-slugs:
   - alan-harness-stoplights-upkeep
-source-slug: readout-source-capacity
+query-slug: session-capacity-on-day
 wire-key: capacity
 settled: true
 ---

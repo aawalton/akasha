@@ -12,8 +12,7 @@ place: 5
 scale-slug: readout-scale-live-count
 group-slugs:
   - alan-harness-stoplights-inboxes
-source-slug: readout-source-questions
-source-key: n
+query-slug: questions-open
 wire-key: questions
 settled: true
 ---

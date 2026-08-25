@@ -13,7 +13,7 @@ scale-slug: readout-scale-surplus-hours
 group-slugs:
   - alan-harness-stoplights-upkeep
   - readout-group-surplus
-source-slug: readout-source-surplus
+query-slug: surplus-hours-on-day
 wire-key: surplus
 settled: true
 ---

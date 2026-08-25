@@ -11,8 +11,7 @@ drawn-as: number
 color-slug: text
 group-slugs:
   - readout-group-claude-usage
-source-slug: readout-source-claude-usage
-source-key: sevenDayBackAt
+query-slug: claude-accounts-next-seven-day-back
 ---
 
 # Definition

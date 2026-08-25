@@ -12,7 +12,7 @@ place: 5
 scale-slug: readout-scale-activity-calories
 group-slugs:
   - alan-harness-stoplights-upkeep
-source-slug: readout-source-activity
+query-slug: activity-calories-on-day
 wire-key: activity
 settled: true
 ---

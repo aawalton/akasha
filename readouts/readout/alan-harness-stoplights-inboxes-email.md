@@ -12,8 +12,8 @@ place: 1
 scale-slug: readout-scale-lowest-inbox-count
 group-slugs:
   - alan-harness-stoplights-inboxes
-source-slug: readout-source-email
-source-key: lowestInboxCount
+query-slug: email-entry-lowest-inbox-count-today
+query-key: lowest-inbox-count
 wire-key: email
 settled: true
 ---

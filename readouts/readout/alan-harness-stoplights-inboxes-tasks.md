@@ -12,8 +12,8 @@ place: 2
 scale-slug: readout-scale-daily-inbox
 group-slugs:
   - alan-harness-stoplights-inboxes
-source-slug: readout-source-inboxes
-source-key: inboxTasks
+query-slug: inbox-readings-on-day
+query-key: inbox-tasks
 earned-key: inboxTasksClearedToday
 wire-key: tasks
 settled: true

@@ -12,8 +12,8 @@ place: 4
 scale-slug: readout-scale-daily-inbox
 group-slugs:
   - alan-harness-stoplights-inboxes
-source-slug: readout-source-inboxes
-source-key: inboxTexts
+query-slug: inbox-readings-on-day
+query-key: inbox-texts
 earned-key: inboxTextsClearedToday
 wire-key: texts
 settled: true

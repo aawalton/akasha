@@ -12,7 +12,7 @@ place: 4
 scale-slug: readout-scale-plant-grams
 group-slugs:
   - alan-harness-stoplights-upkeep
-source-slug: readout-source-plants
+query-slug: food-entry-plants-since-waking
 wire-key: plants
 settled: true
 ---

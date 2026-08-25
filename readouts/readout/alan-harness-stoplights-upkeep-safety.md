@@ -13,8 +13,8 @@ scale-slug: readout-scale-safety-level
 group-slugs:
   - alan-harness-stoplights-upkeep
   - readout-group-safety
-source-slug: readout-source-safety
-source-key: safetyLevel
+query-slug: safety-level-on-day
+query-key: safety-level
 wire-key: safety
 settled: true
 ---

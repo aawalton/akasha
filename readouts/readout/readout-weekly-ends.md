@@ -11,8 +11,7 @@ drawn-as: number
 scale-slug: readout-scale-allowance-hours
 group-slugs:
   - readout-group-claude-usage
-source-slug: readout-source-claude-usage
-source-key: sevenDayEndsAt
+query-slug: claude-accounts-next-seven-day-end
 ---
 
 # Definition
