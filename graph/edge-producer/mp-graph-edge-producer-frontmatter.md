@@ -1,11 +1,16 @@
 ---
-id: 9ebb7cf9-d21a-52a5-aec3-3cdcc829b23c
 page-type-slug: mp-graph-edge-producer
 title: "Mp graph edge producer frontmatter"
 slug: mp-graph-edge-producer-frontmatter
 domain-parent-slug: mp-graph-edge-producer
 code-name: frontmatter
-producer-path: tools/lib/graph/producers/page/frontmatter.edge.producer.ts
+producer-path: akasha:graph/producers/frontmatter.edge.producer.ts
+reads-path:
+  - instructions:pages/**
+  - memory:pages/**
+  - stories:pages/**
+  - books:pages/**
+  - akasha:**
 depends-on-slugs:
   - mp-graph-node-producer-page
 edges-slugs:
