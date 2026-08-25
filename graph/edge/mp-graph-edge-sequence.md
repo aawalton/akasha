@@ -4,7 +4,6 @@ page-type-slug: mp-graph-edge
 title: "Mp graph edge sequence"
 slug: mp-graph-edge-sequence
 domain-parent-slug: mp-graph-edge
-code-type: sequence
 derives: none
 from-node:
   kind: page

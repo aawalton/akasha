@@ -4,7 +4,6 @@ page-type-slug: mp-graph-edge
 title: "Mp graph edge narrows"
 slug: mp-graph-edge-narrows
 domain-parent-slug: mp-graph-edge
-code-type: narrows
 derives: none
 from-node:
   kind: page

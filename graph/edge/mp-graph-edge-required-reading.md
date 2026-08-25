@@ -4,7 +4,6 @@ page-type-slug: mp-graph-edge
 title: "Mp graph edge required reading"
 slug: mp-graph-edge-required-reading
 domain-parent-slug: mp-graph-edge
-code-type: required-reading
 derives: none
 from-node:
   kind: page

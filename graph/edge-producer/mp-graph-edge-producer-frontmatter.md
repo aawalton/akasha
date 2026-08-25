@@ -3,7 +3,6 @@ page-type-slug: mp-graph-edge-producer
 title: "Mp graph edge producer frontmatter"
 slug: mp-graph-edge-producer-frontmatter
 domain-parent-slug: mp-graph-edge-producer
-code-name: frontmatter
 producer-path: akasha:graph/producers/frontmatter.edge.producer.ts
 depends-on-slugs:
   - mp-graph-node-producer-page

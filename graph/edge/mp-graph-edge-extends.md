@@ -4,7 +4,6 @@ page-type-slug: mp-graph-edge
 title: "Mp graph edge extends"
 slug: mp-graph-edge-extends
 domain-parent-slug: mp-graph-edge
-code-type: extends
 derives: from
 from-node:
   kind: page

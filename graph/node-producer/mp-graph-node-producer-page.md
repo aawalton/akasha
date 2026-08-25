@@ -3,7 +3,6 @@ page-type-slug: mp-graph-node-producer
 title: "Mp graph node producer page"
 slug: mp-graph-node-producer-page
 domain-parent-slug: mp-graph-node-producer
-code-name: page
 producer-path: akasha:graph/producers/page.node.producer.ts
 nodes-slugs:
   - mp-graph-node-page
