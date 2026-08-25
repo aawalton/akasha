@@ -1,9 +1,9 @@
 ---
-id: b11fe274-e0fe-50ee-a567-0e4523ab54d7
+id: cecd580d-83f5-58e8-b2fe-c8c65f665cdf
 page-type-slug: mp-readout
-title: "Upkeep surplus"
-slug: upkeep-surplus
-domain-parent-slug: alan-harness-stoplights-upkeep
+title: "Readout upkeep surplus"
+slug: readout-upkeep-surplus
+domain-parent-slug: readout-group-upkeep
 required-reading-slugs:
   - readout
 label: Surplus
@@ -11,7 +11,7 @@ unit: hours
 place: 2
 scale-slug: readout-scale-surplus-hours
 group-slugs:
-  - alan-harness-stoplights-upkeep
+  - readout-group-upkeep
   - readout-group-surplus
 query-slug: surplus-hours-on-day
 wire-key: surplus
@@ -20,7 +20,7 @@ settled: true
 
 # Definition
 
-- **Upkeep surplus** — how much of Alan's sleep the day has not spent.
+- **Readout upkeep surplus** — how much of Alan's sleep the day has not spent.
 
 # Design
 

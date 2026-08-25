@@ -1,9 +1,9 @@
 ---
-id: e6fb9fcc-5fa6-5a77-935d-5f86d24a4efb
+id: 84891c1f-4fd9-54a4-bdbf-85874ced094b
 page-type-slug: mp-readout
-title: "Upkeep safety"
-slug: upkeep-safety
-domain-parent-slug: alan-harness-stoplights-upkeep
+title: "Readout upkeep safety"
+slug: readout-upkeep-safety
+domain-parent-slug: readout-group-upkeep
 required-reading-slugs:
   - readout
 label: Safety
@@ -11,7 +11,7 @@ unit: levels
 place: 1
 scale-slug: readout-scale-safety-level
 group-slugs:
-  - alan-harness-stoplights-upkeep
+  - readout-group-upkeep
   - readout-group-safety
 query-slug: safety-level-on-day
 query-key: safety-level
@@ -21,7 +21,7 @@ settled: true
 
 # Definition
 
-- **Upkeep safety** — how safe the place Alan is in stands.
+- **Readout upkeep safety** — how safe the place Alan is in stands.
 
 # Design
 

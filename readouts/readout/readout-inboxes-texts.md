@@ -1,9 +1,9 @@
 ---
-id: 67aa9441-50fe-58bd-b4f5-460cfb0e0fc3
+id: f98d856e-dd0e-52f0-89f0-0507249ee8c1
 page-type-slug: mp-readout
-title: "Inboxes texts"
-slug: inboxes-texts
-domain-parent-slug: alan-harness-stoplights-inboxes
+title: "Readout inboxes texts"
+slug: readout-inboxes-texts
+domain-parent-slug: readout-group-inboxes
 required-reading-slugs:
   - readout
 label: unread-texts
@@ -11,7 +11,7 @@ unit: texts
 place: 4
 scale-slug: readout-scale-daily-inbox
 group-slugs:
-  - alan-harness-stoplights-inboxes
+  - readout-group-inboxes
 query-slug: inbox-readings-on-day
 query-key: inbox-texts
 earned-key: inboxTextsClearedToday
@@ -21,4 +21,4 @@ settled: true
 
 # Definition
 
-- **Inboxes texts** — how many texts are unread.
+- **Readout inboxes texts** — how many texts are unread.

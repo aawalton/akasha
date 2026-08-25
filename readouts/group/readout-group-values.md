@@ -1,8 +1,8 @@
 ---
-id: f8eb7dd1-ef05-51bc-b2f8-de7a2b06a658
+id: 3e1c19a4-8b64-55bc-bf73-9f1ed664e202
 page-type-slug: mp-readout-group
-title: "Alan harness stoplights values"
-slug: alan-harness-stoplights-values
+title: "Readout group values"
+slug: readout-group-values
 domain-parent-slug: alan-harness-stoplights
 required-reading-slugs:
   - alan-readouts
@@ -19,7 +19,7 @@ settled: true
 
 # Definition
 
-- **Alan harness stoplights values** — how well the day served each of Alan's values.
+- **Readout group values** — how well the day served each of Alan's values.
 
 # Design
 

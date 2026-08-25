@@ -1,24 +1,24 @@
 ---
-id: 349f9288-23db-50bd-afa4-d57861ecbf85
+id: 51036c2f-7c4c-5a73-a05d-ac55acefed31
 page-type-slug: mp-readout-group
-title: "Alan harness stoplights inboxes"
-slug: alan-harness-stoplights-inboxes
+title: "Readout group inboxes"
+slug: readout-group-inboxes
 domain-parent-slug: alan-harness-stoplights
 required-reading-slugs:
   - alan-readouts
 sequence-slugs:
-  - inboxes-email
-  - inboxes-tasks
-  - inboxes-temper-tasks
-  - inboxes-texts
-  - inboxes-questions
+  - readout-inboxes-email
+  - readout-inboxes-tasks
+  - readout-inboxes-temper-tasks
+  - readout-inboxes-texts
+  - readout-inboxes-questions
 sort-order: place
 settled: true
 ---
 
 # Definition
 
-- **Alan harness stoplights inboxes** — how far each of Alan's inboxes is from empty.
+- **Readout group inboxes** — how far each of Alan's inboxes is from empty.
 
 # Design
 

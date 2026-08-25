@@ -1,9 +1,9 @@
 ---
-id: 8e5af01e-914f-5137-90f1-5b7092deb2a2
+id: 2c750d96-e55e-598e-a7b2-57600ff6111f
 page-type-slug: mp-readout
-title: "Inboxes email"
-slug: inboxes-email
-domain-parent-slug: alan-harness-stoplights-inboxes
+title: "Readout inboxes email"
+slug: readout-inboxes-email
+domain-parent-slug: readout-group-inboxes
 required-reading-slugs:
   - readout
 label: email
@@ -11,7 +11,7 @@ unit: messages
 place: 1
 scale-slug: readout-scale-lowest-inbox-count
 group-slugs:
-  - alan-harness-stoplights-inboxes
+  - readout-group-inboxes
 query-slug: email-entry-lowest-inbox-count-today
 query-key: lowest-inbox-count
 wire-key: email
@@ -20,4 +20,4 @@ settled: true
 
 # Definition
 
-- **Inboxes email** — how near Alan's mail came to empty today.
+- **Readout inboxes email** — how near Alan's mail came to empty today.
