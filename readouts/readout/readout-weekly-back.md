@@ -7,6 +7,7 @@ domain-parent-slug: readout
 label: 7d back
 unit: hours
 place: 3
+scale-slug: none
 drawn-as: number
 color-slug: text
 group-slugs:
