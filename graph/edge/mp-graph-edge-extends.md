@@ -6,7 +6,7 @@ slug: mp-graph-edge-extends
 domain-parent-slug: mp-graph-edge
 code-type: extends
 roots: true
-derives: true
+derives: from
 from-node:
   kind: page
   where:

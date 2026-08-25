@@ -6,7 +6,7 @@ slug: mp-graph-edge-narrows
 domain-parent-slug: mp-graph-edge
 code-type: narrows
 roots: false
-derives: false
+derives: none
 from-node:
   kind: page
   where:
