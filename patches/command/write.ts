@@ -6,8 +6,8 @@ import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
 import { carriesBytes } from "../../page/file-kind/carries-bytes.ts"
 import { statingIds } from "../../page/name/state-id.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../repo/land/land.ts"
-import { outOfBounds } from "../../repo/path/path.ts"
-import { AKASHA, locate, rootsHere } from "../../repo/roots/roots.ts"
+import { AKASHA } from "../../repo/roots/roots.ts"
+import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "./address.ts"
 import { fail, type Landing as Patched, patchText, payloadText, valueOf } from "./patch.ts"
 
 const FILE_PATH = "--file-path"
@@ -39,19 +39,6 @@ const SCRATCH = "/var/tmp"
 interface Pair {
   readonly filePath: string
   readonly contentFile: string
-}
-
-function rejectUnknownFlags(argv: readonly string[]): void {
-  for (let at = 0; at < argv.length; at += 1) {
-    const token = argv[at] as string
-    if (!token.startsWith("--") && token !== "-h") continue
-    if (VALUE_FLAGS.includes(token)) {
-      at += 1
-      continue
-    }
-    if (BARE_FLAGS.includes(token)) continue
-    fail(`${token} is not a flag this command takes — run it with --help`)
-  }
 }
 
 function pairsIn(argv: readonly string[]): readonly Pair[] {
@@ -123,61 +110,10 @@ function removalsNamed(argv: readonly string[]): readonly string[] {
   return found
 }
 
-interface Addressed {
-  readonly repo: string
-  readonly root: string
-}
-
-function addressOf(argv: readonly string[], paths: readonly string[]): Addressed | null {
-  const found = new Map<string, string>()
-  const loose: string[] = []
-  for (const one of paths) {
-    const held = locate(resolve(process.cwd(), one))
-    if (held === null) {
-      loose.push(one)
-      continue
-    }
-    const root = rootsHere()[held.repo]
-    if (root === undefined) fail(`no root is known for the \`${held.repo}\` repository`)
-    found.set(held.repo, root)
-  }
-  if (loose.length === paths.length) return null
-  if (loose.length > 0) {
-    fail(
-      `${loose.join(", ")} ${loose.length === 1 ? "is" : "are"} inside no repo while the rest of ` +
-        "this call stands in one, and a call lands in one place — hand the loose paths in on their own"
-    )
-  }
-  if (found.size > 1) {
-    fail(`this call names paths in ${[...found.keys()].sort().join(" and ")}, and a call lands in one repo`)
-  }
-  const [entry] = [...found.entries()]
-  if (entry === undefined) fail("this call names no path, so it asks for no write at all")
-  const named = valueOf(argv, REPO)
-  if (named !== null && named !== entry[0]) {
-    fail(`${REPO} says ${named} and these paths stand in ${entry[0]}`)
-  }
-  return { repo: entry[0], root: entry[1] }
-}
-
-function relPathIn(at: Addressed, pathish: string): string {
-  const absolute = resolve(process.cwd(), pathish)
-  const relative = absolute.slice(at.root.length + 1)
-  const bad = outOfBounds(relative)
-  if (bad !== null) fail(bad)
-  return relative
-}
-
 function bytesAside(body: string | Uint8Array): string {
   const at = `${mkdtempSync(`${SCRATCH}/mp-body-`)}/body`
   writeFileSync(at, body)
   return at
-}
-
-function defaultMessage(repo: string, paths: readonly string[]): string {
-  const [only] = paths
-  if (paths.length === 1 && only !== undefined) return `${repo}: write ${only}`
-  return `${repo}: write ${paths.length} files\n\n${paths.join("\n")}`
 }
 
 export const help = {
@@ -217,7 +153,7 @@ export const help = {
 
 export default async function write(argv: readonly string[]): Promise<void> {
   if (argv.includes("--help") || argv.includes("-h")) return
-  rejectUnknownFlags(argv)
+  rejectUnknownFlags(argv, VALUE_FLAGS, BARE_FLAGS)
 
   const pairs = pairsIn(argv)
   const inputFile = valueOf(argv, INPUT_FILE)
@@ -268,16 +204,7 @@ export default async function write(argv: readonly string[]): Promise<void> {
     return
   }
 
-  const removals: string[] = []
-  for (const one of named) {
-    const relPath = relPathIn(at, one)
-    const absolute = `${at.root}/${relPath}`
-    if (!existsSync(absolute)) fail(`${REMOVE} ${relPath} is not there, so the removal would take nothing away`)
-    if (statSync(absolute).isDirectory()) {
-      fail(`${REMOVE} ${relPath} is a directory; name its files, so the commit says what went`)
-    }
-    removals.push(relPath)
-  }
+  const removals = removalsIn(at, named)
   const removing = new Set(removals)
 
   const parsed: Landing[] = []
@@ -309,7 +236,7 @@ export default async function write(argv: readonly string[]): Promise<void> {
   const message =
     messageFile !== null
       ? readFileSync(messageFile, "utf8").trim()
-      : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, entries.map((one) => one.relPath)))
+      : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, "write", entries.map((one) => one.relPath)))
 
   const held = valueOf(argv, PATCH_FILE)
   if (held !== null) {
@@ -338,6 +265,20 @@ export default async function write(argv: readonly string[]): Promise<void> {
     }
     throw thrown
   }
+}
+
+function removalsIn(at: Addressed, named: readonly string[]): readonly string[] {
+  const removals: string[] = []
+  for (const one of named) {
+    const relPath = relPathIn(at, one)
+    const absolute = `${at.root}/${relPath}`
+    if (!existsSync(absolute)) fail(`${REMOVE} ${relPath} is not there, so the removal would take nothing away`)
+    if (statSync(absolute).isDirectory()) {
+      fail(`${REMOVE} ${relPath} is a directory; name its files, so the commit says what went`)
+    }
+    removals.push(relPath)
+  }
+  return removals
 }
 
 function bodyText(bytes: Uint8Array, from: string): string {
