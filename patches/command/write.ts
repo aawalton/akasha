@@ -1,22 +1,14 @@
 export const summary = "Write whole files as a patch, gated before anything lands"
 
-import { writeFileSync } from "node:fs"
+import { existsSync, mkdtempSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import {
-  bodyFile,
-  fail,
-  gateOrRefuse,
-  inside,
-  type Landing,
-  mustBeInside,
-  patchText,
-  payloadText,
-  runTool,
-  valueOf,
-  without,
-} from "./patch.ts"
-
-const WRITE_TOOL = "write.ts"
+import { decodeUtf8 } from "../../agent/command/read/utf8-body.ts"
+import { carriesBytes } from "../../page/file-kind/carries-bytes.ts"
+import { statingIds } from "../../page/name/state-id.ts"
+import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../repo/land/land.ts"
+import { outOfBounds } from "../../repo/path/path.ts"
+import { AKASHA, locate, rootsHere } from "../../repo/roots/roots.ts"
+import { fail, type Landing as Patched, patchText, payloadText, valueOf } from "./patch.ts"
 
 const FILE_PATH = "--file-path"
 
@@ -24,22 +16,42 @@ const CONTENT_FILE = "--content-file"
 
 const PATCH_FILE = "--patch-file"
 
+const INPUT_FILE = "--input-file"
+
+const REMOVE = "--remove"
+
+const REPO = "--repo"
+
+const MESSAGE = "--message"
+
+const MESSAGE_FILE = "--message-file"
+
 const MECHANICAL = "--mechanical"
 
-const VALUE_FLAGS = [
-  "--repo",
-  "--input-file",
-  FILE_PATH,
-  CONTENT_FILE,
-  "--message",
-  "--message-file",
-  "--remove",
-  PATCH_FILE,
-]
+const DRY_RUN = "--dry-run"
+
+const VALUE_FLAGS = [REPO, INPUT_FILE, FILE_PATH, CONTENT_FILE, MESSAGE, MESSAGE_FILE, REMOVE, PATCH_FILE]
+
+const BARE_FLAGS = [DRY_RUN, MECHANICAL, "--help", "-h"]
+
+const SCRATCH = "/var/tmp"
 
 interface Pair {
   readonly filePath: string
   readonly contentFile: string
+}
+
+function rejectUnknownFlags(argv: readonly string[]): void {
+  for (let at = 0; at < argv.length; at += 1) {
+    const token = argv[at] as string
+    if (!token.startsWith("--") && token !== "-h") continue
+    if (VALUE_FLAGS.includes(token)) {
+      at += 1
+      continue
+    }
+    if (BARE_FLAGS.includes(token)) continue
+    fail(`${token} is not a flag this command takes — run it with --help`)
+  }
 }
 
 function pairsIn(argv: readonly string[]): readonly Pair[] {
@@ -77,82 +89,119 @@ interface Carried {
   readonly content: string
 }
 
-function carriedIn(text: string): readonly Carried[] {
+function carriedIn(text: string, from: string): readonly Carried[] {
   let read: unknown
   try {
     read = JSON.parse(text)
-  } catch {
-    return []
+  } catch (thrown) {
+    fail(`${from} is not JSON this can read: ${thrown instanceof Error ? thrown.message : thrown}`)
   }
   const many = Array.isArray(read) ? read : [read]
   const found: Carried[] = []
-  for (const one of many) {
-    if (typeof one !== "object" || one === null) continue
+  for (const [at, one] of many.entries()) {
+    const where = `entry ${at + 1}`
+    if (typeof one !== "object" || one === null) fail(`${where} is not an object`)
     const held = one as Record<string, unknown>
     const filePath = held["file_path"]
     const content = held["content"]
-    if (typeof filePath !== "string" || typeof content !== "string") continue
+    if (typeof filePath !== "string") fail(`${where} has no \`file_path\` string`)
+    if (typeof content !== "string") fail(`${where} has no \`content\` string`)
     found.push({ filePath, content })
   }
   return found
 }
 
-function pairsOver(carried: readonly Carried[]): readonly Pair[] {
-  const pairs: Pair[] = []
-  for (const one of carried) {
-    if (inside(one.filePath) === null) continue
-    pairs.push({ filePath: one.filePath, contentFile: bodyFile(one.content) })
-  }
-  return pairs
-}
-
 function removalsNamed(argv: readonly string[]): readonly string[] {
   const found: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] !== "--remove") continue
+    if (argv[at] !== REMOVE) continue
     const value = argv[at + 1]
-    if (value === undefined || value.startsWith("-")) fail("--remove needs a path")
+    if (value === undefined || value.startsWith("-")) fail(`${REMOVE} needs a path`)
     at += 1
     found.push(value)
   }
   return found
 }
 
-function removalsIn(argv: readonly string[]): readonly string[] {
-  return removalsNamed(argv).map(mustBeInside)
+interface Addressed {
+  readonly repo: string
+  readonly root: string
 }
 
-function landingsIn(pairs: readonly Pair[], removals: readonly string[]): readonly Landing[] {
-  if (pairs.some((one) => one.contentFile === "-")) {
+function addressOf(argv: readonly string[], paths: readonly string[]): Addressed | null {
+  const found = new Map<string, string>()
+  const loose: string[] = []
+  for (const one of paths) {
+    const held = locate(resolve(process.cwd(), one))
+    if (held === null) {
+      loose.push(one)
+      continue
+    }
+    const root = rootsHere()[held.repo]
+    if (root === undefined) fail(`no root is known for the \`${held.repo}\` repository`)
+    found.set(held.repo, root)
+  }
+  if (loose.length === paths.length) return null
+  if (loose.length > 0) {
     fail(
-      `a ${CONTENT_FILE} reads \`-\`, and a patch is built by reading every body twice — once into ` +
-        "the patch and once by the write that lands it. Put the body in a file of its own."
+      `${loose.join(", ")} ${loose.length === 1 ? "is" : "are"} inside no repo while the rest of ` +
+        "this call stands in one, and a call lands in one place — hand the loose paths in on their own"
     )
   }
-  if (pairs.length === 0 && removals.length === 0) {
-    fail(
-      `this call addresses akasha and names no ${FILE_PATH}, so there is no body to build a patch ` +
-        `from. Hand each body in as ${FILE_PATH} <path> ${CONTENT_FILE} <file>.`
-    )
+  if (found.size > 1) {
+    fail(`this call names paths in ${[...found.keys()].sort().join(" and ")}, and a call lands in one repo`)
   }
-  return pairs.map((one) => ({
-    relPath: mustBeInside(one.filePath),
-    from: resolve(process.cwd(), one.contentFile),
-  }))
+  const [entry] = [...found.entries()]
+  if (entry === undefined) fail("this call names no path, so it asks for no write at all")
+  const named = valueOf(argv, REPO)
+  if (named !== null && named !== entry[0]) {
+    fail(`${REPO} says ${named} and these paths stand in ${entry[0]}`)
+  }
+  return { repo: entry[0], root: entry[1] }
+}
+
+function relPathIn(at: Addressed, pathish: string): string {
+  const absolute = resolve(process.cwd(), pathish)
+  const relative = absolute.slice(at.root.length + 1)
+  const bad = outOfBounds(relative)
+  if (bad !== null) fail(bad)
+  return relative
+}
+
+function bytesAside(body: string | Uint8Array): string {
+  const at = `${mkdtempSync(`${SCRATCH}/mp-body-`)}/body`
+  writeFileSync(at, body)
+  return at
+}
+
+function defaultMessage(repo: string, paths: readonly string[]): string {
+  const [only] = paths
+  if (paths.length === 1 && only !== undefined) return `${repo}: write ${only}`
+  return `${repo}: write ${paths.length} files\n\n${paths.join("\n")}`
 }
 
 export const help = {
   description:
     `${summary}.\n` +
     "\n" +
-    "A call addressing akasha is turned into a patch against HEAD, the checks akasha defines " +
-    "are run over the files that patch changes, and only then is it handed on to be gated and " +
-    "landed. A call addressing any other repository is forwarded unchanged, those repositories " +
-    "having nothing to patch for.\n" +
+    "A call addressing akasha is turned into a patch against HEAD and the checks akasha defines " +
+    "are run over the files that patch changes, before anything reaches disk. A call addressing " +
+    "any other repository lands unjudged, those repositories having no checks. A path inside no " +
+    "repository is written where it lies, with nothing committing it.\n" +
     "\n" +
-    `Every flag but ${PATCH_FILE} belongs to \`tools/write.ts\` and is named in the help below, ` +
-    "which is that tool's own.",
+    "Every body reaches this as a whole file. Where the path's extension has a file kind stating " +
+    "`binary: true` the bytes land exactly as read; every other body is decoded as UTF-8 and " +
+    "refused where it does not decode.",
   flags: [
+    { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
+    { name: INPUT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "The tool-call JSON: `{ file_path, content }` or an array of them." },
+    { name: FILE_PATH, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "Convenience form, with --content-file. Repeatable; the pairs are one change set." },
+    { name: CONTENT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, repeat: true, description: "The body for the --file-path before it." },
+    { name: REMOVE, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "A path this same act takes away. The writes and the removals are one gated commit." },
+    { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the written paths." },
+    { name: MESSAGE_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read the commit message from a file." },
+    { name: DRY_RUN, description: "Gate and report; write and commit nothing." },
+    { name: MECHANICAL, description: "This body was decided by a program, not authored. The gates about what its writer read stand aside." },
     {
       name: PATCH_FILE,
       argLabel: "<path>",
@@ -163,40 +212,115 @@ export const help = {
         "patch is assembled over more than one call.",
     },
   ],
-  positionals: [
-    { name: "args", required: false, variadic: true, description: "Forwarded to `tools/write.ts`." },
-  ],
-  epilog: () => runTool(WRITE_TOOL, ["--help"], true),
+  positionals: [],
 }
 
 export default async function write(argv: readonly string[]): Promise<void> {
-  const named = pairsIn(argv)
-  const wanted = named.length === 0 && removalsNamed(argv).length === 0
-  const text = argv.includes("--help") ? null : payloadText(argv, wanted)
-  let forward = argv
-  if (text !== null && valueOf(argv, "--input-file") === null) {
-    forward = [...argv, "--input-file", bodyFile(text)]
-  }
-  const carried = text === null ? [] : carriedIn(text)
-  const pairs = [...named, ...pairsOver(carried)]
-  const here =
-    pairs.some((one) => inside(one.filePath) !== null) ||
-    removalsNamed(argv).some((one) => inside(one) !== null)
+  if (argv.includes("--help") || argv.includes("-h")) return
+  rejectUnknownFlags(argv)
 
-  if (!here) {
+  const pairs = pairsIn(argv)
+  const inputFile = valueOf(argv, INPUT_FILE)
+  if (pairs.length > 0 && inputFile !== null) {
+    fail(
+      `${INPUT_FILE} and ${FILE_PATH} each carry the bodies this call would write, and both are ` +
+        "given — hand the whole change set in through one of them"
+    )
+  }
+  const draining = pairs.filter((one) => one.contentFile === "-")
+  if (draining.length > 1) {
+    fail(
+      `${draining.length} ${CONTENT_FILE} arguments read \`-\`, and stdin is one stream the first ` +
+        "would drain — put each body in a file of its own"
+    )
+  }
+
+  const named = removalsNamed(argv)
+  const wanted = pairs.length === 0 && named.length === 0
+  const text = inputFile !== null || wanted ? payloadText(argv, wanted) : null
+  const carried = text === null ? [] : carriedIn(text, inputFile ?? "stdin")
+  if (pairs.length === 0 && carried.length === 0 && named.length === 0) {
+    fail("the payload declares no file, so it asks for no write at all")
+  }
+
+  const dryRun = argv.includes(DRY_RUN)
+  const mechanical = argv.includes(MECHANICAL)
+  const everyPath = [...pairs.map((one) => one.filePath), ...carried.map((one) => one.filePath), ...named]
+  const at = addressOf(argv, everyPath)
+
+  if (at === null) {
+    if (named.length > 0) fail(`${REMOVE} takes a path out of a repo, and these paths are inside none`)
     if (valueOf(argv, PATCH_FILE) !== null) {
       fail(`${PATCH_FILE} is for a call addressing akasha; nothing outside it is landed by patch`)
     }
-    await runTool(WRITE_TOOL, forward, false)
+    const loose: Loose[] = []
+    for (const one of pairs) {
+      const bytes = one.contentFile === "-" ? await Bun.stdin.bytes() : readFileSync(one.contentFile)
+      const absolute = resolve(process.cwd(), one.filePath)
+      loose.push({ absolute, body: carriesBytes(absolute) ? bytes : bodyText(bytes, one.contentFile) })
+    }
+    for (const one of carried) {
+      const absolute = resolve(process.cwd(), one.filePath)
+      if (carriesBytes(absolute)) fail(binaryInJson(absolute))
+      loose.push({ absolute, body: one.content })
+    }
+    landOutside(loose, dryRun)
     return
   }
 
-  const removals = removalsIn(argv)
-  const landings = landingsIn(pairs, removals)
-  const patch = patchText(landings, removals)
+  const removals: string[] = []
+  for (const one of named) {
+    const relPath = relPathIn(at, one)
+    const absolute = `${at.root}/${relPath}`
+    if (!existsSync(absolute)) fail(`${REMOVE} ${relPath} is not there, so the removal would take nothing away`)
+    if (statSync(absolute).isDirectory()) {
+      fail(`${REMOVE} ${relPath} is a directory; name its files, so the commit says what went`)
+    }
+    removals.push(relPath)
+  }
+  const removing = new Set(removals)
+
+  const parsed: Landing[] = []
+  for (const one of pairs) {
+    const relPath = relPathIn(at, one.filePath)
+    if (at.repo === AKASHA && one.contentFile === "-") {
+      fail(
+        `a ${CONTENT_FILE} reads \`-\`, and a patch is built by reading every body twice — once into ` +
+          "the patch and once by the write that lands it. Put the body in a file of its own."
+      )
+    }
+    const bytes = one.contentFile === "-" ? await Bun.stdin.bytes() : readFileSync(one.contentFile)
+    parsed.push({ relPath, body: carriesBytes(relPath) ? bytes : bodyText(bytes, one.contentFile) })
+  }
+  for (const one of carried) {
+    const relPath = relPathIn(at, one.filePath)
+    if (carriesBytes(relPath)) fail(binaryInJson(relPath))
+    parsed.push({ relPath, body: one.content })
+  }
+
+  const seen = new Set(parsed.map((one) => one.relPath))
+  if (seen.size !== parsed.length) fail("a path is declared more than once")
+  for (const one of parsed) {
+    if (removing.has(one.relPath)) fail(`${one.relPath} is both written and removed by one call`)
+  }
+
+  const entries = statingIds(at.repo, at.root, parsed)
+  const messageFile = valueOf(argv, MESSAGE_FILE)
+  const message =
+    messageFile !== null
+      ? readFileSync(messageFile, "utf8").trim()
+      : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, entries.map((one) => one.relPath)))
 
   const held = valueOf(argv, PATCH_FILE)
   if (held !== null) {
+    if (at.repo !== AKASHA) {
+      fail(`${PATCH_FILE} is for a call addressing akasha; nothing outside it is landed by patch`)
+    }
+    const landings: Patched[] = entries.map((one) => ({
+      relPath: one.relPath,
+      from: bytesAside(one.body),
+    }))
+    const patch = patchText(landings, removals)
     writeFileSync(resolve(process.cwd(), held), patch)
     process.stderr.write(
       `patch: ${patch.length} byte(s) over ${landings.length + removals.length} file(s) — ` +
@@ -205,6 +329,28 @@ export default async function write(argv: readonly string[]): Promise<void> {
     return
   }
 
-  gateOrRefuse(patch, argv.includes(MECHANICAL), landings.length + removals.length)
-  await runTool(WRITE_TOOL, without(forward, PATCH_FILE), false)
+  try {
+    land(at, entries, message, dryRun, removals, [], mechanical)
+  } catch (thrown) {
+    if (thrown instanceof LandingRefused) {
+      process.stderr.write(`error: ${thrown.message}\n`)
+      process.exit(3)
+    }
+    throw thrown
+  }
+}
+
+function bodyText(bytes: Uint8Array, from: string): string {
+  const body = decodeUtf8(bytes)
+  if (body === null) {
+    fail(`${from === "-" ? "stdin" : from} is not UTF-8 text, and this path's file kind does not carry bytes`)
+  }
+  return body
+}
+
+function binaryInJson(at: string): string {
+  return (
+    `${at} is of a file kind stating \`binary: true\`, and this payload is JSON, whose \`content\` ` +
+    `is a string. Hand it in as the file it already is: ${FILE_PATH} ${at} ${CONTENT_FILE} <path>.`
+  )
 }
