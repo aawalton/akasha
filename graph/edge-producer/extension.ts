@@ -44,7 +44,12 @@ export const extensionEdgeProducer: EdgeProducer = {
     if (extension === null) return []
     const to = spellingIn(ctx).get(extension)
     if (to === undefined) return []
-    const edge: EdgeInit = { kind: FILE_KIND_EDGE, from: { repo: file.repo, key: file.key }, to }
+    const edge: EdgeInit = {
+      kind: FILE_KIND_EDGE,
+      from: { repo: file.repo, key: file.key },
+      to,
+      attrs: {},
+    }
     return [edge]
   },
 }

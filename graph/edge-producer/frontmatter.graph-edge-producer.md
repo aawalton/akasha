@@ -4,13 +4,7 @@ page-type-slug: graph-edge-producer
 title: "Frontmatter"
 slug: frontmatter
 edges-slugs:
-  - page-type
-  - extends
-  - defined-on
-  - domain-parent
-  - narrows
-  - sequence
-  - required-reading
+  - relation
 ---
 
 # Definition

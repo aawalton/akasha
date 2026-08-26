@@ -1,10 +1,13 @@
 import type { FileNode } from "./node-producer/file.ts"
 import type { BuildContext, NodeRef } from "./node-shape.ts"
 
+export type EdgeAttrs = Readonly<Record<string, string>>
+
 export type EdgeInit = {
   readonly kind: string
   readonly from: NodeRef
   readonly to: NodeRef
+  readonly attrs: EdgeAttrs
 }
 
 export type EdgeProducer = {

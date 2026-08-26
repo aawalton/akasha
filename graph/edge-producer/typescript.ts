@@ -56,7 +56,12 @@ export const typescriptEdgeProducer: EdgeProducer = {
         const ref = refAt(ctx, resolve(dirname(from), `${named}${tail}`))
         if (ref === null) continue
         if (fileNodeProducer.at(ctx, ref) === null) continue
-        edges.push({ kind: IMPORT_EDGE, from: { repo: file.repo, key: file.key }, to: ref })
+        edges.push({
+          kind: IMPORT_EDGE,
+          from: { repo: file.repo, key: file.key },
+          to: ref,
+          attrs: {},
+        })
         break
       }
     }

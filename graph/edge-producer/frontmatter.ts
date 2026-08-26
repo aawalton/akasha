@@ -14,15 +14,16 @@ import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { AKASHA, BORROWED_PAGE_TYPES } from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 
+export const RELATION_EDGE = "relation"
+
+const RELATION_KEY = "relation-key"
+
 const DEFINITION_PAGE_TYPE = "page-property-definition"
 
 const RELATION = "relation"
 
-const SUFFIXES: readonly string[] = ["-slugs", "-slug"]
-
 export type Relation = {
   readonly key: string
-  readonly kind: string
   readonly target: string | null
 }
 
@@ -48,13 +49,6 @@ function registryIn(ctx: BuildContext): readonly PageType[] {
   const made = registryOf(diskFileTree(ctx.roots))
   standing.registry = made
   return made
-}
-
-export function kindOf(key: string): string {
-  for (const suffix of SUFFIXES) {
-    if (key.endsWith(suffix)) return key.slice(0, -suffix.length)
-  }
-  return key
 }
 
 function stemOf(key: string): string {
@@ -86,11 +80,7 @@ function declaredIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]>
       const stated = stringAt(fm, "key")
       if (on === null || stated === null) continue
       const held = made.get(on) ?? []
-      held.push({
-        key: stated,
-        kind: kindOf(stated),
-        target: slugNamed(stringAt(fm, "target-slug")),
-      })
+      held.push({ key: stated, target: slugNamed(stringAt(fm, "target-slug")) })
       made.set(on, held)
     }
   }
@@ -158,13 +148,7 @@ function namesIn(fm: Frontmatter, relation: Relation): readonly string[] {
 
 export const frontmatterEdgeProducer: EdgeProducer = {
   name: "frontmatter",
-  edgeKinds: (ctx) => {
-    const kinds = new Set<string>()
-    for (const relations of relationsIn(ctx).values()) {
-      for (const relation of relations) kinds.add(relation.kind)
-    }
-    return [...kinds]
-  },
+  edgeKinds: () => [RELATION_EDGE],
   from: (ctx, file) => {
     const pageType = file.attrs["page-type-slug"]
     if (pageType === null) return []
@@ -179,7 +163,12 @@ export const frontmatterEdgeProducer: EdgeProducer = {
       for (const named of namesIn(fm, relation)) {
         const to = reached(ctx, named, relation)
         if (to === null) continue
-        edges.push({ kind: relation.kind, from: { repo: file.repo, key: file.key }, to })
+        edges.push({
+          kind: RELATION_EDGE,
+          from: { repo: file.repo, key: file.key },
+          to,
+          attrs: { [RELATION_KEY]: relation.key },
+        })
       }
     }
     return edges
