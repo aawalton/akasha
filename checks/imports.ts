@@ -1,5 +1,5 @@
 import { dirname, relative, resolve } from "node:path"
-import { packagesFor, pathOf } from "../workspace/packages.ts"
+import { packagesFor, pathOf } from "../workspace-package/packages.ts"
 
 const SPECIFIERS: readonly RegExp[] = [
   /\bfrom\s*["']([^"']+)["']/g,
