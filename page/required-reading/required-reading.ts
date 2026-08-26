@@ -28,7 +28,7 @@ const DOT = "."
 
 const PART = "/"
 
-const REGISTRY_DIRS: readonly string[] = ["pages/page-type/", "page-types/", "pages/rules-engine-rule-set/"]
+const REGISTRY_DIRS: readonly string[] = ["pages/page-type/", "pages/rules-engine-rule-set/"]
 
 function saidAt(at: PageAt): string {
   return `${at.repo}:${at.key}`
