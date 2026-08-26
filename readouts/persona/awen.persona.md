@@ -5,7 +5,7 @@ id: 019f10d8-7045-7647-8ce2-e9b7ed28736b
 total-points: 118
 cover: /api/image/019f324d-6ae8-7c10-b790-87d1d0dd26d8
 slug: awen
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

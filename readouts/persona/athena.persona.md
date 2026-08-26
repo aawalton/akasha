@@ -5,7 +5,7 @@ id: 019f2330-25c9-770c-894f-fd4ac497997c
 total-points: 1022
 cover: /api/image/019f324d-78a0-7687-984d-3b04fce4c70b
 slug: athena
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

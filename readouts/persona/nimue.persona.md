@@ -5,7 +5,7 @@ id: 019eef9c-c77d-7a21-8736-e6f01ebacff0
 total-points: 35
 cover: /api/image/019f324d-4bc0-7720-b287-22c138e704ef
 slug: nimue
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

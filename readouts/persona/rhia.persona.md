@@ -5,7 +5,7 @@ id: 019f2db3-8be6-77bb-a219-f5bd46c975cd
 total-points: 30
 cover: /api/image/019f324d-8981-7157-8ef3-573341fe3aa2
 slug: rhia
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

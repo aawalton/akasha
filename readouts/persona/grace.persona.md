@@ -5,7 +5,7 @@ id: 019f18fd-a89d-7fab-b9c0-052ee4db6877
 total-points: 3515
 cover: /api/image/019f324d-7395-7630-adc6-91bdb59d2d63
 slug: grace
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

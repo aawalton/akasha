@@ -3,7 +3,7 @@ page-type-slug: value
 title: "Learn"
 id: 019eb7d1-0072-7909-a9a7-6fa76806f067
 slug: learn
-domain-parent-slug: mp-readout-group/values
+domain-parent-slug: readout-group/values
 required-reading-slugs:
   - page-type/value
 color: green

@@ -5,7 +5,7 @@ id: 019f2ddc-5bad-745b-8e96-cf5a9a9343f2
 total-points: 0
 cover: /api/image/019f324d-8dba-7bb3-b2d9-63a7ddb1217d
 slug: elin
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

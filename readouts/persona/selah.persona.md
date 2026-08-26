@@ -5,7 +5,7 @@ id: 019f0da7-0f73-712e-99fc-d1ae2fce3481
 total-points: 59.27565
 cover: /api/image/019f324d-657c-7667-ae9c-a4d0e2557563
 slug: selah
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

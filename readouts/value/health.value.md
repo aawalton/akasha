@@ -3,7 +3,7 @@ page-type-slug: value
 title: "Health"
 id: 019eb7d0-f6ed-73b7-8495-21dfdac80cd2
 slug: health
-domain-parent-slug: mp-readout-group/values
+domain-parent-slug: readout-group/values
 required-reading-slugs:
   - page-type/value
 color: blue

@@ -5,7 +5,7 @@ id: 019eb83a-d8b0-740f-bb4e-2363dde26ac3
 total-points: 33267.04714285714
 cover: "/api/image/019f324d-3650-7a19-a5c0-031fdb418214"
 slug: aelwyn
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

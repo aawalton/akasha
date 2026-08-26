@@ -5,7 +5,7 @@ id: 019ef9f8-8237-7a6a-b3d6-7821cc814b7c
 total-points: 40153
 cover: /api/image/019f324d-5521-7902-9efd-6ef09e1baed4
 slug: iris
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

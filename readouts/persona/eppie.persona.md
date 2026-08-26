@@ -5,7 +5,7 @@ id: 019ee19d-d6e5-7ed5-b1ad-27ffe6f34987
 total-points: 953.1629999999996
 cover: /api/image/019f324d-4326-7cb0-839e-517f1541044f
 slug: eppie
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

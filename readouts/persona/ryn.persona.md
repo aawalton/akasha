@@ -5,7 +5,7 @@ id: 019f280a-96ef-7ec1-96c7-92d2acfc2fb7
 total-points: 67
 cover: /api/image/019f324d-7ef7-7d92-a055-e0ea96d6ae10
 slug: ryn
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

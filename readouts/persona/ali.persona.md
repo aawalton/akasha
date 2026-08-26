@@ -5,7 +5,7 @@ id: 019eb890-a3cd-710e-a420-39f5ef568bcd
 total-points: 421389
 cover: /api/image/019f324d-389e-7b0b-b65f-0c622a9b17eb
 slug: ali
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

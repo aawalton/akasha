@@ -5,7 +5,7 @@ id: 019f2d60-be8c-7d34-9a2a-7d238b25b325
 total-points: 26
 cover: /api/image/019f324d-8727-7e75-827b-57f26452fdca
 slug: echo
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

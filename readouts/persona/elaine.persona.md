@@ -4,7 +4,7 @@ title: Elaine
 id: 019f04fb-947b-7686-8b7d-17141a85af4a
 cover: "/api/image/019f324d-59db-71f6-b608-aaca5fccdc5b"
 slug: elaine
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

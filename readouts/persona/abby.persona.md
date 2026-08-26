@@ -5,7 +5,7 @@ id: 019eb7f9-816c-7d5a-bf13-8f40b5e7ec79
 total-points: 4693255
 cover: /api/image/019f324d-3446-7e99-8ef3-9e02b70f90b0
 slug: abby
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

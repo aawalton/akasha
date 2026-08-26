@@ -5,7 +5,7 @@ id: 019f0ee0-5cea-7a5f-880d-9baf5476edac
 total-points: 79
 cover: /api/image/019f324d-689d-7725-869c-e742dc52656a
 slug: sophia
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

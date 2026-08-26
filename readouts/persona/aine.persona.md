@@ -5,7 +5,7 @@ id: 019eb8d9-abdd-7890-b2cb-ec3e9dbd8b19
 total-points: 10443
 cover: /api/image/019f324d-3c27-74ae-ac6b-ce2a58b3395c
 slug: aine
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

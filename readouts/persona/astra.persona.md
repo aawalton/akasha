@@ -5,7 +5,7 @@ id: 019f1412-b223-74d5-93f3-d09bf6d6107f
 total-points: 279
 cover: /api/image/019f324d-7077-7091-8c84-570042610a38
 slug: astra
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

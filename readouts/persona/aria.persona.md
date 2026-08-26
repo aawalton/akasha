@@ -5,7 +5,7 @@ id: 019ef03a-4924-7a7b-9ee2-e34556947658
 total-points: 0
 cover: /api/image/019f324d-4e0e-7d56-8c17-71893c5f8505
 slug: aria
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

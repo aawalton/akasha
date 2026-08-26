@@ -5,7 +5,7 @@ id: 019f23b2-7d6d-7b4e-a2c7-2ef49e71b89b
 total-points: 66
 cover: /api/image/019f324d-7aa1-7228-8422-6e7a1891a175
 slug: aranya
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

@@ -3,7 +3,7 @@ page-type-slug: value
 title: "Wealth"
 id: 019eb7d1-032b-73d1-bb88-07b4625d5fb9
 slug: wealth
-domain-parent-slug: mp-readout-group/values
+domain-parent-slug: readout-group/values
 required-reading-slugs:
   - page-type/value
 color: orange

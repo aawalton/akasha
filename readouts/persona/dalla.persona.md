@@ -5,7 +5,7 @@ id: 019f22ad-945f-7a99-8f94-02bc3813d6bc
 total-points: 471
 cover: /api/image/019f324d-764c-7076-8d2b-730b5d6107fb
 slug: dalla
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

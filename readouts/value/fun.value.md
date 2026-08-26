@@ -3,7 +3,7 @@ page-type-slug: value
 title: "Fun"
 id: 019eb7d1-01be-7a20-b8e8-05008697aea9
 slug: fun
-domain-parent-slug: mp-readout-group/values
+domain-parent-slug: readout-group/values
 required-reading-slugs:
   - page-type/value
 color: yellow

@@ -3,7 +3,7 @@ page-type-slug: value
 title: "Faith"
 id: 019eb7d0-f2ce-7404-ac55-828a43bc73cf
 slug: faith
-domain-parent-slug: mp-readout-group/values
+domain-parent-slug: readout-group/values
 required-reading-slugs:
   - page-type/value
 color: purple

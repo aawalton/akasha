@@ -5,7 +5,7 @@ id: 019f1365-9b2b-78fb-a936-f3ed624ffb7b
 total-points: 9793.827016666664
 cover: /api/image/019f324d-6dc4-78cd-b139-4cc50c0fa99a
 slug: ruby
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

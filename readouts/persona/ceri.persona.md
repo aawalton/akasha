@@ -5,7 +5,7 @@ id: 019ef053-c0c2-7ae0-9faf-ec57e78ded39
 total-points: 0
 cover: /api/image/019f324d-5014-7114-ade0-c91e2fe8a954
 slug: ceri
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

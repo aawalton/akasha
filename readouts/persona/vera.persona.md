@@ -5,7 +5,7 @@ id: 019f2e0f-477f-7fd3-aec2-d687d883d055
 total-points: 1
 cover: /api/image/019f324d-9073-7de7-8610-467a75d8224f
 slug: vera
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

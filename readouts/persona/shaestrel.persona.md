@@ -5,7 +5,7 @@ id: 019f9538-5266-78e9-bda8-a0d624dd0d76
 total-points: 2
 cover: /api/image/019f9538-5266-78e9-bda8-a0d624dd0d76
 slug: shaestrel
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

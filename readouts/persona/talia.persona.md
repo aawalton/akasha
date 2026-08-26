@@ -5,7 +5,7 @@ id: 019f05ae-071d-72e9-82e3-1277673da4e5
 total-points: 24943
 cover: /api/image/019f324d-5f4c-710a-bf15-ba79beaf2bef
 slug: talia
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

@@ -5,7 +5,7 @@ id: 019f0a42-42c4-7a8d-8b99-97aded91020a
 total-points: 2310
 cover: /api/image/019f324d-620f-73f5-91e7-5da37a226ce8
 slug: lali
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

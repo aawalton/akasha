@@ -5,7 +5,7 @@ id: 019ee136-3f5d-7307-b7ad-648ccdba498c
 total-points: 0
 cover: /api/image/019f324d-40c5-75c3-b236-008d527635be
 slug: erin
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

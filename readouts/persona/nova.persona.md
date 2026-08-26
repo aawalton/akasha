@@ -5,7 +5,7 @@ id: 019f0562-42f7-7a2c-bb5b-e293a89210a4
 total-points: 35501681
 cover: /api/image/019f324d-5c9a-7d06-94de-a89ac07159b5
 slug: nova
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

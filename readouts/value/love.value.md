@@ -3,7 +3,7 @@ page-type-slug: value
 title: "Love"
 id: 019eb7d0-f464-7d53-a897-4f98342c82e9
 slug: love
-domain-parent-slug: mp-readout-group/values
+domain-parent-slug: readout-group/values
 required-reading-slugs:
   - page-type/value
 color: red

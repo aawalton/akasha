@@ -5,7 +5,7 @@ id: 019f6e3b-a52b-7605-9919-e4dceca15817
 total-points: 7
 cover: /api/image/019f6e3b-a52b-7605-9919-e4dceca15817
 slug: olwen
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

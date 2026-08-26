@@ -5,7 +5,7 @@ id: 019f28f1-70e0-7afd-8199-b890ba84d64d
 total-points: 5
 cover: /api/image/019f324d-8459-7186-b122-d22d153289a6
 slug: atlas
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

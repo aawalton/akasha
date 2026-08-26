@@ -5,7 +5,7 @@ id: 019ef06e-4e9f-7e1c-8225-bf9113a422ed
 total-points: 7690000
 cover: /api/image/019f324d-5268-7c95-a789-2c0bb9af071e
 slug: mari
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

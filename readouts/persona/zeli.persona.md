@@ -5,7 +5,7 @@ id: 019ee230-9ab9-7e88-b555-c8a536318388
 total-points: 0
 cover: /api/image/019f324d-4713-7ea6-b619-3bede52875f4
 slug: zeli
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

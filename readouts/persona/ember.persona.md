@@ -5,7 +5,7 @@ id: 019f23e9-665d-7dd0-987b-59e3d476fdd7
 total-points: 285
 cover: /api/image/019f324d-7cfa-70c9-aeb5-1f9678f7a8ea
 slug: ember
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

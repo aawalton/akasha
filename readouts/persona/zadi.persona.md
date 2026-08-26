@@ -5,7 +5,7 @@ id: 019ee202-a922-7186-b853-dab67b2b7142
 total-points: 0
 cover: /api/image/019f324d-451f-7102-95be-1011f87cc67c
 slug: zadi
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units

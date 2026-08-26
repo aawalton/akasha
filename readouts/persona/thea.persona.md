@@ -5,7 +5,7 @@ id: 019f2889-d1d2-7216-97c6-02cad98484c6
 total-points: 90
 cover: /api/image/019f324d-81a7-78c1-b120-243b92f2f27d
 slug: thea
-domain-parent-slug: mp-readout-group/personas
+domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
 unit: green day units
