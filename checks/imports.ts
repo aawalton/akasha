@@ -1,4 +1,4 @@
-import { dirname, resolve } from "node:path"
+import { dirname, relative, resolve } from "node:path"
 
 const SPECIFIERS: readonly RegExp[] = [
   /\bfrom\s*["']([^"']+)["']/g,
@@ -28,4 +28,11 @@ export function specifiersIn(text: string): readonly string[] {
 export function targetOf(path: string, specifier: string): string | null {
   if (!specifier.startsWith(".") && !specifier.startsWith("/")) return null
   return specifier.startsWith("/") ? specifier : resolve(dirname(path), specifier)
+}
+
+export function outwardOf(root: string, path: string, specifier: string): string | null {
+  const target = targetOf(path, specifier)
+  if (target === null) return null
+  const said = relative(root, target)
+  return said === ".." || said.startsWith("../") ? said : null
 }

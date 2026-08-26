@@ -12,4 +12,6 @@ needs: tree
 
 # Design
 
-A diagnostic is reported where it stands in a file being checked, or in one reaching it through imports.
+A diagnostic is reported against a file being checked, or one that reaches it through imports.
+
+Nothing is reported for a module that is missing because it sits outside this repository.

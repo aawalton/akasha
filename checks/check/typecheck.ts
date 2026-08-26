@@ -2,13 +2,15 @@ import { execFileSync } from "node:child_process"
 import { existsSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import type { Check, CheckFailure, Tree } from "../check-shape.ts"
-import { carriesCode, specifiersIn, targetOf } from "../imports.ts"
+import { carriesCode, outwardOf, specifiersIn, targetOf } from "../imports.ts"
 
 const SCRATCH = "/var/tmp"
 
 const BUILD_INFO = ".tsbuildinfo"
 
 const DIAGNOSTIC = /^(.+?)\((\d+),\d+\): error (TS\d+: .*)$/
+
+const ABSENT_MODULE = /^TS2307: Cannot find module '([^']+)'/
 
 export const ABSENT =
   "no `tsc` with `@types/bun` beside it is reachable — run `bun install -g typescript @types/bun`"
@@ -112,6 +114,8 @@ export const typecheck: Check = {
       seen += 1
       const path = resolve(tree.root, relative(dir, resolve(dir, where)))
       if (!scope.has(path)) continue
+      const missing = ABSENT_MODULE.exec(text)?.[1]
+      if (missing !== undefined && outwardOf(tree.root, path, missing) !== null) continue
       failures.push({ path, reason: `line ${at}: ${text}` })
     }
     if (seen === 0 && ran.exitCode !== 0) {
