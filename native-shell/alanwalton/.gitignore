@@ -1,0 +1,24 @@
+# Generated / installed — regenerated on the macbook via `npm install && npm run ios:add`.
+node_modules/
+bun.lock
+bun.lockb
+
+# Capacitor-generated native project (regenerated from package.json + capacitor.config.json).
+# The hand-authored native seam lives in scripts/apply-ios-seam.sh, re-applied by ios:sync.
+ios/
+android/
+
+# Staged SPA bundle — built fresh at intentional-cut time (deploy-testflight), no longer
+# committed (#15085 Candidate A / #15271). The workstation builds www/ from the pinned
+# origin/main tip and rsyncs it to the mac before cap sync.
+www/
+
+# Xcode build artifacts
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+build/
+
+# Tiles the render harness drew on this run — the images somebody looks at, not a verdict.
+# The verdict is the blessed references, which stand in the instructions repo.
+scripts/render-harness/out/

@@ -1,0 +1,24 @@
+{
+  "name": "@alanwalton/native-shell",
+  "functionalType": "pure",
+  "version": "0.0.1",
+  "private": true,
+  "description": "iOS Capacitor shell (thin WKWebView over the live alanwalton.com site) + offline-audio native seam. Built on the macbook via Xcode.",
+  "scripts": {
+    "cap": "cap",
+    "ios:add": "bash scripts/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
+    "ios:sync": "bash scripts/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
+    "ios:open": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/core": "^8.4.1",
+    "@capacitor/ios": "^8.4.1",
+    "@capacitor/filesystem": "^7.1.4",
+    "@capacitor/push-notifications": "^8.1.1",
+    "@capacitor/status-bar": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.4.1"
+  }
+}

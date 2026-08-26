@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  The widget extension's entitlements. ONE key, and it exists so the extension can read the
+  per-device credential the containing app minted into the Keychain — see
+  DeviceSecretReader.swift for the whole mechanism, and ios-app/App.entitlements for the
+  app's side of the same group.
+
+  The group is the APP's identifier, not the widget's (`com.alanwalton.app.widgets`). That is
+  what sharing means here: the item lives in the app's domain and this target is admitted to
+  it. Naming the widget's own bundle id would create a second, empty domain and every tile
+  would draw refused.
+
+  NOTHING TO PROVISION. There is no keychain capability in the App Store Connect enumeration
+  and every profile already grants the team prefix, so this needs no bundleIdCapabilities
+  call and no profile regeneration — see the note above `buildLoginOnlyKeychainScope` in
+  the instructions repo, at packages/alanwalton/mobile-cli/src/lib/signing.ts. This file is
+  copied into the generated project and wired to CODE_SIGN_ENTITLEMENTS by
+  scripts/apply-ios-seam.sh §4.
+-->
+<plist version="1.0">
+<dict>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>$(AppIdentifierPrefix)com.alanwalton.app</string>
+	</array>
+</dict>
+</plist>

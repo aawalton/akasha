@@ -1,0 +1,17 @@
+{
+  "appId": "__NATIVE_SHELL_BUNDLE_ID__",
+  "appName": "__NATIVE_SHELL_DISPLAY_NAME__",
+  "webDir": "www",
+  "server": {
+    "cleartext": false,
+    "allowNavigation": ["alanwalton.com", "*.alanwalton.com"]
+  },
+  "ios": {
+    "limitsNavigationsToAppBoundDomains": false
+  },
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["banner", "sound", "badge"]
+    }
+  }
+}
