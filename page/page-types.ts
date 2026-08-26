@@ -219,7 +219,7 @@ export function pageTypePathIn(root: string, slug: string): string {
 }
 
 export function placeOf(slug: string): string {
-  return `**/*.${slug}${MARKDOWN}`
+  return `${placeDirOf(slug)}/**/*.md`
 }
 
 export interface Filed {
