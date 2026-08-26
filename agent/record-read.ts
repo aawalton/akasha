@@ -1,6 +1,6 @@
-import { exclusively } from "../../../exclusive/exclusive.ts"
-import { attachmentFileOf, readAttachment, writeAttachment } from "../../../page/attachment-file.ts"
-import { coveredTo, type Entry, merge, type Records, recordsOf, type Span } from "../records/records.ts"
+import { exclusively } from "../exclusive/exclusive.ts"
+import { attachmentFileOf, readAttachment, writeAttachment } from "../page/attachment-file.ts"
+import { coveredTo, type Entry, merge, type Records, recordsOf, type Span } from "./read-records.ts"
 
 const READINGS = "readings"
 
