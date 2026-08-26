@@ -3,7 +3,7 @@ export const summary = "Write whole files as a patch, gated before anything land
 import { execFileSync, spawn } from "node:child_process"
 import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { writerId } from "../../checks/act.ts"
+import { writerId } from "../../agent/writer.ts"
 import { CHECKS } from "../../checks/checks.ts"
 import { applying, runGate } from "../../checks/run/gate.ts"
 

@@ -1,5 +1,5 @@
-import type { Act } from "./check/check-shape.ts"
-import { onDisk } from "./run/tree.ts"
+import type { Act } from "../checks/check/check-shape.ts"
+import { onDisk } from "../checks/run/tree.ts"
 
 const SUBAGENT_MARK = "--"
 
