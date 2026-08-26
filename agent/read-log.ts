@@ -169,6 +169,7 @@ export interface ReadLog {
   readonly page: string
   readonly at: string
   readonly reading: (absolutePath: string) => Reading | null
+  readonly paths: () => readonly string[]
 }
 
 export function readLogFor(writer: string): ReadLog | null {
@@ -182,15 +183,17 @@ export function readLogFor(writer: string): ReadLog | null {
       : (held as Record<string, unknown>)
   const cutoff = replacedAt(page)
   const known = new Map<string, Reading | null>()
+  const reading = (absolutePath: string): Reading | null => {
+    const already = known.get(absolutePath)
+    if (already !== undefined) return already
+    const made = readingOf(records[absolutePath], cutoff)
+    known.set(absolutePath, made)
+    return made
+  }
   return {
     page,
     at,
-    reading: (absolutePath) => {
-      const already = known.get(absolutePath)
-      if (already !== undefined) return already
-      const made = readingOf(records[absolutePath], cutoff)
-      known.set(absolutePath, made)
-      return made
-    },
+    reading,
+    paths: () => Object.keys(records).filter((one) => reading(one) !== null),
   }
 }
