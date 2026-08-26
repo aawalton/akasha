@@ -2,8 +2,7 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW } from '../../design-tokens/semantic.ts';
-import type { Rgb } from '../../design-tokens/surface.ts';
+import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW, type Rgb } from '../../design-tokens/design-tokens.ts';
 
 /**
  * Alan's palette, as the one place in this extension that says which colour names there are.

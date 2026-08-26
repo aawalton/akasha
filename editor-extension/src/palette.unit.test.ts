@@ -10,8 +10,7 @@
  */
 
 import { describe, expect, test } from 'bun:test';
-import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW } from '../../design-tokens/semantic.ts';
-import type { Rgb } from '../../design-tokens/surface.ts';
+import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW, type Rgb } from '../../design-tokens/design-tokens.ts';
 import { colorNamed, PALETTE_NAMES } from './palette';
 
 /** The design system's own value for a name, spelled the long way so this test is not the code. */
