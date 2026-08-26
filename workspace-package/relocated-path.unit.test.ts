@@ -104,8 +104,26 @@ describe("landedOver", () => {
 })
 
 describe("relocatedPath", () => {
-  test("a path inside the package is unchanged, the package carrying its own tree", () => {
-    expect(relocatedPath(FROM, TO, "src/**/*.ts", LANDED)).toBe("./src/**/*.ts")
+  test("a path inside the package keeps its meaning and its spelling", () => {
+    expect(relocatedPath(FROM, TO, "src/**/*.ts", LANDED)).toBe("src/**/*.ts")
+  })
+
+  test("a spec written with a leading dot keeps one", () => {
+    expect(relocatedPath(FROM, TO, "./src", LANDED)).toBe("./src")
+  })
+
+  test("a package that has not moved is refused even where a folder above it has", () => {
+    const container = [{ from: "packages", to: "" }]
+    const blocked = ["packages/shared/utils/narrow"]
+    expect(
+      relocatedPath(FROM, TO, "../../../../shared/utils/narrow", container, blocked)
+    ).toBe(null)
+  })
+
+  test("a package that has moved is taken even where a folder above it also moved", () => {
+    const both = [{ from: "packages", to: "" }, CORE]
+    const blocked = ["packages/shared/utils/narrow"]
+    expect(relocatedPath(FROM, TO, "../../items/core", both, blocked)).toBe("../game-items-core")
   })
 
   test("a reach into a package that has already landed is renamed to where it landed", () => {
