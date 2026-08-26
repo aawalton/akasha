@@ -47,19 +47,20 @@ export function saidUnder(
   at: string,
   roots: Roots,
   live: ReadonlySet<string>,
-  mark: string
+  mark: string,
+  known: ReadonlyMap<string, ReadonlyMap<string, string>>
 ): Said {
-  const oids = new Map<string, ReadonlyMap<string, string>>()
+  const oids = new Map<string, ReadonlyMap<string, string>>(known)
   const held = new Map<string, Held>()
   return {
     of: (name, repo, key, work) => {
-      let known = oids.get(repo)
-      if (known === undefined) {
+      let under = oids.get(repo)
+      if (under === undefined) {
         const root = roots[repo]
-        known = root === undefined ? new Map<string, string>() : oidsUnder(root, null)
-        oids.set(repo, known)
+        under = root === undefined ? new Map<string, string>() : oidsUnder(root, null)
+        oids.set(repo, under)
       }
-      const oid = known.get(key)
+      const oid = under.get(key)
       if (oid === undefined) return work()
       const slot = `${name}\n${repo}`
       let rows = held.get(slot)
@@ -104,7 +105,9 @@ function contextOn(
   oids: ReadonlyMap<string, string>
 ): BuildContext {
   const live = new Set(Object.keys(rootsHere()))
-  return { roots, said: saidUnder(answersAt(root), roots, live, markFor(root, runtime, oids)) }
+  const mark = markFor(root, runtime, oids)
+  const known = new Map([[AKASHA, oids]])
+  return { roots, said: saidUnder(answersAt(root), roots, live, mark, known) }
 }
 
 export function contextOver(
