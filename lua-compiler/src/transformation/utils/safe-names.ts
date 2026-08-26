@@ -3,7 +3,7 @@ import { type CompilerOptions, LuaTarget } from "../../CompilerOptions"
 import type { TransformationContext } from "../context/transformation-context"
 import { invalidAmbientIdentifierName } from "./diagnostics"
 import { isSymbolExported } from "./export"
-import { isAmbientNode } from "./typescript/nodes"
+import { isAmbientNode } from "./typescript/typescript"
 
 export const shouldAllowUnicode = (options: CompilerOptions) =>
   options.luaTarget === LuaTarget.LuaJIT
