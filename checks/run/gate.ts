@@ -7,7 +7,6 @@ import { contextOver } from "../../cache/said/said.ts"
 import type { Check, CheckRun } from "../check/check-shape.ts"
 import { installedInto, linkedInto } from "../../workspace-package/packages.ts"
 import { onDisk, trackedIn, treeOn } from "./tree.ts"
-import { judgesAuthor } from "./all.ts"
 import { runKept, type Subject } from "./kept.ts"
 
 const SCRATCH = "/var/tmp"
@@ -49,7 +48,7 @@ export function changedBy(patch: Patch, index: string): readonly string[] {
 }
 
 export function applying(checks: readonly Check[], mechanical: boolean): readonly Check[] {
-  return mechanical ? checks.filter((one) => !judgesAuthor(one)) : checks
+  return mechanical ? checks.filter((one) => one.needsAuthor !== true) : checks
 }
 
 export function runGate(checks: readonly Check[], patch: Patch): readonly CheckRun[] {

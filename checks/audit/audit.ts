@@ -4,8 +4,7 @@ import { relative } from "node:path"
 import { akashaRoot } from "../../repo/roots/roots.ts"
 import type { Check } from "../check/check-shape.ts"
 import { checksFound } from "../checks.ts"
-import { judgesAuthor } from "../run/all.ts"
-import { runAudit } from "../run/audit.ts"
+import { judgesAuthor, runAudit } from "../run/audit.ts"
 
 const AUDITED: readonly Check[] = checksFound()
 

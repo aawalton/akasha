@@ -2,10 +2,6 @@ import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check/check-sh
 
 const NO_ACT = "judges its author, so nothing it asks has an answer where no act is being judged"
 
-export function judgesAuthor(check: Check): boolean {
-  return check.needsAuthor === true
-}
-
 function acting(check: Check, act: Act | null): Act {
   if (act === null) throw new Error(`${check.slug} ${NO_ACT}`)
   return act
@@ -16,7 +12,7 @@ export type Held = {
   readonly keep: () => string
 }
 
-export function failuresOf(
+function failuresOf(
   check: Check,
   paths: readonly string[],
   tree: Tree,
