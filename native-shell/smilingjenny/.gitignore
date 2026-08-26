@@ -1,0 +1,14 @@
+# Generated / installed — regenerated on the macbook via `npm install && npm run ios:add`.
+node_modules/
+bun.lock
+bun.lockb
+
+# Capacitor-generated native project (regenerated from package.json + capacitor.config.json).
+ios/
+android/
+
+# Xcode build artifacts
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+build/
