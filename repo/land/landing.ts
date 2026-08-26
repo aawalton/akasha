@@ -1,5 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
-import { type Landing, landHere, markLanded } from "./build.ts"
+import { type Landing, landHere, markLanded } from "../../page/index/build.ts"
 
 const PAGE_FILE = /\.[a-z0-9-]+\.md$/
 
