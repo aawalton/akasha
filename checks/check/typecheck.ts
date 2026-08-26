@@ -11,16 +11,23 @@ const BUILD_INFO = ".tsbuildinfo"
 const DIAGNOSTIC = /^(.+?)\((\d+),\d+\): error (TS\d+: .*)$/
 
 export const ABSENT =
-  "no `tsc` with `@types/bun` beside it is reachable — run `bun install -g typescript @types/bun`"
+  "no `tsc` with `@types/bun` beside it is reachable — run `bun install` in this repository"
 
 type Instrument = {
   readonly tsc: string
   readonly typeRoot: string
 }
 
-function instrument(): Instrument | null {
+function tscAt(root: string): string | null {
+  const here = `${root}/node_modules/typescript/bin/tsc`
+  if (existsSync(here)) return here
   const installed = `${process.env.HOME ?? "/nonexistent"}/.bun/bin/tsc`
-  const found = existsSync(installed) ? installed : Bun.which("tsc")
+  if (existsSync(installed)) return installed
+  return Bun.which("tsc")
+}
+
+function instrument(root: string): Instrument | null {
+  const found = tscAt(root)
   if (found === null || !existsSync(found)) return null
   const segments = realpathSync(found).split("/")
   const at = segments.lastIndexOf("node_modules")
@@ -101,7 +108,7 @@ export const typecheck: Check = {
   run: ({ paths, tree, keep }) => {
     const subjects = paths.filter((one) => one.endsWith(".ts"))
     if (subjects.length === 0) return []
-    const found = instrument()
+    const found = instrument(tree.root)
     if (found === null) return [{ path: tree.root, reason: ABSENT }]
 
     const dir = tree.dir()
