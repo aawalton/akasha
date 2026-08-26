@@ -1,16 +1,8 @@
 import { isAttachmentFile } from "../../../page/attachment-file.ts"
 import type { FileTree } from "../../../page/file-tree.ts"
 import { stemOf } from "../../../page/name/name.ts"
-import {
-  blockOf,
-  claimant,
-  globFor,
-  pagesOf,
-  placesIn,
-  reposOf,
-  textAt,
-  type PageType,
-} from "../../../page/page-types.ts"
+import { claimant, globFor, pagesOf, placesIn, reposOf, type PageType } from "../../../page/page-types.ts"
+import { blockOf, textAt } from "../../../page/text/text.ts"
 import { declarationsOf } from "../../../page/property/declarations.ts"
 import { chainOf } from "../../../page/property/frontmatter.ts"
 import { registryOf } from "../../../page/property/registry.ts"

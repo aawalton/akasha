@@ -1,5 +1,6 @@
 import { onceInCall } from "../during-call/during-call.ts"
-import { repoPlacings, scan, textAt } from "./page-types.ts"
+import { repoPlacings, scan } from "./page-types.ts"
+import { textAt } from "./text/text.ts"
 import type { Roots } from "./page.ts"
 
 export type Open = (relPath: string) => string | null

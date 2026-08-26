@@ -1,7 +1,8 @@
 import type { FileTree } from "../file-tree.ts"
 import { chainOf } from "../property/frontmatter.ts"
 import { shapeOf, type Forebear, type Shape } from "./shape.ts"
-import { blockOf, NONE, matchesAny, PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS, pageTypeAt, stringAt, type PageType } from "../page-types.ts"
+import { matchesAny, PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS, pageTypeAt, type PageType } from "../page-types.ts"
+import { NONE, blockOf, stringAt } from "../text/text.ts"
 import { stemOf } from "../name/name.ts"
 
 export const BODY_SHAPE_KEY = "body-shape-slug"

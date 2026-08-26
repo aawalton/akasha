@@ -2,8 +2,8 @@ import type { FileTree } from "../../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../../page/property/frontmatter.ts"
 import { judgeRow } from "../../../page/property/judge.ts"
 import type { Property } from "../../../page/property/property.ts"
-import { blockOf } from "../../../page/text/text.ts"
-import { claiming, type PageType, stringAt } from "../../../page/page-types.ts"
+import { blockOf, stringAt } from "../../../page/text/text.ts"
+import { claiming, type PageType } from "../../../page/page-types.ts"
 
 const DATA_FILE = /^(.*)\.([a-z0-9-]+)\.jsonl$/
 

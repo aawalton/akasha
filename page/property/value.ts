@@ -1,6 +1,6 @@
 import { checkScalar } from "../document/value.ts"
 import { LADDER, RANKS } from "../document/template.ts"
-import { NONE } from "../page-types.ts"
+import { NONE } from "../text/text.ts"
 import { CLAIM, fileIn } from "../repo-claim.ts"
 import { recordRule } from "./record.ts"
 import { addressParts, ADDRESS_SAYS, RELATION_ADDRESS } from "../page-address.ts"

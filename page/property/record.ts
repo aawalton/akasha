@@ -1,5 +1,5 @@
 import type { Frontmatter } from "../frontmatter.ts"
-import { stringAt } from "../page-types.ts"
+import { stringAt } from "../text/text.ts"
 import { nested, textOf } from "./stated.ts"
 import type { Fault, Held, RecordField, Rule, Stated } from "./stated.ts"
 

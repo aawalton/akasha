@@ -1,6 +1,7 @@
 import { relative } from "node:path"
 import type { FileTree } from "../../../page/file-tree.ts"
-import { placeDirOf, repoPlacings, scanIn, textAt } from "../../../page/page-types.ts"
+import { placeDirOf, repoPlacings, scanIn } from "../../../page/page-types.ts"
+import { textAt } from "../../../page/text/text.ts"
 import { INSTRUCTIONS, rootsHere } from "../../../repo/roots/roots.ts"
 import type { Batch } from "../check-shape.ts"
 
