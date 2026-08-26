@@ -1,0 +1,5 @@
+*.uncommitted.yaml
+*.uncommitted.yaml.lock/
+*.uncommitted.jsonl
+*.uncommitted.jsonl.lock/
+*.uncommitted.attachment.*
