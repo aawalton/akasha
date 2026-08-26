@@ -39,10 +39,11 @@ export function definitionOf(body: string): Definition | null {
   return term === undefined || definition === undefined ? null : { term, definition }
 }
 
-function readOnce(tree: FileTree): FileTree {
+export function readOnce(tree: FileTree): FileTree {
   const listed = new Map<string, readonly string[]>()
   const opened = new Map<string, string | null>()
   return {
+    ...tree,
     paths: (glob) => {
       const key = typeof glob === "string" ? glob : glob.join("\n")
       const held = listed.get(key)
@@ -57,7 +58,6 @@ function readOnce(tree: FileTree): FileTree {
       opened.set(relPath, text)
       return text
     },
-    repoOf: tree.repoOf,
   }
 }
 
