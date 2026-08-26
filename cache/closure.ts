@@ -1,15 +1,10 @@
-import { createHash } from "node:crypto"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { edgesFrom, nodeAt } from "../graph/ask.ts"
 import { IMPORT_EDGE } from "../graph/edge-producer/typescript.ts"
 import { AKASHA } from "../graph/node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../graph/node-shape.ts"
-import { edgesFrom, nodeAt } from "../graph/ask.ts"
-import type { Input } from "./mark.ts"
-
-function oidOf(root: string, key: string): string {
-  return createHash("sha256").update(readFileSync(join(root, key))).digest("hex")
-}
+import { type Input, oidOf } from "./mark.ts"
 
 export function closureOf(root: string, entry: string): readonly Input[] {
   const ctx: BuildContext = { roots: { [AKASHA]: root } }
@@ -23,7 +18,7 @@ export function closureOf(root: string, entry: string): readonly Input[] {
     seen.add(ref.key)
     const node = nodeAt(ctx, ref)
     if (node === null) continue
-    inputs.push({ path: ref.key, oid: oidOf(root, ref.key) })
+    inputs.push({ path: ref.key, oid: oidOf(readFileSync(join(root, ref.key))) })
     for (const edge of edgesFrom(ctx, node, IMPORT_EDGE)) waiting.push(edge.to)
   }
   return inputs
