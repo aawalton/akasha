@@ -23,6 +23,7 @@ export type Batch = {
   readonly root: string
   readonly paths: readonly string[]
   readonly tree: Tree
+  readonly keep: () => string
 }
 
 export type Act = {

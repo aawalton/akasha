@@ -11,14 +11,20 @@ function acting(check: Check, act: Act | null): Act {
   return act
 }
 
+export type Held = {
+  readonly act: Act | null
+  readonly keep: () => string
+}
+
 export function failuresOf(
   check: Check,
   paths: readonly string[],
   tree: Tree,
-  act: Act | null
+  held: Held
 ): readonly CheckFailure[] {
+  const act = held.act
   if (check.needs === "tree") {
-    const given = { root: tree.root, paths, tree }
+    const given = { root: tree.root, paths, tree, keep: held.keep }
     return check.needsAuthor === true ? check.run(given, acting(check, act)) : check.run(given)
   }
   const failures: CheckFailure[] = []
@@ -38,9 +44,9 @@ export function failuresOf(
   return failures
 }
 
-function runOf(check: Check, paths: readonly string[], tree: Tree, act: Act | null): CheckRun {
+function runOf(check: Check, paths: readonly string[], tree: Tree, held: Held): CheckRun {
   try {
-    return { slug: check.slug, failures: failuresOf(check, paths, tree, act) }
+    return { slug: check.slug, failures: failuresOf(check, paths, tree, held) }
   } catch (thrown) {
     return { slug: check.slug, threw: thrown instanceof Error ? thrown.message : String(thrown) }
   }
@@ -50,7 +56,7 @@ export function runAll(
   checks: readonly Check[],
   paths: readonly string[],
   tree: Tree,
-  act: Act | null
+  held: Held
 ): readonly CheckRun[] {
-  return checks.map((check) => runOf(check, paths, tree, act))
+  return checks.map((check) => runOf(check, paths, tree, held))
 }

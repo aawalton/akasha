@@ -86,7 +86,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
     const act = patch.mechanical ? null : actOn(patch.root, patch.writer)
     return applying(checks, patch.mechanical).map((check) =>
-      runKept(check, subjects, runtime, answers, tree, act)
+      runKept(check, subjects, runtime, answers, tree, { act, trial: true })
     )
   } finally {
     rmSync(index, { force: true })

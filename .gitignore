@@ -3,4 +3,3 @@
 *.uncommitted.jsonl
 *.uncommitted.jsonl.lock/
 *.uncommitted.attachment.*
-.tsbuildinfo

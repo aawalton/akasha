@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { copyFileSync, existsSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import type { Check, CheckFailure, Tree } from "../check-shape.ts"
 import { carriesCode, specifiersIn, targetOf } from "../imports.ts"
@@ -83,18 +83,14 @@ function tsconfigFor(dir: string, typeRoot: string, buildInfo: string): string {
 export const typecheck: Check = {
   slug: "typecheck",
   needs: "tree",
-  run: ({ paths, tree }) => {
+  run: ({ paths, tree, keep }) => {
     const subjects = paths.filter((one) => one.endsWith(".ts"))
     if (subjects.length === 0) return []
     const found = instrument()
     if (found === null) return [{ path: tree.root, reason: ABSENT }]
 
     const dir = tree.dir()
-    const landed = `${tree.root}/${BUILD_INFO}`
-    const own = dir === tree.root
-    const buildInfo = own ? landed : `${dir}/${BUILD_INFO}`
-    if (!own && existsSync(landed)) copyFileSync(landed, buildInfo)
-
+    const buildInfo = `${keep()}/${BUILD_INFO}`
     const config = tsconfigFor(dir, found.typeRoot, buildInfo)
     const ran = Bun.spawnSync({
       cmd: [process.execPath, found.tsc, "--noEmit", "--pretty", "false", "-p", `${config}/tsconfig.json`],
