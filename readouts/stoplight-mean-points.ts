@@ -3,7 +3,7 @@ import { GREEN_DAY_UNITS_LADDER } from "./circle/ladder/ladder.ts"
 import { evalDailyTier, type DailyTierColor, type DailyTierLadder } from "./circle/tier/tier.ts"
 import { aggregateValueUnits, readPersonaDaily } from "./daily-stoplights.ts"
 import { getInboxStoplightTiers } from "./inbox-stoplights.ts"
-import { resolveReadoutGroup, type Ask, type ResolvedReadoutGroup } from "./readout-resolver.ts"
+import { resolveReadoutGroup, type Ask } from "./readout-resolver.ts"
 import { getUpkeepStoplightTiers } from "./upkeep-stoplights.ts"
 
 const UPKEEP_GROUP_SLUG = "upkeep"
@@ -11,6 +11,12 @@ const UPKEEP_GROUP_SLUG = "upkeep"
 const INBOX_GROUP_SLUG = "inboxes"
 
 const VALUES_GROUP_SLUG = "values"
+
+export interface ScoredGroup {
+  readonly slug: string
+  readonly readouts: readonly { readonly slug: string }[]
+  readonly unresolved: ReadonlyMap<string, string>
+}
 
 function floorOf(tier: DailyTierColor, ladder: DailyTierLadder): number {
   return tierFloorValues(ladder).get(tier) ?? 0
@@ -63,7 +69,7 @@ export function resolveStoplightMean(inputs: StoplightMeanInputs): StoplightMean
   }
 }
 
-export function scoredLightCount(groups: readonly ResolvedReadoutGroup[]): number {
+export function scoredLightCount(groups: readonly ScoredGroup[]): number {
   const short = groups.filter((group) => group.unresolved.size > 0)
   if (short.length > 0) {
     const why = short
@@ -86,7 +92,7 @@ export function scoredLightCount(groups: readonly ResolvedReadoutGroup[]): numbe
   return groups.reduce((count, group) => count + group.readouts.length, 0)
 }
 
-export function drawnAsResolved(group: ResolvedReadoutGroup, drawn: number): undefined {
+export function drawnAsResolved(group: ScoredGroup, drawn: number): undefined {
   if (drawn !== group.readouts.length) {
     throw new Error(
       `drawnAsResolved: group \`${group.slug}\` holds ${group.readouts.length} lights and ` +
