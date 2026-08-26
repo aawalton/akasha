@@ -3,6 +3,10 @@ id: b8cdcef1-deff-55f2-a942-77e8143d280f
 page-type-slug: graph-node
 title: "File"
 slug: file
+attributes-slugs:
+  - file-stem
+  - page-type-slug
+  - file-extension
 ---
 
 # Definition
