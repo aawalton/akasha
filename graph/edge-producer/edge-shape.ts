@@ -1,6 +1,6 @@
-import type { FileNode } from "./node-producer/file.ts"
-import type { BuildContext } from "./build-context/build-context.ts"
-import type { NodeRef } from "./node-producer/node-shape.ts"
+import type { FileNode } from "../node-producer/file/file.ts"
+import type { BuildContext } from "../build-context/build-context.ts"
+import type { NodeRef } from "../node-producer/node-shape.ts"
 
 export type EdgeAttrs = Readonly<Record<string, string>>
 

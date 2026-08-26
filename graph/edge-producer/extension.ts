@@ -1,5 +1,5 @@
 import { stringAt } from "../../page/text/text.ts"
-import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
+import type { EdgeInit, EdgeProducer } from "./edge-shape.ts"
 import { frontmatterAt } from "../frontmatter-at/frontmatter-at.ts"
 import type { BuildContext } from "../build-context/build-context.ts"
 import type { NodeRef } from "../node-producer/node-shape.ts"

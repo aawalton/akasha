@@ -1,8 +1,8 @@
 import { dirname, resolve } from "node:path"
 import { textAt } from "../../page/text/text.ts"
 import { packagesFor, pathOf } from "../../workspace-package/packages.ts"
-import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import fileNodeProducer from "../node-producer/file.ts"
+import type { EdgeInit, EdgeProducer } from "./edge-shape.ts"
+import fileNodeProducer from "../node-producer/file/file.ts"
 import type { BuildContext } from "../build-context/build-context.ts"
 import type { NodeRef } from "../node-producer/node-shape.ts"
 
