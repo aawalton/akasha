@@ -2,15 +2,15 @@
 id: 9ebb7cf9-d21a-52a5-aec3-3cdcc829b23c
 page-type-slug: mp-graph-edge-producer
 title: "Mp graph edge producer frontmatter"
-slug: mp-graph-edge-producer-frontmatter
+slug: frontmatter
 edges-slugs:
-  - mp-graph-edge-page-type
-  - mp-graph-edge-extends
-  - mp-graph-edge-defined-on
-  - mp-graph-edge-domain-parent
-  - mp-graph-edge-narrows
-  - mp-graph-edge-sequence
-  - mp-graph-edge-required-reading
+  - page-type
+  - extends
+  - defined-on
+  - domain-parent
+  - narrows
+  - sequence
+  - required-reading
 ---
 
 # Definition

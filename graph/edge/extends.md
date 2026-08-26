@@ -2,7 +2,7 @@
 id: 53094407-44b4-5ad4-959c-7695649d1e70
 page-type-slug: mp-graph-edge
 title: "Mp graph edge extends"
-slug: mp-graph-edge-extends
+slug: extends
 derives: from
 from-node:
   kind: page

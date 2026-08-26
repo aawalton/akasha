@@ -2,7 +2,7 @@
 id: 49dfa289-b8d6-526b-9e01-1677c6c78357
 page-type-slug: mp-graph-edge
 title: "Mp graph edge defined on"
-slug: mp-graph-edge-defined-on
+slug: defined-on
 derives: to
 from-node:
   kind: page

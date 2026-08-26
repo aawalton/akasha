@@ -1,6 +1,6 @@
 import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
 import { blockOf, NONE, textAt } from "../../../instructions/tools/page/page-types.ts"
-import type { BuildContext, NodeRef, PageNode } from "../node-producer/mp-graph-node-producer-page.ts"
+import type { BuildContext, NodeRef, PageNode } from "../node-producer/page.ts"
 
 const SHARED_REPO = "instructions"
 
