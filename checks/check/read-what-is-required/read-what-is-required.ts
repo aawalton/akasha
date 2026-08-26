@@ -8,7 +8,7 @@ import {
   readLogFor,
   sameBody,
 } from "../../../agent/read-log.ts"
-import { seatWarrantsFor } from "../../../agent/required-reading.ts"
+import { seatWarrantsFor } from "../../../agent/required-reading/required-reading.ts"
 import { textAt } from "../../../page/text.ts"
 import { standingHere } from "../../../page/warrant-index.ts"
 import { refusalText } from "../../refusal/refusal.ts"

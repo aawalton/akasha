@@ -3,7 +3,7 @@ import { locate, rootsHere } from "../../../../repo/roots.ts"
 import { standingHere } from "../../../../page/warrant-index.ts"
 import { agentPageFor } from "../../../read-log.ts"
 import type { Target } from "../target/read-target.ts"
-import { seatWarrantsFor } from "../../../required-reading.ts"
+import { seatWarrantsFor } from "../../../required-reading/required-reading.ts"
 
 export function seatTargets(agent: string, from: string): readonly Target[] | null {
   const page = agentPageFor(agent)
