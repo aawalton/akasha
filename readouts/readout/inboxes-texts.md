@@ -5,7 +5,7 @@ title: "Inboxes texts"
 slug: inboxes-texts
 domain-parent-slug: inboxes
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: unread-texts
 unit: texts
 place: 4

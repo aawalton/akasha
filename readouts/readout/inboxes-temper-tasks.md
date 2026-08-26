@@ -5,7 +5,7 @@ title: "Inboxes temper tasks"
 slug: inboxes-temper-tasks
 domain-parent-slug: inboxes
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: temper-tasks
 unit: tasks
 place: 3

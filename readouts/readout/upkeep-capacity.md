@@ -5,7 +5,7 @@ title: "Upkeep capacity"
 slug: upkeep-capacity
 domain-parent-slug: upkeep
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: Capacity
 unit: hours
 place: 3

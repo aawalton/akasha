@@ -5,7 +5,7 @@ title: "Upkeep surplus"
 slug: upkeep-surplus
 domain-parent-slug: upkeep
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: Surplus
 unit: hours
 place: 2

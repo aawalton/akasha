@@ -5,7 +5,7 @@ title: "Upkeep safety"
 slug: upkeep-safety
 domain-parent-slug: upkeep
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: Safety
 unit: levels
 place: 1

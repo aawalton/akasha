@@ -5,7 +5,7 @@ title: "Upkeep activity"
 slug: upkeep-activity
 domain-parent-slug: upkeep
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: Activity
 unit: calories
 place: 5

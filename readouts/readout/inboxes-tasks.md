@@ -5,7 +5,7 @@ title: "Inboxes tasks"
 slug: inboxes-tasks
 domain-parent-slug: inboxes
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: tasks
 unit: tasks
 place: 2

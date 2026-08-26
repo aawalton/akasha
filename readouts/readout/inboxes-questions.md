@@ -5,7 +5,7 @@ title: "Inboxes questions"
 slug: inboxes-questions
 domain-parent-slug: inboxes
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: questions
 unit: questions
 place: 5

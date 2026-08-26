@@ -5,7 +5,7 @@ title: "Upkeep sleep"
 slug: upkeep-sleep
 domain-parent-slug: upkeep
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: Sleep
 unit: hours
 place: 6

@@ -5,7 +5,7 @@ title: "Inboxes email"
 slug: inboxes-email
 domain-parent-slug: inboxes
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: email
 unit: messages
 place: 1

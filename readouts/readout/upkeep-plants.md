@@ -5,7 +5,7 @@ title: "Upkeep plants"
 slug: upkeep-plants
 domain-parent-slug: upkeep
 required-reading-slugs:
-  - readout
+  - page-type/readout
 label: Plants
 unit: grams
 place: 4
