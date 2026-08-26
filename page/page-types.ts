@@ -12,13 +12,18 @@ import type { Roots } from "./page.ts"
 export const PAGES_ROOT = "pages"
 
 export const PAGE_TYPE_GLOBS: readonly string[] = [
+  "page-types/**/*.md",
   placeOf("page-type"),
   placeOf("rules-engine-rule-set"),
 ]
 
-export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [placeOf("page-body-shape")]
+export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [
+  "page-body-shapes/*.md",
+  placeOf("page-body-shape"),
+]
 
 export const PROPERTY_GLOBS: readonly string[] = [
+  "properties/**/*.md",
   placeOf("page-property-definition"),
   placeOf("alan-harness-tracking-field"),
 ]
@@ -219,7 +224,7 @@ export function pageTypePathIn(root: string, slug: string): string {
 }
 
 export function placeOf(slug: string): string {
-  return `**/*.${slug}${MARKDOWN}`
+  return `${placeDirOf(slug)}/**/*.md`
 }
 
 export interface Filed {
