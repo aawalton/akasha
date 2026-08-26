@@ -5,7 +5,11 @@ import * as luaExpressions from "../../LuaAST-expressions"
 import type { TransformationContext } from "../context/transformation-context"
 import { unsupportedBuiltinOptionalCall, unsupportedProperty } from "../utils/diagnostics"
 import { createNaN } from "../utils/lua-ast"
-import { importLuaLibFeature, transformLuaLibFunction } from "../utils/lualib"
+import {
+  createStaticPromiseFunctionAccessor,
+  importLuaLibFeature,
+  transformLuaLibFunction,
+} from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
 import { getIdentifierSymbolId } from "../utils/symbols"
 import { maybeWrapThisVoidAsAdapter } from "../utils/this-void-adapter"
@@ -310,10 +314,6 @@ export function isPromiseClass(context: TransformationContext, node: ts.Identifi
   return isStandardLibraryType(context, type, undefined)
 }
 
-export function createPromiseIdentifier(original: ts.Node) {
-  return luaExpressions.createIdentifier("__TS__Promise", original)
-}
-
 export function transformPromiseConstructorCall(
   context: TransformationContext,
   node: ts.CallExpression,
@@ -349,12 +349,4 @@ export function transformPromiseConstructorCall(
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Promise", expressionName))
   }
-}
-
-export function createStaticPromiseFunctionAccessor(functionName: string, node: ts.Node) {
-  return luaExpressions.createTableIndexExpression(
-    luaExpressions.createIdentifier("__TS__Promise"),
-    luaExpressions.createStringLiteral(functionName),
-    node
-  )
 }
