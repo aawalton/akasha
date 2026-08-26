@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto"
 import type { Frontmatter } from "../../frontmatter.ts"
 import { blockOf, stringAt } from "../../text/text.ts"
 
@@ -10,6 +11,10 @@ const NOT_ALPHANUMERIC = /[^A-Za-z0-9]+/g
 const EDGE_DASHES = /^-+|-+$/g
 
 const HOLE = /\{([a-z0-9-]+)\}/g
+
+const AT_NAMESPACE = "6ba7b812-9dad-11d1-80b4-00c04fd430c8"
+
+const MARKDOWN = ".md"
 
 export const STEM_CEILING = 71
 
@@ -28,6 +33,31 @@ export function pageStem(text: string): string {
     .replace(EDGE_DASHES, "")
     .toLowerCase()
   return stem.length <= STEM_CEILING ? stem : stem.slice(0, STEM_CEILING).replace(EDGE_DASHES, "")
+}
+
+export function idDerivedFrom(at: string): string {
+  const namespace = Buffer.from(AT_NAMESPACE.replaceAll("-", ""), "hex")
+  const digest = createHash("sha1").update(namespace).update(at, "utf8").digest()
+  const bytes = Uint8Array.from(digest.subarray(0, 16))
+  bytes[6] = ((bytes[6] ?? 0) & 0x0f) | 0x50
+  bytes[8] = ((bytes[8] ?? 0) & 0x3f) | 0x80
+  const hex = Buffer.from(bytes).toString("hex")
+  return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20, 32)}`
+}
+
+export function idOfFilePage(stated: string | null, at: string): string {
+  return stated ?? idDerivedFrom(at)
+}
+
+export function slugOfFilePage(stated: string | null, at: string | null): string | null {
+  if (stated !== null) return stated
+  if (at === null) return null
+  const relPath = at.slice(at.indexOf(":") + 1)
+  if (!relPath.endsWith(MARKDOWN)) return null
+  const stem = relPath.split("/").pop() ?? relPath
+  const dot = stem.indexOf(".")
+  const named = dot <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : stem.slice(0, dot)
+  return named === "" ? null : named
 }
 
 export type PageTypeNaming = {
