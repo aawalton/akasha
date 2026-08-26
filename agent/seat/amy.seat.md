@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: amy-everything-alan-runs-in-akasha
 errand: "You got stopped somehow, continue"
 registration-account: aawalton
 claude-code-session-uuid: 47b98fee-170d-46ba-b744-aae61fd0f306
