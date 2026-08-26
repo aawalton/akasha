@@ -1,6 +1,3 @@
-import { kebabizeKey } from "../../code/packages/shared/pages/access/src/file-rows.ts"
-import { askTaking, type Fetcher, type Given, type QueryAnswer } from "../../code/packages/shared/pages/query/src/index.ts"
-import type { StatusBarAccessClient } from "../../code/packages/shared/status-bar-access/src/client.ts"
 import {
   PAGE_QUERY_PAGE_TYPE_SLUG,
   READOUT_GROUP_PAGE_TYPE_SLUG,
@@ -17,6 +14,31 @@ import {
 
 export { readoutCircle } from "./readout-scale-shape.ts"
 
+export type Given = Readonly<Record<string, string | readonly string[]>>
+
+export type QueryRow = {
+  readonly at?: string
+  readonly values: Readonly<Record<string, unknown>>
+}
+
+export type QueryAnswer = {
+  readonly n: number
+  readonly value: number | null
+  readonly over: number | null
+  readonly rows: readonly QueryRow[]
+  readonly faults: readonly string[]
+  readonly omitted: readonly string[]
+  readonly unfound: readonly string[]
+}
+
+export type Ask = (querySlug: string, given: Given) => Promise<QueryAnswer>
+
+let asking: Ask | null = null
+
+export function askThrough(ask: Ask): void {
+  asking = ask
+}
+
 const DAY_ARGUMENT_TYPE = "calendar-date"
 
 export function readoutQueryDoc(slug: string): string {
@@ -30,7 +52,7 @@ export interface ResolvedReadout {
   readonly place: number
   readonly scale: ReadoutScale
   readonly querySlug: string | null
-  readonly sourceKey: string | null
+  readonly queryKey: string | null
   readonly earnedKey: string | null
   readonly wireKey: string
   readonly keyArgument: string | null
@@ -44,11 +66,8 @@ export interface ResolvedReadoutGroup {
   readonly unresolved: ReadonlyMap<string, string>
 }
 
-export async function resolveReadout(
-  sb: StatusBarAccessClient,
-  slug: string
-): Promise<ResolvedReadout> {
-  const catalog = await readoutCatalog(sb)
+export async function resolveReadout(_sb: unknown, slug: string): Promise<ResolvedReadout> {
+  const catalog = readoutCatalog()
   const readout = catalog.readouts.get(slug)
   if (readout === undefined) {
     const unreadable = catalog.unreadableReadouts.get(slug)
@@ -80,14 +99,12 @@ export async function resolveReadout(
     )
   }
   readoutShape(scale)
-  const sourceSlug = readout.sourceSlug ?? null
-  const asking = sourceSlug === null ? undefined : catalog.sources.get(sourceSlug)
-  const querySlug = asking?.querySlug ?? null
+  const querySlug = readout.querySlug ?? null
   const query = querySlug === null ? null : (catalog.queries.get(querySlug) ?? null)
   if (querySlug !== null && query === null) {
     throw new Error(
-      `resolveReadout: readout \`${slug}\` takes its reading from source \`${sourceSlug}\`, which ` +
-        `names query \`${querySlug}\`, and no \`${PAGE_QUERY_PAGE_TYPE_SLUG}\` page answers to it`
+      `resolveReadout: readout \`${slug}\` names query \`${querySlug}\`, and no ` +
+        `\`${PAGE_QUERY_PAGE_TYPE_SLUG}\` page answers to it`
     )
   }
   return {
@@ -97,8 +114,8 @@ export async function resolveReadout(
     place: readout.place ?? 0,
     scale,
     querySlug,
-    sourceKey: readout.sourceKey ?? null,
-    keyArgument: asking?.keyArgument ?? null,
+    queryKey: readout.queryKey ?? null,
+    keyArgument: readout.queryArgument ?? null,
     earnedKey: readout.earnedKey ?? null,
     wireKey: readout.wireKey ?? slug,
     query,
@@ -106,10 +123,10 @@ export async function resolveReadout(
 }
 
 export async function resolveReadoutGroup(
-  sb: StatusBarAccessClient,
+  _sb: unknown,
   groupSlug: string
 ): Promise<ResolvedReadoutGroup> {
-  const catalog = await readoutCatalog(sb)
+  const catalog = readoutCatalog()
   const sortOrder = catalog.groups.get(groupSlug)
   if (sortOrder === undefined) {
     throw new Error(
@@ -130,7 +147,7 @@ export async function resolveReadoutGroup(
   const settled = await Promise.all(
     named.map(async (slug) => {
       try {
-        return { slug, readout: await resolveReadout(sb, slug), why: "" }
+        return { slug, readout: await resolveReadout(null, slug), why: "" }
       } catch (error) {
         return { slug, readout: null, why: error instanceof Error ? error.message : String(error) }
       }
@@ -159,10 +176,10 @@ export function readoutGroupLegend(group: ResolvedReadoutGroup): string {
 }
 
 export async function resolveReadoutGroupLegend(
-  sb: StatusBarAccessClient,
+  _sb: unknown,
   groupSlug: string
 ): Promise<string> {
-  return readoutGroupLegend(await resolveReadoutGroup(sb, groupSlug))
+  return readoutGroupLegend(await resolveReadoutGroup(null, groupSlug))
 }
 
 export interface ReadoutGroupReadings {
@@ -173,14 +190,14 @@ export interface ReadoutGroupReadings {
 export async function readReadoutGroupReadings(
   readouts: readonly ResolvedReadout[],
   day: string,
-  fetcher?: Fetcher
+  ask?: Ask
 ): Promise<ReadoutGroupReadings> {
   const settled = await Promise.all(
     readouts.map(async (readout) => {
       try {
         return {
           readout,
-          reading: (await readReadoutReading(readout, day, fetcher)).reading,
+          reading: (await readReadoutReading(readout, day, ask)).reading,
           why: "",
         }
       } catch (error) {
@@ -219,7 +236,7 @@ export function drawnOrder(
 }
 
 function answerKeyOf(readout: ResolvedReadout): string | null {
-  return readout.keyArgument === null ? readout.sourceKey : null
+  return readout.keyArgument === null ? readout.queryKey : null
 }
 
 export function dayGiven(readout: ResolvedReadout, query: ReadoutQuery, day: string): Given {
@@ -227,14 +244,14 @@ export function dayGiven(readout: ResolvedReadout, query: ReadoutQuery, day: str
   const unheld: string[] = []
   for (const [name, type] of Object.entries(query.takes)) {
     if (type === DAY_ARGUMENT_TYPE) given[name] = day
-    else if (name === readout.keyArgument && readout.sourceKey !== null) {
-      given[name] = readout.sourceKey
+    else if (name === readout.keyArgument && readout.queryKey !== null) {
+      given[name] = readout.queryKey
     } else unheld.push(`\`${name}\` as \`${type}\``)
   }
   if (unheld.length > 0) {
     throw new Error(
       `dayGiven: readout \`${readout.slug}\` reads query \`${query.slug}\`, which takes ` +
-        `${unheld.join(", ")}, and a readout holds a day and its own \`source-key\` — ` +
+        `${unheld.join(", ")}, and a readout holds a day and its own \`query-key\` — ` +
         `${readoutQueryDoc(query.slug)} states what the query takes, and \`key-argument\` ` +
         "on the readout's source states which of them the source-key fills"
     )
@@ -281,7 +298,7 @@ export function readingIn(
     }
     return answer.value
   }
-  const key = kebabizeKey(named)
+  const key = named
   if (isAnswerOwnNumber(key)) {
     if (key !== "n" && !query.reducesToOneNumber) {
       throw new Error(
@@ -319,7 +336,7 @@ export function earnedIn(
 ): boolean {
   const named = readout.earnedKey
   if (named === null) return false
-  const key = kebabizeKey(named)
+  const key = named
   if (answer.rows.length === 0) return false
   if (answer.rows.length > 1) {
     throw new Error(
@@ -353,24 +370,27 @@ const UNASKED: ReadoutReading = { reading: null, earned: false }
 export async function readReadoutReading(
   readout: ResolvedReadout,
   day: string,
-  fetcher?: Fetcher
+  ask: Ask | null = asking
 ): Promise<ReadoutReading> {
   const query = readout.query
   if (readout.querySlug === null || query === null) return UNASKED
-  const asked = await askTaking(readout.querySlug, dayGiven(readout, query, day), fetcher)
-  if (!asked.ok) {
-    throw new Error(`readReadoutReading: \`${readout.slug}\` went unread: ${asked.why}`)
+  if (ask === null) {
+    throw new Error(
+      `readReadoutReading: \`${readout.slug}\` names query \`${readout.querySlug}\` and nothing ` +
+        "was given to ask it with — hand one in, or set one with `askThrough`"
+    )
   }
+  const answer = await ask(readout.querySlug, dayGiven(readout, query, day))
   return {
-    reading: readingIn(readout, query, asked.answer),
-    earned: earnedIn(readout, query, asked.answer),
+    reading: readingIn(readout, query, answer),
+    earned: earnedIn(readout, query, answer),
   }
 }
 
 export async function readReadoutValue(
   readout: ResolvedReadout,
   day: string,
-  fetcher?: Fetcher
+  ask?: Ask
 ): Promise<number | null> {
-  return (await readReadoutReading(readout, day, fetcher)).reading
+  return (await readReadoutReading(readout, day, ask)).reading
 }

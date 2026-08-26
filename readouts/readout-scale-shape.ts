@@ -38,7 +38,7 @@ export interface ReadoutScale {
   readonly yellowAt?: number | undefined
   readonly greenAt?: number | undefined
   readonly blueAt?: number | undefined
-  readonly earnedColourSlug?: string | undefined
+  readonly earnedColorSlug?: string | undefined
 }
 
 export type ReadoutDirection = "ascending" | "descending"
@@ -58,12 +58,12 @@ export interface ReadoutShape {
 export type ReadoutLadder = TierLadder<ReadoutTierColor>
 
 function earnedTierOf(scale: ReadoutScale): ReadoutTierColor | null {
-  const stated = scale.earnedColourSlug ?? null
+  const stated = scale.earnedColorSlug ?? null
   if (stated === null) return null
   const found = TIER_COLORS.find((color) => color === stated)
   if (found === undefined) {
     throw new Error(
-      `readoutShape: ${readoutScaleDoc(scale.slug)} states \`earned-colour-slug: ${stated}\`, and a ` +
+      `readoutShape: ${readoutScaleDoc(scale.slug)} states \`earned-color-slug: ${stated}\`, and a ` +
         `readout tier is one of ${TIER_COLORS.join(", ")}`
     )
   }
@@ -162,7 +162,7 @@ function earnedOver(drawn: ReadoutTierCircle, shape: ReadoutShape): ReadoutTierC
   if (earned === null) {
     throw new Error(
       `readoutTierCircle: a reading against ${readoutScaleDoc(shape.slug)} was drawn as earned, and ` +
-        "that scale states no `earned-colour-slug`"
+        "that scale states no `earned-color-slug`"
     )
   }
   const best = shape.rungs[shape.rungs.length - 1]
