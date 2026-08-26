@@ -5,7 +5,7 @@
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { getEsoDayStr, getEsoResetTime } from '../../../../day/day.ts';
-import { askOverHttp } from '../../../../readouts/ask-over-http.ts';
+import { askOverHttp, PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
 import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stoplights.ts';
 import { getInboxLegend, getInboxStoplights } from '../../../../readouts/inbox-stoplights.ts';
 import { getUpkeepLegend, getUpkeepStoplights } from '../../../../readouts/upkeep-stoplights.ts';
@@ -15,7 +15,7 @@ import { createLegendStore } from './legends';
 import { applyToItems, type FreshAts, type ReadOutcomes, settleReads } from './render';
 import { SEPARATOR_GLYPH, SEPARATOR_HEX, SLOTS } from './slots';
 import type { StoplightsSection } from './slot-types';
-import { PAGE_QUERY_ORIGIN, readUsage } from './usage';
+import { readUsage } from './usage';
 
 /**
  * This feature's name in the observation record, and in `extension.ts`'s list.

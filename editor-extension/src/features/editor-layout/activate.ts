@@ -20,7 +20,7 @@ import { recordObservation, recordSweep } from '../../seat/observation-store';
 import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids';
 import { readProcess } from '../../seat/window-identity';
 import { readSeatLookup, readSeatTerminals } from '../agent-tree/columns';
-import { PAGE_QUERY_ORIGIN } from '../status-bar/usage';
+import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
 
 /** This feature's name in the observation record, and in `extension.ts`'s list. */
 const FEATURE = 'editor-layout';

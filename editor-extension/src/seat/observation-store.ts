@@ -22,7 +22,8 @@
  * window — the same one `features/editor-layout/activate.ts` projects the
  * arrangement onto — so what each feature observed is a property of it.
  */
-import { type Fetcher, PAGE_QUERY_ORIGIN } from '../features/status-bar/usage';
+import { PAGE_QUERY_ORIGIN } from '../../../readouts/ask-over-http.ts';
+import type { Fetcher } from '../features/status-bar/usage';
 import {
 	changeKey,
 	foldSweep,

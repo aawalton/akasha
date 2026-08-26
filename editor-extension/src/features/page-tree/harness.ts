@@ -24,14 +24,12 @@
 
 import * as path from 'node:path';
 import { z } from 'zod';
+import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
 import { instructionsRoot } from '../../harness-call';
 import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble';
 
 export { assemblePageTree } from './assemble';
 export type { PageAnswers, PageNode, PageTree, QueryRow } from './assemble';
-
-/** The service as it is reachable from this workstation. */
-export const PAGE_QUERY_ORIGIN = 'http://127.0.0.1:8787';
 
 /**
  * The six queries, and which of the four things each answers.

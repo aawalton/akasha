@@ -38,11 +38,7 @@
  */
 
 import { z } from 'zod';
-
-// The service as it is reachable from this workstation. The web route names the
-// cluster-internal origin instead; the editor runs outside the cluster, so it takes the
-// forwarded local port. Same service, same `/q/<slug>` route, same answer shape.
-export const PAGE_QUERY_ORIGIN = 'http://127.0.0.1:8787';
+import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
 
 export const MEAN_WEEKLY_USED = 'claude-accounts-mean-weekly-used';
 export const MEAN_SESSION_USED = 'claude-accounts-mean-session-used';
