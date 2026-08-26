@@ -14,8 +14,12 @@ import {
   carriedBy,
   pointsBy,
   relationsOn,
+  unresolvable,
+  wantsOf,
+  type Bearers,
   type Points,
   type Reading,
+  type Want,
 } from "../../../page/relation/relation.ts"
 import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
 import type { Batch, Check, CheckFailure, Tree } from "../check-shape.ts"
@@ -173,21 +177,75 @@ function namingGone(gone: readonly string[], root: string): readonly string[] {
   return [...found]
 }
 
+function stated(want: Want): string {
+  return `${want.relation.key}${APART}${want.relation.target ?? ""}${APART}${want.value}`
+}
+
+function askedIn(text: string, relPath: string, defs: FileTree, types: readonly PageType[]): ReadonlySet<string> {
+  const { fm, why } = blockOf(text)
+  if (why !== null) return new Set()
+  const claim = claimant(relPath, AKASHA, types, text)
+  if (claim.type === null) return new Set()
+  const { relations, why: unbuilt } = relationsOn(claim.type, defs)
+  if (unbuilt !== null) return new Set()
+  return new Set(wantsOf(relations, fm).asked.map(stated))
+}
+
+type Wanted = { readonly path: string; readonly want: Want }
+
+function wantedIn(batch: Batch, defs: FileTree, types: readonly PageType[]): readonly Wanted[] {
+  const tree = batch.tree
+  const found: Wanted[] = []
+  for (const path of batch.paths) {
+    const relPath = path.slice(tree.root.length + 1)
+    if (!isPage(relPath)) continue
+    const body = tree.at(path)
+    if (body === null) continue
+    const text = body.toString("utf8")
+    const { fm, why } = blockOf(text)
+    if (why !== null) continue
+    const claim = claimant(relPath, AKASHA, types, text)
+    if (claim.type === null) continue
+    const { relations, why: unbuilt } = relationsOn(claim.type, defs)
+    if (unbuilt !== null || relations.length === 0) continue
+    const before = textAt(tree.root, relPath)
+    const standing = before === null ? new Set<string>() : askedIn(before, relPath, defs, types)
+    for (const want of wantsOf(relations, fm).asked) {
+      if (standing.has(stated(want))) continue
+      found.push({ path, want })
+    }
+  }
+  return found
+}
+
+function unresolvedBy(wanted: readonly Wanted[], bearers: Bearers): readonly CheckFailure[] {
+  const failures: CheckFailure[] = []
+  for (const one of wanted) {
+    if (bearers.holds(one.want)) continue
+    failures.push({ path: one.path, reason: unresolvable(one.want) })
+  }
+  return failures
+}
+
 function orphanedBy(batch: Batch): readonly CheckFailure[] {
   const tree = batch.tree
   const gone = tree
     .gone()
     .map((path) => path.slice(tree.root.length + 1))
     .filter((relPath) => isPage(relPath))
-  if (gone.length === 0) return []
   const defs = treeOver(batch)
   if (defs === null) return []
   const types = registryOf(defs)
   const chainFor = chainsOver(defs)
-  const going = valuesGoing(gone, tree.root, defs, types, chainFor)
-  if (going.size === 0) return []
+  const going =
+    gone.length === 0
+      ? new Map<string, string>()
+      : valuesGoing(gone, tree.root, defs, types, chainFor)
+  const wanted = wantedIn(batch, defs, types)
+  if (going.size === 0 && wanted.length === 0) return []
   const bearers = bearersFor(remainingRead(tree, types, chainFor))
-  const failures: CheckFailure[] = []
+  const failures: CheckFailure[] = [...unresolvedBy(wanted, bearers)]
+  if (going.size === 0) return failures
   const candidates = new Set([...namingGone(gone, tree.root), ...batch.paths])
   for (const path of [...candidates].sort()) {
     const relPath = path.slice(tree.root.length + 1)
