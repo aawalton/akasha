@@ -1,5 +1,6 @@
 import { exclusively } from "../exclusive/exclusive.ts"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../page/attachment-file.ts"
+import { agentPageFor, agentPages, replacedAt } from "./read-log.ts"
 import { coveredTo, type Entry, merge, type Records, recordsOf, type Span } from "./read-records.ts"
 
 const READINGS = "readings"
@@ -110,6 +111,22 @@ export function carriedReading(entry: Entry, move: Moved): Entry | null {
   if ((entry.mechanical ?? entry.blob) !== move.from) return null
   if (coveredTo(entry.spans) < move.wasLines) return null
   return { ...entry, spans: [[1, Math.max(1, move.lines)]], mechanical: move.to }
+}
+
+export function recordReadBy(
+  writer: string,
+  absolutePath: string,
+  at: number,
+  span: Span,
+  blob?: string
+): void {
+  const page = agentPageFor(writer)
+  if (page === null) return
+  recordRead(page, replacedAt(page), absolutePath, at, span, blob)
+}
+
+export function carryReadingsBy(moves: readonly Moved[]): number {
+  return carryReadings(moves, agentPages())
 }
 
 export function carryReadings(moves: readonly Moved[], pages: readonly string[]): number {
