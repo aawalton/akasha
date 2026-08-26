@@ -1,9 +1,19 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { type Key, pathOf } from "./key.ts"
 
 const ANSWERS = "answers"
+
+export type Key = {
+  readonly kind: string
+  readonly name: string
+  readonly mark: string
+  readonly subject: string
+}
+
+function pathOf(key: Key): string {
+  return `${key.kind}/${key.name}/${key.mark}/${key.subject}.json`
+}
 
 export function answersAt(root: string): string {
   const dir = execFileSync("git", ["-C", root, "rev-parse", "--absolute-git-dir"], {

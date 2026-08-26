@@ -1,6 +1,5 @@
 import type { Outcome } from "../../checks/check/check-shape.ts"
-import { answerAt, cacheAnswer } from "../cache.ts"
-import type { Key } from "../key.ts"
+import { type Key, answerAt, cacheAnswer } from "../cache.ts"
 import { type Input, markOf } from "../mark/mark.ts"
 
 export const OUTCOME_KIND = "outcome"
