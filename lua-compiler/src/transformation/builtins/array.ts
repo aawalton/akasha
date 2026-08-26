@@ -8,8 +8,7 @@ import { unsupportedProperty } from "../utils/diagnostics"
 import { isUnpackCall, wrapInTable } from "../utils/lua-ast"
 import { transformLuaLibFunction } from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
-import { expressionResultIsUsed } from "../utils/typescript/typescript"
-import { typeAlwaysHasSomeOfFlags } from "../utils/typescript/typescript"
+import { expressionResultIsUsed, typeAlwaysHasSomeOfFlags } from "../utils/typescript/typescript"
 export function transformArrayConstructorCall(
   context: TransformationContext,
   node: ts.CallExpression,
