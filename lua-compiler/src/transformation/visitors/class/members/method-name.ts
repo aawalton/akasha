@@ -2,7 +2,7 @@ import type * as ts from "typescript"
 import * as luaExpressions from "../../../../LuaAST-expressions"
 import type { TransformationContext } from "../../../context/transformation-context"
 import { transformPropertyName } from "../../property-name"
-import { isStaticNode } from "../utils"
+import { isStaticNode } from "../syntax"
 import { createPrototypeName } from "./constructor"
 
 export function transformMemberExpressionOwnerName(

@@ -9,7 +9,7 @@ import { transformLuaLibFunction } from "../../utils/lualib"
 import { LuaLibFeature } from "../../../LuaLib"
 import { transformPropertyName } from "../property-name"
 import { transformMemberExpressionOwnerName, transformMethodName } from "./members/method-name"
-import { isPrivateNode, isStaticNode } from "./utils"
+import { isPrivateNode, isStaticNode } from "./syntax"
 
 export function transformDecoratorExpression(
   context: TransformationContext,

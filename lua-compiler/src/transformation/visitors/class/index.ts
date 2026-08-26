@@ -27,7 +27,7 @@ import { createConstructorName, transformConstructorDeclaration } from "./member
 import { transformClassInstanceFields, transformStaticPropertyDeclaration } from "./members/fields"
 import { transformMethodDeclaration } from "./members/method"
 import { createClassSetup } from "./setup"
-import { getExtendedNode, getExtendedType, isStaticNode } from "./utils"
+import { getExtendedNode, getExtendedType, isStaticNode } from "./syntax"
 
 export const transformClassDeclaration: FunctionVisitor<ts.ClassLikeDeclaration> = (
   declaration,

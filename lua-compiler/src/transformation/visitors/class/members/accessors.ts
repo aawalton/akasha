@@ -9,7 +9,7 @@ import { LuaLibFeature } from "../../../../LuaLib"
 import { transformFunctionBody, transformParameters } from "../../function"
 import { transformPropertyName } from "../../property-name"
 import { createClassAccessorDecoratingExpression } from "../decorators"
-import { isStaticNode } from "../utils"
+import { isStaticNode } from "../syntax"
 import { createPrototypeName } from "./constructor"
 
 function transformAccessor(

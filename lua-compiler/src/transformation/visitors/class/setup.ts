@@ -13,7 +13,7 @@ import { createExportsIdentifier } from "../../utils/exports-identifier"
 import { createLocalOrExportedOrGlobalDeclaration } from "../../utils/lua-ast"
 import { transformLuaLibFunction } from "../../utils/lualib"
 import { LuaLibFeature } from "../../../LuaLib"
-import { getExtendedNode, getExtendsClause } from "./utils"
+import { getExtendedNode, getExtendsClause } from "./syntax"
 
 export function createClassSetup(
   context: TransformationContext,
