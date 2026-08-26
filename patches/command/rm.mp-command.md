@@ -19,9 +19,9 @@ Which repository a call addresses is read from the paths it names.
 
 A path that is not there is refused.
 
-A directory opens onto every tracked file git holds under it.
+A directory opens onto every tracked file under it.
 
-A directory git holds no file under is refused.
+A directory holding no tracked file is refused.
 
 A page's sidecars go with it without being named.
 
