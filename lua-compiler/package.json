@@ -30,7 +30,7 @@
     "./*": "./src/*.ts"
   },
   "bin": {
-    "tstl": "src/tstl.ts"
+    "tstl": "src/cli/tstl.ts"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",
