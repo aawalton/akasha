@@ -50,3 +50,12 @@ export function sidecarCarriedTo(sidecarPath: string, from: string, to: string):
   const suffix = basename(sidecarPath).slice(basename(from, PAGE_SUFFIX).length)
   return `${to.slice(0, -PAGE_SUFFIX.length)}${suffix}`
 }
+
+export function sidecarsBeside(root: string, paths: readonly string[]): readonly string[] {
+  const named = new Set(paths)
+  const beside = new Set<string>()
+  for (const one of paths) {
+    for (const each of sidecarsOf(root, one)) if (!named.has(each)) beside.add(each)
+  }
+  return [...beside].sort()
+}

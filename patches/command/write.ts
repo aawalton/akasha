@@ -4,6 +4,7 @@ import { existsSync, mkdtempSync, readFileSync, statSync, writeFileSync } from "
 import { resolve } from "node:path"
 import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
 import { carriesBytes } from "../../page/file-kind/carries-bytes.ts"
+import { sidecarsBeside } from "../../page/sidecar/sidecar.ts"
 import { statingIds } from "./state-id.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../repo/land/land.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
@@ -279,7 +280,14 @@ function removalsIn(at: Addressed, named: readonly string[]): readonly string[] 
     }
     removals.push(relPath)
   }
-  return removals
+  const beside = sidecarsBeside(at.root, removals)
+  if (beside.length > 0) {
+    process.stderr.write(
+      "the files standing beside what you named, which go with it\n" +
+        beside.map((one) => `      ${one}\n`).join("")
+    )
+  }
+  return [...removals, ...beside]
 }
 
 function bodyText(bytes: Uint8Array, from: string): string {

@@ -1,7 +1,7 @@
 import { afterAll, describe, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { pageOfSidecar, sidecarCarriedTo, sidecarsOf } from "./sidecar.ts"
+import { pageOfSidecar, sidecarCarriedTo, sidecarsBeside, sidecarsOf } from "./sidecar.ts"
 
 describe("pageOfSidecar", () => {
   test("names the page each kind of sidecar stands beside", () => {
@@ -91,5 +91,31 @@ describe("sidecarCarriedTo", () => {
 
   test("carries it across a rename of the page's own stem", () => {
     expect(sidecarCarriedTo("a/one.rows.part2.jsonl", "a/one.md", "b/two.md")).toBe("b/two.rows.part2.jsonl")
+  })
+})
+
+describe("sidecarsBeside", () => {
+  test("takes every page's files over the whole set, in one sorted list", () => {
+    expect(sidecarsBeside(root, ["one.md", "one.two.md"])).toEqual([
+      "one.portrait.attachment.txt",
+      "one.rows.jsonl",
+      "one.rows.part2.jsonl",
+      "one.sops.yaml",
+      "one.two.portrait.attachment.txt",
+      "one.uncommitted.yaml",
+    ])
+  })
+
+  test("leaves out a sidecar the set already names, so nothing is taken twice", () => {
+    expect(sidecarsBeside(root, ["one.md", "one.rows.jsonl"])).toEqual([
+      "one.portrait.attachment.txt",
+      "one.rows.part2.jsonl",
+      "one.sops.yaml",
+      "one.uncommitted.yaml",
+    ])
+  })
+
+  test("finds nothing beside a set of paths that are not pages", () => {
+    expect(sidecarsBeside(root, ["one.sops.yaml", "nowhere/one.md"])).toEqual([])
   })
 })
