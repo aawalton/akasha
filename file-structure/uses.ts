@@ -2,8 +2,8 @@ export const summary = "Map what points at each file under one section of a repo
 
 import { relative, resolve } from "node:path"
 import { edgesFrom, edgesInto, nodesIn } from "../graph/ask.ts"
-import { CODE_EDGE } from "../graph/edge-producer/beside.ts"
-import { IMPORT_EDGE } from "../graph/edge-producer/typescript.ts"
+import { CODE_EDGE } from "../graph/edge-producer/beside/beside.ts"
+import { IMPORT_EDGE } from "../graph/edge-producer/typescript/typescript.ts"
 import { KEEPS_NOTHING } from "../graph/build-context/build-context.ts"
 import { AKASHA, rootsHere } from "../repo/roots/roots.ts"
 

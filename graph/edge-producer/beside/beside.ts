@@ -1,5 +1,5 @@
-import type { EdgeInit, EdgeProducer } from "./edge-shape.ts"
-import fileNodeProducer from "../node-producer/file/file.ts"
+import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
+import fileNodeProducer from "../../node-producer/file/file.ts"
 
 export const CODE_EDGE = "code"
 
