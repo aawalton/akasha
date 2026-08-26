@@ -25,7 +25,7 @@ function captionFor(count: number): string {
 }
 
 export function requiredFor(asked: readonly Target[], from: string): Required {
-  const { index, claims, rootOf } = standingHere()
+  const { index, naming, rootOf } = standingHere()
   const roots = rootsHere()
   const here = locate(from)
   const held = new Set(asked.map((one) => one.absolute))
@@ -37,7 +37,7 @@ export function requiredFor(asked: readonly Target[], from: string): Required {
     if (root === undefined) continue
     const page = pageAtOf(at.repo, at.relPath)
     const body = textAt(root, at.relPath)
-    for (const warrant of requiredReadingFor(page, body, index, claims, rootOf)) {
+    for (const warrant of requiredReadingFor(page, body, index, naming, rootOf)) {
       const at2 = rootOf(warrant.repo)
       if (at2 === undefined) continue
       const absolute = `${at2}/${warrant.key}`

@@ -13,6 +13,8 @@ export const BY_SEQ = "relation-seq"
 
 export const BY_ADDRESS = "relation-address"
 
+export const BY_FILE = "file"
+
 export const ID_WORD = "id"
 
 export const SLUG_WORD = "slug"
@@ -21,9 +23,23 @@ export const NAME_WORD = "name"
 
 export const SEQ_WORD = "seq"
 
-export const IDENTITY_WORDS: readonly string[] = [ID_WORD, SLUG_WORD, NAME_WORD, SEQ_WORD]
+export const EXTENSION_WORD = "extension"
 
-const KINDS: readonly string[] = [BY_ADDRESS, BY_SLUG, BY_NAME, BY_SEQ, BY_ID]
+export const ENDING_WORD = "ending"
+
+export const HEADING_WORD = "heading"
+
+export const IDENTITY_WORDS: readonly string[] = [
+  ID_WORD,
+  SLUG_WORD,
+  NAME_WORD,
+  SEQ_WORD,
+  EXTENSION_WORD,
+  ENDING_WORD,
+  HEADING_WORD,
+]
+
+const KINDS: readonly string[] = [BY_ADDRESS, BY_SLUG, BY_NAME, BY_SEQ, BY_ID, BY_FILE]
 
 const WORD_OF: Readonly<Record<string, string>> = {
   [BY_ID]: ID_WORD,
@@ -40,6 +56,12 @@ const ID = "id"
 const SLUG = "slug"
 
 const SEQ = "seq"
+
+const EXTENSION = "extension"
+
+const ENDING = "ending"
+
+const HEADING = "heading"
 
 export function kindOf(stated: string): string | null {
   for (const one of KINDS) {
@@ -60,6 +82,9 @@ export type Stated = PageAt & {
   readonly id: string | null
   readonly slug: string | null
   readonly seq: string | null
+  readonly extension: string | null
+  readonly ending: string | null
+  readonly heading: string | null
 }
 
 export type Handle = {
@@ -96,6 +121,9 @@ export function handlesOf(one: Stated): readonly Handle[] {
   found.push({ word: SLUG_WORD, at: `${one.type}${ADDRESS_JOIN}${one.slug ?? one.stem}` })
   found.push({ word: NAME_WORD, at: `${one.type}${ADDRESS_JOIN}${one.stem}` })
   if (stands(one.seq)) found.push({ word: SEQ_WORD, at: `${one.type}${ADDRESS_JOIN}${one.seq}` })
+  if (stands(one.extension)) found.push({ word: EXTENSION_WORD, at: one.extension })
+  if (stands(one.ending)) found.push({ word: ENDING_WORD, at: one.ending })
+  if (stands(one.heading)) found.push({ word: HEADING_WORD, at: one.heading })
   return found
 }
 
@@ -127,6 +155,9 @@ export function statedOf(at: Held): Stated {
     id: stringAt(at.fm, ID),
     slug: stringAt(at.fm, SLUG),
     seq: stringAt(at.fm, SEQ),
+    extension: stringAt(at.fm, EXTENSION),
+    ending: stringAt(at.fm, ENDING),
+    heading: stringAt(at.fm, HEADING),
   }
 }
 

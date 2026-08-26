@@ -39,8 +39,12 @@ export function relationRoot(relation: string): string {
   return join(relationsRoot(), relation)
 }
 
-export function fileFor(relation: string, stem: string, type: string): string {
-  return join(relationRoot(relation), `${stem}.${type}${ENDING}`)
+export function relationFileFor(relation: string, target: string): string {
+  return join(relationRoot(relation), `${target}${ENDING}`)
+}
+
+export function pageTargetOf(stem: string, type: string): string {
+  return `${stem}.${type}`
 }
 
 export function identityRoot(): string {

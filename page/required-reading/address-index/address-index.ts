@@ -1,6 +1,6 @@
 import type { Frontmatter } from "../../frontmatter.ts"
 import { NAME_WORD, SLUG_WORD, addressIn } from "../../index/identity/identity.ts"
-import { pagesNamed } from "../../index/store/store.ts"
+import { pagesNamed, sourcesAt } from "../../index/store/store.ts"
 import { pageNameOf } from "../../name/name.ts"
 import type { PageAt } from "../../page.ts"
 import { blockOf } from "../../text/text.ts"
@@ -13,6 +13,8 @@ export interface AddressIndex {
   readonly frontmatterOf: (at: PageAt) => Frontmatter | null
   readonly domainAt: (address: string, type?: string) => PageAt | null
   readonly pageTypeNamed: (stem: string) => PageAt | null
+  readonly pageNamed: (word: string, at: string) => PageAt | null
+  readonly pagesFrom: (relation: string, target: string) => readonly PageAt[]
 }
 
 export function addressIndexIn(
@@ -65,5 +67,16 @@ export function addressIndexIn(
   const pageTypeNamed = (stem: string): PageAt | null =>
     pageOf(NAME_WORD, `${PAGE_TYPE}/${stem}`) ?? pageOf(NAME_WORD, `${RULE_SET}/${stem}`)
 
-  return { frontmatterOf, domainAt, pageTypeNamed }
+  const pagesFrom = (relation: string, target: string): readonly PageAt[] => {
+    const found: PageAt[] = []
+    for (const one of sourcesAt(relation, target)) {
+      if (!within.has(one.repo)) continue
+      const named = pageNameOf(one.key)
+      if (named === null) continue
+      found.push({ repo: one.repo, key: one.key, stem: named.stem, type: named.type })
+    }
+    return found
+  }
+
+  return { frontmatterOf, domainAt, pageTypeNamed, pageNamed: pageOf, pagesFrom }
 }

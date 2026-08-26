@@ -1,5 +1,11 @@
 import { type Frontmatter, listField } from "../../../page/frontmatter.ts"
-import { type Resolve, type Stated, kindOf, resolveOver } from "../../../page/index/identity/identity.ts"
+import {
+  type Resolve,
+  type Stated,
+  kindOf,
+  resolveOver,
+  statedOf,
+} from "../../../page/index/identity/identity.ts"
 import { loadPages } from "../../../page/index/store/store.ts"
 import { NONE, stringAt } from "../../../page/text/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
@@ -16,12 +22,6 @@ export const RELATION_EDGE = "relation"
 const RELATION_KEY = "relation-key"
 
 const DEFINITION_PAGE_TYPE = "page-property-definition"
-
-const ID = "id"
-
-const SLUG = "slug"
-
-const SEQ = "seq"
 
 export type Relation = {
   readonly key: string
@@ -73,15 +73,7 @@ function readFor(ctx: BuildContext): readonly Stated[] {
     for (const at of pages) {
       const fm = frontOf(ctx, at)
       if (fm === null) continue
-      stated.push({
-        repo: at.repo,
-        key: at.key,
-        stem: at.stem,
-        type: at.type,
-        id: stringAt(fm, ID),
-        slug: stringAt(fm, SLUG),
-        seq: stringAt(fm, SEQ),
-      })
+      stated.push(statedOf({ repo: at.repo, key: at.key, stem: at.stem, type: at.type, fm }))
     }
   }
   return stated

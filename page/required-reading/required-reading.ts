@@ -1,14 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import type { AddressIndex } from "./address-index/address-index.ts"
-import {
-  type Claims,
-  ENDING as ENDING_WORD,
-  EXTENSION,
-  HEADING as HEADING_WORD,
-  PATH,
-  claimantIn,
-  claimedUnder,
-} from "../index/claim/claim.ts"
+import { ENDING_WORD, EXTENSION_WORD, HEADING_WORD } from "../index/identity/identity.ts"
+import { fileTargetOf } from "../index/relation/relation.ts"
 import { listField } from "../frontmatter.ts"
 import type { PageAt } from "../page.ts"
 import { NONE, PAGE_TYPE_SLUG, stringAt } from "../text/text.ts"
@@ -33,6 +26,8 @@ const DIRTY = "dirty/"
 
 const DOT = "."
 
+const PART = "/"
+
 const REGISTRY_DIRS: readonly string[] = ["pages/page-type/", "page-types/", "pages/rules-engine-rule-set/"]
 
 function saidAt(at: PageAt): string {
@@ -43,6 +38,14 @@ function extensionOf(relPath: string): string | null {
   const name = relPath.slice(relPath.lastIndexOf("/") + 1)
   const dot = name.lastIndexOf(DOT)
   return dot <= 0 ? null : name.slice(dot + 1)
+}
+
+function endingsOf(relPath: string): readonly string[] {
+  const name = relPath.slice(relPath.lastIndexOf(PART) + 1)
+  const parts = name.split(DOT)
+  const found: string[] = []
+  for (let at = parts.length - 2; at >= 1; at--) found.push(parts.slice(at).join(DOT))
+  return found
 }
 
 function pointing(at: PageAt, key: string, index: AddressIndex): readonly PageAt[] {
@@ -146,7 +149,7 @@ export function requiredReadingFor(
   at: PageAt,
   text: string | null,
   index: AddressIndex,
-  claims: Claims,
+  naming: readonly string[],
   rootOfRepo: (repo: string) => string | undefined
 ): readonly PageAt[] {
   if (at.repo === INSTRUCTIONS && at.key.startsWith(DIRTY)) return []
@@ -158,17 +161,16 @@ export function requiredReadingFor(
   const declaredBy = packageFor(at, rootOfRepo(at.repo), index)
   if (declaredBy !== null) seeds.push(declaredBy)
   const extension = extensionOf(at.key)
-  const kind = extension === null ? null : claimantIn(claims, EXTENSION, extension)
+  const kind = extension === null ? null : index.pageNamed(EXTENSION_WORD, extension)
   if (kind !== null) seeds.push(kind)
-  for (const ending of claimedUnder(claims, ENDING_WORD)) {
-    if (!at.key.endsWith(`${DOT}${ending}`)) continue
-    const page = claimantIn(claims, ENDING_WORD, ending)
+  for (const ending of endingsOf(at.key)) {
+    const page = index.pageNamed(ENDING_WORD, ending)
     if (page !== null) seeds.push(page)
   }
-  const names = claimantIn(claims, PATH, `${at.repo}:${at.key}`)
-  if (names !== null) seeds.push(names)
+  const target = fileTargetOf(`${at.repo}:${at.key}`)
+  for (const relation of naming) seeds.push(...index.pagesFrom(relation, target))
   for (const heading of sectionsIn(text)) {
-    const page = claimantIn(claims, HEADING_WORD, heading)
+    const page = index.pageNamed(HEADING_WORD, heading)
     if (page !== null) seeds.push(page)
   }
 

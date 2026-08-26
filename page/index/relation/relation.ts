@@ -1,7 +1,7 @@
 import { listField } from "../../frontmatter.ts"
-import type { PageAt } from "../../page.ts"
 import { NONE, stringAt } from "../../text/text.ts"
-import { type Held, type Resolve, kindOf } from "../identity/identity.ts"
+import { BY_FILE, type Held, type Resolve, kindOf } from "../identity/identity.ts"
+import { pageTargetOf } from "../place/place.ts"
 
 const DEFINITION = "page-property-definition"
 
@@ -21,6 +21,10 @@ const PAGE_TYPE_SLUG = "page-type-slug"
 
 const ADDRESS_JOIN = "/"
 
+const REPO_MARK = /^([a-z][a-z0-9-]*):(\S)/
+
+const INSTRUCTIONS = "instructions"
+
 export type Relation = {
   readonly key: string
   readonly kind: string
@@ -29,7 +33,14 @@ export type Relation = {
 
 export type Reached = {
   readonly relation: string
-  readonly to: PageAt
+  readonly target: string
+}
+
+export function fileTargetOf(stated: string): string {
+  const marked = REPO_MARK.exec(stated)
+  if (marked === null) return `${INSTRUCTIONS}${ADDRESS_JOIN}${stated}`
+  const repo = marked[1] as string
+  return `${repo}${ADDRESS_JOIN}${stated.slice(repo.length + 1)}`
 }
 
 function tailOf(stated: string | null): string | null {
@@ -86,6 +97,12 @@ export function relationsOver(pages: readonly Held[]): ReadonlyMap<string, reado
   return made
 }
 
+function targetOf(relation: Relation, value: string, resolve: Resolve): string | null {
+  if (relation.kind === BY_FILE) return fileTargetOf(value)
+  const to = resolve(relation.kind, relation.target, value)
+  return to === null ? null : pageTargetOf(to.stem, to.type)
+}
+
 export function reachedFrom(
   at: Held,
   relations: ReadonlyMap<string, readonly Relation[]>,
@@ -97,12 +114,12 @@ export function reachedFrom(
   for (const relation of relations.get(type) ?? []) {
     for (const value of listField(at.fm, relation.key)) {
       if (value === "" || value === NONE) continue
-      const to = resolve(relation.kind, relation.target, value)
-      if (to === null) continue
-      const said = `${relation.key} ${to.repo} ${to.key}`
+      const target = targetOf(relation, value, resolve)
+      if (target === null) continue
+      const said = `${relation.key} ${target}`
       if (seen.has(said)) continue
       seen.add(said)
-      found.push({ relation: relation.key, to })
+      found.push({ relation: relation.key, target })
     }
   }
   return found
