@@ -4,13 +4,15 @@ import { blockOf, NONE, stringAt } from "./text.ts"
 
 const PAGE_TYPE = "page-type"
 
+const RULE_SET = "rules-engine-rule-set"
+
+const REGISTRY: readonly string[] = [PAGE_TYPE, RULE_SET]
+
+const SLUG_KEY = "slug"
+
 const EXTENDS_KEY = "extends-slug"
 
 const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
-
-export function addressOf(type: string, slug: string): string {
-  return `${type}/${slug}`
-}
 
 export function slugPart(value: string | null): string | null {
   if (value === null || value === NONE) return null
@@ -20,17 +22,15 @@ export function slugPart(value: string | null): string | null {
 
 export interface AddressIndex {
   readonly frontmatterOf: (at: PageAt) => Frontmatter | null
-  readonly atAddress: (address: string) => PageAt | null
-  readonly above: (pageTypeSlug: string) => string | null
+  readonly domainAt: (address: string) => PageAt | null
+  readonly pageTypeNamed: (stem: string) => PageAt | null
+  readonly above: (stem: string) => string | null
 }
 
 export function addressIndexOver(
-  pages: Iterable<PageAt>,
+  lending: readonly PageAt[],
   bodyOf: (at: PageAt) => string | null
 ): AddressIndex {
-  const byAddress = new Map<string, PageAt>()
-  for (const at of pages) byAddress.set(addressOf(at.type, at.stem), at)
-
   const held = new Map<string, Frontmatter | null>()
   const frontmatterOf = (at: PageAt): Frontmatter | null => {
     const key = `${at.repo}:${at.key}`
@@ -46,16 +46,35 @@ export function addressIndexOver(
     return made
   }
 
-  const atAddress = (address: string): PageAt | null => byAddress.get(address) ?? null
+  const ordered = [...lending].sort((a, b) => (a.key < b.key ? -1 : a.key > b.key ? 1 : 0))
+  const bySlug = new Map<string, PageAt>()
+  const byStem = new Map<string, PageAt>()
+  for (const at of ordered) {
+    if (REGISTRY.includes(at.type) && !byStem.has(at.stem)) byStem.set(at.stem, at)
+    const fm = frontmatterOf(at)
+    if (fm === null) continue
+    const slug = stringAt(fm, SLUG_KEY)
+    if (slug !== null && !bySlug.has(slug)) bySlug.set(slug, at)
+  }
+
+  const domainAt = (address: string): PageAt | null => {
+    const direct = bySlug.get(address)
+    if (direct !== undefined) return direct
+    const part = slugPart(address)
+    return part === null ? null : bySlug.get(part) ?? null
+  }
+
+  const pageTypeNamed = (stem: string): PageAt | null => byStem.get(stem) ?? null
 
   return {
     frontmatterOf,
-    atAddress,
-    above: (pageTypeSlug) => {
-      const at = atAddress(addressOf(PAGE_TYPE, pageTypeSlug))
+    domainAt,
+    pageTypeNamed,
+    above: (stem) => {
+      const at = pageTypeNamed(stem)
       if (at === null) return null
       const fm = frontmatterOf(at)
-      return fm === null ? null : slugPart(stringAt(fm, EXTENDS_KEY))
+      return fm === null ? null : stringAt(fm, EXTENDS_KEY)
     },
   }
 }
