@@ -1,12 +1,12 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
 import { edgesFrom, nodeAt } from "../graph/ask.ts"
 import { IMPORT_EDGE } from "../graph/edge-producer/typescript.ts"
 import { AKASHA } from "../graph/roots.ts"
 import type { BuildContext, NodeRef } from "../graph/node-shape.ts"
-import { type Input, oidOf } from "./mark.ts"
+import type { Input } from "./mark.ts"
+import { oidsUnder } from "./oid.ts"
 
 export function closureOf(root: string, entry: string): readonly Input[] {
+  const oids = oidsUnder(root, null)
   const ctx: BuildContext = { roots: { [AKASHA]: root } }
   const waiting: NodeRef[] = [{ repo: AKASHA, key: entry }]
   const seen = new Set<string>()
@@ -18,7 +18,9 @@ export function closureOf(root: string, entry: string): readonly Input[] {
     seen.add(ref.key)
     const node = nodeAt(ctx, ref)
     if (node === null) continue
-    inputs.push({ path: ref.key, oid: oidOf(readFileSync(join(root, ref.key))) })
+    const oid = oids.get(ref.key)
+    if (oid === undefined) continue
+    inputs.push({ path: ref.key, oid })
     for (const edge of edgesFrom(ctx, node, IMPORT_EDGE)) waiting.push(edge.to)
   }
   return inputs

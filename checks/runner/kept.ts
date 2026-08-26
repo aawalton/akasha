@@ -10,7 +10,7 @@ import {
   outcomeMarkOf,
 } from "../../cache/check-outcome.ts"
 import { KEEP_KIND, keepUnder } from "../../cache/keep.ts"
-import { oidOf } from "../../cache/mark.ts"
+import { oidOfBody } from "../../cache/oid.ts"
 import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check-shape.ts"
 import { type Held, runAll } from "./all.ts"
 import { outcomesOf } from "./outcome.ts"
@@ -31,7 +31,7 @@ function answerless(check: Check): boolean {
 
 function under(check: Check, tree: Tree, subject: Subject): string {
   if (check.needs !== "path") return subject.oid
-  return oidOf(Buffer.from(relative(tree.root, subject.at)))
+  return oidOfBody(tree.root, Buffer.from(relative(tree.root, subject.at)))
 }
 
 export function runKept(

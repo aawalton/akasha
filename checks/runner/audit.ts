@@ -1,5 +1,6 @@
+import { relative } from "node:path"
 import { answersAt } from "../../cache/answer.ts"
-import { oidOf } from "../../cache/mark.ts"
+import { oidsUnder } from "../../cache/oid.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
 import { onDisk } from "../tree.ts"
 import { judgesAuthor } from "./all.ts"
@@ -7,11 +8,12 @@ import { runKept, type Subject } from "./kept.ts"
 
 export function runAudit(checks: readonly Check[], root: string): readonly CheckRun[] {
   const tree = onDisk(root)
+  const oids = oidsUnder(root, null)
   const subjects: Subject[] = []
   for (const path of tree.paths()) {
-    const body = tree.at(path)
-    if (body === null) continue
-    subjects.push({ at: path, oid: oidOf(body) })
+    const oid = oids.get(relative(root, path))
+    if (oid === undefined) continue
+    subjects.push({ at: path, oid })
   }
   const answers = answersAt(root)
   const runtime = `bun-${process.versions.bun ?? "unknown"}`

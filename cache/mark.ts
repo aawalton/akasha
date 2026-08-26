@@ -5,10 +5,6 @@ export type Input = {
   readonly oid: string
 }
 
-export function oidOf(body: Buffer): string {
-  return createHash("sha256").update(body).digest("hex")
-}
-
 function inOrder(inputs: readonly Input[]): readonly Input[] {
   return [...inputs].sort((one, next) =>
     one.path < next.path ? -1 : one.path > next.path ? 1 : 0
