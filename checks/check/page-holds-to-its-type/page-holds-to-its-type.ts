@@ -1,4 +1,5 @@
-import { claiming, type PageType } from "../../../page/page-types.ts"
+import { isAttachmentFile } from "../../../page/attachment-file.ts"
+import { claiming, globFor, type PageType, placesOf, reposOf } from "../../../page/page-types.ts"
 import type { FileTree } from "../../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../../page/property/frontmatter.ts"
 import { judgeFrontmatter } from "../../../page/property/judge.ts"
@@ -6,7 +7,9 @@ import { registryOf } from "../../../page/property/registry.ts"
 import { aboveOf, shapeFor } from "../../../page/shape/chain.ts"
 import { hold } from "../../../page/shape/shape.ts"
 import { partOutsideShape } from "../../../page/shape/words.ts"
+import { isRowsFile } from "../../../page/rows-file.ts"
 import { locate } from "../../../repo/roots/roots.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
 import { rowsHeldBy, rowsOutside } from "./rows.ts"
 import { treeOver } from "./staged-tree.ts"
@@ -33,6 +36,31 @@ function outsideProperties(body: string, type: PageType, tree: FileTree): readon
   return verdict.why === null ? verdict.refusals : []
 }
 
+function claimedElsewhere(
+  relPath: string,
+  repo: string,
+  types: readonly PageType[]
+): readonly string[] {
+  if (isAttachmentFile(relPath) || isRowsFile(relPath)) return []
+  const found: string[] = []
+  for (const one of types) {
+    const claimed = reposOf(one)
+    if (claimed.length === 0 || claimed.includes(repo)) continue
+    const glob = placesOf(one).find((each) => globFor(each).match(relPath))
+    if (glob === undefined) continue
+    found.push(
+      refusalText("claimed-by-another-repo", {
+        path: relPath,
+        type: one.slug,
+        claimed: claimed.join(", "),
+        glob,
+        addressed: repo,
+      })
+    )
+  }
+  return found
+}
+
 export const pageHoldsToItsType: Check = {
   slug: "page-holds-to-its-type",
   needs: "tree",
@@ -57,6 +85,10 @@ export const pageHoldsToItsType: Check = {
         continue
       }
       const owners = claiming(at.relPath, at.repo, types)
+      if (owners.length === 0) {
+        for (const reason of claimedElsewhere(at.relPath, at.repo, types)) failures.push({ path, reason })
+        continue
+      }
       if (owners.length !== 1) continue
       const type = owners[0] as PageType
       for (const reason of outsideShape(at.relPath, text, type, tree)) failures.push({ path, reason })
