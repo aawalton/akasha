@@ -3,7 +3,7 @@ import {
   type DescendingRung,
   descendingRing,
   fixed,
-} from "./circle.ts"
+} from "./ring.ts"
 
 const DAILY_INBOX_RUNGS: readonly DescendingRung[] = [
   { at: 100, color: "black" },

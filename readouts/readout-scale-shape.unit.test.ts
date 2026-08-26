@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { DailyTierColor } from "./circle/tier/tier.ts"
+import type { DailyTierColor } from "./ring/tier/tier.ts"
 import {
   type ReadoutScale,
   readoutRing,

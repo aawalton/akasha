@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { GREEN_DAY_UNITS_LADDER } from "./circle/ladder/ladder.ts"
+import { GREEN_DAY_UNITS_LADDER } from "./ring/ladder/ladder.ts"
 import {
   drawnAsResolved,
   resolveStoplightMean,

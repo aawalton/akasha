@@ -1,4 +1,4 @@
-import type { ReadingUnit } from "../circle.ts"
+import type { ReadingUnit } from "../ring.ts"
 
 const MEASURE_DRAWN_AS: Readonly<Record<string, ReadingUnit>> = {
   hours: "hours",

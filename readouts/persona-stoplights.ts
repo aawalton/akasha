@@ -1,10 +1,10 @@
 import { comparePageSeq } from "../page/page-seq.ts"
-import type { DailyTierColor } from "./circle/tier/tier.ts"
+import type { DailyTierColor } from "./ring/tier/tier.ts"
 import type { ReadoutSortOrder } from "./readout-catalog.ts"
-import { readingUnitOf } from "./circle/measure/measure.ts"
+import { readingUnitOf } from "./ring/measure/measure.ts"
 import { type Ask, drawnOrder, type ResolvedReadout, readReadoutGroupReadings, resolveReadoutGroup } from "./readout-resolver.ts"
 import { readoutRing } from "./readout-scale-shape.ts"
-import type { StoplightRing } from "./circle/circle.ts"
+import type { StoplightRing } from "./ring/ring.ts"
 import { type PersonaDayUnits, readPersonaDaily } from "./daily-stoplights.ts"
 
 const PERSONAS_GROUP_SLUG = "personas"

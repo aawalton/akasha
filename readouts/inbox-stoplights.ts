@@ -1,6 +1,6 @@
-import type { DailyTierColor } from "./circle/tier/tier.ts"
+import type { DailyTierColor } from "./ring/tier/tier.ts"
 import { resolveReadoutGroupLegend } from "./readout-resolver.ts"
-import type { StoplightRing } from "./circle/circle.ts"
+import type { StoplightRing } from "./ring/ring.ts"
 import { readReadoutGroupRings, type UpkeepArgs } from "./upkeep-stoplights.ts"
 
 const INBOX_GROUP_SLUG = "inboxes"
