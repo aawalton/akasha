@@ -1,16 +1,13 @@
-import { execFileSync, spawn } from "node:child_process"
+import { execFileSync } from "node:child_process"
 import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { writerId } from "../../agent/writer.ts"
 import { checksOnPatch } from "../../checks/checks.ts"
 import { applying, runGate } from "../../checks/run/gate.ts"
-import { GATED } from "./gated.ts"
 
 export const HERE = realpathSync(resolve(import.meta.dir, "..", ".."))
 
-export const INSTRUCTIONS = process.env.INSTRUCTIONS_ROOT ?? resolve(HERE, "..", "instructions")
-
-export const SCRATCH = "/var/tmp"
+const SCRATCH = "/var/tmp"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
 
@@ -26,8 +23,8 @@ export function fail(reason: string): never {
   process.exit(1)
 }
 
-function git(index: string | null, args: readonly string[]): Buffer {
-  return execFileSync("git", ["-C", HERE, ...args], {
+function git(root: string, index: string | null, args: readonly string[]): Buffer {
+  return execFileSync("git", ["-C", root, ...args], {
     maxBuffer: BUFFER_CEILING,
     env: index === null ? process.env : { ...process.env, GIT_INDEX_FILE: index },
   })
@@ -39,18 +36,6 @@ export function valueOf(argv: readonly string[], name: string): string | null {
   const value = argv[at + 1]
   if (value === undefined) fail(`${name} needs a value`)
   return value
-}
-
-export function without(argv: readonly string[], name: string): readonly string[] {
-  const kept: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    if (argv[at] === name) {
-      at += 1
-      continue
-    }
-    kept.push(argv[at] as string)
-  }
-  return kept
 }
 
 export function payloadText(argv: readonly string[], wanted: boolean): string | null {
@@ -72,56 +57,43 @@ export function payloadText(argv: readonly string[], wanted: boolean): string | 
   }
 }
 
-export function inside(pathish: string): string | null {
-  const absolute = resolve(process.cwd(), pathish)
-  return absolute.startsWith(`${HERE}/`) ? absolute.slice(HERE.length + 1) : null
-}
-
-export function mustBeInside(pathish: string): string {
-  const relPath = inside(pathish)
-  if (relPath === null) fail(`${pathish} is not inside ${HERE}, so nothing says where it would land`)
-  return relPath
-}
-
-export function bodyFile(content: string): string {
-  const at = `${mkdtempSync(`${SCRATCH}/mp-body-`)}/body`
-  writeFileSync(at, content)
-  return at
-}
-
-function modeOf(index: string, relPath: string): string {
-  const staged = git(index, ["ls-files", "--stage", "--", relPath]).toString("utf8").trim()
+function modeOf(root: string, index: string, relPath: string): string {
+  const staged = git(root, index, ["ls-files", "--stage", "--", relPath]).toString("utf8").trim()
   const mode = staged.split(/\s+/)[0]
   return mode === undefined || mode === "" ? DEFAULT_MODE : mode
 }
 
-export function patchText(landings: readonly Landing[], removals: readonly string[] = []): string {
+export function patchText(
+  landings: readonly Landing[],
+  removals: readonly string[] = [],
+  root: string = HERE
+): string {
   const index = `${mkdtempSync(`${SCRATCH}/mp-write-`)}.index`
   try {
-    git(index, ["read-tree", "HEAD"])
+    git(root, index, ["read-tree", "HEAD"])
     for (const one of landings) {
-      const sha = git(index, ["hash-object", "-w", "--path", one.relPath, one.from])
+      const sha = git(root, index, ["hash-object", "-w", "--path", one.relPath, one.from])
         .toString("utf8")
         .trim()
-      const mode = modeOf(index, one.relPath)
-      git(index, ["update-index", "--add", "--cacheinfo", `${mode},${sha},${one.relPath}`])
+      const mode = modeOf(root, index, one.relPath)
+      git(root, index, ["update-index", "--add", "--cacheinfo", `${mode},${sha},${one.relPath}`])
     }
     for (const relPath of removals) {
-      git(index, ["update-index", "--force-remove", relPath])
+      git(root, index, ["update-index", "--force-remove", relPath])
     }
-    return git(index, ["diff", "--cached", "--binary", "HEAD"]).toString("utf8")
+    return git(root, index, ["diff", "--cached", "--binary", "HEAD"]).toString("utf8")
   } finally {
     rmSync(index, { force: true })
   }
 }
 
-export function refusalsOver(patch: string, mechanical: boolean): readonly string[] {
+function refusalsOver(patch: string, mechanical: boolean, root: string): readonly string[] {
   const held = mkdtempSync(`${SCRATCH}/mp-gate-`)
   const file = `${held}/change.patch`
   try {
     writeFileSync(file, patch)
     const said: string[] = []
-    const asked = { root: HERE, file, writer: writerId(), mechanical }
+    const asked = { root, file, writer: writerId(), mechanical }
     for (const ran of runGate(checksOnPatch(), asked)) {
       if ("threw" in ran) {
         said.push(`${ran.slug} threw: ${ran.threw}`)
@@ -135,12 +107,17 @@ export function refusalsOver(patch: string, mechanical: boolean): readonly strin
   }
 }
 
-export function gateOrRefuse(patch: string, mechanical: boolean, changed: number): void {
+export function gateOrRefuse(
+  patch: string,
+  mechanical: boolean,
+  changed: number,
+  root: string = HERE
+): void {
   if (patch.trim() === "") {
     process.stderr.write("gate: no line differs from what stands, so no check had anything to judge\n")
     return
   }
-  const refused = refusalsOver(patch, mechanical)
+  const refused = refusalsOver(patch, mechanical, root)
   if (refused.length > 0) {
     process.stderr.write(`${refused.join("\n")}\nnothing was written\n`)
     process.exit(1)
@@ -148,23 +125,4 @@ export function gateOrRefuse(patch: string, mechanical: boolean, changed: number
   process.stderr.write(
     `gate: ${applying(checksOnPatch(), mechanical).length} akasha check(s) over ${changed} changed file(s), none refused\n`
   )
-}
-
-export function runTool(tool: string, argv: readonly string[], catching: boolean): Promise<string> {
-  const at = `${INSTRUCTIONS}/tools/${tool}`
-  return new Promise<string>((resolve_, reject) => {
-    const child = spawn(process.execPath, [at, ...argv], {
-      stdio: catching ? ["ignore", "pipe", "pipe"] : "inherit",
-      env: { ...process.env, INSTRUCTIONS_ROOT: INSTRUCTIONS, [GATED]: "1" },
-    })
-    let out = ""
-    child.stdout?.on("data", (chunk: Buffer) => {
-      out += chunk.toString()
-    })
-    child.on("error", () => reject(new Error(`${at} could not be run`)))
-    child.on("close", (code) => {
-      if (!catching && code !== 0) process.exitCode = code ?? 0
-      resolve_(out.trim())
-    })
-  })
 }
