@@ -25,6 +25,8 @@ const SUBAGENT_MARK = "--"
 
 const ID_KEY = "id"
 
+const SUBAGENT_ID_KEY = "subagent-id"
+
 export type Span = readonly [number, number]
 
 export interface Reading {
@@ -83,10 +85,26 @@ function seatPageWithId(id: string): string | null {
   return null
 }
 
+function subagentPageWith(childId: string): string | null {
+  if (!existsSync(SUBAGENT_DIR)) return null
+  for (const name of readdirSync(SUBAGENT_DIR)) {
+    if (!name.endsWith(SUBAGENT_SUFFIX)) continue
+    const at = `${SUBAGENT_DIR}/${name}`
+    try {
+      if (textField(parseFrontmatter(readFileSync(at, "utf8")), SUBAGENT_ID_KEY) === childId) return at
+    } catch {
+      continue
+    }
+  }
+  return null
+}
+
 export function agentPageFor(writer: string): string | null {
-  if (writer.includes(SUBAGENT_MARK)) {
-    const at = `${SUBAGENT_DIR}/${writer}${SUBAGENT_SUFFIX}`
-    if (existsSync(at)) return at
+  const mark = writer.indexOf(SUBAGENT_MARK)
+  if (mark > 0) {
+    const named = `${SUBAGENT_DIR}/${writer}${SUBAGENT_SUFFIX}`
+    if (existsSync(named)) return named
+    return subagentPageWith(writer.slice(mark + SUBAGENT_MARK.length))
   }
   return seatPageWithId(writer)
 }
