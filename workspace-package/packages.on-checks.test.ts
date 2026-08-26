@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
-import { linkedInto, NO_PACKAGES, packagesAt, pathOf } from "./packages.ts"
+import { installedInto, linkedInto, NO_PACKAGES, packagesAt, pathOf } from "./packages.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -129,5 +129,52 @@ test("a tree with no packages gets no node_modules", () => {
     expect(existsSync(`${root}/node_modules`)).toBe(false)
   } finally {
     rmSync(root, { recursive: true, force: true })
+  }
+})
+
+function installed(names: readonly string[]): string {
+  const root = mkdtempSync(`${SCRATCH}/installed-`)
+  for (const name of names) mkdirSync(`${root}/node_modules/${name}`, { recursive: true })
+  return root
+}
+
+test("an installed package is linked into the tree being checked", () => {
+  const root = installed(["zod"])
+  const dir = mkdtempSync(`${SCRATCH}/patched-`)
+  try {
+    expect(installedInto(root, dir)).toEqual(["zod"])
+    expect(realpathSync(`${dir}/node_modules/zod`)).toBe(`${realpathSync(root)}/node_modules/zod`)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+    rmSync(dir, { recursive: true, force: true })
+  }
+})
+
+test("a scoped package is linked one name at a time, leaving the scope a directory", () => {
+  const root = installed(["@types/bun"])
+  const dir = mkdtempSync(`${SCRATCH}/patched-`)
+  try {
+    expect(installedInto(root, dir)).toEqual(["@types/bun"])
+    mkdirSync(`${dir}/packages/page`, { recursive: true })
+    writeFileSync(`${dir}/package.json`, JSON.stringify({ workspaces: ["packages/*"] }))
+    writeFileSync(`${dir}/packages/page/package.json`, JSON.stringify({ name: "@types/page" }))
+    linkedInto(dir)
+    expect(existsSync(`${dir}/node_modules/@types/bun`)).toBe(true)
+    expect(existsSync(`${root}/node_modules/@types/page`)).toBe(false)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+    rmSync(dir, { recursive: true, force: true })
+  }
+})
+
+test("a repository with nothing installed links nothing", () => {
+  const root = mkdtempSync(`${SCRATCH}/installed-`)
+  const dir = mkdtempSync(`${SCRATCH}/patched-`)
+  try {
+    expect(installedInto(root, dir)).toEqual([])
+    expect(existsSync(`${dir}/node_modules`)).toBe(false)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+    rmSync(dir, { recursive: true, force: true })
   }
 })
