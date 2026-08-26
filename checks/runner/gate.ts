@@ -2,8 +2,9 @@ import { execFileSync } from "node:child_process"
 import { mkdtempSync, rmSync } from "node:fs"
 import { resolve } from "node:path"
 import { answersAt } from "../../cache/answer.ts"
+import { closureOf } from "../../cache/closure.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
-import { treeOn } from "../tree.ts"
+import { trackedIn, treeOn } from "../tree.ts"
 import { runKept, type Subject } from "./kept.ts"
 
 const SCRATCH = "/var/tmp"
@@ -53,6 +54,7 @@ function oidsIn(patch: Patch, index: string): ReadonlyMap<string, string> {
 
 export function runGate(checks: readonly Check[], patch: Patch): readonly CheckRun[] {
   const index = `${mkdtempSync(`${SCRATCH}/gate-`)}.index`
+  let made: string | null = null
   try {
     const landing = changedBy(patch, index)
     const oids = oidsIn(patch, index)
@@ -65,11 +67,20 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
       if (oid !== undefined) subjects.push({ at, oid })
     }
     for (const relPath of named(patch, index, "D")) changed.set(resolve(patch.root, relPath), null)
-    const tree = treeOn(patch.root, changed)
+    const dir = (): string => {
+      if (made === null) {
+        made = mkdtempSync(`${SCRATCH}/patched-`)
+        git(patch, index, ["checkout-index", "--all", `--prefix=${made}/`])
+      }
+      return made
+    }
+    const tree = treeOn(patch.root, changed, () => trackedIn(patch.root, index), dir)
     const answers = answersAt(patch.root)
+    const closure = closureOf(patch.root)
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
-    return checks.map((check) => runKept(check, subjects, runtime, answers, tree))
+    return checks.map((check) => runKept(check, subjects, closure, runtime, answers, tree))
   } finally {
     rmSync(index, { force: true })
+    if (made !== null) rmSync(made, { recursive: true, force: true })
   }
 }

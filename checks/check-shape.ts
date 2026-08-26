@@ -6,6 +6,8 @@ export type CheckFailure = {
 export type Tree = {
   readonly root: string
   readonly at: (path: string) => Buffer | null
+  readonly paths: () => readonly string[]
+  readonly dir: () => string
 }
 
 export type Check = {

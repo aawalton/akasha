@@ -1,37 +1,6 @@
-import { dirname, relative, resolve } from "node:path"
+import { relative } from "node:path"
 import type { Check, CheckFailure } from "../check-shape.ts"
-
-const CODE = new Set(["ts", "tsx", "mts", "cts", "js", "jsx", "mjs", "cjs"])
-
-const SPECIFIERS: readonly RegExp[] = [
-  /\bfrom\s*["']([^"']+)["']/g,
-  /\bimport\s*["']([^"']+)["']/g,
-  /\bimport\s*\(\s*["']([^"']+)["']/g,
-  /\brequire\s*\(\s*["']([^"']+)["']/g,
-]
-
-function carriesCode(path: string): boolean {
-  const dot = path.lastIndexOf(".")
-  return dot !== -1 && CODE.has(path.slice(dot + 1))
-}
-
-function specifiersIn(text: string): readonly string[] {
-  const found = new Set<string>()
-  for (const pattern of SPECIFIERS) {
-    for (const match of text.matchAll(pattern)) {
-      const specifier = match[1]
-      if (specifier !== undefined) found.add(specifier)
-    }
-  }
-  return [...found]
-}
-
-function reachOf(specifier: string, path: string, root: string): string | null {
-  if (!specifier.startsWith(".") && !specifier.startsWith("/")) return null
-  const at = specifier.startsWith("/") ? specifier : resolve(dirname(path), specifier)
-  const outward = relative(root, at)
-  return outward === ".." || outward.startsWith("../") ? outward : null
-}
+import { carriesCode, specifiersIn, targetOf } from "../imports.ts"
 
 export const importReach: Check = {
   slug: "import-reach",
@@ -42,8 +11,10 @@ export const importReach: Check = {
       const body = tree.at(path)
       if (body === null) continue
       for (const specifier of specifiersIn(body.toString("utf8"))) {
-        const outward = reachOf(specifier, path, tree.root)
-        if (outward === null) continue
+        const target = targetOf(path, specifier)
+        if (target === null) continue
+        const outward = relative(tree.root, target)
+        if (outward !== ".." && !outward.startsWith("../")) continue
         failures.push({
           path,
           reason: `imports \`${specifier}\`, which is \`${outward}\` — outside this repository`,
