@@ -5,7 +5,7 @@ export type CheckFailure = {
 
 export type Check = {
   readonly slug: string
-  readonly run: (paths: readonly string[]) => readonly CheckFailure[]
+  readonly run: (paths: readonly string[], root: string) => readonly CheckFailure[]
 }
 
 export type Outcome = {

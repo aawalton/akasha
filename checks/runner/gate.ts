@@ -46,7 +46,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
       writeFileSync(at, git(patch, index, ["cat-file", "blob", `:${rel}`]))
       inRepo.set(at, resolve(patch.root, rel))
     }
-    return runAll(checks, [...inRepo.keys()]).map((ran) =>
+    return runAll(checks, [...inRepo.keys()], overlay).map((ran) =>
       "threw" in ran
         ? ran
         : {
