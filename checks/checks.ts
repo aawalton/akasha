@@ -1,4 +1,5 @@
 import type { Check } from "./check/check-shape.ts"
+import exportDeclaredHere from "./check/export-declared-here/export-declared-here.ts"
 import fileLength from "./check/file-length/file-length.ts"
 import importReach from "./check/import-reach/import-reach.ts"
 import inboundImportResolves from "./check/inbound-import-resolves/inbound-import-resolves.ts"
@@ -12,6 +13,7 @@ export const CHECKS: readonly Check[] = [
   readBeforeWrite,
   readWhatIsRequired,
   fileLength,
+  exportDeclaredHere,
   importReach,
   inboundImportResolves,
   pageNameUnique,
