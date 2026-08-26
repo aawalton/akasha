@@ -183,14 +183,3 @@ export function markLanded(repo: string, root: string): void {
   marks[repo] = markFor(root)
   keepBuiltFrom(marks)
 }
-
-export function updateHere(
-  source: Source,
-  root: string,
-  beforeText: string | null,
-  afterText: string | null
-): number {
-  const touched = landHere([{ source, before: beforeText, after: afterText }])
-  markLanded(source.repo, root)
-  return touched
-}
