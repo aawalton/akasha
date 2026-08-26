@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs"
 import { onceInCall } from "../../cache/during-call.ts"
+import { canonicalize } from "../../repo/path/path.ts"
 import { isAttachmentFile } from "../attachment-file.ts"
 import { listField, parseFrontmatter, textField } from "../frontmatter.ts"
 import { definitionOf } from "../definition/definition.ts"
@@ -121,6 +122,22 @@ function readVocabulary(root: string): Vocabulary {
     }
   }
   return { words, carries, children, parents, retired, coined, slugAt }
+}
+
+export function loadedFrom(
+  paths: Iterable<string>,
+  root: string,
+  vocabulary: Vocabulary
+): ReadonlySet<string> {
+  const loaded = new Set<string>()
+  const within = `${canonicalize(root)}/`
+  for (const absolute of paths) {
+    const real = canonicalize(absolute)
+    if (!real.startsWith(within)) continue
+    const slug = vocabulary.slugAt.get(real.slice(within.length))
+    if (slug !== undefined) loaded.add(slug)
+  }
+  return loaded
 }
 
 export function frontierOf(
