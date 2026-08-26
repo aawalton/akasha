@@ -7,6 +7,8 @@ import { applying, runGate } from "../../checks/run/gate.ts"
 
 export const HERE = realpathSync(resolve(import.meta.dir, "..", ".."))
 
+export const GATED = "AKASHA_CHECKS_RAN"
+
 const SCRATCH = "/var/tmp"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
