@@ -10,7 +10,7 @@ import {
   textAt,
 } from "../../../instructions/tools/page/page-types.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import type { FileNode } from "../node-producer/file.ts"
+import { BORROWED_PAGE_TYPES } from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 export type Reference = {
@@ -93,6 +93,7 @@ function reached(ctx: BuildContext, named: string, reference: Reference): NodeRe
   const address = addressParts(named)
   const pageType = address === null ? reference.toPageType : address.type
   if (pageType === null) return null
+  if (!BORROWED_PAGE_TYPES.includes(pageType)) return null
   const slug = address === null ? named : address.slug
   return pagesNamed(ctx, pageType).get(slug) ?? null
 }
