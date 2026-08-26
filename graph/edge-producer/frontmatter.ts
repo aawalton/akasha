@@ -1,16 +1,14 @@
-import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
-import { diskFileTree } from "../../../instructions/tools/page/page-file-tree.ts"
-import { registryOf } from "../../../instructions/tools/page/page-registry.ts"
 import {
-  blockOf,
-  NONE,
-  type PageType,
-  pagesOf,
-  stringAt,
-  textAt,
-} from "../../../instructions/tools/page/page-types.ts"
+  type BorrowedPageType,
+  BORROWED_PAGE_TYPES,
+  BORROWED_REPO,
+  borrowedPageTypes,
+  borrowedPages,
+} from "../../page/borrowed.ts"
+import { type Frontmatter, listField } from "../../page/frontmatter.ts"
+import { blockOf, NONE, stringAt, textAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import { AKASHA, BORROWED_PAGE_TYPES } from "../node-producer/file.ts"
+import { AKASHA, namedBy, trackedIn } from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
@@ -42,7 +40,7 @@ export type Relation = {
 }
 
 type Standing = {
-  registry: readonly PageType[] | null
+  registry: readonly BorrowedPageType[] | null
   relations: ReadonlyMap<string, readonly Relation[]> | null
   readonly named: Map<string, ReadonlyMap<string, NodeRef>>
 }
@@ -57,10 +55,11 @@ function standingIn(ctx: BuildContext): Standing {
   return made
 }
 
-function registryIn(ctx: BuildContext): readonly PageType[] {
+function registryIn(ctx: BuildContext): readonly BorrowedPageType[] {
   const standing = standingIn(ctx)
   if (standing.registry !== null) return standing.registry
-  const made = registryOf(diskFileTree(ctx.roots))
+  const root = ctx.roots[BORROWED_REPO]
+  const made = root === undefined ? [] : borrowedPageTypes(root)
   standing.registry = made
   return made
 }
@@ -78,25 +77,20 @@ function slugNamed(named: string | null): string | null {
 
 function declaredIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]> {
   const made = new Map<string, Relation[]>()
-  for (const pageType of registryIn(ctx)) {
-    if (pageType.slug !== DEFINITION_PAGE_TYPE) continue
-    const repo = pageType.repo
-    if (repo === null) continue
-    const root = ctx.roots[repo]
-    if (root === undefined) continue
-    for (const key of pagesOf(root, pageType)) {
-      const text = textAt(root, key)
-      if (text === null) continue
-      const { fm, why } = blockOf(text)
-      if (why !== null) continue
-      if (!(stringAt(fm, "type") ?? "").includes(RELATION)) continue
-      const on = slugNamed(stringAt(fm, "defined-on-slug"))
-      const stated = stringAt(fm, "key")
-      if (on === null || stated === null) continue
-      const held = made.get(on) ?? []
-      held.push({ key: stated, target: slugNamed(stringAt(fm, "target-slug")) })
-      made.set(on, held)
-    }
+  const root = ctx.roots[BORROWED_REPO]
+  if (root === undefined) return made
+  for (const key of borrowedPages(root, DEFINITION_PAGE_TYPE)) {
+    const text = textAt(root, key)
+    if (text === null) continue
+    const { fm, why } = blockOf(text)
+    if (why !== null) continue
+    if (!(stringAt(fm, "type") ?? "").includes(RELATION)) continue
+    const on = slugNamed(stringAt(fm, "defined-on-slug"))
+    const stated = stringAt(fm, "key")
+    if (on === null || stated === null) continue
+    const held = made.get(on) ?? []
+    held.push({ key: stated, target: slugNamed(stringAt(fm, "target-slug")) })
+    made.set(on, held)
   }
   return made
 }
@@ -124,22 +118,23 @@ function relationsIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]
   return made
 }
 
+function keysOf(ctx: BuildContext, repo: string, pageType: string): readonly string[] {
+  const root = ctx.roots[repo]
+  if (root === undefined) return []
+  if (repo === BORROWED_REPO) return borrowedPages(root, pageType)
+  return trackedIn(root).filter((one) => namedBy(one)["page-type-slug"] === pageType)
+}
+
 function pagesNamed(ctx: BuildContext, pageType: string): ReadonlyMap<string, NodeRef> {
   const standing = standingIn(ctx)
   const held = standing.named.get(pageType)
   if (held !== undefined) return held
   const made = new Map<string, NodeRef>()
-  for (const one of registryIn(ctx)) {
-    if (one.slug !== pageType) continue
-    const repo = one.repo
-    if (repo === null) continue
-    const root = ctx.roots[repo]
-    if (root === undefined) continue
-    for (const key of pagesOf(root, one)) {
-      const stem = stemOf(key)
-      if (made.has(stem)) continue
-      made.set(stem, { repo, key })
-    }
+  const repo = BORROWED_PAGE_TYPES.includes(pageType) ? BORROWED_REPO : AKASHA
+  for (const key of keysOf(ctx, repo, pageType)) {
+    const stem = stemOf(key)
+    if (made.has(stem)) continue
+    made.set(stem, { repo, key })
   }
   standing.named.set(pageType, made)
   return made

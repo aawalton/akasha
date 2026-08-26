@@ -1,13 +1,6 @@
 import { execFileSync } from "node:child_process"
-import { diskFileTree } from "../../../instructions/tools/page/page-file-tree.ts"
-import { registryOf } from "../../../instructions/tools/page/page-registry.ts"
-import {
-  blockOf,
-  PAGE_TYPE_SLUG,
-  pagesOf,
-  stringAt,
-  textAt,
-} from "../../../instructions/tools/page/page-types.ts"
+import { BORROWED_PAGE_TYPES, BORROWED_REPO, borrowedPages } from "../../page/borrowed.ts"
+import { blockOf, PAGE_TYPE_SLUG, stringAt, textAt } from "../../page/text.ts"
 import type { BuildContext, NodeProducer, NodeRef } from "../node-shape.ts"
 
 export const FILE_NODE_KIND = "file"
@@ -17,13 +10,6 @@ export const AKASHA = "akasha"
 const PAGE_EXTENSION = "md"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
-
-export const BORROWED_PAGE_TYPES: readonly string[] = [
-  "page-type",
-  "page-property-type",
-  "page-property-definition",
-  "file-kind-domain",
-]
 
 export type FileNodeAttrs = {
   readonly "file-stem": string
@@ -36,7 +22,7 @@ export type FileNode = NodeRef & {
   readonly attrs: FileNodeAttrs
 }
 
-function trackedIn(root: string, key: string | null = null): readonly string[] {
+export function trackedIn(root: string, key: string | null = null): readonly string[] {
   const listed = execFileSync(
     "git",
     key === null ? ["-C", root, "ls-files", "-z"] : ["-C", root, "ls-files", "-z", "--", key],
@@ -102,20 +88,18 @@ export const fileNodeProducer: NodeProducer<FileNode> = {
         nodes.push(nodeOf(AKASHA, key, namedBy(key)))
       }
     }
-    for (const pageType of registryOf(diskFileTree(ctx.roots))) {
-      if (!BORROWED_PAGE_TYPES.includes(pageType.slug)) continue
-      const repo = pageType.repo
-      if (repo === null) continue
-      const root = ctx.roots[repo]
-      if (root === undefined) continue
-      for (const key of pagesOf(root, pageType)) {
-        const at = `${repo}:${key}`
-        if (standing.has(at)) continue
-        standing.add(at)
-        const attrs = namedBy(key)
-        nodes.push(
-          nodeOf(repo, key, { ...attrs, "page-type-slug": attrs["page-type-slug"] ?? pageType.slug })
-        )
+    const lending = ctx.roots[BORROWED_REPO]
+    if (lending !== undefined) {
+      for (const slug of BORROWED_PAGE_TYPES) {
+        for (const key of borrowedPages(lending, slug)) {
+          const at = `${BORROWED_REPO}:${key}`
+          if (standing.has(at)) continue
+          standing.add(at)
+          const attrs = namedBy(key)
+          nodes.push(
+            nodeOf(BORROWED_REPO, key, { ...attrs, "page-type-slug": attrs["page-type-slug"] ?? slug })
+          )
+        }
       }
     }
     return nodes
