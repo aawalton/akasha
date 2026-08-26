@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>atlas</title>
+    <style>
+      :root { color-scheme: light dark; }
+      body { font-family: -apple-system, sans-serif; margin: 0; padding: 1.5rem;
+        line-height: 1.4; display: flex; min-height: 80vh; align-items: center;
+        justify-content: center; text-align: center; }
+      .box { max-width: 22rem; }
+      h1 { font-size: 1.15rem; }
+      p { font-size: 0.95rem; opacity: 0.8; }
+      .hidden { display: none; }
+    </style>
+  </head>
+  <body>
+    <!-- LOCAL bundled entry (webDir=www). On launch it redirects to the live
+         atlas.alanwalton.com site when online, or shows a friendly message when
+         offline. This local-entry-redirect is the only reliable boot pattern on
+         iOS WKWebView — `errorPath` hangs on cold-start offline. The shell has no
+         offline product, so offline is just a graceful message, not a feature. -->
+    <div class="box">
+      <div id="splash" class="hidden">
+        <h1>Opening atlas…</h1>
+      </div>
+      <div id="offline" class="hidden">
+        <h1>You're offline</h1>
+        <p>atlas needs a connection. Reconnect and reopen the app.</p>
+      </div>
+    </div>
+
+    <script>
+      const LIVE_URL = "https://atlas.alanwalton.com";
+      const splashEl = document.getElementById("splash");
+      const offlineEl = document.getElementById("offline");
+
+      if (navigator.onLine) {
+        splashEl.classList.remove("hidden");
+        // Brief tick so the splash paints before the navigation swap.
+        setTimeout(() => { window.location.replace(LIVE_URL); }, 50);
+      } else {
+        offlineEl.classList.remove("hidden");
+      }
+    </script>
+  </body>
+</html>
