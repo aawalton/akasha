@@ -26,14 +26,14 @@ export function rootEnvName(repo: string): string {
   return `${repo.replaceAll("-", "_").toUpperCase()}_ROOT`
 }
 
-const OWN = process.env[rootEnvName(INSTRUCTIONS)] ?? resolve(HERE, "..", INSTRUCTIONS)
+const BESIDE = resolve(HERE, "..", INSTRUCTIONS)
 
 export function ownRepoRoot(): string {
-  return OWN
+  return BESIDE
 }
 
 function namedOnDisk(): readonly string[] {
-  const at = `${OWN}/${REPO_PAGES}`
+  const at = `${BESIDE}/${REPO_PAGES}`
   const found = new Set<string>()
   for (const one of readdirSync(at)) {
     const named = pageNameOf(one)
@@ -75,15 +75,15 @@ export function isVendored(relPath: string): boolean {
 
 export function repoPagePath(repo: string): string {
   const stem = `${repo}${REPO_ENDING}`
-  return `${OWN}/${pageFileIn(OWN, REPO_PAGES, stem) ?? `${REPO_PAGES}/${stem}.md`}`
+  return `${BESIDE}/${pageFileIn(BESIDE, REPO_PAGES, stem) ?? `${REPO_PAGES}/${stem}.md`}`
 }
 
 function rootOf(repo: string): string {
   const stated = process.env[rootEnvName(repo)]
   if (stated !== undefined) return resolve(stated)
-  if (repo === INSTRUCTIONS) return OWN
+  if (repo === INSTRUCTIONS) return BESIDE
   if (repo === AKASHA) return HERE
-  return resolve(OWN, "..", repo)
+  return resolve(BESIDE, "..", repo)
 }
 
 export function akashaRoot(): string {
