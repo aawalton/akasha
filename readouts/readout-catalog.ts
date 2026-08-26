@@ -16,8 +16,6 @@ const SLUG = "slug"
 const EXTENDS_SLUG = "extends-slug"
 const FILES = "files"
 
-export type { Roots }
-
 let held: Roots | null = null
 
 function akashaRoot(): string {

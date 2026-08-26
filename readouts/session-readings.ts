@@ -2,8 +2,6 @@ import { dayAfter } from "../day/calendar-day.ts"
 import { nyWallToInstant } from "../day/reset-times.ts"
 import { type Ask, askOr } from "./readout-resolver.ts"
 
-export { dayAfter }
-
 export const SESSIONS_QUERY = "session-tracking-all"
 
 export const WAKE_HOUR = 6

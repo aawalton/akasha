@@ -12,8 +12,6 @@ import {
   readoutShape,
 } from "./readout-scale-shape.ts"
 
-export { readoutCircle } from "./readout-scale-shape.ts"
-
 export type Given = Readonly<Record<string, string | readonly string[]>>
 
 export type QueryRow = {
