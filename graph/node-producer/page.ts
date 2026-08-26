@@ -1,4 +1,3 @@
-import type { Roots } from "../../../instructions/tools/lib/roots.ts"
 import { diskFileTree } from "../../../instructions/tools/page/page-file-tree.ts"
 import { registryOf } from "../../../instructions/tools/page/page-registry.ts"
 import {
@@ -8,19 +7,11 @@ import {
   stringAt,
   textAt,
 } from "../../../instructions/tools/page/page-types.ts"
+import type { NodeProducer, NodeRef } from "../node-shape.ts"
 
 export const PAGE_NODE_KIND = "page"
 
 const SLUG = "slug"
-
-export type BuildContext = {
-  readonly roots: Roots
-}
-
-export type NodeRef = {
-  readonly repo: string
-  readonly key: string
-}
 
 export type PageNodeAttrs = {
   readonly slug: string | null
@@ -30,12 +21,6 @@ export type PageNodeAttrs = {
 export type PageNode = NodeRef & {
   readonly kind: typeof PAGE_NODE_KIND
   readonly attrs: PageNodeAttrs
-}
-
-export type NodeProducer<Node extends NodeRef> = {
-  readonly name: string
-  readonly nodeKinds: readonly string[]
-  readonly build: (ctx: BuildContext) => readonly Node[]
 }
 
 function pageNodeAt(root: string, relPath: string, claimedBy: string): PageNodeAttrs | null {

@@ -1,6 +1,7 @@
 import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
 import { blockOf, NONE, textAt } from "../../../instructions/tools/page/page-types.ts"
-import type { BuildContext, NodeRef, PageNode } from "../node-producer/page.ts"
+import type { PageNode } from "../node-producer/page.ts"
+import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 const SHARED_REPO = "instructions"
 
@@ -33,7 +34,12 @@ export const REFERENCES: readonly Reference[] = [
     toPageType: "page-type",
   },
   { key: "domain-parent-slug", kind: "domain-parent", fromPageType: null, toPageType: null },
-  { key: "narrows-slug", kind: "narrows", fromPageType: "page-property-definition", toPageType: "page-type" },
+  {
+    key: "narrows-slug",
+    kind: "narrows",
+    fromPageType: "page-property-definition",
+    toPageType: "page-type",
+  },
   { key: "sequence-slugs", kind: "sequence", fromPageType: null, toPageType: null },
   { key: "required-reading-slugs", kind: "required-reading", fromPageType: null, toPageType: null },
 ]
@@ -87,7 +93,8 @@ export const frontmatterEdgeProducer: EdgeProducer = {
       const { fm, why } = blockOf(text)
       if (why !== null) continue
       for (const reference of REFERENCES) {
-        if (reference.fromPageType !== null && page.attrs.pageTypeSlug !== reference.fromPageType) continue
+        if (reference.fromPageType !== null && page.attrs.pageTypeSlug !== reference.fromPageType)
+          continue
         for (const slug of namesIn(fm, reference)) {
           const to = named(slug, page, reference, index)
           if (to === null) continue
