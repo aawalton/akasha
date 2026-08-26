@@ -20,9 +20,9 @@ Every check of a project's files reads the declaration files that project claims
 
 # Intent
 
-A file is checked under the project that claims it.
+A file belongs to the nearest `tsconfig.json` above it, whether or not that file's paths name it.
 
-Every file no declared project takes belongs to the default project.
+Every file with no `tsconfig.json` above it belongs to the default project.
 
 A `tsconfig.json` carrying another compiler's own key is that compiler's, and none of its files are judged here.
 
