@@ -9,4 +9,4 @@ nodes-slugs:
 
 # Definition
 
-- **File** — the producer that emits a node for each tracked akasha file, and each page type and property page.
+- **File** — the producer that emits a node for each tracked akasha file, and each page the graph needs.

@@ -15,4 +15,4 @@ attributes-slugs:
 
 # Design
 
-A page type, a page property type and a page property definition have a node wherever they are.
+A page type, page property type, page property definition or file kind outside akasha has a node.

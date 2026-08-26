@@ -16,6 +16,7 @@ export const SCHEMA_PAGE_TYPES: readonly string[] = [
   "page-type",
   "page-property-type",
   "page-property-definition",
+  "file-kind-domain",
 ]
 
 export type FileNodeAttrs = {
