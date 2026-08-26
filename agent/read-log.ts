@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
-import { akashaRoot } from "../graph/roots.ts"
+import { akashaRoot } from "../repo/roots.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { coveredTo, type Span } from "./read-records.ts"
 import { SUBAGENT_MARK } from "./writer.ts"

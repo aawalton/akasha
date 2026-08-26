@@ -1,5 +1,5 @@
 import { pagesOver } from "../graph/page-index.ts"
-import { rootsHere } from "../graph/roots.ts"
+import { rootsHere } from "../repo/roots.ts"
 import { type AddressIndex, addressIndexOver } from "./address-index.ts"
 import type { PageAt } from "./page-at.ts"
 import { trackedIn } from "./pages.ts"

@@ -3,8 +3,8 @@ import { readFileSync, statSync } from "node:fs"
 import { difference } from "../repo/difference.ts"
 import { blobId, readBlob } from "../repo/git.ts"
 import { countLines, type Reading, type Span } from "./read-log.ts"
-import { isGeneratedFile } from "../file/generated-file.ts"
-import { decodeUtf8, leadingBytes } from "../file/utf8-body.ts"
+import { isGeneratedFile } from "../generated-file/generated-file.ts"
+import { decodeUtf8, leadingBytes } from "./command/read/utf8-body.ts"
 
 function whenText(at: number): string {
   return new Date(at).toISOString().replace("T", " ").slice(0, 19)
