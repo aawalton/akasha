@@ -3,7 +3,7 @@ import * as luaCore from "../../LuaAST-core"
 import * as luaStatements from "../../LuaAST-statements"
 import * as luaExpressions from "../../LuaAST-expressions"
 import { assert, cast } from "../../utils"
-import { assertNever } from "../../../vendor/utils-narrow/src/assert-never"
+import { assertNever } from "../../assert-never"
 import { tempSymbolId } from "../context/temp-symbol-id"
 import { type TransformationContext } from "../context/transformation-context"
 import {

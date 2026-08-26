@@ -1,7 +1,7 @@
 import * as ts from "typescript"
 import * as luaStatements from "../../../LuaAST-statements"
 import * as luaExpressions from "../../../LuaAST-expressions"
-import { assertNever } from "../../../../vendor/utils-narrow/src/assert-never"
+import { assertNever } from "../../../assert-never"
 import type { TransformationContext } from "../../context/transformation-context"
 import type { FunctionVisitor } from "../../context/visitors"
 import {

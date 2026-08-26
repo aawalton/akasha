@@ -1,4 +1,4 @@
-import { requireGet } from "../vendor/utils-narrow/src/require-get"
+import { requireGet } from "./require-get"
 import { z } from "zod"
 import { LuaTarget } from "./CompilerOptions"
 import * as luaStatements from "./LuaAST-statements"
