@@ -1,4 +1,4 @@
-import type { Roots } from "../page/page-at.ts"
+import type { Roots } from "../../page/page-at.ts"
 
 export type Said = {
   readonly of: (name: string, repo: string, key: string, work: () => unknown) => unknown

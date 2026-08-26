@@ -5,7 +5,7 @@ import pathEdgeProducer from "./edge-producer/path.ts"
 import typescriptEdgeProducer from "./edge-producer/typescript.ts"
 import type { EdgeInit, EdgeProducer } from "./edge-shape.ts"
 import fileNodeProducer, { type FileNode } from "./node-producer/file.ts"
-import type { BuildContext, NodeRef } from "./node-shape.ts"
+import type { BuildContext, NodeRef } from "./build-context/build-context.ts"
 
 export const EDGE_PRODUCERS: readonly EdgeProducer[] = [
   frontmatterEdgeProducer,

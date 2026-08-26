@@ -1,6 +1,6 @@
 import { stringAt } from "../../page/text.ts"
 import { frontmatterAt } from "../frontmatter-at/frontmatter-at.ts"
-import type { BuildContext } from "../node-shape.ts"
+import type { BuildContext } from "../build-context/build-context.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { pagesOfType } from "../page-index/page-index.ts"
 

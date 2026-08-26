@@ -1,7 +1,7 @@
 import { stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../frontmatter-at/frontmatter-at.ts"
-import type { BuildContext, NodeRef } from "../node-shape.ts"
+import type { BuildContext, NodeRef } from "../build-context/build-context.ts"
 import { saidAt } from "../../page/page-at.ts"
 import { pagesOfType } from "../page-index/page-index.ts"
 

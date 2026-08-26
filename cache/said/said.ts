@@ -1,6 +1,6 @@
-import type { BuildContext, Said } from "../../graph/node-shape.ts"
+import type { BuildContext, Said } from "../../graph/build-context/build-context.ts"
 import type { Roots } from "../../page/page-at.ts"
-import { KEEPS_NOTHING } from "../../graph/node-shape.ts"
+import { KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
 import { type Key, answerAt, answersAt, cacheAnswer, sweep } from "../cache.ts"
 import { closureOf } from "../closure/closure.ts"

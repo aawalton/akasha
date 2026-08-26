@@ -1,5 +1,5 @@
 import type { FileNode } from "./node-producer/file.ts"
-import type { BuildContext, NodeRef } from "./node-shape.ts"
+import type { BuildContext, NodeRef } from "./build-context/build-context.ts"
 
 export type EdgeAttrs = Readonly<Record<string, string>>
 

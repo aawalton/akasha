@@ -1,4 +1,4 @@
-import type { BuildContext, NodeProducer, NodeRef } from "../node-shape.ts"
+import type { BuildContext, NodeProducer, NodeRef } from "../build-context/build-context.ts"
 import { pageNameOf } from "../../page/page-name.ts"
 import { trackedIn } from "../../page/pages.ts"
 

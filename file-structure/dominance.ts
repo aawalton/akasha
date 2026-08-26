@@ -4,7 +4,7 @@ import { relative, resolve } from "node:path"
 import { edgesInto, nodesIn } from "../graph/ask.ts"
 import { CODE_EDGE } from "../graph/edge-producer/beside.ts"
 import { IMPORT_EDGE } from "../graph/edge-producer/typescript.ts"
-import { KEEPS_NOTHING } from "../graph/node-shape.ts"
+import { KEEPS_NOTHING } from "../graph/build-context/build-context.ts"
 import { AKASHA, rootsHere } from "../repo/roots/roots.ts"
 
 const ROOT_FOLDER = "."

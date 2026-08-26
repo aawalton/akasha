@@ -1,7 +1,7 @@
 import { relative } from "node:path"
 import { sweep } from "../../cache/cache.ts"
 import { closureOf } from "../../cache/closure/closure.ts"
-import type { BuildContext } from "../../graph/node-shape.ts"
+import type { BuildContext } from "../../graph/build-context/build-context.ts"
 import {
   cacheOutcome,
   cachedOutcome,
