@@ -20,6 +20,8 @@ const COLOR_GLYPH: Readonly<Record<DailyTierColor, string>> = {
 }
 
 const UPKEEP_GROUP_SLUG = "upkeep"
+const SAFETY_GROUP_SLUG = "safety"
+const SURPLUS_GROUP_SLUG = "surplus"
 
 export async function getUpkeepLegend(): Promise<string> {
   return resolveReadoutGroupLegend(UPKEEP_GROUP_SLUG)
@@ -124,6 +126,18 @@ export async function getUpkeepStoplightTiers(
   args: UpkeepArgs
 ): Promise<readonly UpkeepStoplight[]> {
   return getReadoutGroupStoplights(UPKEEP_GROUP_SLUG, args)
+}
+
+export async function getSafetyStoplightTiers(
+  args: UpkeepArgs
+): Promise<readonly UpkeepStoplight[]> {
+  return getReadoutGroupStoplights(SAFETY_GROUP_SLUG, args)
+}
+
+export async function getSurplusStoplightTiers(
+  args: UpkeepArgs
+): Promise<readonly UpkeepStoplight[]> {
+  return getReadoutGroupStoplights(SURPLUS_GROUP_SLUG, args)
 }
 
 export async function getUpkeepStoplights(args: UpkeepArgs): Promise<string> {
