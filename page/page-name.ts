@@ -16,7 +16,3 @@ export function pageNameOf(key: string): PageName | null {
   if (dot <= 0 || dot === rest.length - 1) return null
   return { stem: rest.slice(0, dot), type: rest.slice(dot + 1) }
 }
-
-export function pageNameSaid(name: PageName): string {
-  return `${name.type}/${name.stem}`
-}

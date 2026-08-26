@@ -1,11 +1,12 @@
 import { type Frontmatter, listField } from "../../page/frontmatter.ts"
+import { type Resolve, type Stated, kindOf, resolveOver } from "../../page/index/identity.ts"
 import { NONE, stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../frontmatter-at.ts"
-import { addressParts, slugNamed } from "../page-address.ts"
-import { inheritedIn } from "../page-type-above.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
-import { type PageAt, pageNamed, pagesOfType } from "../page-index.ts"
+import { slugNamed } from "../page-address.ts"
+import { type PageAt, pageIndexIn, pagesOfType } from "../page-index.ts"
+import { inheritedIn } from "../page-type-above.ts"
 
 export const RELATION_EDGE = "relation"
 
@@ -13,14 +14,21 @@ const RELATION_KEY = "relation-key"
 
 const DEFINITION_PAGE_TYPE = "page-property-definition"
 
-const RELATION = "relation"
+const ID = "id"
+
+const SLUG = "slug"
+
+const SEQ = "seq"
 
 export type Relation = {
   readonly key: string
+  readonly kind: string
   readonly target: string | null
 }
 
 const HELD = new WeakMap<BuildContext, ReadonlyMap<string, readonly Relation[]>>()
+
+const RESOLVING = new WeakMap<BuildContext, Resolve>()
 
 function frontOf(ctx: BuildContext, at: PageAt): Frontmatter | null {
   return frontmatterAt(ctx, at.repo, at.key)
@@ -31,12 +39,13 @@ function declaredIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]>
   for (const at of pagesOfType(ctx, DEFINITION_PAGE_TYPE)) {
     const fm = frontOf(ctx, at)
     if (fm === null) continue
-    if (!(stringAt(fm, "type") ?? "").includes(RELATION)) continue
+    const kind = kindOf(stringAt(fm, "type") ?? "")
+    if (kind === null) continue
     const on = slugNamed(stringAt(fm, "defined-on-slug"))
     const stated = stringAt(fm, "key")
     if (on === null || stated === null) continue
     const held = made.get(on) ?? []
-    held.push({ key: stated, target: slugNamed(stringAt(fm, "target-slug")) })
+    held.push({ key: stated, kind, target: slugNamed(stringAt(fm, "target-slug")) })
     made.set(on, held)
   }
   return made
@@ -50,12 +59,32 @@ function relationsIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]
   return made
 }
 
+function resolvingIn(ctx: BuildContext): Resolve {
+  const held = RESOLVING.get(ctx)
+  if (held !== undefined) return held
+  const stated: Stated[] = []
+  for (const [, pages] of pageIndexIn(ctx).byType) {
+    for (const at of pages) {
+      const fm = frontOf(ctx, at)
+      if (fm === null) continue
+      stated.push({
+        repo: at.repo,
+        key: at.key,
+        stem: at.stem,
+        type: at.type,
+        id: stringAt(fm, ID),
+        slug: stringAt(fm, SLUG),
+        seq: stringAt(fm, SEQ),
+      })
+    }
+  }
+  const made = resolveOver(stated)
+  RESOLVING.set(ctx, made)
+  return made
+}
+
 function reached(ctx: BuildContext, named: string, relation: Relation): NodeRef | null {
-  const address = addressParts(named)
-  const pageType = address === null ? relation.target : address.type
-  if (pageType === null) return null
-  const slug = address === null ? named : address.slug
-  return pageNamed(ctx, pageType, slug)
+  return resolvingIn(ctx)(relation.kind, relation.target, named)
 }
 
 function namesIn(fm: Frontmatter, relation: Relation): readonly string[] {

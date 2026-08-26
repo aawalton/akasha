@@ -69,6 +69,7 @@ export interface Touched {
 export function locate(absolute: string): Touched | null {
   const at = canonicalize(absolute)
   for (const [repo, root] of Object.entries(rootsHere())) {
+    if (root === undefined) continue
     const real = canonicalize(root)
     if (at === real) return { repo, relPath: "" }
     if (at.startsWith(`${real}/`)) return { repo, relPath: at.slice(real.length + 1) }
