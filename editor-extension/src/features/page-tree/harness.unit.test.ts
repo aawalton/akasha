@@ -182,10 +182,32 @@ describe('countPages', () => {
 	});
 });
 
+const rooted = (row: QueryRow) =>
+	assemblePageTree({ types: [row], properties: [], propertyTypes: [], domains: [] }, REPO);
+
 describe('documentPath', () => {
-	test('joins the relative path onto the repo the tree names', () => {
+	test('opens a row under the repository the row itself names', () => {
 		expect(documentPath(TREE, TREE.roots[0] as PageNode))
-			.toBe(`${REPO}/pages/page-type/page.md`);
+			.toMatch(/\/instructions\/pages\/page-type\/page\.md$/);
+	});
+
+	/**
+	 * THE WHOLE REASON A ROW CARRIES ITS REPOSITORY. A page type lives where its domain lives, so the
+	 * same answer holds rows from instructions and rows from akasha, and each has to open from its
+	 * own root rather than from the one the panel is watching.
+	 */
+	test('a row from another repository opens under that repository, not under the watched one', () => {
+		const tree = rooted({
+			at: 'akasha:readouts/readout.page-type.md',
+			values: { slug: 'readout', 'extends-slug': 'none' },
+		});
+		expect(documentPath(tree, tree.roots[0] as PageNode))
+			.toMatch(/\/akasha\/readouts\/readout\.page-type\.md$/);
+	});
+
+	test('a row naming a repository this cannot place has no path rather than one into nowhere', () => {
+		const tree = rooted({ at: 'books:shelf/one.md', values: { slug: 'one', 'extends-slug': 'none' } });
+		expect(documentPath(tree, tree.roots[0] as PageNode)).toBeUndefined();
 	});
 
 	/**

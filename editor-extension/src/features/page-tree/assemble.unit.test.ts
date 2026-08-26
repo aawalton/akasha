@@ -100,7 +100,7 @@ describe('assemblePageTree, the page type tree', () => {
 		expect(leaf?.id).toBe('type/page/properties/page-body');
 		expect(leaf?.label).toBe('body');
 		expect(leaf?.detail).toBe('template');
-		expect(leaf?.at).toBe('pages/page-property-definition/page-body.md');
+		expect(leaf?.at).toBe(at('pages/page-property-definition/page-body.md'));
 	});
 
 	test('the `properties` row stands before the subtypes, and opens nothing itself', () => {
@@ -140,7 +140,7 @@ describe('assemblePageTree, the property type vocabulary', () => {
 		const vocabulary = assemblePageTree(WHOLE, REPO).roots[1] as PageNode;
 		expect(vocabulary.id).toBe('vocabulary');
 		expect(vocabulary.label).toBe('page property types');
-		expect(vocabulary.at).toBe('pages/page-type/page-property-type.md');
+		expect(vocabulary.at).toBe(at('pages/page-type/page-property-type.md'));
 	});
 
 	test('groups the property types by kind, settled kinds first and the rest alphabetically', () => {
@@ -155,7 +155,7 @@ describe('assemblePageTree, the property type vocabulary', () => {
 
 	test('a kind opens the domain naming it, found by the slug that domain carries', () => {
 		const vocabulary = assemblePageTree(WHOLE, REPO).roots[1] as PageNode;
-		expect(vocabulary.children[0]?.at).toBe('pages/domain/page-property-type-primitive.md');
+		expect(vocabulary.children[0]?.at).toBe(at('pages/domain/page-property-type-primitive.md'));
 	});
 
 	test('a kind with no domain naming it draws, and opens nothing, rather than being left out', () => {
@@ -271,15 +271,15 @@ describe('assemblePageTree, what it reports rather than draws', () => {
 	});
 
 	/**
-	 * `PageTree.repo` is one root, so a row from another repository joined onto it would point at a
-	 * file that is not there — a click that fails after Alan has already made it.
+	 * A page type and its property definitions live where their domain lives, so one answer carries
+	 * rows from more than one repository. A row cut down to a bare path would open under whichever
+	 * repository the panel happened to be watching, which is a click that fails after Alan made it.
 	 */
-	test('a row naming another repository is refused rather than joined onto this one', () => {
+	test('a row from another repository keeps that repository on it rather than being refused', () => {
 		const foreign = answers({
-			types: [{ at: 'books:pages/page-type/page.md', values: { slug: 'page', 'extends-slug': 'none' } }],
+			types: [{ at: 'akasha:readouts/readout.page-type.md', values: { slug: 'readout', 'extends-slug': 'none' } }],
 		});
-		expect(() => assemblePageTree(foreign, REPO)).toThrow(/books/);
-		expect(() => assemblePageTree(foreign, REPO)).toThrow(/cannot place/);
+		expect(assemblePageTree(foreign, REPO).roots[0]?.at).toBe('akasha:readouts/readout.page-type.md');
 	});
 
 	test('a row whose `at` carries no repository is refused rather than read as a bare path', () => {
