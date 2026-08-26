@@ -5,6 +5,12 @@ import { type Input, markOf } from "./mark.ts"
 
 export const OUTCOME_KIND = "outcome"
 
+const CHECKS = "checks/check"
+
+export function entryOf(slug: string): string {
+  return `${CHECKS}/${slug}.ts`
+}
+
 export function outcomeMarkOf(
   slug: string,
   runtime: string,
