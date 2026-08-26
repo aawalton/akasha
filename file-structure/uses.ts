@@ -11,13 +11,24 @@ const ENTRY = "entry"
 
 export const help = {
   description:
-    "Print every file under a section with what points at it and by which edge, then tally each folder's doors. A file is an entry where something outside its own folder points at it, private where every pointer is inside that folder, a test where the runner reaches it rather than an importer, beside where it is a page sitting next to its own code, and unused where none of that holds. Pointers are gathered from every repository cloned here, not from akasha alone, and one from another repository is spelled with its repository first. Each mark is read against the file's own folder rather than against the section asked about, so a folder is answerable for the files it holds and never for what its subfolders expose.",
+    "Print every file under a section with what points at it and by which edge, then tally each folder's doors. Every folder under the section is tallied, including one holding no file of its own, which stands at zero rather than going unnamed. A file is an entry where something outside its own folder points at it, private where every pointer is inside that folder, a test where the runner reaches it rather than an importer, beside where it is a page sitting next to its own code, and unused where none of that holds. Pointers are gathered from every repository cloned here, not from akasha alone, and one from another repository is spelled with its repository first. Each mark is read against the file's own folder rather than against the section asked about, so a folder is answerable for the files it holds and never for what its subfolders expose.",
   positionals: [
     {
       name: "root",
       description: "The section to map. Defaults to the working directory.",
     },
   ],
+}
+
+function chainTo(from: string, to: string): readonly string[] {
+  const out = [from]
+  if (to === from) return out
+  let at = from
+  for (const part of to.slice(from.length + 1).split("/")) {
+    at = `${at}/${part}`
+    out.push(at)
+  }
+  return out
 }
 
 export default async function uses(argv: readonly string[]): Promise<void> {
@@ -51,7 +62,7 @@ export default async function uses(argv: readonly string[]): Promise<void> {
       if (held === undefined) doors.set(home, [node.key])
       else held.push(node.key)
     }
-    if (!doors.has(home)) doors.set(home, [])
+    for (const folder of chainTo(section.path, home)) if (!doors.has(folder)) doors.set(folder, [])
     console.log(`${node.key}  ${mark}  ${who.length}`)
     for (const one of who) console.log(`    ${one.kind}  ${one.from}`)
   }
