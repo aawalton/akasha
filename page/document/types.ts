@@ -51,9 +51,6 @@ export type Document = {
   span: Span
 }
 
-export type * from "./shape-types.ts"
-
-
 export type Refusal = {
   path: string
   span: Span
