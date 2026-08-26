@@ -12,20 +12,20 @@ import type { Roots } from "./page.ts"
 export const PAGES_ROOT = "pages"
 
 export const PAGE_TYPE_GLOBS: readonly string[] = [
-  suffixOf("page-type"),
-  suffixOf("rules-engine-rule-set"),
+  placeOf("page-type"),
+  placeOf("rules-engine-rule-set"),
 ]
 
-export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [suffixOf("page-body-shape")]
+export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [placeOf("page-body-shape")]
 
 export const PROPERTY_GLOBS: readonly string[] = [
-  suffixOf("page-property-definition"),
-  suffixOf("alan-harness-tracking-field"),
+  placeOf("page-property-definition"),
+  placeOf("alan-harness-tracking-field"),
 ]
 
 export const PAGE_GLOBS = [...PAGE_TYPE_GLOBS, ...PAGE_BODY_SHAPE_GLOBS, ...PROPERTY_GLOBS]
 
-export const PAGE_PROPERTY_TYPE_GLOB = suffixOf("page-property-type")
+export const PAGE_PROPERTY_TYPE_GLOB = placeOf("page-property-type")
 
 export const PAGE_SHAPE_GLOBS = [...PAGE_GLOBS, PAGE_PROPERTY_TYPE_GLOB]
 
@@ -216,10 +216,6 @@ export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
 export function pageTypePathIn(root: string, slug: string): string {
   const held = pageFileIn(root, placeDirOf("page-type"), slug)
   return held ?? `page-types/${slug}.md`
-}
-
-export function suffixOf(slug: string): string {
-  return `**/*.${slug}${MARKDOWN}`
 }
 
 export function placeOf(slug: string): string {
