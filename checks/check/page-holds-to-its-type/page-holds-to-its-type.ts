@@ -1,0 +1,69 @@
+import { claiming, type PageType } from "../../../page/page-types.ts"
+import type { FileTree } from "../../../page/file-tree.ts"
+import { compiledPageTypeFor } from "../../../page/property/frontmatter.ts"
+import { judgeFrontmatter } from "../../../page/property/judge.ts"
+import { registryOf } from "../../../page/property/registry.ts"
+import { aboveOf, shapeFor } from "../../../page/shape/chain.ts"
+import { hold } from "../../../page/shape/shape.ts"
+import { partOutsideShape } from "../../../page/shape/words.ts"
+import { locate } from "../../../repo/roots/roots.ts"
+import type { Check, CheckFailure } from "../check-shape.ts"
+import { rowsHeldBy, rowsOutside } from "./rows.ts"
+import { treeOver } from "./staged-tree.ts"
+
+const MARKDOWN = ".md"
+
+const ROWS = ".jsonl"
+
+function outsideShape(relPath: string, body: string, type: PageType, tree: FileTree): readonly string[] {
+  const shape = shapeFor(type, tree)
+  if (shape.compiled === null) return []
+  const { above } = aboveOf(relPath, body, tree)
+  if (above === null) return []
+  const verdict = hold(shape, relPath, body, above)
+  if (verdict.ok) return []
+  return verdict.refusals.map((one) => partOutsideShape(one, `line ${one.span.start.line}`))
+}
+
+function outsideProperties(body: string, type: PageType, tree: FileTree): readonly string[] {
+  const held = compiledPageTypeFor(type, tree)
+  const { properties } = held
+  if (properties === null || properties.length === 0) return []
+  const verdict = judgeFrontmatter(body, type.slug, properties, null, held)
+  return verdict.why === null ? verdict.refusals : []
+}
+
+export const pageHoldsToItsType: Check = {
+  slug: "page-holds-to-its-type",
+  needs: "tree",
+  run: (batch) => {
+    const judged = batch.paths.filter((one) => one.endsWith(MARKDOWN) || one.endsWith(ROWS))
+    if (judged.length === 0) return []
+    const tree = treeOver(batch)
+    if (tree === null) return []
+    const types = registryOf(tree)
+    if (types.length === 0) return []
+    const failures: CheckFailure[] = []
+    for (const path of judged) {
+      const body = batch.tree.at(path)
+      if (body === null) continue
+      const at = locate(path)
+      if (at === null) continue
+      const text = body.toString("utf8")
+      if (path.endsWith(ROWS)) {
+        const { slug, properties } = rowsHeldBy(at.relPath, at.repo, types, tree)
+        if (slug === null) continue
+        for (const reason of rowsOutside(text, slug, properties)) failures.push({ path, reason })
+        continue
+      }
+      const owners = claiming(at.relPath, at.repo, types)
+      if (owners.length !== 1) continue
+      const type = owners[0] as PageType
+      for (const reason of outsideShape(at.relPath, text, type, tree)) failures.push({ path, reason })
+      for (const reason of outsideProperties(text, type, tree)) failures.push({ path, reason })
+    }
+    return failures
+  },
+}
+
+export default pageHoldsToItsType
