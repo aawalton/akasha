@@ -28,9 +28,14 @@ test("a lockfile in a nested package over the ceiling passes", () => {
   expect(verdict("native-shell/smilingjenny/bun.lock", OVER)).toEqual([])
 })
 
+test("an npm lockfile over the ceiling passes", () => {
+  expect(verdict("native-shell/atlas/package-lock.json", OVER)).toEqual([])
+})
+
 test("a file merely named like a lockfile still fails", () => {
   expect(verdict("notes/bun.lock.txt", OVER)).toHaveLength(1)
   expect(verdict("notes/not-bun.lock", OVER)).toHaveLength(1)
+  expect(verdict("notes/my-package-lock.json", OVER)).toHaveLength(1)
 })
 
 test("a file under a generated directory over the ceiling passes", () => {
