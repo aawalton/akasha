@@ -32,6 +32,7 @@ function named(patch: Patch, index: string, filter: string): readonly string[] {
   const out = git(patch, index, [
     "diff",
     "--cached",
+    "--no-renames",
     "--name-only",
     `--diff-filter=${filter}`,
     "-z",
