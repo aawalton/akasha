@@ -3,7 +3,7 @@ import { isRowsFile } from "./rows-file.ts"
 import { isAttachmentFile } from "./attachment-file.ts"
 import { listField, type Frontmatter } from "./frontmatter.ts"
 import { notIgnored } from "../repo/ignored/ignored.ts"
-import { INSTRUCTIONS, reposNamed } from "../repo/roots/roots.ts"
+import { INSTRUCTIONS, REPOS } from "../repo/roots/roots.ts"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { stemOf } from "./name/name.ts"
 import { scannedFromIndex } from "./index/scan/scan.ts"
@@ -176,7 +176,7 @@ export function placeDirOf(slug: string): string {
 
 export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
   const placed = new Map<string, string>()
-  for (const repo of reposNamed()) {
+  for (const repo of REPOS) {
     let entries
     try {
       entries = readdirSync(`${roots[repo]}/${PAGES_ROOT}`, { withFileTypes: true })
@@ -216,7 +216,7 @@ export function filedIn(fm: Frontmatter): readonly Filed[] | null {
     if (cut < 0) return null
     const repo = text.slice(0, cut).trim()
     const place = text.slice(cut + 1).trim()
-    if (!reposNamed().includes(repo) || place === "") return null
+    if (!REPOS.includes(repo) || place === "") return null
     filed.push({ repo, place })
   }
   return filed

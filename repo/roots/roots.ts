@@ -10,8 +10,6 @@ export const AKASHA = "akasha"
 
 export const INSTRUCTIONS = "instructions"
 
-export const SIBLING = AKASHA
-
 export const HERE = resolve(import.meta.dir, "..", "..")
 
 export const QUARANTINE_ROOT = "dirty"
@@ -51,17 +49,9 @@ function namedOnDisk(): readonly string[] {
 
 export const REPOS = namedOnDisk()
 
-export const ADDRESSABLE = REPOS
-
-export type Addressable = Repo
-
 export const ADDRESSABLE_NAMED = REPOS.map((one) => `\`${one}\``).join(", ")
 
-export function reposNamed(): readonly string[] {
-  return REPOS
-}
-
-export function isAddressable(value: string): value is Addressable {
+export function isAddressable(value: string): value is Repo {
   return REPOS.includes(value)
 }
 
