@@ -9,4 +9,4 @@ cached: false
 
 # Definition
 
-- **File length** — fails a file over the ceiling.
+- **File length** — fails an authored file over the ceiling.
