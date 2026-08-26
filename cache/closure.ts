@@ -4,6 +4,12 @@ import { AKASHA } from "../graph/roots.ts"
 import type { BuildContext, NodeRef } from "../graph/node-shape.ts"
 import type { Input } from "./mark.ts"
 
+const ABSENT = "absent"
+
+function refKey(ref: NodeRef): string {
+  return `${ref.repo} ${ref.key}`
+}
+
 export function closureOf(
   ctx: BuildContext,
   entry: string,
@@ -15,13 +21,12 @@ export function closureOf(
   while (waiting.length > 0) {
     const ref = waiting.shift()
     if (ref === undefined) continue
-    if (seen.has(ref.key)) continue
-    seen.add(ref.key)
+    const at = refKey(ref)
+    if (seen.has(at)) continue
+    seen.add(at)
     const node = nodeAt(ctx, ref)
     if (node === null) continue
-    const oid = oids.get(ref.key)
-    if (oid === undefined) continue
-    inputs.push({ path: ref.key, oid })
+    inputs.push({ path: ref.key, oid: oids.get(ref.key) ?? ABSENT })
     for (const edge of edgesFrom(ctx, node, [IMPORT_EDGE])) waiting.push(edge.to)
   }
   return inputs
