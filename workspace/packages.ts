@@ -119,3 +119,13 @@ export function pathOf(packages: Packages, specifier: string): string | null {
   const within = withinOf(held.exports, rest === "" ? SELF : `${HERE}${rest}`)
   return within === null ? null : `${held.dir}/${within}`
 }
+
+const HELD = new Map<string, Packages>()
+
+export function packagesFor(root: string): Packages {
+  const held = HELD.get(root)
+  if (held !== undefined) return held
+  const found = packagesAt(root)
+  HELD.set(root, found)
+  return found
+}

@@ -1,5 +1,6 @@
 import { dirname, resolve } from "node:path"
 import { textAt } from "../../page/text.ts"
+import { packagesFor, pathOf } from "../../workspace/packages.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import fileNodeProducer from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
@@ -41,13 +42,24 @@ function refAt(ctx: BuildContext, at: string): NodeRef | null {
   return null
 }
 
-function relativeIn(ctx: BuildContext, root: string, repo: string, key: string): readonly string[] {
+function specifiersFor(
+  ctx: BuildContext,
+  root: string,
+  repo: string,
+  key: string
+): readonly string[] {
   const held = ctx.said.of(TYPESCRIPT_SAID, repo, key, () => {
     const text = textAt(root, key)
-    return text === null ? null : namedIn(text).filter((one) => one.startsWith(RELATIVE))
+    return text === null ? null : namedIn(text)
   })
   if (!Array.isArray(held)) return []
   return held.filter((one): one is string => typeof one === "string")
+}
+
+export function baseOf(root: string, from: string, named: string): string | null {
+  if (named.startsWith(RELATIVE)) return resolve(dirname(from), named)
+  const within = pathOf(packagesFor(root), named)
+  return within === null ? null : resolve(root, within)
 }
 
 export const typescriptEdgeProducer: EdgeProducer = {
@@ -59,9 +71,11 @@ export const typescriptEdgeProducer: EdgeProducer = {
     if (root === undefined) return []
     const from = resolve(root, file.key)
     const edges: EdgeInit[] = []
-    for (const named of relativeIn(ctx, root, file.repo, file.key)) {
+    for (const named of specifiersFor(ctx, root, file.repo, file.key)) {
+      const base = baseOf(root, from, named)
+      if (base === null) continue
       for (const tail of TAILS) {
-        const ref = refAt(ctx, resolve(dirname(from), `${named}${tail}`))
+        const ref = refAt(ctx, `${base}${tail}`)
         if (ref === null) continue
         if (fileNodeProducer.at(ctx, ref) === null) continue
         edges.push({

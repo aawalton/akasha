@@ -43,7 +43,7 @@ function reaching(tree: Tree, seeds: ReadonlySet<string>): ReadonlySet<string> {
     const body = tree.at(path)
     if (body === null) continue
     for (const specifier of specifiersIn(body.toString("utf8"))) {
-      const target = targetOf(path, specifier)
+      const target = targetOf(tree.root, path, specifier)
       if (target === null) continue
       importedBy.set(target, [...(importedBy.get(target) ?? []), path])
     }
