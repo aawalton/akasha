@@ -11,7 +11,7 @@ import {
 import { seatWarrantsFor } from "../../../agent/required-reading.ts"
 import { textAt } from "../../../page/text.ts"
 import { standingHere } from "../../../page/warrant-index.ts"
-import { refusalText } from "../../refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import type { Act, Batch, Check, CheckFailure } from "../check-shape.ts"
 
 const SLUG = "read-what-is-required"

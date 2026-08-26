@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { INSTRUCTIONS, rootsHere } from "../graph/roots.ts"
+import { INSTRUCTIONS, rootsHere } from "../../graph/roots.ts"
 
 const REFUSAL_DIR = "pages/refusal"
 
