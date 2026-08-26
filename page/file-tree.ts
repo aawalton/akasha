@@ -1,4 +1,4 @@
-import { onceInCall } from "../cache/during-call.ts"
+import { onceInCall } from "../during-call/during-call.ts"
 import { repoPlacings, scan, textAt } from "./page-types.ts"
 import type { Roots } from "./page.ts"
 

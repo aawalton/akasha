@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { onceInCall } from "../../cache/during-call.ts"
+import { onceInCall } from "../../during-call/during-call.ts"
 import { canonicalize } from "../../repo/path/path.ts"
 import { isAttachmentFile } from "../attachment-file.ts"
 import { listField, parseFrontmatter, textField } from "../frontmatter.ts"
