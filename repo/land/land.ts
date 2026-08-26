@@ -323,6 +323,12 @@ export function land(
     return null
   }
   const landed = landFiles({ repo, root, entries, message, removing, carrying, mechanical })
+  const missing = removing.filter((relPath) => !landed.gone.includes(relPath))
+  if (missing.length > 0) {
+    throw new LandingRefused(
+      `could not remove ${missing.join(", ")}: nothing stood there to take away`
+    )
+  }
   const behind = pushStandingLines(root)
   process.stdout.write(
     [
