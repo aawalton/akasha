@@ -1,5 +1,5 @@
-import { canonicalize, normalizeAbsolute, outOfBounds } from "../../../repo/path/path.ts"
-import { locate, rootsHere } from "../../../repo/roots/roots.ts"
+import { canonicalize, normalizeAbsolute, outOfBounds } from "../../repo/path/path.ts"
+import { locate, rootsHere } from "../../repo/roots/roots.ts"
 
 export interface Target {
   readonly named: string

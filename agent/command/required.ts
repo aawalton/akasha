@@ -1,10 +1,10 @@
 import { existsSync } from "node:fs"
-import { locate, rootsHere } from "../../../repo/roots/roots.ts"
-import type { PageAt } from "../../../page/page.ts"
-import { pageNameOf } from "../../../page/name/name.ts"
-import { requiredReadingFor } from "../../../page/required-reading/required-reading.ts"
-import { textAt } from "../../../page/text/text.ts"
-import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
+import { locate, rootsHere } from "../../repo/roots/roots.ts"
+import type { PageAt } from "../../page/page.ts"
+import { pageNameOf } from "../../page/name/name.ts"
+import { requiredReadingFor } from "../../page/required-reading/required-reading.ts"
+import { textAt } from "../../page/text/text.ts"
+import { standingHere } from "../../page/required-reading/warrant/warrant.ts"
 import type { Target } from "./target.ts"
 
 export function pageAtOf(repo: string, key: string): PageAt {
