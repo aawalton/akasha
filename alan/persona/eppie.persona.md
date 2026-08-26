@@ -1,9 +1,9 @@
 ---
 page-type-slug: persona
-title: "Eppie"
 id: 019ee19d-d6e5-7ed5-b1ad-27ffe6f34987
-total-points: 953.1629999999996
-cover: /api/image/019f324d-4326-7cb0-839e-517f1541044f
+title: Eppie
+total-points: 1648.9010000000005
+cover: "/api/image/019f324d-4326-7cb0-839e-517f1541044f"
 slug: eppie
 domain-parent-slug: readout-group/personas
 group-slugs:
@@ -17,11 +17,11 @@ championed-domain-slug: performance-arts
 role-slug: companion
 value-slug: learn
 origin: canon
-voice-lane: "V"
-voice-archetype: "young"
+voice-lane: V
+voice-archetype: young
 voice-instruction: "A young American woman with a refined, articulate voice and a gorgeous, beautiful tone — cultured and graceful, warm and unhurried, calm rather than energetic. Every word placed with care; lovely and elegant, youthful, deeply at home in art and ideas."
 voice-reference-text: "Did you see how she held that pause before the final line? The whole theatre stopped breathing — and so did I."
-voice-reference-sha256: "380eb939fff4703ff47a8bda6e74cee6bc8761afc225b49af4bf2a0f0c5b4a16"
+voice-reference-sha256: 380eb939fff4703ff47a8bda6e74cee6bc8761afc225b49af4bf2a0f0c5b4a16
 email-address: eppie@alanwalton.com
 green-day-points: 60
 ---

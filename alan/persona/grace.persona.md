@@ -1,9 +1,9 @@
 ---
 page-type-slug: persona
-title: "Grace"
 id: 019f18fd-a89d-7fab-b9c0-052ee4db6877
-total-points: 3515
-cover: /api/image/019f324d-7395-7630-adc6-91bdb59d2d63
+title: Grace
+total-points: 3999
+cover: "/api/image/019f324d-7395-7630-adc6-91bdb59d2d63"
 slug: grace
 domain-parent-slug: readout-group/personas
 group-slugs:
@@ -17,11 +17,11 @@ championed-domain-slug: self-care
 role-slug: companion
 value-slug: faith
 origin: invented
-voice-lane: "Q"
-voice-archetype: "warm"
+voice-lane: Q
+voice-archetype: warm
 voice-instruction: "A low, warm woman's voice, gentle on the surface with a quiet fierce steel underneath; unhurried, certain, protective, unafraid — the calm of one who will not let you go. She speaks softly and slowly, with grave warmth."
 voice-reference-text: "I'm here. I came down to where you are — I won't ask you to climb up to me. It isn't your time; I would know. So we don't have to mend the whole of it tonight — just the next breath, and then one more step, and I'll carry the light. I'm not going anywhere."
-voice-reference-sha256: "0493a1da72e3b0401475631875db6d4d1b826edca150d4a94dd768a5d0277cdb"
+voice-reference-sha256: 0493a1da72e3b0401475631875db6d4d1b826edca150d4a94dd768a5d0277cdb
 email-address: grace@alanwalton.com
 green-day-points: 48
 ---
