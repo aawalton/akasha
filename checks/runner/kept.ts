@@ -1,4 +1,5 @@
 import { sweep } from "../../cache/answer.ts"
+import { closureOf } from "../../cache/closure.ts"
 import {
   entryOf,
   keepOutcome,
@@ -7,8 +8,7 @@ import {
   outcomeKeyOf,
   outcomeMarkOf,
 } from "../../cache/check-outcome.ts"
-import { closureOf } from "../../cache/closure.ts"
-import type { Check, CheckFailure, CheckRun } from "../check-shape.ts"
+import type { Check, CheckFailure, CheckRun, Tree } from "../check-shape.ts"
 import { runAll } from "./all.ts"
 import { outcomesOf } from "./outcome.ts"
 
@@ -22,9 +22,9 @@ export function runKept(
   subjects: readonly Subject[],
   runtime: string,
   answers: string,
-  root: string
+  tree: Tree
 ): CheckRun {
-  const closure = closureOf(root, entryOf(check.slug))
+  const closure = closureOf(tree.root, entryOf(check.slug))
   const mark = outcomeMarkOf(check.slug, runtime, closure)
   sweep(answers, OUTCOME_KIND, check.slug, mark)
   const failures: CheckFailure[] = []
@@ -40,7 +40,7 @@ export function runKept(
     for (const reason of held.reasons) failures.push({ path: subject.at, reason })
   }
   if (missed.length === 0) return { slug: check.slug, failures }
-  const ran = runAll([check], missed)[0]
+  const ran = runAll([check], missed, tree)[0]
   if (ran === undefined) return { slug: check.slug, failures }
   if ("threw" in ran) return ran
   for (const outcome of outcomesOf(ran, missed)) {
