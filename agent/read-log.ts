@@ -34,7 +34,7 @@ export interface Reading {
   readonly at: number
   readonly spans: readonly Span[]
   readonly blob: string | null
-  readonly mechanical: string | null
+  readonly mechanical?: string | null
 }
 
 export function blobId(content: Uint8Array): string {
