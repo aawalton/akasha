@@ -11,7 +11,7 @@ const ENTRY = "entry"
 
 export const help = {
   description:
-    "Print every file under a section with what points at it and by which edge, then tally each folder's doors. Every folder under the section is tallied, including one holding no file of its own, which stands at zero rather than going unnamed. A file is an entry where something outside its own folder points at it, private where every pointer is inside that folder, a test where the runner reaches it rather than an importer, beside where it is a page sitting next to its own code, and unused where none of that holds. Pointers are gathered from every repository cloned here, not from akasha alone, and one from another repository is spelled with its repository first. Each mark is read against the file's own folder rather than against the section asked about, so a folder is answerable for the files it holds and never for what its subfolders expose.",
+    "Print every file under a section with what points at it and by which edge, then tally each folder's doors. Every folder under the section is tallied, including one holding no file of its own, which stands at zero rather than going unnamed. A file is an entry where something outside its own folder points at it, private where every pointer is inside that folder, beside where it is a page sitting next to its own code, test where nothing points at it and the runner reaches it instead, and unused where none of that holds. A test file is weighed for its doors exactly as any other code file is: the test mark says how it is reached, never that it is exempt. Pointers are gathered from every repository cloned here, not from akasha alone, and one from another repository is spelled with its repository first. Each mark is read against the file's own folder rather than against the section asked about, so a folder is answerable for the files it holds and never for what its subfolders expose.",
   positionals: [
     {
       name: "root",
@@ -48,15 +48,16 @@ export default async function uses(argv: readonly string[]): Promise<void> {
     const who = [...(pointing.get(node.key) ?? [])].sort((one, two) => (one.from < two.from ? -1 : 1))
     const outside = who.filter((one) => one.foreign || !one.from.startsWith(within))
     const beside = edgesFrom(section.ctx, node, [CODE_EDGE]).length > 0
-    const mark = node.key.endsWith(TEST_SUFFIX)
-      ? "test"
-      : outside.length > 0
+    const mark =
+      outside.length > 0
         ? ENTRY
         : who.length > 0
           ? "private"
           : beside
             ? "beside"
-            : "unused"
+            : node.key.endsWith(TEST_SUFFIX)
+              ? "test"
+              : "unused"
     if (mark === ENTRY) {
       const held = doors.get(home)
       if (held === undefined) doors.set(home, [node.key])
