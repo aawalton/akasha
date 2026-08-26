@@ -64,15 +64,3 @@ export function pagesOfType(ctx: BuildContext, type: string): readonly PageAt[] 
   return pageIndexIn(ctx).byType.get(type) ?? []
 }
 
-export function pageNamed(ctx: BuildContext, type: string, stem: string): PageAt | null {
-  const name = nameOf(type, stem)
-  const found = pageIndexIn(ctx).byName.get(name) ?? []
-  if (found.length === 0) return null
-  if (found.length > 1) {
-    const said = found.map(saidAt).join(" and ")
-    throw new Error(
-      `${String(found.length)} pages are named \`${name}\` — ${said} — so nothing says which one a reference to it reaches`
-    )
-  }
-  return found[0] ?? null
-}
