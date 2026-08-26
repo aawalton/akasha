@@ -1,12 +1,12 @@
 import { listField } from "../../page/frontmatter.ts"
 import { NONE, stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import { frontmatterAt } from "../frontmatter-at.ts"
+import { frontmatterAt } from "../frontmatter-at/frontmatter-at.ts"
 import fileNodeProducer from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 import { slugNamed } from "../../page/page-address.ts"
-import { inheritedIn } from "../page-type-above.ts"
-import { pagesOfType } from "../page-index.ts"
+import { inheritedIn } from "../page-type-above/page-type-above.ts"
+import { pagesOfType } from "../page-index/page-index.ts"
 
 export const PATH_EDGE = "path"
 

@@ -1,7 +1,7 @@
-import { type PageAt, saidAt } from "../page/page-at.ts"
-import { pageNameOf } from "../page/page-name.ts"
-import { pagesIn } from "../page/pages.ts"
-import type { BuildContext } from "./node-shape.ts"
+import { type PageAt, saidAt } from "../../page/page-at.ts"
+import { pageNameOf } from "../../page/page-name.ts"
+import { pagesIn } from "../../page/pages.ts"
+import type { BuildContext } from "../node-shape.ts"
 
 export type PageIndex = {
   readonly byType: ReadonlyMap<string, readonly PageAt[]>

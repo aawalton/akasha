@@ -1,6 +1,6 @@
-import { type Frontmatter, parseFrontmatter } from "../page/frontmatter.ts"
-import { textAt } from "../page/text.ts"
-import type { BuildContext } from "./node-shape.ts"
+import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
+import { textAt } from "../../page/text.ts"
+import type { BuildContext } from "../node-shape.ts"
 
 export const FRONTMATTER_SAID = "frontmatter"
 

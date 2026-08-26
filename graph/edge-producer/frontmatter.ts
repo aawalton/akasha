@@ -3,12 +3,12 @@ import { type Resolve, type Stated, kindOf, resolveOver } from "../../page/index
 import { loadPages } from "../../page/index/store.ts"
 import { NONE, stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import { frontmatterAt } from "../frontmatter-at.ts"
+import { frontmatterAt } from "../frontmatter-at/frontmatter-at.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import type { PageAt } from "../../page/page-at.ts"
-import { pageIndexIn, pagesOfType } from "../page-index.ts"
-import { inheritedIn } from "../page-type-above.ts"
+import { pageIndexIn, pagesOfType } from "../page-index/page-index.ts"
+import { inheritedIn } from "../page-type-above/page-type-above.ts"
 
 export const RELATION_EDGE = "relation"
 
