@@ -68,12 +68,15 @@ export function repoPagePath(repo: string): string {
   return `${BESIDE}/${pageFileIn(BESIDE, REPO_PAGES, stem) ?? `${REPO_PAGES}/${stem}.md`}`
 }
 
-function rootOf(repo: string): string {
-  const stated = process.env[rootEnvName(repo)]
-  if (stated !== undefined) return resolve(stated)
+export function rootBeside(repo: string): string {
   if (repo === INSTRUCTIONS) return BESIDE
   if (repo === AKASHA) return HERE
   return resolve(BESIDE, "..", repo)
+}
+
+function rootOf(repo: string): string {
+  const stated = process.env[rootEnvName(repo)]
+  return stated === undefined ? rootBeside(repo) : resolve(stated)
 }
 
 export function akashaRoot(): string {

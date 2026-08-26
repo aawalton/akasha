@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readFileSync, rmSync, statSync, writeFileSync } 
 import { dirname, join } from "node:path"
 import { markOf } from "../../../cache/mark/mark.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
-import { rootsHere } from "../../../repo/roots/roots.ts"
+import { rootBeside } from "../../../repo/roots/roots.ts"
 import { oidsUnder } from "../../../repo/oid/oid.ts"
 import type { Roots } from "../../page.ts"
 import { pageNameOf } from "../../name/name.ts"
@@ -112,8 +112,7 @@ export function keepBuiltFrom(marks: BuiltFrom): void {
 }
 
 export function indexReaches(repo: string, root: string): boolean {
-  const here = rootsHere()[repo]
-  return here !== undefined && canonicalize(here) === canonicalize(root)
+  return canonicalize(rootBeside(repo)) === canonicalize(root)
 }
 
 export function staleIn(roots: Roots): readonly string[] {
