@@ -1,5 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { resolve } from "node:path"
+import { canonicalize } from "../file/path.ts"
 import { pageNameOf } from "../page/page-name.ts"
 import type { Roots } from "./node-shape.ts"
 
@@ -58,4 +59,19 @@ let held: Roots | null = null
 export function rootsHere(): Roots {
   if (held === null) held = clonedHere()
   return held
+}
+
+export interface Touched {
+  readonly repo: string
+  readonly relPath: string
+}
+
+export function locate(absolute: string): Touched | null {
+  const at = canonicalize(absolute)
+  for (const [repo, root] of Object.entries(rootsHere())) {
+    const real = canonicalize(root)
+    if (at === real) return { repo, relPath: "" }
+    if (at.startsWith(`${real}/`)) return { repo, relPath: at.slice(real.length + 1) }
+  }
+  return null
 }
