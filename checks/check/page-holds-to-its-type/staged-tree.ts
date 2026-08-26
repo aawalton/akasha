@@ -28,7 +28,7 @@ export function treeOver(batch: Batch): FileTree | null {
       const globs = typeof glob === "string" ? [glob] : glob
       const matched = globs.map((one) => new Bun.Glob(one))
       const added = standing.filter((at) => matched.some((one) => one.match(at)))
-      const found = new Set([...scanIn(root, globs), ...added])
+      const found = new Set([...scanIn(root, globs, INSTRUCTIONS), ...added])
       return [...found].filter((at) => !going.has(at)).sort()
     },
     repoOf: (slug) => {
