@@ -3,7 +3,7 @@ id: 7c6b4786-4598-58cf-8526-acbdcc691633
 page-type-slug: mp-readout
 title: "Upkeep sleep"
 slug: upkeep-sleep
-domain-parent-slug: upkeep
+domain-parent-slug: mp-readout-group/upkeep
 required-reading-slugs:
   - page-type/readout
 label: Sleep

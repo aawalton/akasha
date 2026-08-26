@@ -3,7 +3,7 @@ id: f7a028f1-8fd5-5127-b6b7-a576ee628858
 page-type-slug: mp-readout-scale
 title: "Daily inbox"
 slug: daily-inbox
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 black-at: 100
 red-at: 10
 yellow-at: 1

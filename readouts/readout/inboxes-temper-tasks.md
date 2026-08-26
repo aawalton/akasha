@@ -3,7 +3,7 @@ id: a6417c89-e19f-543a-8a4b-0ff6df272f18
 page-type-slug: mp-readout
 title: "Inboxes temper tasks"
 slug: inboxes-temper-tasks
-domain-parent-slug: inboxes
+domain-parent-slug: mp-readout-group/inboxes
 required-reading-slugs:
   - page-type/readout
 label: temper-tasks

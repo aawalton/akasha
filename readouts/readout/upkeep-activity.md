@@ -3,7 +3,7 @@ id: da5b3daa-dacf-5d62-aa34-4cdfe38ed201
 page-type-slug: mp-readout
 title: "Upkeep activity"
 slug: upkeep-activity
-domain-parent-slug: upkeep
+domain-parent-slug: mp-readout-group/upkeep
 required-reading-slugs:
   - page-type/readout
 label: Activity

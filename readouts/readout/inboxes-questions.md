@@ -3,7 +3,7 @@ id: 17dec2fa-4ed9-5897-a000-6aeec949cae9
 page-type-slug: mp-readout
 title: "Inboxes questions"
 slug: inboxes-questions
-domain-parent-slug: inboxes
+domain-parent-slug: mp-readout-group/inboxes
 required-reading-slugs:
   - page-type/readout
 label: questions

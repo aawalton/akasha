@@ -3,7 +3,7 @@ id: 3c107684-b3d6-5477-b476-34bf78626b2e
 page-type-slug: mp-readout-widget
 title: "Alanwalton surplus"
 slug: alanwalton-surplus
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - surplus

@@ -3,7 +3,7 @@ id: cecd580d-83f5-58e8-b2fe-c8c65f665cdf
 page-type-slug: mp-readout
 title: "Upkeep surplus"
 slug: upkeep-surplus
-domain-parent-slug: upkeep
+domain-parent-slug: mp-readout-group/upkeep
 required-reading-slugs:
   - page-type/readout
 label: Surplus

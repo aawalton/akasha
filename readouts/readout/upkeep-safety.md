@@ -3,7 +3,7 @@ id: 84891c1f-4fd9-54a4-bdbf-85874ced094b
 page-type-slug: mp-readout
 title: "Upkeep safety"
 slug: upkeep-safety
-domain-parent-slug: upkeep
+domain-parent-slug: mp-readout-group/upkeep
 required-reading-slugs:
   - page-type/readout
 label: Safety

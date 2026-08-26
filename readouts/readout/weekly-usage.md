@@ -3,7 +3,7 @@ id: 8abef190-938f-5711-be29-1c6be55ea45b
 page-type-slug: mp-readout
 title: "Weekly usage"
 slug: weekly-usage
-domain-parent-slug: claude-usage
+domain-parent-slug: mp-readout-group/claude-usage
 label: Weekly Usage
 unit: percent
 place: 1

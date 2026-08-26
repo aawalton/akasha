@@ -3,7 +3,7 @@ id: 7b259574-94d5-50ef-af1d-449d6d07f940
 page-type-slug: mp-readout-group
 title: "Upkeep"
 slug: upkeep
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 sequence-slugs:
   - mp-readout/upkeep-safety
   - mp-readout/upkeep-surplus

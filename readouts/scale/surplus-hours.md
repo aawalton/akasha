@@ -3,7 +3,7 @@ id: 29ecef70-5a86-591e-ae0b-5e9ae5de544c
 page-type-slug: mp-readout-scale
 title: "Surplus hours"
 slug: surplus-hours
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 black-at: -12
 red-at: -8
 yellow-at: -4

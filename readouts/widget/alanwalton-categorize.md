@@ -3,7 +3,7 @@ id: 2689e16b-0cce-576a-9450-e7ef7a4f006d
 page-type-slug: mp-readout-widget
 title: "Alanwalton categorize"
 slug: alanwalton-categorize
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - categorization

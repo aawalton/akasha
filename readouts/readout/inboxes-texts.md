@@ -3,7 +3,7 @@ id: f98d856e-dd0e-52f0-89f0-0507249ee8c1
 page-type-slug: mp-readout
 title: "Inboxes texts"
 slug: inboxes-texts
-domain-parent-slug: inboxes
+domain-parent-slug: mp-readout-group/inboxes
 required-reading-slugs:
   - page-type/readout
 label: unread-texts

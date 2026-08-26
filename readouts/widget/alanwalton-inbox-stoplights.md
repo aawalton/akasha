@@ -3,7 +3,7 @@ id: 9164e7df-36b6-5c2f-a0c5-e1c432c25fb3
 page-type-slug: mp-readout-widget
 title: "Alanwalton inbox stoplights"
 slug: alanwalton-inbox-stoplights
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - inboxes

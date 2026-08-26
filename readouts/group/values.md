@@ -3,7 +3,7 @@ id: 3e1c19a4-8b64-55bc-bf73-9f1ed664e202
 page-type-slug: mp-readout-group
 title: "Values"
 slug: values
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 sequence-slugs:
   - value/faith
   - value/love

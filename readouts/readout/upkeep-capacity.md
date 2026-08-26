@@ -3,7 +3,7 @@ id: 1ee873d0-4720-50e6-8771-df5de87f8c5b
 page-type-slug: mp-readout
 title: "Upkeep capacity"
 slug: upkeep-capacity
-domain-parent-slug: upkeep
+domain-parent-slug: mp-readout-group/upkeep
 required-reading-slugs:
   - page-type/readout
 label: Capacity

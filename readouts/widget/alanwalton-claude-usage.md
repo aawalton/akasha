@@ -3,7 +3,7 @@ id: cc58d24b-b0c5-5a24-a0c9-18fb474cb0f1
 page-type-slug: mp-readout-widget
 title: "Alanwalton claude usage"
 slug: alanwalton-claude-usage
-domain-parent-slug: mp-readouts
+domain-parent-slug: domain/mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - claude-usage

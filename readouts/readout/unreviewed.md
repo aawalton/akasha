@@ -3,7 +3,7 @@ id: 0dcccca4-766d-5840-909a-a2f929f8e4f3
 page-type-slug: mp-readout
 title: "Unreviewed"
 slug: unreviewed
-domain-parent-slug: categorization
+domain-parent-slug: mp-readout-group/categorization
 label: Unreviewed
 unit: transactions
 place: 1

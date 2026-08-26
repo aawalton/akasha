@@ -3,7 +3,7 @@ id: 2f6aa090-02b3-5ffb-a5c3-ee948f0d286d
 page-type-slug: mp-readout
 title: "Upkeep plants"
 slug: upkeep-plants
-domain-parent-slug: upkeep
+domain-parent-slug: mp-readout-group/upkeep
 required-reading-slugs:
   - page-type/readout
 label: Plants

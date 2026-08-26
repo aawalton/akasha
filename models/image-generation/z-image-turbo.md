@@ -3,7 +3,7 @@ id: 99f65139-1fd8-4181-9e5b-8c38885d511b
 page-type-slug: image-generation-model
 title: "Z-Image-Turbo"
 slug: z-image-turbo
-domain-parent-slug: image-generation-models
+domain-parent-slug: domain/image-generation-models
 unet-file: z-img-turbo_fp8-e4m3fn.safetensors
 clip-file: qwen_3_4b_fp8_mixed.safetensors
 clip-type: lumina2
