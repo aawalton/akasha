@@ -59,7 +59,3 @@ export function rootsHere(): Roots {
   if (held === null) held = clonedHere()
   return held
 }
-
-export function rootsOver(akasha: string): Roots {
-  return { ...rootsHere(), [AKASHA]: akasha }
-}
