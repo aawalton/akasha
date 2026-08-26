@@ -48,6 +48,26 @@ export function git(
   return { code: raw.code, stdout: new TextDecoder().decode(raw.stdout).trim(), stderr: raw.stderr }
 }
 
+export const CAPPED_CEILING_MS = 10_000
+
+export function gitCapped(
+  root: string,
+  args: readonly string[],
+  ceilingMs: number = CAPPED_CEILING_MS
+): GitResult {
+  const proc = Bun.spawnSync(["git", ...args], {
+    cwd: root,
+    stdout: "pipe",
+    stderr: "pipe",
+    timeout: ceilingMs,
+  })
+  return {
+    code: proc.exitCode ?? -1,
+    stdout: new TextDecoder().decode(proc.stdout).trim(),
+    stderr: new TextDecoder().decode(proc.stderr).trim(),
+  }
+}
+
 const LANDING_LOCK = "harness-landing.lock"
 
 export const LANDING_CEILING_MS = 120_000

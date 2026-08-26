@@ -50,6 +50,11 @@ export function typeSuffixIn(glob: string): string | null {
   return LOCATION_FREE.exec(glob)?.[1] ?? null
 }
 
+export function folderIn(glob: string): string {
+  const star = glob.indexOf("*")
+  return (star === -1 ? glob : glob.slice(0, star)).replace(/\/+$/, "")
+}
+
 export function typeSuffixOf(relPath: string): string {
   const name = relPath.slice(relPath.lastIndexOf("/") + 1)
   const cut = name.length - MARKDOWN.length

@@ -1,9 +1,10 @@
 import { createHash } from "node:crypto"
 import { existsSync, mkdirSync, readFileSync, statSync } from "node:fs"
+import { gitCapped } from "../../repo/git/git.ts"
 import { writeWhole } from "../../write-whole/write-whole.ts"
 import type { Property } from "./property.ts"
 import type { FileTree } from "../file-tree.ts"
-import { PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS } from "../page-types.ts"
+import { folderIn, PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS } from "../page-types.ts"
 
 const VERSION = 4
 
@@ -13,14 +14,7 @@ const CODE_AT: readonly string[] = ["tools/page"]
 
 const IGNORE_AT = ".gitignore"
 
-const GIT_CEILING_MS = 10_000
-
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
-
-interface Ran {
-  readonly code: number
-  readonly out: string
-}
 
 interface Ground {
   readonly base: string
@@ -38,47 +32,37 @@ interface Kept {
   readonly answer: Answer
 }
 
-function git(root: string, args: readonly string[]): Ran {
-  const done = Bun.spawnSync(["git", ...args], { cwd: root, timeout: GIT_CEILING_MS })
-  return { code: done.exitCode ?? -1, out: done.stdout.toString().trim() }
-}
-
-function folderOf(glob: string): string {
-  const star = glob.indexOf("*")
-  return (star === -1 ? glob : glob.slice(0, star)).replace(/\/+$/, "")
-}
-
 function presentIn(root: string, named: readonly string[]): readonly string[] {
   return [...new Set(named)].sort().filter((at) => existsSync(`${root}/${at}`))
 }
 
 function foldersIn(root: string): readonly string[] {
-  const named = [...PROPERTY_GLOBS, PAGE_PROPERTY_TYPE_GLOB].map(folderOf)
+  const named = [...PROPERTY_GLOBS, PAGE_PROPERTY_TYPE_GLOB].map(folderIn)
   return presentIn(root, [...named, ...CODE_AT])
 }
 
 function typeFoldersIn(root: string): readonly string[] {
-  return presentIn(root, PAGE_TYPE_GLOBS.map(folderOf))
+  return presentIn(root, PAGE_TYPE_GLOBS.map(folderIn))
 }
 
 function recordedFor(root: string, named: readonly string[]): readonly string[] | null {
-  const done = git(root, ["rev-parse", ...named.map((at) => `HEAD:${at}`)])
+  const done = gitCapped(root, ["rev-parse", ...named.map((at) => `HEAD:${at}`)])
   if (done.code !== 0) return null
-  const oids = done.out.split("\n").filter((one) => one !== "")
+  const oids = done.stdout.split("\n").filter((one) => one !== "")
   return oids.length === named.length ? oids : null
 }
 
 function matchesHead(root: string, named: readonly string[]): boolean {
-  if (git(root, ["diff-index", "--quiet", "HEAD", "--", ...named]).code !== 0) return false
-  const loose = git(root, ["ls-files", "--others", "--exclude-standard", "--", ...named])
-  return loose.code === 0 && loose.out === ""
+  if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...named]).code !== 0) return false
+  const loose = gitCapped(root, ["ls-files", "--others", "--exclude-standard", "--", ...named])
+  return loose.code === 0 && loose.stdout === ""
 }
 
 function blobsUnder(root: string, folders: readonly string[]): ReadonlyMap<string, string> | null {
-  const done = git(root, ["ls-tree", "-r", "HEAD", "--", ...folders])
+  const done = gitCapped(root, ["ls-tree", "-r", "HEAD", "--", ...folders])
   if (done.code !== 0) return null
   const blobs = new Map<string, string>()
-  for (const line of done.out.split("\n")) {
+  for (const line of done.stdout.split("\n")) {
     if (line === "") continue
     const [head, at] = line.split("\t")
     const oid = head?.split(" ")[2]

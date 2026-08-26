@@ -1,8 +1,9 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
+import { gitCapped } from "../../repo/git/git.ts"
 import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
 import type { FileTree } from "../file-tree.ts"
-import { PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
+import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 
 export const CODE_DIRS: readonly string[] = [
   "cache",
@@ -22,48 +23,31 @@ export const CODE_SEEDS: readonly string[] = [
   "page/shape/shape.ts",
 ]
 
-const GIT_CEILING_MS = 10_000
-
-interface Ran {
-  readonly code: number
-  readonly out: string
-}
-
-function git(root: string, args: readonly string[]): Ran {
-  const done = Bun.spawnSync(["git", ...args], { cwd: root, timeout: GIT_CEILING_MS })
-  return { code: done.exitCode ?? -1, out: done.stdout.toString().trim() }
-}
-
 interface Ground {
   readonly base: string
   readonly blobs: ReadonlyMap<string, string>
 }
 
-function dirOf(glob: string): string {
-  const star = glob.indexOf("*")
-  return (star === -1 ? glob : glob.slice(0, star)).replace(/\/+$/, "")
-}
-
 function presentIn(root: string, globs: readonly string[]): readonly string[] {
-  return [...new Set(globs.map(dirOf))].filter((at) => existsSync(`${root}/${at}`)).sort()
+  return [...new Set(globs.map(folderIn))].filter((at) => existsSync(`${root}/${at}`)).sort()
 }
 
 function recordedAt(root: string, dirs: readonly string[]): readonly string[] | null {
-  const found = git(root, ["rev-parse", ...dirs.map((at) => `HEAD:${at}`)])
+  const found = gitCapped(root, ["rev-parse", ...dirs.map((at) => `HEAD:${at}`)])
   if (found.code !== 0) return null
-  const oids = found.out.split("\n").filter((one) => one !== "")
+  const oids = found.stdout.split("\n").filter((one) => one !== "")
   return oids.length === dirs.length ? oids : null
 }
 
 function matchesCommit(root: string, dirs: readonly string[]): boolean {
-  return git(root, ["diff-index", "--quiet", "HEAD", "--", ...dirs]).code === 0
+  return gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...dirs]).code === 0
 }
 
 function blobsUnder(root: string, dirs: readonly string[]): ReadonlyMap<string, string> | null {
-  const listed = git(root, ["ls-tree", "-r", "HEAD", "--", ...dirs])
+  const listed = gitCapped(root, ["ls-tree", "-r", "HEAD", "--", ...dirs])
   if (listed.code !== 0) return null
   const blobs = new Map<string, string>()
-  for (const line of listed.out.split("\n")) {
+  for (const line of listed.stdout.split("\n")) {
     if (line === "") continue
     const [head, at] = line.split("\t")
     const oid = head?.split(" ")[2]
