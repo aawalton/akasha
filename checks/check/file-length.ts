@@ -1,4 +1,4 @@
-import { statSync } from "node:fs"
+import { lstatSync } from "node:fs"
 import type { Check, CheckFailure } from "../check-shape.ts"
 
 export const CEILING_BYTES = 15000
@@ -10,7 +10,7 @@ export const fileLength: Check = {
   run: (paths) => {
     const failures: CheckFailure[] = []
     for (const path of paths) {
-      const bytes = statSync(path).size
+      const bytes = lstatSync(path).size
       if (bytes <= CEILING_BYTES) continue
       failures.push({
         path,
