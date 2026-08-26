@@ -1,5 +1,5 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, unlinkSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { dirname, join, resolve } from "node:path"
 import { git, remoteOf } from "../git/git.ts"
 
 const STATE_DIR = "harness-push"
@@ -114,7 +114,11 @@ export function releasePushLock(root: string): void {
   }
 }
 
-export function handOffPush(root: string, pusher: string): string {
+function pusherHere(): string {
+  return resolve(import.meta.dir, "push-repo.ts")
+}
+
+export function handOffPush(root: string, pusher: string = pusherHere()): string {
   const remote = remoteOf(root)
   if (remote === null) return "push:   NO REMOTE — nothing holds a second copy of this commit"
   const argv = ["bun", pusher, "--root", root]
