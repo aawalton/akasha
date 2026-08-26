@@ -38,18 +38,22 @@ export function edgesFrom(
   return edges
 }
 
-export function everyEdge(ctx: BuildContext, kind: string | null = null): readonly EdgeInit[] {
-  const edges: EdgeInit[] = []
-  for (const file of everyNode(ctx)) edges.push(...edgesFrom(ctx, file, kind))
-  return edges
+function refKey(ref: NodeRef): string {
+  return `${ref.repo}\u0000${ref.key}`
 }
 
 export function edgesInto(
   ctx: BuildContext,
-  ref: NodeRef,
+  refs: readonly NodeRef[],
   kind: string | null = null
 ): readonly EdgeInit[] {
-  return everyEdge(ctx, kind).filter(
-    (edge) => edge.to.repo === ref.repo && edge.to.key === ref.key
-  )
+  const wanted = new Set(refs.map(refKey))
+  if (wanted.size === 0) return []
+  const found: EdgeInit[] = []
+  for (const file of everyNode(ctx)) {
+    for (const edge of edgesFrom(ctx, file, kind)) {
+      if (wanted.has(refKey(edge.to))) found.push(edge)
+    }
+  }
+  return found
 }
