@@ -41,7 +41,10 @@ export interface PageNode {
 	readonly id: string;
 	/** What the row draws. */
 	readonly label: string;
-	/** The document this row opens, or null where the row is scaffolding and opens nothing. */
+	/**
+	 * The document this row opens as the query named it — `<repo>:<path inside it>` — or null where
+	 * the row is scaffolding and opens nothing.
+	 */
 	readonly at: string | null;
 	/** Shown beside the label. */
 	readonly detail: string | null;
@@ -49,7 +52,7 @@ export interface PageNode {
 }
 
 export interface PageTree {
-	/** The repository the paths above are relative to. */
+	/** The repository this tree was read for, and the one watched for changes to it. */
 	readonly repo: string;
 	readonly roots: readonly PageNode[];
 	/**
@@ -71,9 +74,6 @@ export interface PageAnswers {
 	/** `domain-all`, for the documents naming each kind. */
 	readonly domains: readonly QueryRow[];
 }
-
-/** The repository these rows stand in. A row naming any other is a fault rather than a row to keep. */
-const HOME_REPO = 'instructions';
 
 /** A page type declaring this extends nothing, which is how a page type spells being a root. */
 const NO_PARENT = 'none';
@@ -135,23 +135,26 @@ function textOf(row: QueryRow, key: string): string | null {
 }
 
 /**
- * The path inside this repository a row's `at` names.
+ * Where a row says its document is, carried whole rather than cut down to a path.
  *
- * REFUSED RATHER THAN JOINED where the row names another repository. `PageTree.repo` is one root, so
- * a foreign row's path joined onto it would point at a file that is not there — a click that fails
- * after Alan has made it, rather than a message.
+ * KEPT WITH ITS REPOSITORY ON IT because pages no longer stand in one. A page type or a property
+ * definition lives where its domain lives, so one answer carries rows from instructions and rows
+ * from akasha alike, and a path stripped of which one it came from cannot be opened. `documentPath`
+ * in `harness.ts` is what turns this back into a file.
+ *
+ * A row naming no repository is still refused: it names a file nothing can find.
  */
 function atOf(row: QueryRow): string {
 	const cut = row.at.indexOf(':');
 	const repo = cut === -1 ? '' : row.at.slice(0, cut);
 	const rel = cut === -1 ? '' : row.at.slice(cut + 1);
-	if (repo !== HOME_REPO || rel === '') {
+	if (repo === '' || rel === '') {
 		throw new Error(
 			`a page query answered with a row this cannot place: \`${row.at}\` names ` +
-			`${repo === '' ? 'no repository' : `the ${repo} repository`} rather than ${HOME_REPO}`
+			'no repository and a path inside it'
 		);
 	}
-	return rel;
+	return row.at;
 }
 
 /**

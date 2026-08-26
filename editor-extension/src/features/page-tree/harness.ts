@@ -25,7 +25,7 @@
 import * as path from 'node:path';
 import { z } from 'zod';
 import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
-import { instructionsRoot } from '../../harness-call';
+import { akashaRoot, instructionsRoot, memoryRoot } from '../../harness-call';
 import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble';
 
 export { assemblePageTree } from './assemble';
@@ -63,7 +63,7 @@ const ASK_CEILING_MS = 60_000;
 
 /**
  * The service's envelope, narrowed to what this reads. `at` is the only place a path comes from: a
- * query answers `<repo>:<at>`, and that is how a row says which document it stands for.
+ * query answers `<repo>:<path inside it>`, and that is how a row says which document it stands for.
  */
 const ROW_SCHEMA = z.object({
 	at: z.string().min(1),
@@ -121,11 +121,28 @@ export function countPages(nodes: readonly PageNode[]): number {
 /**
  * The absolute path of a row's document, or undefined where the row is scaffolding and has none.
  *
- * Joined against the repo the tree names rather than against a path this extension holds separately,
- * so there is one answer to where the instructions repository sits.
+ * Joined against the root of the repository the row itself names, so a row from akasha opens from
+ * akasha and a row from instructions opens from instructions. `tree` is taken for the shape the
+ * three panels share and for a repository this cannot place.
  */
 export function documentPath(tree: PageTree, node: PageNode): string | undefined {
-	return node.at === null ? undefined : path.join(tree.repo, node.at);
+	if (node.at === null) { return undefined; }
+	const cut = node.at.indexOf(':');
+	const root = rootOfRepo(node.at.slice(0, cut));
+	return root === undefined ? undefined : path.join(root, node.at.slice(cut + 1));
+}
+
+/**
+ * The root of a repository a row names, or undefined where this knows no such repository.
+ *
+ * HERE RATHER THAN IN `harness-call.ts` because the page tree is the only reader that meets a
+ * repository name at all: the other two panels are answered by one repository each.
+ */
+function rootOfRepo(repo: string): string | undefined {
+	if (repo === 'instructions') { return instructionsRoot(); }
+	if (repo === 'memory') { return memoryRoot(); }
+	if (repo === 'akasha') { return akashaRoot(); }
+	return undefined;
 }
 
 /** What performs the ask. Injected so the read can be held to an answer without a service running. */
