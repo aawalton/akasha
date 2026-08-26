@@ -4,12 +4,15 @@ import { AKASHA } from "../graph/roots.ts"
 import type { BuildContext, NodeRef } from "../graph/node-shape.ts"
 import type { Input } from "./mark.ts"
 
+export function contextOver(root: string): BuildContext {
+  return { roots: { [AKASHA]: root } }
+}
+
 export function closureOf(
-  root: string,
+  ctx: BuildContext,
   entry: string,
   oids: ReadonlyMap<string, string>
 ): readonly Input[] {
-  const ctx: BuildContext = { roots: { [AKASHA]: root } }
   const waiting: NodeRef[] = [{ repo: AKASHA, key: entry }]
   const seen = new Set<string>()
   const inputs: Input[] = []

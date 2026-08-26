@@ -23,9 +23,13 @@ export function treeOn(
   paths: () => readonly string[],
   dir: () => string
 ): Tree {
+  let held: readonly string[] | null = null
   return {
     root,
-    paths,
+    paths: () => {
+      if (held === null) held = paths()
+      return held
+    },
     dir,
     at: (path) => {
       const held = changed.get(path)

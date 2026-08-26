@@ -1,6 +1,7 @@
 import { relative } from "node:path"
 import { sweep } from "../../cache/answer.ts"
 import { closureOf } from "../../cache/closure.ts"
+import type { BuildContext } from "../../graph/node-shape.ts"
 import {
   cacheOutcome,
   cachedOutcome,
@@ -24,6 +25,7 @@ export type Setting = {
   readonly act: Act | null
   readonly trial: boolean
   readonly oids: ReadonlyMap<string, string>
+  readonly ctx: BuildContext
 }
 
 function uncached(check: Check): boolean {
@@ -43,7 +45,7 @@ export function runKept(
   tree: Tree,
   setting: Setting
 ): CheckRun {
-  const closure = closureOf(tree.root, entryOf(check.slug), setting.oids)
+  const closure = closureOf(setting.ctx, entryOf(check.slug), setting.oids)
   const mark = outcomeMarkOf(check.slug, runtime, closure)
   sweep(answers, OUTCOME_KIND, check.slug, mark)
   sweep(answers, KEEP_KIND, check.slug, mark)
