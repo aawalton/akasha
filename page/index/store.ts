@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import { markOf } from "../../cache/mark.ts"
 import { oidsUnder } from "../../cache/oid.ts"
 import type { Roots } from "../page-at.ts"
-import { PAGE_EXTENSION } from "../page-name.ts"
+import { pageNameOf } from "../page-name.ts"
 import { type Source, bodyOf, sourcesOf } from "./entry.ts"
 import type { Stated } from "./identity.ts"
 import type { Relation } from "./relation.ts"
@@ -12,8 +12,6 @@ import { builtFromAt, fileFor, indexRoot } from "./place.ts"
 const KIND = "pages-index"
 
 const NAME = "relation"
-
-const PAGE_ENDING = `.${PAGE_EXTENSION}`
 
 const PAGES = "pages.jsonl"
 
@@ -45,7 +43,7 @@ export function keepAt(
 export function markFor(root: string): string {
   const inputs: { path: string; oid: string }[] = []
   for (const [key, oid] of oidsUnder(root, null)) {
-    if (!key.endsWith(PAGE_ENDING)) continue
+    if (pageNameOf(key) === null) continue
     inputs.push({ path: key, oid })
   }
   return markOf(KIND, NAME, process.version, inputs)
