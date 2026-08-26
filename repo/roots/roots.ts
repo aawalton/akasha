@@ -8,7 +8,7 @@ export const AKASHA = "akasha"
 
 export const INSTRUCTIONS = "instructions"
 
-export const HERE = resolve(import.meta.dir, "..")
+export const HERE = resolve(import.meta.dir, "..", "..")
 
 const REPO_PAGES = "pages/repo"
 
