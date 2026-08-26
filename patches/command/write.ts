@@ -180,7 +180,8 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 
   const dryRun = argv.includes(DRY_RUN)
-  const mechanical = argv.includes(MECHANICAL)
+  const removingOnly = pairs.length === 0 && carried.length === 0 && named.length > 0
+  const mechanical = argv.includes(MECHANICAL) || removingOnly
   const everyPath = [...pairs.map((one) => one.filePath), ...carried.map((one) => one.filePath), ...named]
   const at = addressOf(argv, everyPath)
 
