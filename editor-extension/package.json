@@ -282,10 +282,6 @@
       }
     ]
   },
-  "scripts": {
-    "compile": "node ./esbuild.mts",
-    "watch": "node ./esbuild.mts --watch"
-  },
   "dependencies": {
     "zod": "^4.4.3"
   },
