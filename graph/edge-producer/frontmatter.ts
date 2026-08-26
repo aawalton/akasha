@@ -1,6 +1,6 @@
 import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
 import { blockOf, NONE, textAt } from "../../../instructions/tools/page/page-types.ts"
-import type { PageNode } from "../node-producer/page.ts"
+import type { FileNode } from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 const SHARED_REPO = "instructions"
@@ -14,7 +14,7 @@ export type EdgeInit = {
 export type EdgeProducer = {
   readonly name: string
   readonly edgeKinds: readonly string[]
-  readonly build: (ctx: BuildContext, pages: readonly PageNode[]) => readonly EdgeInit[]
+  readonly build: (ctx: BuildContext, pages: readonly FileNode[]) => readonly EdgeInit[]
 }
 
 export type Reference = {
@@ -44,11 +44,10 @@ export const REFERENCES: readonly Reference[] = [
   { key: "required-reading-slugs", kind: "required-reading", fromPageType: null, toPageType: null },
 ]
 
-function bySlug(pages: readonly PageNode[]): ReadonlyMap<string, readonly PageNode[]> {
-  const found = new Map<string, PageNode[]>()
+function bySlug(pages: readonly FileNode[]): ReadonlyMap<string, readonly FileNode[]> {
+  const found = new Map<string, FileNode[]>()
   for (const page of pages) {
-    const slug = page.attrs.slug
-    if (slug === null) continue
+    const slug = page.attrs["file-stem"]
     const held = found.get(slug)
     if (held === undefined) found.set(slug, [page])
     else held.push(page)
@@ -58,15 +57,15 @@ function bySlug(pages: readonly PageNode[]): ReadonlyMap<string, readonly PageNo
 
 function named(
   slug: string,
-  from: PageNode,
+  from: FileNode,
   reference: Reference,
-  index: ReadonlyMap<string, readonly PageNode[]>
-): PageNode | null {
+  index: ReadonlyMap<string, readonly FileNode[]>
+): FileNode | null {
   const standing = index.get(slug) ?? []
   const fitting =
     reference.toPageType === null
       ? standing
-      : standing.filter((page) => page.attrs.pageTypeSlug === reference.toPageType)
+      : standing.filter((page) => page.attrs["page-type-slug"] === reference.toPageType)
   if (fitting.length === 1) return fitting[0] ?? null
   if (fitting.length === 0) return null
   const own = fitting.filter((page) => page.repo === from.repo)
@@ -93,7 +92,7 @@ export const frontmatterEdgeProducer: EdgeProducer = {
       const { fm, why } = blockOf(text)
       if (why !== null) continue
       for (const reference of REFERENCES) {
-        if (reference.fromPageType !== null && page.attrs.pageTypeSlug !== reference.fromPageType)
+        if (reference.fromPageType !== null && page.attrs["page-type-slug"] !== reference.fromPageType)
           continue
         for (const slug of namesIn(fm, reference)) {
           const to = named(slug, page, reference, index)

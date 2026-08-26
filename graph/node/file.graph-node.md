@@ -15,4 +15,4 @@ attributes-slugs:
 
 # Design
 
-No file outside the akasha repository has a node.
+A page type, a page property type and a page property definition have a node wherever they are.

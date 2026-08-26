@@ -1,4 +1,7 @@
 import { execFileSync } from "node:child_process"
+import { diskFileTree } from "../../../instructions/tools/page/page-file-tree.ts"
+import { registryOf } from "../../../instructions/tools/page/page-registry.ts"
+import { pagesOf } from "../../../instructions/tools/page/page-types.ts"
 import type { NodeProducer, NodeRef } from "../node-shape.ts"
 
 export const FILE_NODE_KIND = "file"
@@ -8,6 +11,12 @@ const AKASHA = "akasha"
 const PAGE_EXTENSION = "md"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
+
+export const SCHEMA_PAGE_TYPES: readonly string[] = [
+  "page-type",
+  "page-property-type",
+  "page-property-definition",
+]
 
 export type FileNodeAttrs = {
   readonly "file-stem": string
@@ -51,14 +60,35 @@ export const fileNodeProducer: NodeProducer<FileNode> = {
   name: "file",
   nodeKinds: [FILE_NODE_KIND],
   build: (ctx) => {
-    const root = ctx.roots[AKASHA]
-    if (root === undefined) return []
-    return trackedIn(root).map((key) => ({
-      kind: FILE_NODE_KIND,
-      repo: AKASHA,
-      key,
-      attrs: namedBy(key),
-    }))
+    const nodes: FileNode[] = []
+    const standing = new Set<string>()
+    const own = ctx.roots[AKASHA]
+    if (own !== undefined) {
+      for (const key of trackedIn(own)) {
+        standing.add(`${AKASHA}:${key}`)
+        nodes.push({ kind: FILE_NODE_KIND, repo: AKASHA, key, attrs: namedBy(key) })
+      }
+    }
+    for (const pageType of registryOf(diskFileTree(ctx.roots))) {
+      if (!SCHEMA_PAGE_TYPES.includes(pageType.slug)) continue
+      const repo = pageType.repo
+      if (repo === null) continue
+      const root = ctx.roots[repo]
+      if (root === undefined) continue
+      for (const key of pagesOf(root, pageType)) {
+        const at = `${repo}:${key}`
+        if (standing.has(at)) continue
+        standing.add(at)
+        const attrs = namedBy(key)
+        nodes.push({
+          kind: FILE_NODE_KIND,
+          repo,
+          key,
+          attrs: { ...attrs, "page-type-slug": attrs["page-type-slug"] ?? pageType.slug },
+        })
+      }
+    }
+    return nodes
   },
 }
 
