@@ -1,5 +1,5 @@
 
-import { mkdirSync, readFileSync, renameSync, rmSync, statSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 
 const SPIN_MS = 5
 const WAIT_MS = 20_000
@@ -105,16 +105,5 @@ export function exclusively<T>(path: string, act: () => T): T {
     return act()
   } finally {
     if (markIn(file) === mine) rmSync(lock, { recursive: true, force: true })
-  }
-}
-
-export function writeWhole(path: string, contents: string): void {
-  const temp = `${path}.${process.pid}.${Math.random().toString(36).slice(2)}.tmp`
-  writeFileSync(temp, contents, "utf8")
-  try {
-    renameSync(temp, path)
-  } catch (failed) {
-    rmSync(temp, { force: true })
-    throw failed
   }
 }
