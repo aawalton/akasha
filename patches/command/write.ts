@@ -1,6 +1,6 @@
 export const summary = "Write whole files as a patch, gated before anything lands"
 
-import { execFileSync } from "node:child_process"
+import { execFileSync, spawn } from "node:child_process"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { CHECKS } from "../../checks/checks.ts"
@@ -156,6 +156,19 @@ async function forward(argv: readonly string[]): Promise<void> {
   await forwardRunner("write", null)(argv)
 }
 
+function toolHelp(): Promise<string> {
+  const at = `${resolveRoots().instructions}/tools/write.ts`
+  return new Promise<string>((resolve) => {
+    const child = spawn(process.execPath, [at, "--help"], { stdio: ["ignore", "pipe", "pipe"] })
+    let out = ""
+    child.stdout?.on("data", (chunk: Buffer) => {
+      out += chunk.toString()
+    })
+    child.on("error", () => resolve(""))
+    child.on("close", () => resolve(out.trim()))
+  })
+}
+
 export const help: CommandHelp = {
   description:
     `${summary}.\n` +
@@ -167,7 +180,6 @@ export const help: CommandHelp = {
     "\n" +
     "Every flag but --patch-file belongs to `tools/write.ts` and is named in the help below, " +
     "which is that tool's own.",
-  irreversible: "irreversible",
   flags: [
     {
       name: PATCH_FILE,
@@ -182,7 +194,7 @@ export const help: CommandHelp = {
   positionals: [
     { name: "args", required: false, variadic: true, description: "Forwarded to `tools/write.ts`." },
   ],
-  epilog: () => "",
+  epilog: () => toolHelp(),
 }
 
 export default async function write(argv: readonly string[]): Promise<void> {
