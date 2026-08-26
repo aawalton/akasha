@@ -1,41 +1,117 @@
-import { execFileSync } from "node:child_process"
-import { existsSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
-import { relative, resolve } from "node:path"
-import type { Check, CheckFailure, Tree } from "../check-shape.ts"
+import { existsSync } from "node:fs"
+import { basename, dirname, resolve } from "node:path"
+import ts from "typescript"
 import { carriesCode, outwardOf, specifiersIn, targetOf } from "../../imports/imports.ts"
+import type { Check, CheckFailure, Tree } from "../check-shape.ts"
 
-const SCRATCH = "/var/tmp"
+export const ABSENT = "no `typescript` with an API to drive is reachable — run `bun install` in this repository"
 
-const BUILD_INFO = ".tsbuildinfo"
+const CONFIG = "tsconfig.json"
 
-const DIAGNOSTIC = /^(.+?)\((\d+),\d+\): error (TS\d+: .*)$/
+export const TSC_KEYS: ReadonlySet<string> = new Set([
+  "extends",
+  "compilerOptions",
+  "include",
+  "exclude",
+  "files",
+  "references",
+  "watchOptions",
+  "typeAcquisition",
+  "buildOptions",
+  "compileOnSave",
+])
 
-export const ABSENT =
-  "no `tsc` with `@types/bun` beside it is reachable — run `bun install` in this repository"
-
-type Instrument = {
-  readonly tsc: string
-  readonly typeRoot: string
+export const DEFAULT_OPTIONS: ts.CompilerOptions = {
+  strict: true,
+  noEmit: true,
+  module: ts.ModuleKind.Preserve,
+  moduleResolution: ts.ModuleResolutionKind.Bundler,
+  target: ts.ScriptTarget.ESNext,
+  lib: ["lib.esnext.d.ts"],
+  allowImportingTsExtensions: true,
+  skipLibCheck: true,
+  types: ["bun"],
 }
 
-function tscAt(root: string): string | null {
-  const here = `${root}/node_modules/typescript/bin/tsc`
-  if (existsSync(here)) return here
-  const installed = `${process.env.HOME ?? "/nonexistent"}/.bun/bin/tsc`
-  if (existsSync(installed)) return installed
-  return Bun.which("tsc")
+export function foreignKeyIn(held: Record<string, unknown>): string | null {
+  for (const key of Object.keys(held)) {
+    if (!TSC_KEYS.has(key)) return key
+  }
+  return null
 }
 
-function instrument(root: string): Instrument | null {
-  const found = tscAt(root)
-  if (found === null || !existsSync(found)) return null
-  const beside = `${root}/node_modules/@types`
-  if (existsSync(`${beside}/bun`)) return { tsc: realpathSync(found), typeRoot: beside }
-  const segments = realpathSync(found).split("/")
-  const at = segments.lastIndexOf("node_modules")
-  if (at === -1) return null
-  const typeRoot = `${segments.slice(0, at + 1).join("/")}/@types`
-  return existsSync(`${typeRoot}/bun`) ? { tsc: realpathSync(found), typeRoot } : null
+export type Project = {
+  readonly at: string
+  readonly under: string
+  readonly files: ReadonlySet<string>
+  readonly options: ts.CompilerOptions
+  readonly foreign: string | null
+}
+
+function bodiesOf(tree: Tree): (path: string) => string | undefined {
+  const held = new Map<string, string | undefined>()
+  return (path) => {
+    const at = resolve(path)
+    if (held.has(at)) return held.get(at)
+    const body = tree.at(at)
+    const said = body === null ? undefined : body.toString("utf8")
+    held.set(at, said)
+    return said
+  }
+}
+
+function thereOf(tree: Tree, read: (path: string) => string | undefined): (path: string) => boolean {
+  return (path) => {
+    const at = resolve(path)
+    if (at.includes("/node_modules/")) return existsSync(at)
+    return read(at) !== undefined
+  }
+}
+
+export function projectsIn(tree: Tree, read: (path: string) => string | undefined): readonly Project[] {
+  const host: ts.ParseConfigFileHost = {
+    ...ts.sys,
+    readFile: read,
+    fileExists: thereOf(tree, read),
+    onUnRecoverableConfigFileDiagnostic: () => {},
+  }
+  const found: Project[] = []
+  for (const path of tree.paths()) {
+    if (basename(path) !== CONFIG) continue
+    const said = ts.readConfigFile(path, read)
+    if (said.error !== undefined || said.config === undefined) continue
+    const parsed = ts.getParsedCommandLineOfConfigFile(path, {}, host)
+    if (parsed === undefined) continue
+    found.push({
+      at: path,
+      under: dirname(path),
+      files: new Set(parsed.fileNames.map((one) => resolve(one))),
+      options: parsed.options,
+      foreign: foreignKeyIn(said.config as Record<string, unknown>),
+    })
+  }
+  return found
+}
+
+export function ownerOf(path: string, projects: readonly Project[]): Project | null {
+  let held: Project | null = null
+  for (const one of projects) {
+    if (!path.startsWith(`${one.under}/`)) continue
+    if (held === null || one.under.length > held.under.length) held = one
+  }
+  return held
+}
+
+export function partition(
+  subjects: readonly string[],
+  projects: readonly Project[]
+): ReadonlyMap<Project | null, readonly string[]> {
+  const held = new Map<Project | null, string[]>()
+  for (const path of subjects) {
+    const owner = ownerOf(path, projects)
+    held.set(owner, [...(held.get(owner) ?? []), path])
+  }
+  return held
 }
 
 function reaching(tree: Tree, seeds: ReadonlySet<string>): ReadonlySet<string> {
@@ -63,32 +139,6 @@ function reaching(tree: Tree, seeds: ReadonlySet<string>): ReadonlySet<string> {
   return reached
 }
 
-function tsconfigFor(dir: string, typeRoot: string, buildInfo: string): string {
-  const at = mkdtempSync(`${SCRATCH}/typecheck-`)
-  writeFileSync(
-    `${at}/tsconfig.json`,
-    JSON.stringify({
-      compilerOptions: {
-        strict: true,
-        noEmit: true,
-        module: "preserve",
-        moduleResolution: "bundler",
-        target: "esnext",
-        lib: ["esnext"],
-        allowImportingTsExtensions: true,
-        skipLibCheck: true,
-        types: ["bun"],
-        typeRoots: [typeRoot],
-        incremental: true,
-        tsBuildInfoFile: buildInfo,
-      },
-      include: [`${dir}/**/*.ts`],
-      exclude: [`${dir}/**/node_modules`],
-    })
-  )
-  return at
-}
-
 function reachingOut(tree: Tree, paths: Iterable<string>): ReadonlySet<string> {
   const found = new Set<string>()
   for (const path of paths) {
@@ -104,45 +154,69 @@ function reachingOut(tree: Tree, paths: Iterable<string>): ReadonlySet<string> {
   return found
 }
 
+function hostOver(
+  tree: Tree,
+  options: ts.CompilerOptions,
+  read: (path: string) => string | undefined
+): ts.CompilerHost {
+  const base = ts.createCompilerHost(options, true)
+  const there = thereOf(tree, read)
+  return {
+    ...base,
+    getCurrentDirectory: () => tree.root,
+    fileExists: there,
+    readFile: read,
+    getSourceFile: (path, language) => {
+      if (path.includes("/node_modules/") || path.includes("/typescript/lib/")) {
+        return base.getSourceFile(path, language)
+      }
+      const body = read(path)
+      return body === undefined ? undefined : ts.createSourceFile(path, body, language, true)
+    },
+  }
+}
+
+function diagnosticsOf(
+  tree: Tree,
+  rootNames: readonly string[],
+  options: ts.CompilerOptions,
+  read: (path: string) => string | undefined
+): readonly ts.Diagnostic[] {
+  if (rootNames.length === 0) return []
+  const program = ts.createProgram({
+    rootNames: [...rootNames],
+    options: { ...options, noEmit: true, incremental: false, composite: false },
+    host: hostOver(tree, options, read),
+  })
+  return [...program.getSemanticDiagnostics(), ...program.getSyntacticDiagnostics()]
+}
+
 export const typecheck: Check = {
   slug: "typecheck",
   needs: "tree",
-  run: ({ paths, tree, keep }) => {
-    const subjects = paths.filter((one) => one.endsWith(".ts"))
+  run: ({ paths, tree }) => {
+    const subjects = paths.filter((one) => one.endsWith(".ts")).map((one) => resolve(one))
     if (subjects.length === 0) return []
-    const found = instrument(tree.root)
-    if (found === null) return [{ path: tree.root, reason: ABSENT }]
+    if (typeof ts.createProgram !== "function") return [{ path: tree.root, reason: ABSENT }]
 
-    const dir = tree.dir()
-    const buildInfo = `${keep()}/${BUILD_INFO}`
-    const config = tsconfigFor(dir, found.typeRoot, buildInfo)
-    const ran = Bun.spawnSync({
-      cmd: [process.execPath, found.tsc, "--noEmit", "--pretty", "false", "-p", `${config}/tsconfig.json`],
-      cwd: dir,
-      stdout: "pipe",
-      stderr: "pipe",
-    })
-    rmSync(config, { recursive: true, force: true })
-    const output = `${ran.stdout.toString()}${ran.stderr.toString()}`
-
-    const failures: CheckFailure[] = []
+    const read = bodiesOf(tree)
+    const projects = projectsIn(tree, read)
     const scope = reaching(tree, new Set(subjects))
     const outward = reachingOut(tree, scope)
-    let seen = 0
-    for (const line of output.split("\n")) {
-      const match = DIAGNOSTIC.exec(line)
-      if (match === null) continue
-      const [, where, at, text] = match
-      if (where === undefined || at === undefined || text === undefined) continue
-      seen += 1
-      const path = resolve(tree.root, relative(dir, resolve(dir, where)))
-      if (!scope.has(path)) continue
-      if (outward.has(path)) continue
-      failures.push({ path, reason: `line ${at}: ${text}` })
-    }
-    if (seen === 0 && ran.exitCode !== 0) {
-      const said = output.trim().split("\n")[0] ?? "nothing"
-      return [{ path: tree.root, reason: `tsc exited ${ran.exitCode} without a diagnostic: ${said}` }]
+
+    const failures: CheckFailure[] = []
+    for (const [owner, held] of partition(subjects, projects)) {
+      if (owner !== null && owner.foreign !== null) continue
+      const options = owner === null ? DEFAULT_OPTIONS : owner.options
+      const rootNames = owner === null ? held : held.filter((one) => owner.files.has(one))
+      for (const found of diagnosticsOf(tree, rootNames, options, read)) {
+        if (found.file === undefined || found.start === undefined) continue
+        const path = resolve(found.file.fileName)
+        if (!scope.has(path) || outward.has(path)) continue
+        const { line } = found.file.getLineAndCharacterOfPosition(found.start)
+        const text = ts.flattenDiagnosticMessageText(found.messageText, " ")
+        failures.push({ path, reason: `line ${line + 1}: TS${found.code}: ${text}` })
+      }
     }
     return failures
   },
