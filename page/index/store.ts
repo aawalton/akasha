@@ -4,10 +4,18 @@ import { markOf } from "../../cache/mark.ts"
 import { oidsUnder } from "../../cache/oid.ts"
 import type { Roots } from "../page-at.ts"
 import { pageNameOf } from "../page-name.ts"
-import { type Source, bodyOf, sourcesOf } from "./entry.ts"
+import {
+  type Named,
+  type Source,
+  bodyOf,
+  namedBodyOf,
+  namedOf,
+  saidNamed,
+  sourcesOf,
+} from "./entry.ts"
 import type { Stated } from "./identity.ts"
 import type { Relation } from "./relation.ts"
-import { builtFromAt, fileFor, indexRoot } from "./place.ts"
+import { builtFromAt, fileFor, identityFile, indexRoot } from "./place.ts"
 
 const KIND = "pages-index"
 
@@ -38,6 +46,30 @@ export function keepAt(
   }
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, bodyOf(sources))
+}
+
+export function namedIn(file: string): readonly Named[] {
+  if (!existsSync(file)) return []
+  return namedOf(readFileSync(file, "utf8"))
+}
+
+export function keepNamedIn(file: string, held: readonly Named[]): void {
+  if (held.length === 0) {
+    if (existsSync(file)) rmSync(file)
+    return
+  }
+  const sorted = [...held].sort((one, two) => (saidNamed(one) < saidNamed(two) ? -1 : 1))
+  mkdirSync(dirname(file), { recursive: true })
+  writeFileSync(file, namedBodyOf(sorted))
+}
+
+export function pagesNamed(word: string, at: string): readonly Source[] {
+  const found: Source[] = []
+  for (const one of namedIn(identityFile(word, at))) {
+    if (one.at !== at) continue
+    found.push({ repo: one.repo, key: one.key })
+  }
+  return found
 }
 
 export function markFor(root: string): string {

@@ -13,7 +13,25 @@ export const BY_SEQ = "relation-seq"
 
 export const BY_ADDRESS = "relation-address"
 
+export const ID_WORD = "id"
+
+export const SLUG_WORD = "slug"
+
+export const NAME_WORD = "name"
+
+export const SEQ_WORD = "seq"
+
+export const IDENTITY_WORDS: readonly string[] = [ID_WORD, SLUG_WORD, NAME_WORD, SEQ_WORD]
+
 const KINDS: readonly string[] = [BY_ADDRESS, BY_SLUG, BY_NAME, BY_SEQ, BY_ID]
+
+const WORD_OF: Readonly<Record<string, string>> = {
+  [BY_ID]: ID_WORD,
+  [BY_SLUG]: SLUG_WORD,
+  [BY_NAME]: NAME_WORD,
+  [BY_SEQ]: SEQ_WORD,
+  [BY_ADDRESS]: SLUG_WORD,
+}
 
 const ADDRESS_JOIN = "/"
 
@@ -30,6 +48,10 @@ export function kindOf(stated: string): string | null {
   return null
 }
 
+export function wordOf(kind: string): string | null {
+  return WORD_OF[kind] ?? null
+}
+
 export type Held = PageAt & {
   readonly fm: Frontmatter
 }
@@ -40,6 +62,11 @@ export type Stated = PageAt & {
   readonly seq: string | null
 }
 
+export type Handle = {
+  readonly word: string
+  readonly at: string
+}
+
 export type Resolve = (kind: string, type: string | null, value: string) => PageAt | null
 
 export type Identity = {
@@ -47,16 +74,34 @@ export type Identity = {
   readonly at: Resolve
 }
 
+function stands(value: string | null): value is string {
+  return value !== null && value !== "" && value !== NONE
+}
+
+export function addressIn(type: string | null, value: string): string | null {
+  let named = type
+  let tail = value
+  const cut = value.indexOf(ADDRESS_JOIN)
+  if (cut > 0 && !value.slice(cut + 1).includes(ADDRESS_JOIN)) {
+    named = value.slice(0, cut)
+    tail = value.slice(cut + 1)
+  }
+  if (named === null) return null
+  return `${named}${ADDRESS_JOIN}${tail}`
+}
+
+export function handlesOf(one: Stated): readonly Handle[] {
+  const found: Handle[] = []
+  if (stands(one.id)) found.push({ word: ID_WORD, at: one.id })
+  found.push({ word: SLUG_WORD, at: `${one.type}${ADDRESS_JOIN}${one.slug ?? one.stem}` })
+  found.push({ word: NAME_WORD, at: `${one.type}${ADDRESS_JOIN}${one.stem}` })
+  if (stands(one.seq)) found.push({ word: SEQ_WORD, at: `${one.type}${ADDRESS_JOIN}${one.seq}` })
+  return found
+}
+
 function oneOf(found: readonly PageAt[] | undefined): PageAt | null {
   if (found === undefined || found.length !== 1) return null
   return found[0] ?? null
-}
-
-function put(under: Map<string, PageAt[]>, key: string | null, at: PageAt): void {
-  if (key === null || key === "" || key === NONE) return
-  const held = under.get(key)
-  if (held === undefined) under.set(key, [at])
-  else held.push(at)
 }
 
 export function heldAt(
@@ -86,30 +131,26 @@ export function statedOf(at: Held): Stated {
 }
 
 export function resolveOver(stated: Iterable<Stated>): Resolve {
-  const byId = new Map<string, PageAt[]>()
-  const bySlug = new Map<string, PageAt[]>()
-  const byName = new Map<string, PageAt[]>()
-  const bySeq = new Map<string, PageAt[]>()
+  const under = new Map<string, PageAt[]>()
   for (const one of stated) {
     const at: PageAt = { repo: one.repo, key: one.key, stem: one.stem, type: one.type }
-    put(byId, one.id, at)
-    put(bySlug, `${one.type}/${one.slug ?? one.stem}`, at)
-    put(byName, `${one.type}/${one.stem}`, at)
-    if (one.seq !== null) put(bySeq, `${one.type}/${one.seq}`, at)
-  }
-  return (kind, type, value) => {
-    if (kind === BY_ID) return oneOf(byId.get(value))
-    let named = type
-    let tail = value
-    const cut = value.indexOf(ADDRESS_JOIN)
-    if (cut > 0 && !value.slice(cut + 1).includes(ADDRESS_JOIN)) {
-      named = value.slice(0, cut)
-      tail = value.slice(cut + 1)
+    for (const handle of handlesOf(one)) {
+      const where = `${handle.word}${ADDRESS_JOIN}${handle.at}`
+      const found = under.get(where)
+      if (found === undefined) under.set(where, [at])
+      else found.push(at)
     }
-    if (named === null) return null
-    if (kind === BY_NAME) return oneOf(byName.get(`${named}/${tail}`))
-    if (kind === BY_SEQ) return oneOf(bySeq.get(`${named}/${tail}`))
-    return oneOf(bySlug.get(`${named}/${tail}`)) ?? oneOf(byName.get(`${named}/${tail}`))
+  }
+  const held = (word: string, at: string): PageAt | null =>
+    oneOf(under.get(`${word}${ADDRESS_JOIN}${at}`))
+  return (kind, type, value) => {
+    const word = wordOf(kind)
+    if (word === null) return null
+    if (word === ID_WORD) return held(ID_WORD, value)
+    const at = addressIn(type, value)
+    if (at === null) return null
+    if (word === NAME_WORD || word === SEQ_WORD) return held(word, at)
+    return held(SLUG_WORD, at) ?? held(NAME_WORD, at)
   }
 }
 

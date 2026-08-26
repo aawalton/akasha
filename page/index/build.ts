@@ -1,27 +1,31 @@
 import type { PageAt, Roots } from "../page-at.ts"
 import { pageNameOf } from "../page-name.ts"
 import { blockOf } from "../text.ts"
-import { type Source, saidSource } from "./entry.ts"
+import { type Named, type Source, saidNamed, saidSource } from "./entry.ts"
 import {
   type Held,
   type Resolve,
   type Stated,
+  handlesOf,
   identityOver,
   resolveOver,
   statedOf,
 } from "./identity.ts"
+import { identityFile } from "./place.ts"
 import { type Relation, reachedFrom, relationsOver } from "./relation.ts"
 import {
   builtFrom,
   emptyIndex,
   keepAt,
   keepBuiltFrom,
+  keepNamedIn,
   keepPages,
   keepRelations,
   loadPages,
   loadRelations,
   markFor,
   marksOver,
+  namedIn,
   sourcesAt,
 } from "./store.ts"
 
@@ -29,6 +33,8 @@ export type Built = {
   readonly files: number
   readonly entries: number
   readonly pages: number
+  readonly buckets: number
+  readonly handles: number
 }
 
 export type Standing = {
@@ -48,6 +54,11 @@ type Landed = {
   readonly after: Held | null
 }
 
+type Placed = {
+  readonly file: string
+  readonly one: Named
+}
+
 const PART = "/"
 
 function fileKey(relation: string, to: PageAt): string {
@@ -57,6 +68,18 @@ function fileKey(relation: string, to: PageAt): string {
 function partsOf(key: string): readonly [string, string, string] {
   const at = key.split(PART)
   return [at[0] ?? "", at[1] ?? "", at[2] ?? ""]
+}
+
+function placedFor(one: Stated | null): readonly Placed[] {
+  if (one === null) return []
+  return handlesOf(one).map((handle) => ({
+    file: identityFile(handle.word, handle.at),
+    one: { at: handle.at, repo: one.repo, key: one.key },
+  }))
+}
+
+function saidPlaced(placed: Placed): string {
+  return `${placed.file}\t${saidNamed(placed.one)}`
 }
 
 export function heldOf(repo: string, key: string, text: string): Held | null {
@@ -70,6 +93,7 @@ export function heldOf(repo: string, key: string, text: string): Held | null {
 export function buildOver(roots: Roots): Built {
   const identity = identityOver(roots)
   const relations = relationsOver(identity.pages)
+  const stated = identity.pages.map(statedOf)
   const under = new Map<string, Source[]>()
   let entries = 0
   for (const at of identity.pages) {
@@ -81,15 +105,26 @@ export function buildOver(roots: Roots): Built {
       entries++
     }
   }
+  const buckets = new Map<string, Named[]>()
+  let handles = 0
+  for (const one of stated) {
+    for (const placed of placedFor(one)) {
+      const held = buckets.get(placed.file) ?? []
+      held.push(placed.one)
+      buckets.set(placed.file, held)
+      handles++
+    }
+  }
   emptyIndex()
   for (const [key, sources] of under) {
     const [relation, stem, type] = partsOf(key)
     keepAt(relation, stem, type, sources)
   }
-  keepPages(identity.pages.map(statedOf))
+  for (const [file, held] of buckets) keepNamedIn(file, held)
+  keepPages(stated)
   keepRelations(relations)
   keepBuiltFrom(marksOver(roots))
-  return { files: under.size, entries, pages: identity.pages.length }
+  return { files: under.size, entries, pages: stated.length, buckets: buckets.size, handles }
 }
 
 export function standingHere(): Standing {
@@ -144,6 +179,44 @@ export function updateFor(
   return touched
 }
 
+function updateNamed(landed: readonly Landed[]): number {
+  const loaded = new Map<string, Named[]>()
+  const changed = new Set<string>()
+  const load = (file: string): Named[] => {
+    const held = loaded.get(file)
+    if (held !== undefined) return held
+    const made = [...namedIn(file)]
+    loaded.set(file, made)
+    return made
+  }
+  let touched = 0
+  for (const one of landed) {
+    const was = placedFor(one.before === null ? null : statedOf(one.before))
+    const now = placedFor(one.after === null ? null : statedOf(one.after))
+    const standing = new Set(now.map(saidPlaced))
+    for (const placed of was) {
+      if (standing.has(saidPlaced(placed))) continue
+      const said = saidNamed(placed.one)
+      loaded.set(
+        placed.file,
+        load(placed.file).filter((held) => saidNamed(held) !== said)
+      )
+      changed.add(placed.file)
+      touched++
+    }
+    for (const placed of now) {
+      const held = load(placed.file)
+      const said = saidNamed(placed.one)
+      if (held.some((one) => saidNamed(one) === said)) continue
+      held.push(placed.one)
+      changed.add(placed.file)
+      touched++
+    }
+  }
+  for (const file of changed) keepNamedIn(file, loaded.get(file) ?? [])
+  return touched
+}
+
 function restatedAll(held: readonly Stated[], landed: readonly Landed[]): readonly Stated[] {
   const said = new Set(landed.map((one) => saidSource(one.source)))
   const kept = held.filter((one) => !said.has(saidSource(one)))
@@ -174,6 +247,7 @@ export function landHere(landings: readonly Landing[]): number {
   const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
   let touched = 0
   for (const one of landed) touched += updateFor(standing, one.source, one.before, one.after)
+  touched += updateNamed(landed)
   keepPages(stated)
   return touched
 }
