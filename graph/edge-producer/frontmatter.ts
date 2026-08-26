@@ -64,7 +64,7 @@ function named(
 ): FileNode | null {
   const address = addressParts(named)
   const slug = address === null ? named : address.slug
-  const wanted = address === null ? reference.toPageType : address.pageType
+  const wanted = address === null ? reference.toPageType : address.type
   const standing = index.get(slug) ?? []
   const fitting =
     wanted === null ? standing : standing.filter((page) => page.attrs["page-type-slug"] === wanted)
