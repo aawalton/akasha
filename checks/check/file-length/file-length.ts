@@ -1,6 +1,6 @@
 import { relative } from "node:path"
 import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
-import { decodeUtf8 } from "../../../agent/command/read/utf8-body.ts"
+import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import type { Check } from "../check-shape.ts"
 
 export const CEILING_BYTES = 15000

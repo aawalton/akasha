@@ -1,5 +1,5 @@
 import { relative } from "node:path"
-import { decodeUtf8 } from "../../../agent/command/read/utf8-body.ts"
+import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 import type { Check } from "../check-shape.ts"

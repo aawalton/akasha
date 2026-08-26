@@ -2,7 +2,7 @@ export const summary = "Write whole files as a patch, gated before anything land
 
 import { existsSync, mkdtempSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { decodeUtf8 } from "../../agent/command/read/utf8-body.ts"
+import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
 import { carriesBytes } from "../../page/file-kind/carries-bytes.ts"
 import { statingIds } from "../../page/name/state-id.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../repo/land/land.ts"

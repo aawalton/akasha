@@ -5,7 +5,7 @@ import { blobId, readBlob } from "../repo/git/git.ts"
 import { countLines, type Reading } from "./read-log.ts"
 import type { Span } from "./read-records.ts"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
-import { decodeUtf8, leadingBytes } from "./command/read/utf8-body.ts"
+import { decodeUtf8, leadingBytes } from "../utf8-body/utf8-body.ts"
 
 function whenText(at: number): string {
   return new Date(at).toISOString().replace("T", " ").slice(0, 19)

@@ -1,7 +1,7 @@
 export const summary = "Change passages in place as a patch, gated before anything lands"
 
 import { readFileSync } from "node:fs"
-import { decodeUtf8 } from "../../agent/command/read/utf8-body.ts"
+import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
 import { applyPairs, parsePairs } from "../edit-pairs.ts"
 import {
   bodyFile,
