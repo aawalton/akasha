@@ -23,7 +23,7 @@ const LAPSED =
   "stand on would go unread with nothing saying so"
 
 function routeTo(absolute: string): string {
-  return `bun ~/repos/instructions/tools/read.ts --file-path ${absolute}`
+  return `ops read --file-path ${absolute}`
 }
 
 function whenText(at: number): string {

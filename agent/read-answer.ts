@@ -1,7 +1,7 @@
 
 export const ANSWER_CEILING = 28_000
 
-const READ_COMMAND = "bun ~/repos/instructions/tools/read.ts"
+const READ_COMMAND = "ops read"
 
 export function costOf(lines: readonly string[]): number {
   let total = 0
