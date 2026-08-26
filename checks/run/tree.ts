@@ -31,6 +31,7 @@ export function treeOn(
       return held
     },
     dir,
+    gone: () => [...changed].flatMap(([at, body]) => (body === null ? [at] : [])),
     at: (path) => {
       const held = changed.get(path)
       if (held !== undefined) return held

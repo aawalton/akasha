@@ -139,6 +139,12 @@ function reaching(tree: Tree, seeds: ReadonlySet<string>): ReadonlySet<string> {
   return reached
 }
 
+function strandedBy(tree: Tree): readonly string[] {
+  const gone = new Set(tree.gone().filter((one) => one.endsWith(".ts")).map((one) => resolve(one)))
+  if (gone.size === 0) return []
+  return [...reaching(tree, gone)].filter((one) => !gone.has(one))
+}
+
 function reachingOut(tree: Tree, paths: Iterable<string>): ReadonlySet<string> {
   const found = new Set<string>()
   for (const path of paths) {
@@ -206,7 +212,8 @@ export const typecheck: Check = {
   slug: "typecheck",
   needs: "tree",
   run: ({ paths, tree }) => {
-    const subjects = paths.filter((one) => one.endsWith(".ts")).map((one) => resolve(one))
+    const named = paths.filter((one) => one.endsWith(".ts")).map((one) => resolve(one))
+    const subjects = [...new Set([...named, ...strandedBy(tree)])]
     if (subjects.length === 0) return []
     if (typeof ts.createProgram !== "function") return [{ path: tree.root, reason: ABSENT }]
 

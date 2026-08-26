@@ -26,6 +26,7 @@ function verdict(bodies: Readonly<Record<string, string>>): readonly CheckFailur
         return body === undefined ? null : Buffer.from(body)
       },
       paths: () => paths,
+      gone: () => [],
       dir: () => ROOT,
     },
     keep: () => "",
