@@ -136,6 +136,10 @@ export function refusalsOver(patch: string, mechanical: boolean): readonly strin
 }
 
 export function gateOrRefuse(patch: string, mechanical: boolean, changed: number): void {
+  if (patch.trim() === "") {
+    process.stderr.write("gate: no line differs from what stands, so no check had anything to judge\n")
+    return
+  }
   const refused = refusalsOver(patch, mechanical)
   if (refused.length > 0) {
     process.stderr.write(`${refused.join("\n")}\nnothing was written\n`)
