@@ -5,7 +5,7 @@ import * as luaExpressions from "../../LuaAST-expressions"
 import { assert, isNonNull } from "../../utils"
 import type { TransformationContext } from "../context/transformation-context"
 import { getSymbolInfo } from "./symbols"
-import { getFirstDeclarationInFile } from "./typescript"
+import { getFirstDeclarationInFile } from "./typescript/typescript"
 import { findFirstNodeAbove } from "./typescript/find-first-node-above"
 
 export const ScopeType = {
