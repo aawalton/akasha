@@ -3,6 +3,7 @@ export const summary = "Map what points at each file under one section of a repo
 import { relative, resolve } from "node:path"
 import { edgesFrom, edgesInto, nodesIn } from "../../../graph/ask.ts"
 import { CODE_EDGE } from "../../../graph/edge-producer/beside.ts"
+import { IMPORT_EDGE } from "../../../graph/edge-producer/typescript.ts"
 import { KEEPS_NOTHING } from "../../../graph/node-shape.ts"
 import { AKASHA, rootsHere } from "../../../graph/roots.ts"
 
@@ -36,7 +37,7 @@ export default async function uses(argv: readonly string[]): Promise<void> {
   if (mine.length === 0) throw new Error(`${section} holds no file the graph knows`)
   const pointing = new Map<string, string[]>()
   const refs = mine.map((node) => ({ repo: node.repo, key: node.key }))
-  for (const edge of edgesInto(ctx, refs, [AKASHA], null)) {
+  for (const edge of edgesInto(ctx, refs, [AKASHA], [IMPORT_EDGE, CODE_EDGE])) {
     const line = `${edge.kind}  ${edge.from.key}`
     const held = pointing.get(edge.to.key)
     if (held === undefined) pointing.set(edge.to.key, [line])
@@ -45,7 +46,7 @@ export default async function uses(argv: readonly string[]): Promise<void> {
   for (const node of mine) {
     const who = [...(pointing.get(node.key) ?? [])].sort()
     const outside = who.filter((one) => !one.slice(one.indexOf("  ") + 2).startsWith(under))
-    const beside = edgesFrom(ctx, node, CODE_EDGE).length > 0
+    const beside = edgesFrom(ctx, node, [CODE_EDGE]).length > 0
     const mark = node.key.endsWith(TEST_SUFFIX)
       ? "test"
       : outside.length > 0

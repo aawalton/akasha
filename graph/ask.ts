@@ -25,13 +25,15 @@ export function nodesIn(ctx: BuildContext, repos: readonly string[]): readonly F
 export function edgesFrom(
   ctx: BuildContext,
   file: FileNode,
-  kind: string | null = null
+  kinds: readonly string[]
 ): readonly EdgeInit[] {
+  const wanted = new Set(kinds)
+  if (wanted.size === 0) return []
   const edges: EdgeInit[] = []
   for (const producer of EDGE_PRODUCERS) {
-    if (kind !== null && !producer.edgeKinds(ctx).includes(kind)) continue
+    if (!producer.edgeKinds(ctx).some((kind) => wanted.has(kind))) continue
     for (const edge of producer.from(ctx, file)) {
-      if (kind !== null && edge.kind !== kind) continue
+      if (!wanted.has(edge.kind)) continue
       edges.push(edge)
     }
   }
@@ -46,13 +48,13 @@ export function edgesInto(
   ctx: BuildContext,
   refs: readonly NodeRef[],
   repos: readonly string[],
-  kind: string | null = null
+  kinds: readonly string[]
 ): readonly EdgeInit[] {
   const wanted = new Set(refs.map(refKey))
   if (wanted.size === 0) return []
   const found: EdgeInit[] = []
   for (const file of nodesIn(ctx, repos)) {
-    for (const edge of edgesFrom(ctx, file, kind)) {
+    for (const edge of edgesFrom(ctx, file, kinds)) {
       if (wanted.has(refKey(edge.to))) found.push(edge)
     }
   }

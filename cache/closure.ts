@@ -22,7 +22,7 @@ export function closureOf(
     const oid = oids.get(ref.key)
     if (oid === undefined) continue
     inputs.push({ path: ref.key, oid })
-    for (const edge of edgesFrom(ctx, node, IMPORT_EDGE)) waiting.push(edge.to)
+    for (const edge of edgesFrom(ctx, node, [IMPORT_EDGE])) waiting.push(edge.to)
   }
   return inputs
 }
