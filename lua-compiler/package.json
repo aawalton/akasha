@@ -1,7 +1,6 @@
 {
   "name": "@temper/shared-build-deploy-tstl",
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
     "enhanced-resolve": "5.8.2",
     "picomatch": "^2.3.1",
     "resolve": "^1.15.1",

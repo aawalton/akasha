@@ -11,11 +11,7 @@
     "target": "ES2019",
     "useDefineForClassFields": false
   },
-  "references": [
-    {
-      "path": "./vendor/utils-narrow"
-    }
-  ],
+  "references": [],
   "include": [
     "src/**/*.ts"
   ],
