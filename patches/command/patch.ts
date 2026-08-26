@@ -11,6 +11,8 @@ export const INSTRUCTIONS = process.env.INSTRUCTIONS_ROOT ?? resolve(HERE, "..",
 
 export const SCRATCH = "/var/tmp"
 
+export const GATED = "AKASHA_CHECKS_RAN"
+
 const BUFFER_CEILING = 64 * 1024 * 1024
 
 const DEFAULT_MODE = "100644"
@@ -150,7 +152,7 @@ export function runTool(tool: string, argv: readonly string[], catching: boolean
   return new Promise<string>((resolve_, reject) => {
     const child = spawn(process.execPath, [at, ...argv], {
       stdio: catching ? ["ignore", "pipe", "pipe"] : "inherit",
-      env: { ...process.env, INSTRUCTIONS_ROOT: INSTRUCTIONS },
+      env: { ...process.env, INSTRUCTIONS_ROOT: INSTRUCTIONS, [GATED]: "1" },
     })
     let out = ""
     child.stdout?.on("data", (chunk: Buffer) => {
