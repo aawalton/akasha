@@ -16,3 +16,9 @@ export function pageNameOf(key: string): PageName | null {
   if (dot <= 0 || dot === rest.length - 1) return null
   return { stem: rest.slice(0, dot), type: rest.slice(dot + 1) }
 }
+
+export function stemOf(key: string): string {
+  const base = key.slice(key.lastIndexOf("/") + 1)
+  const dot = base.indexOf(DOT)
+  return dot <= 0 ? base : base.slice(0, dot)
+}

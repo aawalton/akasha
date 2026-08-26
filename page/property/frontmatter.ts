@@ -1,6 +1,6 @@
 import { propertyTypesOf } from "./computed.ts"
 import { blockOf, claimant, matchesAny, NONE, PAGE_TYPE_GLOBS, placeOf, reposOf, PROPERTY_GLOBS, stringAt, type PageType } from "../page-types.ts"
-import { pageNameOf } from "../name/name.ts"
+import { stemOf } from "../name/name.ts"
 import { backReference, SELECT, TYPE_SLUG, TYPE_VOCABULARY } from "./value.ts"
 import { armFor, type Armed } from "./judge.ts"
 import { declarationsFromFiles, declarationsOf } from "./declarations.ts"
@@ -115,7 +115,7 @@ function typeIndex(tree: FileTree): ReadonlyMap<string, string> {
   if (standing !== undefined) return standing
   const bySlug = new Map<string, string>()
   for (const relPath of tree.paths(PAGE_TYPE_GLOBS)) {
-    const slug = pageNameOf(relPath)?.stem ?? ""
+    const slug = stemOf(relPath)
     if (!bySlug.has(slug)) bySlug.set(slug, relPath)
   }
   indexes.set(tree, bySlug)
@@ -129,7 +129,7 @@ export function chainOf(type: PageType, tree: FileTree, index?: ReadonlyMap<stri
   let at = type.relPath
   for (;;) {
     if (seen.has(at))
-      return { relPaths: null, why: `the \`extends-slug\` chain above \`${type.slug}\` returns to \`${pageNameOf(at)?.stem ?? ""}\`` }
+      return { relPaths: null, why: `the \`extends-slug\` chain above \`${type.slug}\` returns to \`${stemOf(at)}\`` }
     seen.add(at)
     relPaths.push(at)
     const text = tree.open(at)
@@ -164,7 +164,7 @@ export function propertiesFor(
   const { bySlug, fault } = declarationsFromFiles(tree)
   if (fault !== null) return { properties: null, why: fault }
   const properties: Property[] = []
-  for (const slug of new Set(relPaths.map((at) => pageNameOf(at)?.stem ?? "")))
+  for (const slug of new Set(relPaths.map((at) => stemOf(at))))
     for (const one of bySlug.get(slug) ?? []) properties.push(one)
   properties.sort((a, b) => (a.at < b.at ? -1 : a.at > b.at ? 1 : 0))
   return { properties, why: null }
@@ -233,7 +233,7 @@ export function compiledPageTypeFor(type: PageType, tree: FileTree): CompiledPag
   }
   const made: CompiledPageType = {
     slug: type.slug,
-    chain: chain === null ? null : chain.map((at) => pageNameOf(at)?.stem ?? ""),
+    chain: chain === null ? null : chain.map((at) => stemOf(at)),
     properties,
     armed,
     ownType: (property, named) => armOnce(property, named, ground),

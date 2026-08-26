@@ -2,7 +2,7 @@ import type { FileTree } from "../file-tree.ts"
 import { chainOf } from "../property/frontmatter.ts"
 import { shapeOf, type Forebear, type Shape } from "./shape.ts"
 import { blockOf, NONE, matchesAny, PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS, pageTypeAt, stringAt, type PageType } from "../page-types.ts"
-import { pageNameOf } from "../name/name.ts"
+import { stemOf } from "../name/name.ts"
 
 export const BODY_SHAPE_KEY = "body-shape-slug"
 
@@ -39,7 +39,7 @@ export function aboveOf(relPath: string, text: string, tree: FileTree): Above {
 }
 
 function shapeAt(slug: string, tree: FileTree): string | null {
-  for (const relPath of tree.paths(PAGE_BODY_SHAPE_GLOBS)) if (pageNameOf(relPath)?.stem === slug) return relPath
+  for (const relPath of tree.paths(PAGE_BODY_SHAPE_GLOBS)) if (stemOf(relPath) === slug) return relPath
   return null
 }
 
@@ -49,7 +49,7 @@ function shapeChain(from: string, tree: FileTree): { relPaths: readonly string[]
   let at = from
   for (;;) {
     if (seen.has(at))
-      return { relPaths: null, why: `the \`extends-slug\` chain above \`${pageNameOf(from)?.stem ?? ""}\` returns to \`${pageNameOf(at)?.stem ?? ""}\`` }
+      return { relPaths: null, why: `the \`extends-slug\` chain above \`${stemOf(from)}\` returns to \`${stemOf(at)}\`` }
     seen.add(at)
     relPaths.push(at)
     const text = tree.open(at)

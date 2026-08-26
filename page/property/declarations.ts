@@ -2,7 +2,7 @@ import { listField, textField } from "../frontmatter.ts"
 import { slugNamed } from "../page-address.ts"
 import { computedOn, reachedFor, reachingOf } from "./computed.ts"
 import { blockOf, DEFINED_ON, PROPERTY_GLOBS, stringAt } from "../page-types.ts"
-import { pageNameOf } from "../name/name.ts"
+import { stemOf } from "../name/name.ts"
 import { TYPE } from "./value.ts"
 import { SLUG_PROPERTY, VALUES } from "./stated.ts"
 import type { Held, Stated } from "./stated.ts"
@@ -97,8 +97,8 @@ function declaredIn(relPath: string, text: string, reaching: ReadonlySet<string>
   return {
     on,
     one: {
-      name: stringAt(fm, PROPERTY_KEY) ?? pageNameOf(relPath)?.stem ?? "",
-      slug: stringAt(fm, SLUG) ?? pageNameOf(relPath)?.stem ?? "",
+      name: stringAt(fm, PROPERTY_KEY) ?? stemOf(relPath),
+      slug: stringAt(fm, SLUG) ?? stemOf(relPath),
       at: relPath,
       on,
       type: stated ?? "",

@@ -5,7 +5,7 @@ import { listField, parseFrontmatter, type Frontmatter } from "./frontmatter.ts"
 import { notIgnored } from "../repo/ignored/ignored.ts"
 import { INSTRUCTIONS, reposNamed } from "../repo/roots/roots.ts"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
-import { pageNameOf } from "./name/name.ts"
+import { stemOf } from "./name/name.ts"
 import type { Roots } from "./page.ts"
 
 export const PAGES_ROOT = "pages"
@@ -139,7 +139,7 @@ export function pageTypeStatedAt(relPath: string, text: string): StatedPageType 
   const { fm, why } = blockOf(text)
   if (why !== null) return null
   return {
-    slug: stringAt(fm, SLUG) ?? pageNameOf(relPath)?.stem ?? "",
+    slug: stringAt(fm, SLUG) ?? stemOf(relPath),
     relPath,
     stated: filedIn(fm),
     extends: stringAt(fm, EXTENDS_SLUG),
