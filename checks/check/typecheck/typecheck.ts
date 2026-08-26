@@ -1,8 +1,8 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
-import type { Check, CheckFailure, Tree } from "../check-shape.ts"
-import { carriesCode, outwardOf, specifiersIn, targetOf } from "../imports.ts"
+import type { Check, CheckFailure, Tree } from "../../check-shape.ts"
+import { carriesCode, outwardOf, specifiersIn, targetOf } from "../../imports.ts"
 
 const SCRATCH = "/var/tmp"
 

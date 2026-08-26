@@ -4,8 +4,8 @@ import { oidsUnder } from "../../cache/oid.ts"
 import { contextOver } from "../../cache/said.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
 import { onDisk } from "../tree.ts"
-import { judgesAuthor } from "./all.ts"
-import { runKept, type Subject } from "./kept.ts"
+import { judgesAuthor } from "../all.ts"
+import { runKept, type Subject } from "../outcome/kept.ts"
 
 export function runAudit(checks: readonly Check[], root: string): readonly CheckRun[] {
   const tree = onDisk(root)

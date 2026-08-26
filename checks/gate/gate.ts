@@ -8,8 +8,8 @@ import { actOn } from "../act.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
 import { linkedInto } from "../../workspace/packages.ts"
 import { trackedIn, treeOn } from "../tree.ts"
-import { judgesAuthor } from "./all.ts"
-import { runKept, type Subject } from "./kept.ts"
+import { judgesAuthor } from "../all.ts"
+import { runKept, type Subject } from "../outcome/kept.ts"
 
 const SCRATCH = "/var/tmp"
 

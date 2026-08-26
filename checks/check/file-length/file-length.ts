@@ -1,4 +1,4 @@
-import type { Check } from "../check-shape.ts"
+import type { Check } from "../../check-shape.ts"
 
 export const CEILING_BYTES = 15000
 

@@ -1,9 +1,9 @@
 import { relative } from "node:path"
-import type { Check } from "../check-shape.ts"
-import { indexOf, nameOf, type PageAt, pagesOver, saidAt } from "../../graph/page-index.ts"
-import { AKASHA, INSTRUCTIONS, rootsHere } from "../../graph/roots.ts"
-import { pageNameOf } from "../../page/page-name.ts"
-import { trackedIn } from "../../page/pages.ts"
+import type { Check } from "../../check-shape.ts"
+import { indexOf, nameOf, type PageAt, pagesOver, saidAt } from "../../../graph/page-index.ts"
+import { AKASHA, INSTRUCTIONS, rootsHere } from "../../../graph/roots.ts"
+import { pageNameOf } from "../../../page/page-name.ts"
+import { trackedIn } from "../../../page/pages.ts"
 
 function elsewhere(found: readonly PageAt[], at: PageAt): readonly PageAt[] {
   return found.filter((one) => one.repo !== at.repo || one.key !== at.key)

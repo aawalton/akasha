@@ -13,7 +13,7 @@ import {
 import { KEEP_KIND, keepUnder } from "../../cache/keep.ts"
 import { oidOfBody } from "../../cache/oid.ts"
 import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check-shape.ts"
-import { type Held, runAll } from "./all.ts"
+import { type Held, runAll } from "../all.ts"
 import { outcomesOf } from "./outcome.ts"
 
 export type Subject = {
