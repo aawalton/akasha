@@ -1,4 +1,4 @@
-import type { DailyTierColor } from "../../code/packages/alanwalton/personas/core/src/index.ts"
+import type { DailyTierColor } from "./daily-tier.ts"
 import {
   continuousCircle,
   type DescendingRung,

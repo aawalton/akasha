@@ -1,4 +1,4 @@
-import type { DailyTierLadder } from "../../code/packages/alanwalton/personas/core/src/index.ts"
+import type { DailyTierLadder } from "./daily-tier.ts"
 
 export const GREEN_DAY_UNITS_LADDER: DailyTierLadder = [
   { threshold: 0.25, color: "red" },
