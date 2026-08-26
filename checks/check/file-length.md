@@ -7,4 +7,4 @@ slug: file-length
 
 # Definition
 
-- **File length** — fails an authored file over its repository's ceiling.
+- **File length** — fails a file over the ceiling.
