@@ -26,7 +26,7 @@ export function edgesFrom(
 ): readonly EdgeInit[] {
   const edges: EdgeInit[] = []
   for (const producer of EDGE_PRODUCERS) {
-    if (kind !== null && !producer.edgeKinds.includes(kind)) continue
+    if (kind !== null && !producer.edgeKinds(ctx).includes(kind)) continue
     for (const edge of producer.from(ctx, file)) {
       if (kind !== null && edge.kind !== kind) continue
       edges.push(edge)

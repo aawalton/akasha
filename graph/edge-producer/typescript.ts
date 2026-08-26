@@ -41,7 +41,7 @@ function refAt(ctx: BuildContext, at: string): NodeRef | null {
 
 export const typescriptEdgeProducer: EdgeProducer = {
   name: "typescript",
-  edgeKinds: [IMPORT_EDGE],
+  edgeKinds: () => [IMPORT_EDGE],
   from: (ctx, file) => {
     if (file.attrs["file-extension"] !== TYPESCRIPT) return []
     const root = ctx.roots[file.repo]

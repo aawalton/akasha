@@ -38,7 +38,7 @@ function spellingIn(ctx: BuildContext): ReadonlyMap<string, NodeRef> {
 
 export const extensionEdgeProducer: EdgeProducer = {
   name: "extension",
-  edgeKinds: [FILE_KIND_EDGE],
+  edgeKinds: () => [FILE_KIND_EDGE],
   from: (ctx, file) => {
     const extension = file.attrs["file-extension"]
     if (extension === null) return []

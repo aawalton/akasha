@@ -7,41 +7,28 @@ import {
   NONE,
   type PageType,
   pagesOf,
+  stringAt,
   textAt,
 } from "../../../instructions/tools/page/page-types.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { AKASHA, BORROWED_PAGE_TYPES } from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 
-export type Reference = {
+const DEFINITION_PAGE_TYPE = "page-property-definition"
+
+const RELATION = "relation"
+
+const SUFFIXES: readonly string[] = ["-slugs", "-slug"]
+
+export type Relation = {
   readonly key: string
   readonly kind: string
-  readonly fromPageType: string | null
-  readonly toPageType: string | null
+  readonly target: string | null
 }
-
-export const REFERENCES: readonly Reference[] = [
-  { key: "page-type-slug", kind: "page-type", fromPageType: null, toPageType: "page-type" },
-  { key: "extends-slug", kind: "extends", fromPageType: "page-type", toPageType: "page-type" },
-  {
-    key: "defined-on-slug",
-    kind: "defined-on",
-    fromPageType: "page-property-definition",
-    toPageType: "page-type",
-  },
-  { key: "domain-parent-slug", kind: "domain-parent", fromPageType: null, toPageType: null },
-  {
-    key: "narrows-slug",
-    kind: "narrows",
-    fromPageType: "page-property-definition",
-    toPageType: "page-type",
-  },
-  { key: "sequence-slugs", kind: "sequence", fromPageType: null, toPageType: null },
-  { key: "required-reading-slugs", kind: "required-reading", fromPageType: null, toPageType: null },
-]
 
 type Standing = {
   registry: readonly PageType[] | null
+  relations: ReadonlyMap<string, readonly Relation[]> | null
   readonly named: Map<string, ReadonlyMap<string, NodeRef>>
 }
 
@@ -50,7 +37,7 @@ const HELD = new WeakMap<BuildContext, Standing>()
 function standingIn(ctx: BuildContext): Standing {
   const held = HELD.get(ctx)
   if (held !== undefined) return held
-  const made: Standing = { registry: null, named: new Map() }
+  const made: Standing = { registry: null, relations: null, named: new Map() }
   HELD.set(ctx, made)
   return made
 }
@@ -63,9 +50,74 @@ function registryIn(ctx: BuildContext): readonly PageType[] {
   return made
 }
 
+export function kindOf(key: string): string {
+  for (const suffix of SUFFIXES) {
+    if (key.endsWith(suffix)) return key.slice(0, -suffix.length)
+  }
+  return key
+}
+
 function stemOf(key: string): string {
   const base = key.slice(key.lastIndexOf("/") + 1)
   return base.split(".")[0] ?? base
+}
+
+function slugNamed(named: string | null): string | null {
+  if (named === null) return null
+  const address = addressParts(named)
+  return address === null ? named : address.slug
+}
+
+function declaredIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]> {
+  const made = new Map<string, Relation[]>()
+  for (const pageType of registryIn(ctx)) {
+    if (pageType.slug !== DEFINITION_PAGE_TYPE) continue
+    const repo = pageType.repo
+    if (repo === null) continue
+    const root = ctx.roots[repo]
+    if (root === undefined) continue
+    for (const key of pagesOf(root, pageType)) {
+      const text = textAt(root, key)
+      if (text === null) continue
+      const { fm, why } = blockOf(text)
+      if (why !== null) continue
+      if (!(stringAt(fm, "type") ?? "").includes(RELATION)) continue
+      const on = slugNamed(stringAt(fm, "defined-on-slug"))
+      const stated = stringAt(fm, "key")
+      if (on === null || stated === null) continue
+      const held = made.get(on) ?? []
+      held.push({
+        key: stated,
+        kind: kindOf(stated),
+        target: slugNamed(stringAt(fm, "target-slug")),
+      })
+      made.set(on, held)
+    }
+  }
+  return made
+}
+
+function relationsIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]> {
+  const standing = standingIn(ctx)
+  if (standing.relations !== null) return standing.relations
+  const declared = declaredIn(ctx)
+  const above = new Map(registryIn(ctx).map((one) => [one.slug, one.extends]))
+  const made = new Map<string, readonly Relation[]>()
+  for (const pageType of registryIn(ctx)) {
+    const held = new Map<string, Relation>()
+    const walked = new Set<string>()
+    let at: string | null = pageType.slug
+    while (at !== null && !walked.has(at)) {
+      walked.add(at)
+      for (const relation of declared.get(at) ?? []) {
+        if (!held.has(relation.key)) held.set(relation.key, relation)
+      }
+      at = above.get(at) ?? null
+    }
+    made.set(pageType.slug, [...held.values()])
+  }
+  standing.relations = made
+  return made
 }
 
 function pagesNamed(ctx: BuildContext, pageType: string): ReadonlyMap<string, NodeRef> {
@@ -89,9 +141,9 @@ function pagesNamed(ctx: BuildContext, pageType: string): ReadonlyMap<string, No
   return made
 }
 
-function reached(ctx: BuildContext, named: string, reference: Reference): NodeRef | null {
+function reached(ctx: BuildContext, named: string, relation: Relation): NodeRef | null {
   const address = addressParts(named)
-  const pageType = address === null ? reference.toPageType : address.type
+  const pageType = address === null ? relation.target : address.type
   if (pageType === null) return null
   const slug = address === null ? named : address.slug
   const ref = pagesNamed(ctx, pageType).get(slug)
@@ -100,14 +152,22 @@ function reached(ctx: BuildContext, named: string, reference: Reference): NodeRe
   return BORROWED_PAGE_TYPES.includes(pageType) ? ref : null
 }
 
-function namesIn(fm: Frontmatter, reference: Reference): readonly string[] {
-  return listField(fm, reference.key).filter((slug) => slug !== "" && slug !== NONE)
+function namesIn(fm: Frontmatter, relation: Relation): readonly string[] {
+  return listField(fm, relation.key).filter((one) => one !== "" && one !== NONE)
 }
 
 export const frontmatterEdgeProducer: EdgeProducer = {
   name: "frontmatter",
-  edgeKinds: REFERENCES.map((reference) => reference.kind),
+  edgeKinds: (ctx) => {
+    const kinds = new Set<string>()
+    for (const relations of relationsIn(ctx).values()) {
+      for (const relation of relations) kinds.add(relation.kind)
+    }
+    return [...kinds]
+  },
   from: (ctx, file) => {
+    const pageType = file.attrs["page-type-slug"]
+    if (pageType === null) return []
     const root = ctx.roots[file.repo]
     if (root === undefined) return []
     const text = textAt(root, file.key)
@@ -115,13 +175,11 @@ export const frontmatterEdgeProducer: EdgeProducer = {
     const { fm, why } = blockOf(text)
     if (why !== null) return []
     const edges: EdgeInit[] = []
-    for (const reference of REFERENCES) {
-      if (reference.fromPageType !== null && file.attrs["page-type-slug"] !== reference.fromPageType)
-        continue
-      for (const named of namesIn(fm, reference)) {
-        const to = reached(ctx, named, reference)
+    for (const relation of relationsIn(ctx).get(pageType) ?? []) {
+      for (const named of namesIn(fm, relation)) {
+        const to = reached(ctx, named, relation)
         if (to === null) continue
-        edges.push({ kind: reference.kind, from: { repo: file.repo, key: file.key }, to })
+        edges.push({ kind: relation.kind, from: { repo: file.repo, key: file.key }, to })
       }
     }
     return edges
