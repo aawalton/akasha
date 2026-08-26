@@ -119,9 +119,9 @@ export const readBeforeWrite: Check = {
       return paths.map((path) => ({ path, reason }))
     }
 
-    const { index, seeding, rootOf } = standingHere()
+    const { index, claims, rootOf } = standingHere()
     const warrants = (at: PageAt, text: string | null): readonly PageAt[] =>
-      requiredReadingFor(at, text, index, seeding, rootOf)
+      requiredReadingFor(at, text, index, claims, rootOf)
     const failures: CheckFailure[] = []
     const judged = new Set<string>()
 

@@ -13,9 +13,10 @@ import {
   saidNamed,
   sourcesOf,
 } from "../entry/entry.ts"
+import { type Claims, noClaims } from "../claim/claim.ts"
 import type { Stated } from "../identity/identity.ts"
 import type { Relation } from "../relation/relation.ts"
-import { builtFromAt, fileFor, identityFile, indexRoot } from "../place/place.ts"
+import { builtFromAt, claimsAt, fileFor, identityFile, indexRoot } from "../place/place.ts"
 
 const KIND = "pages-index"
 
@@ -169,6 +170,31 @@ export function loadRelations(): ReadonlyMap<string, readonly Relation[]> {
     return new Map(Object.entries(held))
   } catch {
     return new Map()
+  }
+}
+
+export function keepClaims(claims: Claims): void {
+  const words: Record<string, Record<string, readonly string[]>> = {}
+  for (const word of Object.keys(claims.words).sort()) {
+    const under = claims.words[word] ?? {}
+    const settled: Record<string, readonly string[]> = {}
+    for (const at of Object.keys(under).sort()) settled[at] = under[at] ?? []
+    words[word] = settled
+  }
+  const at = claimsAt()
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, JSON.stringify({ keys: [...claims.keys].sort(), words }))
+}
+
+export function loadClaims(): Claims {
+  const at = claimsAt()
+  if (!existsSync(at)) return noClaims()
+  try {
+    const held = JSON.parse(readFileSync(at, "utf8")) as Claims
+    if (held.words === undefined || held.keys === undefined) return noClaims()
+    return held
+  } catch {
+    return noClaims()
   }
 }
 

@@ -7,6 +7,8 @@ import type { Target } from "../target/read-target.ts"
 
 const CONDITIONAL_KEY = "conditional-reading-slugs"
 
+const CONDITIONAL_TYPE = "task"
+
 const DEFINITION = /^#[ \t]+Definition[ \t]*$/
 
 const HEADING = /^#[ \t]/
@@ -49,7 +51,7 @@ export function conditionalBelow(standing: readonly Target[], from: string): rea
     if (why !== null) continue
     for (const slug of listField(fm, CONDITIONAL_KEY)) {
       if (found.has(slug)) continue
-      const page = index.domainAt(slug)
+      const page = index.domainAt(slug, CONDITIONAL_TYPE)
       if (page === null) continue
       const root = roots[page.repo]
       if (root === undefined) continue

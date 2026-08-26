@@ -1,5 +1,14 @@
 import { existsSync, readFileSync } from "node:fs"
 import type { AddressIndex } from "./address-index/address-index.ts"
+import {
+  type Claims,
+  ENDING as ENDING_WORD,
+  EXTENSION,
+  HEADING as HEADING_WORD,
+  PATH,
+  claimantIn,
+  claimedUnder,
+} from "../index/claim/claim.ts"
 import { listField } from "../frontmatter.ts"
 import type { PageAt } from "../page.ts"
 import { NONE, PAGE_TYPE_SLUG, stringAt } from "../text/text.ts"
@@ -10,11 +19,9 @@ const EXTENDS_KEY = "extends-slug"
 
 const REPO_ENDING = "-repo"
 
-const EXTENSION_KEY = "extension"
+const REPO_TYPE = "repo"
 
-const ENDING_KEY = "ending"
-
-const HEADING_KEY = "heading"
+const PACKAGE_TYPE = "package"
 
 const PACKAGE_REPO_KEY = "repo"
 
@@ -27,58 +34,6 @@ const DIRTY = "dirty/"
 const DOT = "."
 
 const REGISTRY_DIRS: readonly string[] = ["pages/page-type/", "page-types/", "pages/rules-engine-rule-set/"]
-
-const FILE_KEY_TYPE = "file"
-
-const TYPE_KEY = "type"
-
-const KEY_KEY = "key"
-
-const REPO_MARK = /^([a-z][a-z0-9-]*):(\S)/
-
-export interface Seeding {
-  readonly kinds: ReadonlyMap<string, PageAt>
-  readonly endings: ReadonlyMap<string, PageAt>
-  readonly headings: ReadonlyMap<string, PageAt>
-  readonly named: ReadonlyMap<string, PageAt>
-}
-
-export function seedingOver(lending: readonly PageAt[], index: AddressIndex): Seeding {
-  const kinds = new Map<string, PageAt>()
-  const endings = new Map<string, PageAt>()
-  const headings = new Map<string, PageAt>()
-  const fileKeys = new Set<string>()
-  const ordered = [...lending].sort((a, b) => (a.key < b.key ? -1 : a.key > b.key ? 1 : 0))
-  for (const at of ordered) {
-    const fm = index.frontmatterOf(at)
-    if (fm === null) continue
-    const extension = stringAt(fm, EXTENSION_KEY)
-    if (extension !== null) kinds.set(extension, at)
-    const ending = stringAt(fm, ENDING_KEY)
-    if (ending !== null) endings.set(ending, at)
-    const heading = stringAt(fm, HEADING_KEY)
-    if (heading !== null) headings.set(heading, at)
-    if (stringAt(fm, TYPE_KEY) !== FILE_KEY_TYPE) continue
-    const key = stringAt(fm, KEY_KEY)
-    if (key !== null) fileKeys.add(key)
-  }
-  const named = new Map<string, PageAt>()
-  for (const at of ordered) {
-    const fm = index.frontmatterOf(at)
-    if (fm === null) continue
-    for (const key of fileKeys) {
-      const stated = stringAt(fm, key)
-      if (stated === null) continue
-      const marked = REPO_MARK.exec(stated)
-      const claim =
-        marked === null
-          ? `${INSTRUCTIONS}:${stated}`
-          : `${marked[1] as string}:${stated.slice((marked[1] as string).length + 1)}`
-      named.set(claim, at)
-    }
-  }
-  return { kinds, endings, headings, named }
-}
 
 function saidAt(at: PageAt): string {
   return `${at.repo}:${at.key}`
@@ -144,7 +99,7 @@ function packageFor(
   if (root === undefined) return null
   const slug = packageSlugFor(root, at.key)
   if (slug === null) return null
-  const page = index.domainAt(slug)
+  const page = index.domainAt(slug, PACKAGE_TYPE)
   if (page === null) return null
   const fm = index.frontmatterOf(page)
   if (fm === null) return null
@@ -191,28 +146,30 @@ export function requiredReadingFor(
   at: PageAt,
   text: string | null,
   index: AddressIndex,
-  seeding: Seeding,
+  claims: Claims,
   rootOfRepo: (repo: string) => string | undefined
 ): readonly PageAt[] {
   if (at.repo === INSTRUCTIONS && at.key.startsWith(DIRTY)) return []
 
   const seeds: PageAt[] = []
   seeds.push(...closedOver(pointing(at, REQUIRED_KEY, index), (one) => pointing(one, REQUIRED_KEY, index)))
-  const standsIn = index.domainAt(`${at.repo}${REPO_ENDING}`)
+  const standsIn = index.domainAt(`${at.repo}${REPO_ENDING}`, REPO_TYPE)
   if (standsIn !== null) seeds.push(standsIn)
   const declaredBy = packageFor(at, rootOfRepo(at.repo), index)
   if (declaredBy !== null) seeds.push(declaredBy)
   const extension = extensionOf(at.key)
-  const kind = extension === null ? undefined : seeding.kinds.get(extension)
-  if (kind !== undefined) seeds.push(kind)
-  for (const [ending, page] of seeding.endings) {
-    if (at.key.endsWith(`${DOT}${ending}`)) seeds.push(page)
+  const kind = extension === null ? null : claimantIn(claims, EXTENSION, extension)
+  if (kind !== null) seeds.push(kind)
+  for (const ending of claimedUnder(claims, ENDING_WORD)) {
+    if (!at.key.endsWith(`${DOT}${ending}`)) continue
+    const page = claimantIn(claims, ENDING_WORD, ending)
+    if (page !== null) seeds.push(page)
   }
-  const names = seeding.named.get(`${at.repo}:${at.key}`)
-  if (names !== undefined) seeds.push(names)
+  const names = claimantIn(claims, PATH, `${at.repo}:${at.key}`)
+  if (names !== null) seeds.push(names)
   for (const heading of sectionsIn(text)) {
-    const page = seeding.headings.get(heading)
-    if (page !== undefined) seeds.push(page)
+    const page = claimantIn(claims, HEADING_WORD, heading)
+    if (page !== null) seeds.push(page)
   }
 
   const whole = closedOver(seeds, (one) =>

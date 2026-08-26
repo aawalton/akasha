@@ -1,16 +1,15 @@
-import { pagesOver } from "../../../graph/page-index/page-index.ts"
 import { rootsHere } from "../../../repo/roots/roots.ts"
-import { type AddressIndex, addressIndexOver } from "../address-index/address-index.ts"
+import { type Claims, claimsWithin } from "../../index/claim/claim.ts"
+import { claimsHere } from "../../index/build.ts"
 import type { PageAt } from "../../page.ts"
-import { trackedIn } from "../../tracked/tracked.ts"
-import { type Seeding, seedingOver } from "../required-reading.ts"
 import { textAt } from "../../text/text.ts"
+import { type AddressIndex, addressIndexIn } from "../address-index/address-index.ts"
 
-const BEARING: readonly string[] = ["instructions", "akasha", "memory"]
+const BEARING: ReadonlySet<string> = new Set(["instructions", "akasha", "memory"])
 
 export interface Standing {
   readonly index: AddressIndex
-  readonly seeding: Seeding
+  readonly claims: Claims
   readonly rootOf: (repo: string) => string | undefined
 }
 
@@ -18,18 +17,15 @@ let held: Standing | null = null
 
 function madeHere(): Standing {
   const roots = rootsHere()
-  const pages: PageAt[] = []
-  for (const repo of BEARING) {
-    const root = roots[repo]
-    if (root === undefined) continue
-    pages.push(...pagesOver(repo, trackedIn(root)))
-  }
   const bodyOf = (at: PageAt): string | null => {
     const root = roots[at.repo]
     return root === undefined ? null : textAt(root, at.key)
   }
-  const index = addressIndexOver(pages, bodyOf)
-  return { index, seeding: seedingOver(pages, index), rootOf: (repo) => roots[repo] }
+  return {
+    index: addressIndexIn(BEARING, bodyOf),
+    claims: claimsWithin(claimsHere(), BEARING),
+    rootOf: (repo) => roots[repo],
+  }
 }
 
 export function standingHere(): Standing {

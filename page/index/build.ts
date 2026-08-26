@@ -1,6 +1,15 @@
+import { rootsHere } from "../../repo/roots/roots.ts"
 import type { PageAt, Roots } from "../page.ts"
 import { pageNameOf } from "../name/name.ts"
 import { blockOf } from "../text/text.ts"
+import {
+  type Claims,
+  claimsOf,
+  claimsOver,
+  claimsWith,
+  fileKeysOf,
+  saidOf,
+} from "./claim/claim.ts"
 import { type Named, type Source, saidNamed, saidSource } from "./entry/entry.ts"
 import {
   type Held,
@@ -18,9 +27,11 @@ import {
   emptyIndex,
   keepAt,
   keepBuiltFrom,
+  keepClaims,
   keepNamedIn,
   keepPages,
   keepRelations,
+  loadClaims,
   loadPages,
   loadRelations,
   markFor,
@@ -35,6 +46,7 @@ export type Built = {
   readonly pages: number
   readonly buckets: number
   readonly handles: number
+  readonly claims: number
 }
 
 export type Standing = {
@@ -115,6 +127,7 @@ export function buildOver(roots: Roots): Built {
       handles++
     }
   }
+  const claims = claimsOver(identity.pages)
   emptyIndex()
   for (const [key, sources] of under) {
     const [relation, stem, type] = partsOf(key)
@@ -123,8 +136,26 @@ export function buildOver(roots: Roots): Built {
   for (const [file, held] of buckets) keepNamedIn(file, held)
   keepPages(stated)
   keepRelations(relations)
+  keepClaims(claims)
   keepBuiltFrom(marksOver(roots))
-  return { files: under.size, entries, pages: stated.length, buckets: buckets.size, handles }
+  let claimed = 0
+  for (const under of Object.values(claims.words)) claimed += Object.keys(under).length
+  return {
+    files: under.size,
+    entries,
+    pages: stated.length,
+    buckets: buckets.size,
+    handles,
+    claims: claimed,
+  }
+}
+
+export function claimsHere(): Claims {
+  const held = loadClaims()
+  if (held.keys.length > 0) return held
+  const made = claimsOver(identityOver(rootsHere()).pages)
+  keepClaims(made)
+  return made
 }
 
 export function standingHere(): Standing {
@@ -217,6 +248,38 @@ function updateNamed(landed: readonly Landed[]): number {
   return touched
 }
 
+function keysMoved(claims: Claims, landed: readonly Landed[]): boolean {
+  for (const one of landed) {
+    const was = one.before === null ? [] : fileKeysOf([one.before])
+    const now = one.after === null ? [] : fileKeysOf([one.after])
+    if (was.length === 0 && now.length === 0) continue
+    if (was.join(" ") !== now.join(" ")) return true
+    for (const key of now) {
+      if (!claims.keys.includes(key)) return true
+    }
+  }
+  return false
+}
+
+function updateClaims(landed: readonly Landed[]): number {
+  const held = loadClaims()
+  if (keysMoved(held, landed)) {
+    keepClaims(claimsOver(identityOver(rootsHere()).pages))
+    return landed.length
+  }
+  let claims = held
+  let touched = 0
+  for (const one of landed) {
+    const made = one.after === null ? [] : claimsOf(one.after, held.keys)
+    const was = one.before === null ? [] : claimsOf(one.before, held.keys)
+    if (made.length === 0 && was.length === 0) continue
+    claims = claimsWith(claims, saidOf(one.source), made)
+    touched += made.length > was.length ? made.length : was.length
+  }
+  if (touched > 0) keepClaims(claims)
+  return touched
+}
+
 function restatedAll(held: readonly Stated[], landed: readonly Landed[]): readonly Stated[] {
   const said = new Set(landed.map((one) => saidSource(one.source)))
   const kept = held.filter((one) => !said.has(saidSource(one)))
@@ -248,6 +311,7 @@ export function landHere(landings: readonly Landing[]): number {
   let touched = 0
   for (const one of landed) touched += updateFor(standing, one.source, one.before, one.after)
   touched += updateNamed(landed)
+  touched += updateClaims(landed)
   keepPages(stated)
   return touched
 }
