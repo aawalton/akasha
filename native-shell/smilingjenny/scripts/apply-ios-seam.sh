@@ -40,13 +40,13 @@ if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2
   exit 1
 fi
-# shellcheck source=packages/shared/ios-seam/build-stamp.sh
+# shellcheck source=ios-seam/build-stamp.sh
 . "$SHARED_IOS_SEAM_DIR/build-stamp.sh"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/monarch-url.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/monarch-url.sh not found — the monarch-tap relay has no link to open, and appending it without one would emit Swift that does not compile." >&2
   exit 1
 fi
-# shellcheck source=packages/shared/ios-seam/monarch-url.sh
+# shellcheck source=ios-seam/monarch-url.sh
 . "$SHARED_IOS_SEAM_DIR/monarch-url.sh"
 
 "$PB" -c "Delete :ITSAppUsesNonExemptEncryption" "$PLIST" 2>/dev/null || true
@@ -173,7 +173,7 @@ rm -f "$WIDGET_SEAM_RB"
 
 fi
 
-# shellcheck source=packages/smilingjenny/native-shell/scripts/apply-ios-seam-plugins.sh
+# shellcheck source=native-shell/smilingjenny/scripts/apply-ios-seam-plugins.sh
 . "$(dirname "${BASH_SOURCE[0]}")/apply-ios-seam-plugins.sh"
 
 RING_CREDENTIAL_PLACEHOLDER="__RING_CREDENTIAL_NOT_SUBSTITUTED__"

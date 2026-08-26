@@ -9,7 +9,7 @@ native_shell_monarch_url_swift() {
   fi
 
   cat <<SWIFT_MONARCH_URL
-    /// Authored once for both shells in packages/shared/ios-seam/monarch-url.sh.
+    /// Authored once for both shells in ios-seam/monarch-url.sh.
     private static let monarchURL = URL(string: "${NATIVE_SHELL_MONARCH_URL}")!
 SWIFT_MONARCH_URL
 }
