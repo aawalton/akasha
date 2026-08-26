@@ -14,8 +14,6 @@ import {
 import { fileFor, relationsRoot } from "./place.ts"
 import { pagesNamed, sourcesAt } from "./store.ts"
 
-export type { Source }
-
 export function sourcesFor(relation: string, to: PageAt): readonly Source[] {
   return sourcesAt(relation, to.stem, to.type)
 }
