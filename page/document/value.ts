@@ -1,4 +1,5 @@
-import type { FrontmatterValue, ValueType } from "./types.ts"
+import type { FrontmatterValue } from "./types.ts"
+import type { ValueType } from "./shape-types.ts"
 
 export type Fault = { expected: string; measured: string }
 

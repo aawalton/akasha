@@ -1,7 +1,8 @@
+import type { Block, Document, Inline, ListItem, Refusal, Section, Span, Verdict } from "./types.ts"
 import type {
-  Block, BlockPart, Cardinality, Choice, Document, Inline, KeyPart, ListItem, ListPart, PartDef,
-  ProsePart, Refusal, CompiledShape, Section, SectionPart, Span, Verdict, ContentRule,
-} from "./types.ts"
+  BlockPart, Cardinality, Choice, CompiledShape, ContentRule, KeyPart, ListPart, PartDef,
+  ProsePart, SectionPart,
+} from "./shape-types.ts"
 import { checkContent, plain } from "./content.ts"
 import { HOLES_KEY, holeFaults } from "./holes.ts"
 import type { Fault } from "./value.ts"

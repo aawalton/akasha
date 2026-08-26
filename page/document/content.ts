@@ -1,4 +1,5 @@
-import type { ContentRule, Inline, Mark, TemplateSlot } from "./types.ts"
+import type { Inline, Mark } from "./types.ts"
+import type { ContentRule, TemplateSlot } from "./shape-types.ts"
 import { checkScalar, describe, type Fault } from "./value.ts"
 
 export const plain = (xs: readonly Inline[]): string => xs.map((x) => x.text).join("")

@@ -1,5 +1,6 @@
 import * as tokens from "./tokens.ts"
-import type { Ceiling, ContentRule, Inline, Mark, MarkRule, TemplateSlot, ValueType } from "./types.ts"
+import type { Inline, Mark } from "./types.ts"
+import type { Ceiling, ContentRule, MarkRule, TemplateSlot, ValueType } from "./shape-types.ts"
 
 const HOLE = /\{([a-z][a-z0-9-]*)\}/g
 

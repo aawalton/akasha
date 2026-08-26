@@ -1,5 +1,5 @@
 
-import type { Cardinality, Ceiling } from "./types.ts"
+import type { Cardinality, Ceiling } from "./shape-types.ts"
 
 const ceiling = (n: number): Ceiling => n as Ceiling
 
