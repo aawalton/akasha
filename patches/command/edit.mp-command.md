@@ -19,6 +19,10 @@ Which repository a call addresses is read from the paths its substitutions name.
 
 A substitution matching no times or more than once is refused before any check runs.
 
-A body the substitutions are stated against is read as text, and one that is not text is refused.
+A body that is not text is refused.
 
-A path that does not stand is refused, a substitution having nothing to be stated against.
+A path that is not there is refused.
+
+A path inside no repository is written where it lies, with no gate and no commit behind it.
+
+A file that changes under a call, between its read and its write, refuses the whole call.
