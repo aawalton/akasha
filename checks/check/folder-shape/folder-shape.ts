@@ -97,18 +97,18 @@ export const folderShape = {
       const at = resolve(root, folder)
       const doors = one.code.filter((key) => enters(folder, key))
       if (doors.length > 1) {
-        failures.push({ path: at, reason: `is entered at ${doors.length} files rather than one: ${named(folder, doors)}` })
+        failures.push({ path: at, reason: `is entered at ${doors.length} files: ${named(folder, doors)}` })
       }
       if (one.subs.size > 0 && one.code.length > 1) {
         failures.push({
           path: at,
-          reason: `holds ${one.code.length} code files beside its ${one.subs.size} subfolders rather than one: ${named(folder, one.code)}`,
+          reason: `holds ${one.code.length} code files beside its ${one.subs.size} subfolders: ${named(folder, one.code)}`,
         })
       }
       if (one.deep.length > 0 && !one.deep.some((key) => enters(folder, key))) {
         failures.push({
           path: at,
-          reason: `holds ${one.subs.size} subfolders and nothing outside this folder enters any of them: ${named(folder, one.subs)}`,
+          reason: `nothing outside enters any of the ${one.deep.length} code files under its ${one.subs.size} subfolders: ${named(folder, one.subs)}`,
         })
       }
     }
