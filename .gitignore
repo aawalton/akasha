@@ -1,6 +1,3 @@
-*.uncommitted.yaml
-*.uncommitted.yaml.lock/
-*.uncommitted.jsonl
-*.uncommitted.jsonl.lock/
-*.uncommitted.attachment.*
+*.uncommitted.*
+*.lock/
 node_modules/
