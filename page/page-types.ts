@@ -86,7 +86,7 @@ export function scanIn(
   patterns: readonly string[],
   repo: string | null = null
 ): readonly string[] {
-  const indexed = scannedFromIndex(patterns, repo)
+  const indexed = scannedFromIndex(root, patterns, repo)
   if (indexed !== null) return indexed
   const suffixes = new Set<string>()
   const walked: string[] = []
