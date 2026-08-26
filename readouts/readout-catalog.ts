@@ -1,6 +1,6 @@
 import { realpathSync } from "node:fs"
 import { resolve } from "node:path"
-import { pagesIn } from "../page/pages.ts"
+import { type PageFile, pagesIn } from "../page/pages.ts"
 import { listField } from "../page/frontmatter.ts"
 import { blockOf, NONE, stringAt, textAt } from "../page/text.ts"
 import type { ReadoutScale } from "./readout-scale-shape.ts"
@@ -17,11 +17,31 @@ const FILES = "files"
 
 export type Roots = Readonly<Record<string, string | undefined>>
 
-const HERE = realpathSync(resolve(import.meta.dir, ".."))
+let held: Roots | null = null
 
-const SIBLING = process.env.INSTRUCTIONS_ROOT ?? resolve(HERE, "..", "instructions")
+function akashaRoot(): string {
+  const stated = process.env.AKASHA_ROOT
+  if (stated !== undefined && stated !== "") return stated
+  const self: string | undefined = import.meta.dir
+  if (self === undefined || self === "") {
+    throw new Error(
+      "readoutCatalog: this build reads no `import.meta.dir`, so nothing in it says where akasha " +
+        "stands — a bundle states the akasha root in `AKASHA_ROOT`"
+    )
+  }
+  return resolve(self, "..")
+}
 
-export const ROOTS_HERE: Roots = { akasha: HERE, instructions: SIBLING }
+export function rootsHere(): Roots {
+  if (held === null) {
+    const here = realpathSync(akashaRoot())
+    held = {
+      akasha: here,
+      instructions: process.env.INSTRUCTIONS_ROOT ?? resolve(here, "..", "instructions"),
+    }
+  }
+  return held
+}
 
 export type ReadoutSortOrder = "label" | "place"
 
@@ -113,15 +133,36 @@ export function descendantsOf(base: string, types: readonly PageType[]): readonl
   return [...kept]
 }
 
-function pagesOf(slugs: readonly string[], types: readonly PageType[], roots: Roots): Found[] {
+type Listing = Map<string, readonly PageFile[]>
+
+function listedIn(root: string, listing: Listing): readonly PageFile[] {
+  const held = listing.get(root)
+  if (held !== undefined) return held
+  const read = pagesIn(root)
+  listing.set(root, read)
+  return read
+}
+
+function pagesOf(
+  slugs: readonly string[],
+  types: readonly PageType[],
+  roots: Roots,
+  listing: Listing
+): Found[] {
   const named = new Set(slugs)
-  const found: Found[] = []
+  const wanted = new Map<string, Set<string>>()
   for (const one of types) {
     if (!named.has(one.slug) || one.repo === null || one.pattern === null) continue
     const root = roots[one.repo]
     if (root === undefined) continue
-    for (const relPath of new Bun.Glob(one.pattern).scanSync({ cwd: root, onlyFiles: true })) {
-      found.push({ root, relPath })
+    const held = wanted.get(root)
+    if (held === undefined) wanted.set(root, new Set([one.slug]))
+    else held.add(one.slug)
+  }
+  const found: Found[] = []
+  for (const [root, here] of wanted) {
+    for (const page of listedIn(root, listing)) {
+      if (here.has(page.type)) found.push({ root, relPath: page.key })
     }
   }
   return found
@@ -169,7 +210,7 @@ function takesIn(fm: ReturnType<typeof blockOf>["fm"]): Readonly<Record<string, 
   return takes
 }
 
-export function readoutCatalog(roots: Roots = ROOTS_HERE): ReadoutCatalog {
+export function readoutCatalog(roots: Roots = rootsHere()): ReadoutCatalog {
   const instructions = roots.instructions
   if (instructions === undefined) {
     throw new Error(
@@ -177,12 +218,13 @@ export function readoutCatalog(roots: Roots = ROOTS_HERE): ReadoutCatalog {
         "scale, group and query stands are read from it"
     )
   }
+  const listing: Listing = new Map()
   const types = pageTypesIn(instructions)
   const readoutTypeSlugs = descendantsOf(READOUT_PAGE_TYPE_SLUG, types)
 
   const readouts = new Map<string, ReadoutRow>()
   const unreadableReadouts = new Map<string, string>()
-  for (const { root, relPath } of pagesOf(readoutTypeSlugs, types, roots)) {
+  for (const { root, relPath } of pagesOf(readoutTypeSlugs, types, roots, listing)) {
     const text = textAt(root, relPath)
     if (text === null) continue
     const { fm, why } = blockOf(text)
@@ -197,7 +239,8 @@ export function readoutCatalog(roots: Roots = ROOTS_HERE): ReadoutCatalog {
   for (const { root, relPath } of pagesOf(
     descendantsOf(READOUT_SCALE_PAGE_TYPE_SLUG, types),
     types,
-    roots
+    roots,
+    listing
   )) {
     const text = textAt(root, relPath)
     if (text === null) continue
@@ -212,7 +255,8 @@ export function readoutCatalog(roots: Roots = ROOTS_HERE): ReadoutCatalog {
   for (const { root, relPath } of pagesOf(
     descendantsOf(READOUT_GROUP_PAGE_TYPE_SLUG, types),
     types,
-    roots
+    roots,
+    listing
   )) {
     const text = textAt(root, relPath)
     if (text === null) continue
@@ -227,7 +271,8 @@ export function readoutCatalog(roots: Roots = ROOTS_HERE): ReadoutCatalog {
   for (const { root, relPath } of pagesOf(
     descendantsOf(PAGE_QUERY_PAGE_TYPE_SLUG, types),
     types,
-    roots
+    roots,
+    listing
   )) {
     const text = textAt(root, relPath)
     if (text === null) continue
