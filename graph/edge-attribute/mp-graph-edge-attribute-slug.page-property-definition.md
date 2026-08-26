@@ -1,0 +1,16 @@
+---
+id: 7b51fe2d-f1fc-5c05-9853-b41def647cfc
+page-type-slug: page-property-definition
+title: "Mp graph edge attribute slug"
+defined-on-slug: page-type/graph-edge-attribute
+key: slug
+type: slug
+required: true
+narrows-slug: page
+slug: mp-graph-edge-attribute-slug
+domain-parent-slug: page-type/graph-edge-attribute
+---
+
+# Definition
+
+- **Mp graph edge attribute slug** — the name an edge attribute carries.
