@@ -11,7 +11,7 @@ required-reading-slugs:
 
 # Definition
 
-- **Audit** — every failure a check finds over the tree as it stands.
+- **Audit** — every failure a check finds over the tree as it is.
 
 # Design
 
