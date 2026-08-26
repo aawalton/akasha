@@ -27,11 +27,11 @@ export function rootEnvName(repo: string): string {
 const BESIDE = resolve(HERE, "..", INSTRUCTIONS)
 
 export function ownRepoRoot(): string {
-  return BESIDE
+  return rootOf(INSTRUCTIONS)
 }
 
 function namedOnDisk(): readonly string[] {
-  const at = `${BESIDE}/${REPO_PAGES}`
+  const at = `${rootOf(INSTRUCTIONS)}/${REPO_PAGES}`
   const found = new Set<string>()
   for (const one of readdirSync(at)) {
     const named = pageNameOf(one)
@@ -65,7 +65,8 @@ export function isVendored(relPath: string): boolean {
 
 export function repoPagePath(repo: string): string {
   const stem = `${repo}${REPO_ENDING}`
-  return `${BESIDE}/${pageFileIn(BESIDE, REPO_PAGES, stem) ?? `${REPO_PAGES}/${stem}.md`}`
+  const root = rootOf(INSTRUCTIONS)
+  return `${root}/${pageFileIn(root, REPO_PAGES, stem) ?? `${REPO_PAGES}/${stem}.md`}`
 }
 
 export function rootBeside(repo: string): string {
