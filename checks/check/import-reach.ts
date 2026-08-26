@@ -4,6 +4,7 @@ import { carriesCode, outwardOf, specifiersIn } from "../imports.ts"
 export const importReach: Check = {
   slug: "import-reach",
   needs: "file",
+  cached: false,
   run: ({ root, path, body }) => {
     if (!carriesCode(path)) return []
     const reasons: string[] = []

@@ -7,6 +7,7 @@ const CEILING_SAID = CEILING_BYTES.toLocaleString("en-US")
 export const fileLength: Check = {
   slug: "file-length",
   needs: "file",
+  cached: false,
   run: ({ body }) => {
     const bytes = body.byteLength
     if (bytes <= CEILING_BYTES) return []

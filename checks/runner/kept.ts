@@ -2,9 +2,9 @@ import { relative } from "node:path"
 import { sweep } from "../../cache/answer.ts"
 import { closureOf } from "../../cache/closure.ts"
 import {
+  cacheOutcome,
+  cachedOutcome,
   entryOf,
-  keepOutcome,
-  keptOutcome,
   OUTCOME_KIND,
   outcomeKeyOf,
   outcomeMarkOf,
@@ -25,8 +25,8 @@ export type Setting = {
   readonly trial: boolean
 }
 
-function answerless(check: Check): boolean {
-  return check.needs === "tree" || check.needsAuthor === true
+function uncached(check: Check): boolean {
+  return check.needs === "tree" || check.needsAuthor === true || check.cached === false
 }
 
 function under(check: Check, tree: Tree, subject: Subject): string {
@@ -49,7 +49,7 @@ export function runKept(
   const kept = keepUnder(answers, check.slug, mark, setting.trial)
   const held: Held = { act: setting.act, keep: kept.keep }
   try {
-    if (answerless(check)) {
+    if (uncached(check)) {
       const every = subjects.map((one) => one.at)
       return runAll([check], every, tree, held)[0] ?? { slug: check.slug, failures: [] }
     }
@@ -59,7 +59,7 @@ export function runKept(
     for (const subject of subjects) {
       const at = under(check, tree, subject)
       named.set(subject.at, at)
-      const answer = keptOutcome(answers, outcomeKeyOf(check.slug, mark, at), subject.at)
+      const answer = cachedOutcome(answers, outcomeKeyOf(check.slug, mark, at), subject.at)
       if (answer === null) {
         missed.push(subject.at)
         continue
@@ -72,7 +72,7 @@ export function runKept(
     if ("threw" in ran) return ran
     for (const outcome of outcomesOf(ran, missed)) {
       const at = named.get(outcome.path)
-      if (at !== undefined) keepOutcome(answers, outcomeKeyOf(check.slug, mark, at), outcome)
+      if (at !== undefined) cacheOutcome(answers, outcomeKeyOf(check.slug, mark, at), outcome)
       for (const reason of outcome.reasons) failures.push({ path: outcome.path, reason })
     }
     return { slug: check.slug, failures }

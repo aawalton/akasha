@@ -50,12 +50,14 @@ type CheckOf<K extends Needs> =
       readonly slug: string
       readonly needs: K
       readonly needsAuthor?: false
+      readonly cached?: boolean
       readonly run: (given: Given[K]) => Answer[K]
     }
   | {
       readonly slug: string
       readonly needs: K
       readonly needsAuthor: true
+      readonly cached?: boolean
       readonly run: (given: Given[K], act: Act) => Answer[K]
     }
 

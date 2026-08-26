@@ -18,7 +18,7 @@ export function answerAt(at: string, key: Key): unknown {
   return JSON.parse(readFileSync(file, "utf8"))
 }
 
-export function keepAnswer(at: string, key: Key, answer: unknown): void {
+export function cacheAnswer(at: string, key: Key, answer: unknown): void {
   const file = join(at, pathOf(key))
   mkdirSync(dirname(file), { recursive: true })
   writeFileSync(file, JSON.stringify(answer))
