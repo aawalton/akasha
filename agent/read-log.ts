@@ -2,6 +2,10 @@ import { createHash } from "node:crypto"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { HERE } from "../graph/roots.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
+import { coveredTo, type Span } from "./read-records.ts"
+
+export { coveredTo }
+export type { Span }
 
 const SEAT_DIR = `${HERE}/agent/seat`
 
@@ -27,8 +31,6 @@ const ID_KEY = "id"
 
 const SUBAGENT_ID_KEY = "subagent-id"
 
-export type Span = readonly [number, number]
-
 export interface Reading {
   readonly at: number
   readonly spans: readonly Span[]
@@ -44,15 +46,6 @@ export function countLines(text: string): number {
   if (text === "") return 0
   const parts = text.split("\n")
   return parts[parts.length - 1] === "" ? parts.length - 1 : parts.length
-}
-
-export function coveredTo(spans: readonly Span[]): number {
-  let covered = 0
-  for (const [start, end] of [...spans].sort((a, b) => a[0] - b[0])) {
-    if (start > covered + 1) break
-    covered = Math.max(covered, end)
-  }
-  return covered
 }
 
 export function bodyItself(reading: Reading | null, mark: string): boolean {

@@ -53,6 +53,29 @@ export function recordsOf(parsed: unknown): Records {
   return records
 }
 
+export function merge(spans: readonly Span[]): Span[] {
+  const sorted = [...spans].sort((a, b) => a[0] - b[0])
+  const out: Span[] = []
+  for (const span of sorted) {
+    const last = out[out.length - 1]
+    if (last !== undefined && span[0] <= last[1] + 1) {
+      out[out.length - 1] = [last[0], Math.max(last[1], span[1])]
+      continue
+    }
+    out.push(span)
+  }
+  return out
+}
+
+export function coveredTo(spans: readonly Span[]): number {
+  let covered = 0
+  for (const [start, end] of merge(spans)) {
+    if (start > covered + 1) break
+    covered = Math.max(covered, end)
+  }
+  return covered
+}
+
 export function loadPath(path: string): Records {
   if (!existsSync(path)) return {}
   try {

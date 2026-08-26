@@ -1,7 +1,7 @@
 import { exclusively } from "../file/exclusive.ts"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../page/attachment-file.ts"
 import { agentPageFor, agentPages, replacedAt } from "./read-log.ts"
-import { type Entry, type Records, recordsOf, type Span } from "./read-records.ts"
+import { coveredTo, type Entry, merge, type Records, recordsOf, type Span } from "./read-records.ts"
 
 const READINGS = "readings"
 
@@ -47,29 +47,6 @@ function heldFor(agent: string, page: string): Records {
 export function recordsFor(agent: string): Records {
   const page = agentPageFor(agent)
   return page === null ? {} : heldFor(agent, page)
-}
-
-function merge(spans: readonly Span[]): Span[] {
-  const sorted = [...spans].sort((a, b) => a[0] - b[0])
-  const out: Span[] = []
-  for (const span of sorted) {
-    const last = out[out.length - 1]
-    if (last !== undefined && span[0] <= last[1] + 1) {
-      out[out.length - 1] = [last[0], Math.max(last[1], span[1])]
-      continue
-    }
-    out.push(span)
-  }
-  return out
-}
-
-function coveredTo(spans: readonly Span[]): number {
-  let covered = 0
-  for (const [start, end] of merge(spans)) {
-    if (start > covered + 1) break
-    covered = Math.max(covered, end)
-  }
-  return covered
 }
 
 function carryOn(existing: Entry | undefined, at: number, blob: string | undefined): Entry | null {
