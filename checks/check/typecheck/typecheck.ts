@@ -160,6 +160,18 @@ function reachingOut(tree: Tree, paths: Iterable<string>): ReadonlySet<string> {
   return found
 }
 
+function directoriesIn(tree: Tree): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const path of tree.paths()) {
+    let at = dirname(resolve(path))
+    while (at !== "/" && at !== "." && !held.has(at)) {
+      held.add(at)
+      at = dirname(at)
+    }
+  }
+  return held
+}
+
 function hostOver(
   tree: Tree,
   options: ts.CompilerOptions,
@@ -167,10 +179,17 @@ function hostOver(
 ): ts.CompilerHost {
   const base = ts.createCompilerHost(options, true)
   const there = thereOf(tree, read)
+  let dirs: ReadonlySet<string> | null = null
   return {
     ...base,
     getCurrentDirectory: () => tree.root,
     fileExists: there,
+    directoryExists: (path) => {
+      const at = resolve(path)
+      if (at.includes("/node_modules/")) return existsSync(at)
+      if (dirs === null) dirs = directoriesIn(tree)
+      return dirs.has(at) || existsSync(at)
+    },
     readFile: read,
     getSourceFile: (path, language) => {
       if (path.includes("/node_modules/") || path.includes("/typescript/lib/")) {
