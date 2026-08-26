@@ -2,8 +2,8 @@ import { execFileSync } from "node:child_process"
 import { mkdtempSync, rmSync } from "node:fs"
 import { resolve } from "node:path"
 import { answersAt } from "../../cache/answer.ts"
-import { contextOver } from "../../cache/closure.ts"
 import { oidsUnder } from "../../cache/oid.ts"
+import { contextOver } from "../../cache/said.ts"
 import { actOn } from "../act.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
 import { trackedIn, treeOn } from "../tree.ts"
@@ -76,11 +76,13 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     const answers = answersAt(patch.root)
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
     const oids = oidsUnder(patch.root, null)
-    const ctx = contextOver(patch.root)
+    const ctx = contextOver(patch.root, runtime, oids)
     const act = patch.mechanical ? null : actOn(patch.root, patch.writer)
-    return applying(checks, patch.mechanical).map((check) =>
+    const runs = applying(checks, patch.mechanical).map((check) =>
       runKept(check, subjects, runtime, answers, tree, { act, trial: true, oids, ctx })
     )
+    ctx.said.done()
+    return runs
   } finally {
     rmSync(index, { force: true })
     if (made !== null) rmSync(made, { recursive: true, force: true })

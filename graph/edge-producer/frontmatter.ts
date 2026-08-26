@@ -1,8 +1,9 @@
 import { type Frontmatter, listField } from "../../page/frontmatter.ts"
-import { blockOf, NONE, stringAt, textAt } from "../../page/text.ts"
+import { NONE, stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import { type PageAt, pageNamed, pagesOfType } from "../page-index.ts"
+import { frontmatterAt } from "../frontmatter-at.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
+import { type PageAt, pageNamed, pagesOfType } from "../page-index.ts"
 
 const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
 
@@ -52,12 +53,7 @@ function standingIn(ctx: BuildContext): Standing {
 }
 
 function frontOf(ctx: BuildContext, at: PageAt): Frontmatter | null {
-  const root = ctx.roots[at.repo]
-  if (root === undefined) return null
-  const text = textAt(root, at.key)
-  if (text === null) return null
-  const { fm, why } = blockOf(text)
-  return why === null ? fm : null
+  return frontmatterAt(ctx, at.repo, at.key)
 }
 
 function slugNamed(named: string | null): string | null {
@@ -135,12 +131,8 @@ export const frontmatterEdgeProducer: EdgeProducer = {
   from: (ctx, file) => {
     const pageType = file.attrs["page-type-slug"]
     if (pageType === null) return []
-    const root = ctx.roots[file.repo]
-    if (root === undefined) return []
-    const text = textAt(root, file.key)
-    if (text === null) return []
-    const { fm, why } = blockOf(text)
-    if (why !== null) return []
+    const fm = frontmatterAt(ctx, file.repo, file.key)
+    if (fm === null) return []
     const edges: EdgeInit[] = []
     for (const relation of relationsIn(ctx).get(pageType) ?? []) {
       for (const named of namesIn(fm, relation)) {

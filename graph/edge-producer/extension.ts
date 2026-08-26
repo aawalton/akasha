@@ -1,5 +1,6 @@
-import { blockOf, stringAt, textAt } from "../../page/text.ts"
+import { stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
+import { frontmatterAt } from "../frontmatter-at.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
 import { pagesOfType, saidAt } from "../page-index.ts"
 
@@ -17,12 +18,8 @@ function spellingIn(ctx: BuildContext): ReadonlyMap<string, NodeRef> {
   const made = new Map<string, NodeRef>()
   const where = new Map<string, string>()
   for (const at of pagesOfType(ctx, FILE_KIND_PAGE_TYPE)) {
-    const root = ctx.roots[at.repo]
-    if (root === undefined) continue
-    const text = textAt(root, at.key)
-    if (text === null) continue
-    const { fm, why } = blockOf(text)
-    if (why !== null) continue
+    const fm = frontmatterAt(ctx, at.repo, at.key)
+    if (fm === null) continue
     const spelled = stringAt(fm, EXTENSION_KEY)
     if (spelled === null) continue
     const already = where.get(spelled)

@@ -6,6 +6,8 @@ import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 export const IMPORT_EDGE = "import"
 
+export const TYPESCRIPT_SAID = "typescript"
+
 const TYPESCRIPT = "ts"
 
 const RELATIVE = "."
@@ -39,6 +41,15 @@ function refAt(ctx: BuildContext, at: string): NodeRef | null {
   return null
 }
 
+function relativeIn(ctx: BuildContext, root: string, repo: string, key: string): readonly string[] {
+  const held = ctx.said.of(TYPESCRIPT_SAID, repo, key, () => {
+    const text = textAt(root, key)
+    return text === null ? null : namedIn(text).filter((one) => one.startsWith(RELATIVE))
+  })
+  if (!Array.isArray(held)) return []
+  return held.filter((one): one is string => typeof one === "string")
+}
+
 export const typescriptEdgeProducer: EdgeProducer = {
   name: "typescript",
   edgeKinds: () => [IMPORT_EDGE],
@@ -46,12 +57,9 @@ export const typescriptEdgeProducer: EdgeProducer = {
     if (file.attrs["file-extension"] !== TYPESCRIPT) return []
     const root = ctx.roots[file.repo]
     if (root === undefined) return []
-    const text = textAt(root, file.key)
-    if (text === null) return []
     const from = resolve(root, file.key)
     const edges: EdgeInit[] = []
-    for (const named of namedIn(text)) {
-      if (!named.startsWith(RELATIVE)) continue
+    for (const named of relativeIn(ctx, root, file.repo, file.key)) {
       for (const tail of TAILS) {
         const ref = refAt(ctx, resolve(dirname(from), `${named}${tail}`))
         if (ref === null) continue

@@ -4,10 +4,6 @@ import { AKASHA } from "../graph/roots.ts"
 import type { BuildContext, NodeRef } from "../graph/node-shape.ts"
 import type { Input } from "./mark.ts"
 
-export function contextOver(root: string): BuildContext {
-  return { roots: { [AKASHA]: root } }
-}
-
 export function closureOf(
   ctx: BuildContext,
   entry: string,
