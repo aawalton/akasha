@@ -6,6 +6,7 @@ import { oidsUnder } from "../../cache/oid.ts"
 import { contextOver } from "../../cache/said.ts"
 import { actOn } from "../act.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
+import { linkedInto } from "../../workspace/packages.ts"
 import { trackedIn, treeOn } from "../tree.ts"
 import { judgesAuthor } from "./all.ts"
 import { runKept, type Subject } from "./kept.ts"
@@ -69,6 +70,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
       if (made === null) {
         made = mkdtempSync(`${SCRATCH}/patched-`)
         git(patch, index, ["checkout-index", "--all", `--prefix=${made}/`])
+        linkedInto(made)
       }
       return made
     }

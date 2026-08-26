@@ -1,4 +1,5 @@
-import { readFileSync } from "node:fs"
+import { mkdirSync, readFileSync, realpathSync, rmSync, symlinkSync } from "node:fs"
+import { dirname, resolve } from "node:path"
 
 export type Package = {
   readonly dir: string
@@ -128,4 +129,25 @@ export function packagesFor(root: string): Packages {
   const found = packagesAt(root)
   HELD.set(root, found)
   return found
+}
+
+const MODULES = "node_modules"
+
+export function linkedInto(dir: string): readonly string[] {
+  const made: string[] = []
+  for (const [name, held] of packagesAt(dir)) {
+    const target = resolve(dir, held.dir)
+    let real: string
+    try {
+      real = realpathSync(target)
+    } catch {
+      continue
+    }
+    const at = `${dir}/${MODULES}/${name}`
+    mkdirSync(dirname(at), { recursive: true })
+    rmSync(at, { recursive: true, force: true })
+    symlinkSync(real, at)
+    made.push(name)
+  }
+  return made.sort()
 }

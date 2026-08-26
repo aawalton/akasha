@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { NO_PACKAGES, packagesAt, pathOf } from "./packages.ts"
+import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
+import { linkedInto, NO_PACKAGES, packagesAt, pathOf } from "./packages.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -99,4 +99,35 @@ test("two packages claiming one name resolve to the first by path", () => {
     "packages/zzz/package.json": { name: "@akasha/page", exports: { "./*": "./*.ts" } },
   }
   expect(within(held, "@akasha/page/text")).toBe("packages/aaa/text.ts")
+})
+
+test("each workspace package is linked under node_modules", () => {
+  const root = tree(WILDCARD)
+  try {
+    expect(linkedInto(root)).toEqual(["@akasha/page"])
+    expect(existsSync(`${root}/node_modules/@akasha/page`)).toBe(true)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a link resolves inside the tree it was made for", () => {
+  const root = tree(WILDCARD)
+  try {
+    linkedInto(root)
+    const at = realpathSync(`${root}/node_modules/@akasha/page`)
+    expect(at).toBe(`${realpathSync(root)}/packages/page`)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a tree with no packages gets no node_modules", () => {
+  const root = tree({ "package.json": { name: "akasha" } })
+  try {
+    expect(linkedInto(root)).toEqual([])
+    expect(existsSync(`${root}/node_modules`)).toBe(false)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
 })
