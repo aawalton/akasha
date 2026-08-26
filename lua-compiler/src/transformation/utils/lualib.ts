@@ -17,3 +17,15 @@ export function transformLuaLibFunction(
   const functionIdentifier = luaExpressions.createIdentifier(`__TS__${feature}`)
   return luaExpressions.createCallExpression(functionIdentifier, params, tsParent)
 }
+
+export function createPromiseIdentifier(original: ts.Node) {
+  return luaExpressions.createIdentifier(`__TS__${LuaLibFeature.Promise}`, original)
+}
+
+export function createStaticPromiseFunctionAccessor(functionName: string, node: ts.Node) {
+  return luaExpressions.createTableIndexExpression(
+    luaExpressions.createIdentifier(`__TS__${LuaLibFeature.Promise}`),
+    luaExpressions.createStringLiteral(functionName),
+    node
+  )
+}
