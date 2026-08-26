@@ -118,7 +118,8 @@ function pusherHere(): string {
   return resolve(import.meta.dir, "push-repo.ts")
 }
 
-export function handOffPush(root: string, pusher: string = pusherHere()): string {
+export function handOffPush(root: string): string {
+  const pusher = pusherHere()
   const remote = remoteOf(root)
   if (remote === null) return "push:   NO REMOTE — nothing holds a second copy of this commit"
   const argv = ["bun", pusher, "--root", root]
