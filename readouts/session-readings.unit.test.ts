@@ -1,13 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import {
-  capacityFromSessions,
-  dayAfter,
-  type SessionAnswer,
-  sessionOf,
-  sessionsFromAnswer,
-  wakeBoundary,
-  wakeWindow,
-} from "./session-readings.ts"
+import { capacityFromSessions, type SessionAnswer, sessionOf, sessionsFromAnswer, wakeBoundary, wakeWindow } from "./session-readings.ts"
+import { dayAfter } from "../day/calendar-day.ts"
 
 type Row = SessionAnswer["rows"][number]
 

@@ -2,14 +2,8 @@ import { comparePageSeq } from "../page/page-seq.ts"
 import type { DailyTierColor } from "./daily-tier.ts"
 import type { ReadoutSortOrder } from "./readout-catalog.ts"
 import { readingUnitOf } from "./readout-measure.ts"
-import {
-  type Ask,
-  drawnOrder,
-  type ResolvedReadout,
-  readoutCircle,
-  readReadoutGroupReadings,
-  resolveReadoutGroup,
-} from "./readout-resolver.ts"
+import { type Ask, drawnOrder, type ResolvedReadout, readReadoutGroupReadings, resolveReadoutGroup } from "./readout-resolver.ts"
+import { readoutCircle } from "./readout-scale-shape.ts"
 import type { StoplightCircle } from "./stoplight-circle.ts"
 import { type PersonaDayUnits, readPersonaDaily } from "./daily-stoplights.ts"
 

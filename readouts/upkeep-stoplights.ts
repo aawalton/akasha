@@ -1,14 +1,7 @@
 import type { DailyTierColor } from "./daily-tier.ts"
 import { readingUnitOf } from "./readout-measure.ts"
-import {
-  type Ask,
-  type ReadoutReading,
-  type ResolvedReadout,
-  readoutCircle,
-  readReadoutReading,
-  resolveReadoutGroup,
-  resolveReadoutGroupLegend,
-} from "./readout-resolver.ts"
+import { type Ask, type ReadoutReading, type ResolvedReadout, readReadoutReading, resolveReadoutGroup, resolveReadoutGroupLegend } from "./readout-resolver.ts"
+import { readoutCircle } from "./readout-scale-shape.ts"
 import { type StoplightCircle, unknownCircle } from "./stoplight-circle.ts"
 
 const COLOR_GLYPH: Readonly<Record<DailyTierColor, string>> = {
