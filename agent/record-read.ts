@@ -1,6 +1,5 @@
 import { exclusively } from "../file/exclusive.ts"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../page/attachment-file.ts"
-import { agentPageFor, agentPages, replacedAt } from "./read-log.ts"
 import { coveredTo, type Entry, merge, type Records, recordsOf, type Span } from "./read-records.ts"
 
 const READINGS = "readings"
@@ -32,21 +31,23 @@ function landReadings(page: string, records: Records): void {
   writeAttachment(page, READINGS, EXTENSION, `${JSON.stringify(records)}\n`, UNCOMMITTED)
 }
 
-function recordAt(page: string): string {
+export function recordPathFor(page: string): string {
   return attachmentFileOf(page, READINGS, EXTENSION, UNCOMMITTED)
 }
 
 const pending = new Map<string, Records>()
 
-function heldFor(agent: string, page: string): Records {
-  const already = pending.get(agent)
+const cutoffs = new Map<string, number>()
+
+function heldFor(page: string, cutoff: number): Records {
+  const already = pending.get(page)
   if (already !== undefined) return already
-  return vouched(standingOn(page), replacedAt(page))
+  cutoffs.set(page, cutoff)
+  return vouched(standingOn(page), cutoff)
 }
 
-export function recordsFor(agent: string): Records {
-  const page = agentPageFor(agent)
-  return page === null ? {} : heldFor(agent, page)
+export function recordsFor(page: string, cutoff: number): Records {
+  return heldFor(page, cutoff)
 }
 
 function carryOn(existing: Entry | undefined, at: number, blob: string | undefined): Entry | null {
@@ -56,41 +57,40 @@ function carryOn(existing: Entry | undefined, at: number, blob: string | undefin
 }
 
 export function recordRead(
-  agent: string,
+  page: string,
+  cutoff: number,
   absolutePath: string,
   at: number,
   span: Span,
   blob?: string
 ): void {
-  const page = agentPageFor(agent)
-  if (page === null) return
-  const records = heldFor(agent, page)
+  const records = heldFor(page, cutoff)
   const carried = carryOn(records[absolutePath], at, blob)
   const spans = merge(carried === null ? [span] : [...carried.spans, span])
   const named = blob ?? carried?.blob
   const entry: Entry = { at, spans, seen: Date.now() }
   if (named !== undefined) entry.blob = named
   records[absolutePath] = entry
-  pending.set(agent, records)
+  pending.set(page, records)
+  cutoffs.set(page, cutoff)
 }
 
 export function flushReadings(): void {
-  for (const [agent, records] of pending) {
-    const page = agentPageFor(agent)
-    if (page === null) continue
-    exclusively(recordAt(page), () => {
-      landReadings(page, { ...vouched(standingOn(page), replacedAt(page)), ...records })
+  for (const [page, records] of pending) {
+    const cutoff = cutoffs.get(page) ?? 0
+    exclusively(recordPathFor(page), () => {
+      landReadings(page, { ...vouched(standingOn(page), cutoff), ...records })
     })
   }
   pending.clear()
+  cutoffs.clear()
 }
 
-export function resetReadings(agent: string, cutoff: number): void {
+export function resetReadings(page: string, cutoff: number): void {
   if (cutoff === 0) return
-  const page = agentPageFor(agent)
-  if (page === null) return
-  pending.delete(agent)
-  exclusively(recordAt(page), () => {
+  pending.delete(page)
+  cutoffs.delete(page)
+  exclusively(recordPathFor(page), () => {
     const standing = standingOn(page)
     const kept = vouched(standing, cutoff)
     if (Object.keys(kept).length === Object.keys(standing).length) return
@@ -112,11 +112,11 @@ export function carriedReading(entry: Entry, move: Moved): Entry | null {
   return { ...entry, spans: [[1, Math.max(1, move.lines)]], mechanical: move.to }
 }
 
-export function carryReadings(moves: readonly Moved[]): number {
+export function carryReadings(moves: readonly Moved[], pages: readonly string[]): number {
   if (moves.length === 0) return 0
   const byPath = new Map(moves.map((one) => [one.path, one]))
   let carried = 0
-  for (const page of agentPages()) {
+  for (const page of pages) {
     const records = standingOn(page)
     let touched = false
     for (const [file, entry] of Object.entries(records)) {
@@ -129,7 +129,7 @@ export function carryReadings(moves: readonly Moved[]): number {
       carried += 1
     }
     if (touched) {
-      exclusively(recordAt(page), () => {
+      exclusively(recordPathFor(page), () => {
         landReadings(page, records)
       })
     }
