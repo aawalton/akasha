@@ -11,7 +11,7 @@ import { transformInPrecedingStatementScope } from "../utils/preceding-statement
 import { getOptionalContinuationData } from "../utils/optional-chain-data"
 import { isValidLuaIdentifier } from "../utils/safe-names"
 import { isExpressionWithEvaluationEffect } from "../utils/typescript/typescript"
-import { getCalledExpression } from "../utils/typescript/get-called-expression"
+import { getCalledExpression } from "../utils/typescript/typescript"
 import { transformElementAccessArgument } from "./access"
 import { getCustomNameFromSymbol } from "./identifier"
 import { transformLanguageExtensionCallExpression } from "./language-extensions/call-extension"

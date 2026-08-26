@@ -11,7 +11,7 @@ import { getIdentifierSymbolId } from "../utils/symbols"
 import { maybeWrapThisVoidAsAdapter } from "../utils/this-void-adapter"
 import { isStandardLibraryType } from "../utils/typescript/typescript"
 import { isArrayType, isFunctionType, isStringType } from "../utils/typescript/typescript"
-import { getCalledExpression } from "../utils/typescript/get-called-expression"
+import { getCalledExpression } from "../utils/typescript/typescript"
 import {
   transformArrayConstructorCall,
   transformArrayProperty,
