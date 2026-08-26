@@ -4,14 +4,13 @@ import { resolve } from "node:path"
 import { writerId } from "../../agent/writer.ts"
 import { CHECKS } from "../../checks/checks.ts"
 import { applying, runGate } from "../../checks/run/gate.ts"
+import { GATED } from "./gated.ts"
 
 export const HERE = realpathSync(resolve(import.meta.dir, "..", ".."))
 
 export const INSTRUCTIONS = process.env.INSTRUCTIONS_ROOT ?? resolve(HERE, "..", "instructions")
 
 export const SCRATCH = "/var/tmp"
-
-export const GATED = "AKASHA_CHECKS_RAN"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
 
