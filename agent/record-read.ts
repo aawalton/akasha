@@ -44,6 +44,11 @@ function heldFor(agent: string, page: string): Records {
   return vouched(standingOn(page), replacedAt(page))
 }
 
+export function recordsFor(agent: string): Records {
+  const page = agentPageFor(agent)
+  return page === null ? {} : heldFor(agent, page)
+}
+
 function merge(spans: readonly Span[]): Span[] {
   const sorted = [...spans].sort((a, b) => a[0] - b[0])
   const out: Span[] = []
