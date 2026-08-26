@@ -1,9 +1,9 @@
 import {
-  type BorrowedPageType,
   BORROWED_PAGE_TYPES,
   BORROWED_REPO,
-  borrowedPageTypes,
+  type BorrowedPageType,
   borrowedPages,
+  borrowedPageTypes,
 } from "../../page/borrowed.ts"
 import { type Frontmatter, listField } from "../../page/frontmatter.ts"
 import { blockOf, NONE, stringAt, textAt } from "../../page/text.ts"

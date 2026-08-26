@@ -97,7 +97,10 @@ export const fileNodeProducer: NodeProducer<FileNode> = {
           standing.add(at)
           const attrs = namedBy(key)
           nodes.push(
-            nodeOf(BORROWED_REPO, key, { ...attrs, "page-type-slug": attrs["page-type-slug"] ?? slug })
+            nodeOf(BORROWED_REPO, key, {
+              ...attrs,
+              "page-type-slug": attrs["page-type-slug"] ?? slug,
+            })
           )
         }
       }
