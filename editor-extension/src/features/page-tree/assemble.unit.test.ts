@@ -100,13 +100,13 @@ describe('assemblePageTree, the page type tree', () => {
 		expect(leaf?.id).toBe('type/page/properties/page-body');
 		expect(leaf?.label).toBe('body');
 		expect(leaf?.detail).toBe('template');
-		expect(leaf?.relPath).toBe('pages/page-property-definition/page-body.md');
+		expect(leaf?.at).toBe('pages/page-property-definition/page-body.md');
 	});
 
 	test('the `properties` row stands before the subtypes, and opens nothing itself', () => {
 		const root = assemblePageTree(WHOLE, REPO).roots[0] as PageNode;
 		expect(root.children.map((one) => one.label)).toEqual(['properties', 'domain']);
-		expect(root.children[0]?.relPath).toBeNull();
+		expect(root.children[0]?.at).toBeNull();
 		expect(root.children[0]?.detail).toBeNull();
 	});
 
@@ -140,7 +140,7 @@ describe('assemblePageTree, the property type vocabulary', () => {
 		const vocabulary = assemblePageTree(WHOLE, REPO).roots[1] as PageNode;
 		expect(vocabulary.id).toBe('vocabulary');
 		expect(vocabulary.label).toBe('page property types');
-		expect(vocabulary.relPath).toBe('pages/page-type/page-property-type.md');
+		expect(vocabulary.at).toBe('pages/page-type/page-property-type.md');
 	});
 
 	test('groups the property types by kind, settled kinds first and the rest alphabetically', () => {
@@ -155,14 +155,14 @@ describe('assemblePageTree, the property type vocabulary', () => {
 
 	test('a kind opens the domain naming it, found by the slug that domain carries', () => {
 		const vocabulary = assemblePageTree(WHOLE, REPO).roots[1] as PageNode;
-		expect(vocabulary.children[0]?.relPath).toBe('pages/domain/page-property-type-primitive.md');
+		expect(vocabulary.children[0]?.at).toBe('pages/domain/page-property-type-primitive.md');
 	});
 
 	test('a kind with no domain naming it draws, and opens nothing, rather than being left out', () => {
 		const given = answers({ ...WHOLE, domains: [] });
 		const vocabulary = assemblePageTree(given, REPO).roots[1] as PageNode;
 		expect(vocabulary.children.map((one) => one.label)).toEqual(['primitive', 'record', 'constant']);
-		expect(vocabulary.children[0]?.relPath).toBeNull();
+		expect(vocabulary.children[0]?.at).toBeNull();
 	});
 
 	/**

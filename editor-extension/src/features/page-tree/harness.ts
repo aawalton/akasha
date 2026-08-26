@@ -63,7 +63,7 @@ const ASK_CEILING_MS = 60_000;
 
 /**
  * The service's envelope, narrowed to what this reads. `at` is the only place a path comes from: a
- * query answers `<repo>:<relPath>`, and that is how a row says which document it stands for.
+ * query answers `<repo>:<at>`, and that is how a row says which document it stands for.
  */
 const ROW_SCHEMA = z.object({
 	at: z.string().min(1),
@@ -113,7 +113,7 @@ export function countRows(nodes: readonly PageNode[]): number {
 export function countPages(nodes: readonly PageNode[]): number {
 	let total = 0;
 	for (const node of nodes) {
-		total += (node.relPath === null ? 0 : 1) + countPages(node.children);
+		total += (node.at === null ? 0 : 1) + countPages(node.children);
 	}
 	return total;
 }
@@ -125,7 +125,7 @@ export function countPages(nodes: readonly PageNode[]): number {
  * so there is one answer to where the instructions repository sits.
  */
 export function documentPath(tree: PageTree, node: PageNode): string | undefined {
-	return node.relPath === null ? undefined : path.join(tree.repo, node.relPath);
+	return node.at === null ? undefined : path.join(tree.repo, node.at);
 }
 
 /** What performs the ask. Injected so the read can be held to an answer without a service running. */

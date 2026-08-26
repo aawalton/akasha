@@ -42,7 +42,7 @@ export interface PageNode {
 	/** What the row draws. */
 	readonly label: string;
 	/** The document this row opens, or null where the row is scaffolding and opens nothing. */
-	readonly relPath: string | null;
+	readonly at: string | null;
 	/** Shown beside the label. */
 	readonly detail: string | null;
 	readonly children: readonly PageNode[];
@@ -105,7 +105,7 @@ const KIND_ORDER: readonly string[] = ['primitive', 'composite', 'record', 'sele
 /** One page type as the tree needs it. */
 interface TypeRow {
 	readonly slug: string;
-	readonly relPath: string;
+	readonly at: string;
 	/** `null` where this type extends nothing, which is what makes it a root. */
 	readonly extendsSlug: string | null;
 }
@@ -113,7 +113,7 @@ interface TypeRow {
 /** One property definition as the tree needs it. */
 interface PropertyRow {
 	readonly slug: string;
-	readonly relPath: string;
+	readonly at: string;
 	readonly key: string;
 	readonly type: string | null;
 }
@@ -121,7 +121,7 @@ interface PropertyRow {
 /** One property type as the tree needs it. */
 interface PropertyTypeRow {
 	readonly typeSlug: string;
-	readonly relPath: string;
+	readonly at: string;
 	readonly kind: string;
 	readonly suffix: string | null;
 	readonly of: string | null;
@@ -141,7 +141,7 @@ function textOf(row: QueryRow, key: string): string | null {
  * a foreign row's path joined onto it would point at a file that is not there — a click that fails
  * after Alan has made it, rather than a message.
  */
-function relPathOf(row: QueryRow): string {
+function atOf(row: QueryRow): string {
 	const cut = row.at.indexOf(':');
 	const repo = cut === -1 ? '' : row.at.slice(0, cut);
 	const rel = cut === -1 ? '' : row.at.slice(cut + 1);
@@ -173,11 +173,11 @@ function propertiesNode(id: string, rows: readonly PropertyRow[]): PageNode | nu
 		.map((row) => ({
 			id: `${id}/${row.slug}`,
 			label: row.key,
-			relPath: row.relPath,
+			at: row.at,
 			detail: row.type,
 			children: [],
 		}));
-	return { id, label: 'properties', relPath: null, detail: null, children };
+	return { id, label: 'properties', at: null, detail: null, children };
 }
 
 /** What a property type draws beside its name: a constant's value, else its suffix, else what it is of. */
@@ -210,7 +210,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 		const named = textOf(row, 'extends-slug');
 		types.set(slug, {
 			slug,
-			relPath: relPathOf(row),
+			at: atOf(row),
 			extendsSlug: named === null || named === NO_PARENT ? null : named,
 		});
 	}
@@ -222,7 +222,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 		const on = textOf(row, 'defined-on-slug');
 		if (slug === null || key === null || on === null) { continue; }
 		const held = definedOn.get(on) ?? [];
-		held.push({ slug, relPath: relPathOf(row), key, type: textOf(row, 'type') });
+		held.push({ slug, at: atOf(row), key, type: textOf(row, 'type') });
 		definedOn.set(on, held);
 	}
 
@@ -233,7 +233,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 		if (typeSlug === null || kind === null) { continue; }
 		propertyTypes.push({
 			typeSlug,
-			relPath: relPathOf(row),
+			at: atOf(row),
 			kind,
 			suffix: textOf(row, 'suffix'),
 			of: textOf(row, 'of'),
@@ -245,7 +245,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 	for (const row of answers.domains) {
 		const slug = textOf(row, 'slug');
 		if (slug === null || !slug.startsWith(KIND_DOMAIN)) { continue; }
-		kindAt.set(slug.slice(KIND_DOMAIN.length), relPathOf(row));
+		kindAt.set(slug.slice(KIND_DOMAIN.length), atOf(row));
 	}
 
 	// Sorted before grouping, so each parent's children come out in order without sorting again.
@@ -272,7 +272,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 		return {
 			id: `type/${slug}`,
 			label: slug,
-			relPath: row.relPath,
+			at: row.at,
 			detail: null,
 			children: props === null ? kids : [props, ...kids],
 		};
@@ -282,12 +282,12 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 	const vocabulary: PageNode = {
 		id: VOCABULARY_ID,
 		label: VOCABULARY_LABEL,
-		relPath: types.get(VOCABULARY_TYPE)?.relPath ?? null,
+		at: types.get(VOCABULARY_TYPE)?.at ?? null,
 		detail: null,
 		children: kindsIn(propertyTypes).map((kind) => ({
 			id: `kind/${kind}`,
 			label: kind,
-			relPath: kindAt.get(kind) ?? null,
+			at: kindAt.get(kind) ?? null,
 			detail: null,
 			children: propertyTypes
 				.filter((row) => row.kind === kind)
@@ -300,7 +300,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 					return {
 						id: `ptype/${row.typeSlug}`,
 						label: row.typeSlug,
-						relPath: row.relPath,
+						at: row.at,
 						detail: detailOfType(row),
 						children: props === null ? [] : [props],
 					};

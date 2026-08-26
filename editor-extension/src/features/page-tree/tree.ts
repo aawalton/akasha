@@ -55,7 +55,7 @@ export function createPageTree(): PageTreeView {
 			tree.roots,
 			(node) => node.children,
 			// EVERY FIELD THE ROW SHOWS, so a reader filtering on something they can see on screen is
-			// never told there are no results. `relPath` is deliberately not among them: it is in the
+			// never told there are no results. `at` is deliberately not among them: it is in the
 			// tooltip rather than on the row, so matching it would leave rows standing for a word
 			// nothing on screen contains.
 			(node) => textMatches(pattern, node.label, node.detail),
@@ -149,7 +149,7 @@ function buildTreeItem(element: PageNode, tree: PageTree | undefined, filtering:
 	item.tooltip = [
 		element.label,
 		element.detail,
-		element.relPath,
+		element.at,
 	]
 		.filter((line): line is string => line !== null)
 		.join('\n');
@@ -159,7 +159,7 @@ function buildTreeItem(element: PageNode, tree: PageTree | undefined, filtering:
 	// Guarded on the tree, because the path is only absolute once the command has said where the
 	// repository is: a row can exist before that is known, and opening `undefined/page-types/x.md`
 	// would be worse than a row that does not open. And guarded on the path, because a row with no
-	// `relPath` is a grouping row standing for a document that does not exist — giving it a command
+	// `at` is a grouping row standing for a document that does not exist — giving it a command
 	// would offer Alan a click that opens `<repo>/null`, which is a worse answer than no click.
 	const absolute = tree === undefined ? undefined : documentPath(tree, element);
 	if (absolute !== undefined) {
