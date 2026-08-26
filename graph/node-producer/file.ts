@@ -12,7 +12,7 @@ import type { BuildContext, NodeProducer, NodeRef } from "../node-shape.ts"
 
 export const FILE_NODE_KIND = "file"
 
-const AKASHA = "akasha"
+export const AKASHA = "akasha"
 
 const PAGE_EXTENSION = "md"
 
