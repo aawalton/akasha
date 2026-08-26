@@ -14,4 +14,4 @@ needs: tree
 
 A diagnostic is reported against a file being checked, or one that reaches it through imports.
 
-Nothing is reported for a module that is missing because it sits outside this repository.
+Nothing is reported against a file that imports outside this repository.

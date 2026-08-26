@@ -10,8 +10,6 @@ const BUILD_INFO = ".tsbuildinfo"
 
 const DIAGNOSTIC = /^(.+?)\((\d+),\d+\): error (TS\d+: .*)$/
 
-const ABSENT_MODULE = /^TS2307: Cannot find module '([^']+)'/
-
 export const ABSENT =
   "no `tsc` with `@types/bun` beside it is reachable — run `bun install -g typescript @types/bun`"
 
@@ -82,6 +80,21 @@ function tsconfigFor(dir: string, typeRoot: string, buildInfo: string): string {
   return at
 }
 
+function reachingOut(tree: Tree, paths: Iterable<string>): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const path of paths) {
+    if (!carriesCode(path)) continue
+    const body = tree.at(path)
+    if (body === null) continue
+    for (const specifier of specifiersIn(body.toString("utf8"))) {
+      if (outwardOf(tree.root, path, specifier) === null) continue
+      found.add(path)
+      break
+    }
+  }
+  return found
+}
+
 export const typecheck: Check = {
   slug: "typecheck",
   needs: "tree",
@@ -105,6 +118,7 @@ export const typecheck: Check = {
 
     const failures: CheckFailure[] = []
     const scope = reaching(tree, new Set(subjects))
+    const outward = reachingOut(tree, scope)
     let seen = 0
     for (const line of output.split("\n")) {
       const match = DIAGNOSTIC.exec(line)
@@ -114,8 +128,7 @@ export const typecheck: Check = {
       seen += 1
       const path = resolve(tree.root, relative(dir, resolve(dir, where)))
       if (!scope.has(path)) continue
-      const missing = ABSENT_MODULE.exec(text)?.[1]
-      if (missing !== undefined && outwardOf(tree.root, path, missing) !== null) continue
+      if (outward.has(path)) continue
       failures.push({ path, reason: `line ${at}: ${text}` })
     }
     if (seen === 0 && ran.exitCode !== 0) {
