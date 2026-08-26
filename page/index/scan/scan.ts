@@ -4,31 +4,6 @@ import { builtFrom, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/
 
-const globs = new Map<string, Bun.Glob>()
-
-function globAt(pattern: string): Bun.Glob {
-  const held = globs.get(pattern)
-  if (held !== undefined) return held
-  const made = new Bun.Glob(pattern)
-  globs.set(pattern, made)
-  return made
-}
-
-let byRepo: ReadonlyMap<string, readonly string[]> | null = null
-
-function keysOf(repo: string): readonly string[] {
-  if (byRepo === null) {
-    const made = new Map<string, string[]>()
-    for (const one of loadPages()) {
-      const held = made.get(one.repo)
-      if (held === undefined) made.set(one.repo, [one.key])
-      else held.push(one.key)
-    }
-    byRepo = made
-  }
-  return byRepo.get(repo) ?? []
-}
-
 const answering = new Map<string, boolean>()
 
 function pageFileDiffers(root: string): boolean {
@@ -58,6 +33,11 @@ export function scannedFromIndex(
   if (repo === null || patterns.length === 0) return null
   if (!patterns.every((one) => SUFFIXED.test(one))) return null
   if (!indexAnswersFor(repo, root)) return null
-  const matching = patterns.map(globAt)
-  return [...new Set(keysOf(repo).filter((key) => matching.some((one) => one.match(key))))].sort()
+  const matching = patterns.map((one) => new Bun.Glob(one))
+  const found = new Set<string>()
+  for (const one of loadPages()) {
+    if (one.repo !== repo) continue
+    if (matching.some((each) => each.match(one.key))) found.add(one.key)
+  }
+  return [...found].sort()
 }

@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { markOf } from "../../../cache/mark/mark.ts"
 import { oidsUnder } from "../../../repo/oid/oid.ts"
@@ -120,6 +120,19 @@ export function staleIn(roots: Roots): readonly string[] {
   return behind
 }
 
+type HeldPages = { readonly stamp: string; readonly pages: readonly Stated[] }
+
+let heldPages: HeldPages | null = null
+
+function stampOf(at: string): string {
+  try {
+    const one = statSync(at)
+    return `${one.mtimeMs}:${one.size}`
+  } catch {
+    return ""
+  }
+}
+
 function pagesAt(): string {
   return join(indexRoot(), PAGES)
 }
@@ -137,10 +150,13 @@ export function keepPages(stated: Iterable<Stated>): void {
   const at = pagesAt()
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)
+  heldPages = { stamp: stampOf(at), pages: held }
 }
 
 export function loadPages(): readonly Stated[] {
   const at = pagesAt()
+  const stamp = stampOf(at)
+  if (heldPages !== null && heldPages.stamp === stamp) return heldPages.pages
   if (!existsSync(at)) return []
   const found: Stated[] = []
   for (const line of readFileSync(at, "utf8").split("\n")) {
@@ -151,6 +167,7 @@ export function loadPages(): readonly Stated[] {
       continue
     }
   }
+  heldPages = { stamp, pages: found }
   return found
 }
 
@@ -172,6 +189,7 @@ export function loadRelations(): ReadonlyMap<string, readonly Relation[]> {
 }
 
 export function emptyIndex(): void {
+  heldPages = null
   const at = indexRoot()
   if (existsSync(at)) rmSync(at, { recursive: true, force: true })
 }
