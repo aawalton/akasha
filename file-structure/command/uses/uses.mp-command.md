@@ -11,8 +11,10 @@ required-reading-slugs:
 
 # Definition
 
-- **Uses** — every file under one section of a repository, with what imports it.
+- **Uses** — every file under one section of a repository, with what points at it.
 
 # Design
 
-What imports a file is read from the graph rather than scanned again here.
+What points at a file is read from the graph rather than scanned again here.
+
+A page beside its own code points at the code, rather than the code pointing at the page.
