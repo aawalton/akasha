@@ -26,5 +26,5 @@ export type NodeProducer<Node extends NodeRef> = {
   readonly name: string
   readonly nodeKinds: readonly string[]
   readonly at: (ctx: BuildContext, ref: NodeRef) => Node | null
-  readonly all: (ctx: BuildContext) => readonly Node[]
+  readonly all: (ctx: BuildContext, repos: readonly string[]) => readonly Node[]
 }

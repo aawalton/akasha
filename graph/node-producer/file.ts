@@ -54,9 +54,10 @@ export const fileNodeProducer: NodeProducer<FileNode> = {
     if (!keysIn(ctx, ref.repo, root).has(ref.key)) return null
     return nodeOf(ref.repo, ref.key, namedBy(ref.key))
   },
-  all: (ctx) => {
+  all: (ctx, repos) => {
     const nodes: FileNode[] = []
-    for (const [repo, root] of Object.entries(ctx.roots)) {
+    for (const repo of repos) {
+      const root = ctx.roots[repo]
       if (root === undefined) continue
       for (const key of keysIn(ctx, repo, root)) nodes.push(nodeOf(repo, key, namedBy(key)))
     }

@@ -1,7 +1,7 @@
 export const summary = "Map who imports each file under one section of a repository"
 
 import { relative, resolve } from "node:path"
-import { edgesInto, everyNode } from "../../../graph/ask.ts"
+import { edgesInto, nodesIn } from "../../../graph/ask.ts"
 import { IMPORT_EDGE } from "../../../graph/edge-producer/typescript.ts"
 import { KEEPS_NOTHING } from "../../../graph/node-shape.ts"
 import { AKASHA, rootsHere } from "../../../graph/roots.ts"
@@ -28,14 +28,14 @@ export default async function uses(argv: readonly string[]): Promise<void> {
   }
   const ctx = { roots, said: KEEPS_NOTHING }
   const under = `${section}/`
-  const files = everyNode(ctx)
-    .filter((node) => node.repo === AKASHA && node.key.startsWith(under))
+  const files = nodesIn(ctx, [AKASHA])
+    .filter((node) => node.key.startsWith(under))
     .map((node) => node.key)
     .sort()
   if (files.length === 0) throw new Error(`${section} holds no file the graph knows`)
   const importers = new Map<string, string[]>()
   const refs = files.map((key) => ({ repo: AKASHA, key }))
-  for (const edge of edgesInto(ctx, refs, IMPORT_EDGE)) {
+  for (const edge of edgesInto(ctx, refs, [AKASHA], IMPORT_EDGE)) {
     const held = importers.get(edge.to.key)
     if (held === undefined) importers.set(edge.to.key, [edge.from.key])
     else held.push(edge.from.key)

@@ -18,8 +18,8 @@ export function nodeAt(ctx: BuildContext, ref: NodeRef): FileNode | null {
   return fileNodeProducer.at(ctx, ref)
 }
 
-export function everyNode(ctx: BuildContext): readonly FileNode[] {
-  return fileNodeProducer.all(ctx)
+export function nodesIn(ctx: BuildContext, repos: readonly string[]): readonly FileNode[] {
+  return fileNodeProducer.all(ctx, repos)
 }
 
 export function edgesFrom(
@@ -45,12 +45,13 @@ function refKey(ref: NodeRef): string {
 export function edgesInto(
   ctx: BuildContext,
   refs: readonly NodeRef[],
+  repos: readonly string[],
   kind: string | null = null
 ): readonly EdgeInit[] {
   const wanted = new Set(refs.map(refKey))
   if (wanted.size === 0) return []
   const found: EdgeInit[] = []
-  for (const file of everyNode(ctx)) {
+  for (const file of nodesIn(ctx, repos)) {
     for (const edge of edgesFrom(ctx, file, kind)) {
       if (wanted.has(refKey(edge.to))) found.push(edge)
     }
