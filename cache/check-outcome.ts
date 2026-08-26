@@ -8,7 +8,7 @@ export const OUTCOME_KIND = "outcome"
 const CHECKS = "checks/check"
 
 export function entryOf(slug: string): string {
-  return `${CHECKS}/${slug}.ts`
+  return `${CHECKS}/${slug}/${slug}.ts`
 }
 
 export function outcomeMarkOf(
