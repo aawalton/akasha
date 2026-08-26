@@ -11,7 +11,7 @@ import {
   getOptionalContinuationData,
 } from "../utils/optional-chain-data"
 import { transformInPrecedingStatementScope } from "../utils/preceding-statements"
-import { expressionResultIsUsed } from "../utils/typescript"
+import { expressionResultIsUsed } from "../utils/typescript/typescript"
 import { canBeFalsyWhenNotNull } from "../utils/typescript/types"
 import {
   transformElementAccessExpressionWithCapture,

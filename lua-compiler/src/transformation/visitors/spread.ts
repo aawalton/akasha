@@ -18,7 +18,7 @@ import {
   ScopeType,
 } from "../utils/scope"
 import { isOptimizedVarArgSpreadHolder } from "../utils/symbols-deps"
-import { findFirstNonOuterParent } from "../utils/typescript"
+import { findFirstNonOuterParent } from "../utils/typescript/typescript"
 import { isAlwaysArrayType } from "../utils/typescript/types"
 import { isMultiReturnCall } from "./language-extensions/multi"
 import { isGlobalVarargConstant } from "./language-extensions/vararg"

@@ -20,7 +20,7 @@ import {
 import { createSafeName, hasUnsafeIdentifierName } from "../utils/safe-names"
 import { getIdentifierSymbolId } from "../utils/symbols"
 import { maybeWrapThisVoidAsAdapter } from "../utils/this-void-adapter"
-import { isStandardLibraryType } from "../utils/typescript"
+import { isStandardLibraryType } from "../utils/typescript/typescript"
 import { callExtensions } from "./language-extensions/call-extension"
 import {
   isIdentifierExtensionValue,

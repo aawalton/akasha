@@ -9,7 +9,7 @@ import { importLuaLibFeature, transformLuaLibFunction } from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
 import { getIdentifierSymbolId } from "../utils/symbols"
 import { maybeWrapThisVoidAsAdapter } from "../utils/this-void-adapter"
-import { isStandardLibraryType } from "../utils/typescript"
+import { isStandardLibraryType } from "../utils/typescript/typescript"
 import { isArrayType, isFunctionType, isStringType } from "../utils/typescript/types"
 import { getCalledExpression } from "../utils/typescript/get-called-expression"
 import {

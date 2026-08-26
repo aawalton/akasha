@@ -7,7 +7,7 @@ import type { FunctionVisitor } from "../context/visitors"
 import { createExportsIdentifier } from "../utils/exports-identifier"
 import { transformInPrecedingStatementScope } from "../utils/preceding-statements"
 import { performHoisting, ScopeType } from "../utils/scope"
-import { hasExportEquals } from "../utils/typescript"
+import { hasExportEquals } from "../utils/typescript/typescript"
 
 export const transformSourceFileNode: FunctionVisitor<ts.SourceFile> = (node, context) => {
   let statements: readonly luaStatements.Statement[] = []

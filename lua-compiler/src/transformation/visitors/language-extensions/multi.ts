@@ -6,7 +6,7 @@ import {
   getIterableExtensionKindForNode,
   IterableExtensionKind,
 } from "../../utils/language-extensions"
-import { findFirstNonOuterParent } from "../../utils/typescript"
+import { findFirstNonOuterParent } from "../../utils/typescript/typescript"
 import { findFirstNodeAbove } from "../../utils/typescript/find-first-node-above"
 
 const multiReturnExtensionName = "__tstlMultiReturn"
