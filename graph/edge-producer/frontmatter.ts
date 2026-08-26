@@ -1,5 +1,6 @@
 import { type Frontmatter, listField } from "../../page/frontmatter.ts"
 import { type Resolve, type Stated, kindOf, resolveOver } from "../../page/index/identity.ts"
+import { loadPages, staleIn } from "../../page/index/store.ts"
 import { NONE, stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../frontmatter-at.ts"
@@ -59,9 +60,13 @@ function relationsIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]
   return made
 }
 
-function resolvingIn(ctx: BuildContext): Resolve {
-  const held = RESOLVING.get(ctx)
-  if (held !== undefined) return held
+function indexedFor(ctx: BuildContext): readonly Stated[] | null {
+  if (staleIn(ctx.roots).length > 0) return null
+  const held = loadPages().filter((one) => ctx.roots[one.repo] !== undefined)
+  return held.length === 0 ? null : held
+}
+
+function readFor(ctx: BuildContext): readonly Stated[] {
   const stated: Stated[] = []
   for (const [, pages] of pageIndexIn(ctx).byType) {
     for (const at of pages) {
@@ -78,7 +83,13 @@ function resolvingIn(ctx: BuildContext): Resolve {
       })
     }
   }
-  const made = resolveOver(stated)
+  return stated
+}
+
+function resolvingIn(ctx: BuildContext): Resolve {
+  const held = RESOLVING.get(ctx)
+  if (held !== undefined) return held
+  const made = resolveOver(indexedFor(ctx) ?? readFor(ctx))
   RESOLVING.set(ctx, made)
   return made
 }
