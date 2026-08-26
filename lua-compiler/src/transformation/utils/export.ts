@@ -4,7 +4,7 @@ import type { TransformationContext } from "../context/transformation-context"
 import { requireCreateModuleLocalName } from "./export-deps"
 import { createExportsIdentifier } from "./exports-identifier"
 import { getSymbolInfo } from "./symbols"
-import { findFirstNodeAbove } from "./typescript/find-first-node-above"
+import { findFirstNodeAbove } from "./typescript/typescript"
 
 export function hasDefaultExportModifier(node: ts.Node): boolean {
   return (

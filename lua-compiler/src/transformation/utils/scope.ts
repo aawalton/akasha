@@ -6,7 +6,7 @@ import { assert, isNonNull } from "../../utils"
 import type { TransformationContext } from "../context/transformation-context"
 import { getSymbolInfo } from "./symbols"
 import { getFirstDeclarationInFile } from "./typescript/typescript"
-import { findFirstNodeAbove } from "./typescript/find-first-node-above"
+import { findFirstNodeAbove } from "./typescript/typescript"
 
 export const ScopeType = {
   File: 1 << 0,

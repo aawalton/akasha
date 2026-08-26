@@ -3,7 +3,7 @@ import type { CompilerOptions } from "../../CompilerOptions"
 import type { TransformationContext } from "../context/transformation-context"
 import { AnnotationKind, getFileAnnotations, getNodeAnnotations } from "./annotations"
 import { getAllCallSignatures, inferAssignedType } from "./typescript/typescript"
-import { findFirstNodeAbove } from "./typescript/find-first-node-above"
+import { findFirstNodeAbove } from "./typescript/typescript"
 import { isWorkspaceSourceFile } from "./workspace-source"
 
 export const ContextType = {
