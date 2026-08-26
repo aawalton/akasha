@@ -1,6 +1,6 @@
 import { relative } from "node:path"
 import { sweep } from "../../cache/cache.ts"
-import { closureOf } from "../../cache/mark/closure.ts"
+import { closureOf } from "../../cache/closure/closure.ts"
 import type { BuildContext } from "../../graph/node-shape.ts"
 import {
   cacheOutcome,

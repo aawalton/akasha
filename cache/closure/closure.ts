@@ -2,7 +2,7 @@ import { edgesFrom, nodeAt } from "../../graph/ask.ts"
 import { IMPORT_EDGE } from "../../graph/edge-producer/typescript.ts"
 import { AKASHA } from "../../repo/roots.ts"
 import type { BuildContext, NodeRef } from "../../graph/node-shape.ts"
-import type { Input } from "./mark.ts"
+import type { Input } from "../mark/mark.ts"
 
 const ABSENT = "absent"
 
