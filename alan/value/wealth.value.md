@@ -9,7 +9,6 @@ required-reading-slugs:
 color: orange
 sort-order: 6
 description: "Wealth represents my ability to exist independent from the constraints of the world, including freedom of time, freedom of attention, freedom of location, and freedom of action."
-coined: true
 value-prop: wealth-level
 total-points: 482602.6130961086
 unit: green day units

@@ -4,7 +4,6 @@ page-type-slug: domain
 title: "Stoplight"
 slug: stoplight
 domain-parent-slug: domain/game-mechanics
-coined: true
 ---
 
 # Definition

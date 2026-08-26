@@ -4,7 +4,6 @@ page-type-slug: domain
 title: "Ring"
 slug: ring
 domain-parent-slug: domain/design-patterns
-coined: true
 ---
 
 # Definition

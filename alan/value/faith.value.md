@@ -9,7 +9,6 @@ required-reading-slugs:
 color: purple
 sort-order: 1
 description: "Faith represents my developing understanding of myself and my alignment with the identities I have chosen."
-coined: true
 value-prop: faith-level
 total-points: 429.3146275
 unit: green day units
