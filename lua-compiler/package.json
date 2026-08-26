@@ -26,8 +26,8 @@
   "functionalType": "io",
   "private": true,
   "exports": {
-    ".": "./src/index.ts",
-    "./language-extensions": "./language-extensions/index.d.ts"
+    "./language-extensions": "./language-extensions/index.d.ts",
+    "./*": "./src/*.ts"
   },
   "bin": {
     "tstl": "src/tstl.ts"
