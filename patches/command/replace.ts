@@ -177,7 +177,7 @@ export const help = {
     "\n" +
     "A call addressing akasha has the bodies it composed gated before any of them reaches disk. A " +
     "call addressing any other repository lands unjudged. A path inside no repository is written " +
-    "where it stands, with nothing committing it. A stated substitution is shaped by nothing anyone " +
+    "where it lies, with nothing committing it. A stated substitution is shaped by nothing anyone " +
     "read, so the checks weighing what its writer read stand aside, as they do for `rm`.\n" +
     "\n" +
     "A file that changes between the read a body was composed from and the write that lands it " +

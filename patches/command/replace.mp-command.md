@@ -23,6 +23,6 @@ A string standing in nothing under those paths is refused.
 
 A file that is not text is passed over rather than decoded.
 
-A path inside no repository is written where it stands, with no gate and no commit behind it.
+A path inside no repository is written where it lies, with no gate and no commit behind it.
 
 A file that changes under a call, between its read and its write, refuses the whole call.
