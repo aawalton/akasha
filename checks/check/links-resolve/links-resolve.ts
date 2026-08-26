@@ -15,7 +15,7 @@ const MARKDOWN = ".md"
 
 const JOIN = "/"
 
-type Held = {
+export type Held = {
   readonly path: string
   readonly body: string | null
 }
@@ -39,6 +39,38 @@ function brokenBy(link: Link, where: string, resolved: string, body: string | nu
   return refusalText("link-anchor-absent", { where, href, resolved, anchor: link.anchor })
 }
 
+export type Sources = (target: string) => readonly { repo: string; key: string }[]
+
+export function judgeLinks(
+  staged: ReadonlyMap<string, Held>,
+  bodyOf: (address: string) => string | null,
+  sourcesOf: Sources
+): readonly CheckFailure[] {
+  const failures: CheckFailure[] = []
+  for (const [address, held] of staged) {
+    if (held.body === null) continue
+    for (const link of linksIn(repoIn(address), keyIn(address), held.body)) {
+      if (link.target === null) continue
+      const reason = brokenBy(link, `${address}:${link.line}`, link.target, bodyOf(link.target))
+      if (reason !== null) failures.push({ path: held.path, reason })
+    }
+  }
+  for (const [address, held] of staged) {
+    for (const source of sourcesOf(address)) {
+      const from = `${source.repo}${JOIN}${source.key}`
+      if (staged.has(from)) continue
+      const text = bodyOf(from)
+      if (text === null) continue
+      for (const link of linksIn(source.repo, source.key, text)) {
+        if (link.target !== address) continue
+        const reason = brokenBy(link, `${from}:${link.line}`, address, held.body)
+        if (reason !== null) failures.push({ path: held.path, reason })
+      }
+    }
+  }
+  return failures
+}
+
 export const linksResolve: Check = {
   slug: "links-resolve",
   needs: "tree",
@@ -56,35 +88,16 @@ export const linksResolve: Check = {
     }
     if (staged.size === 0) return []
     const roots = rootsHere()
-    const bodyOf = (address: string): string | null => {
-      const held = staged.get(address)
-      if (held !== undefined) return held.body
-      const root = roots[repoIn(address)]
-      return root === undefined ? null : textAt(root, keyIn(address))
-    }
-    const failures: CheckFailure[] = []
-    for (const [address, held] of staged) {
-      if (held.body === null) continue
-      for (const link of linksIn(repoIn(address), keyIn(address), held.body)) {
-        if (link.target === null) continue
-        const reason = brokenBy(link, `${address}:${link.line}`, link.target, bodyOf(link.target))
-        if (reason !== null) failures.push({ path: held.path, reason })
-      }
-    }
-    for (const [address, held] of staged) {
-      for (const source of sourcesAt(LINK_RELATION, address)) {
-        const from = `${source.repo}${JOIN}${source.key}`
-        if (staged.has(from)) continue
-        const text = bodyOf(from)
-        if (text === null) continue
-        for (const link of linksIn(source.repo, source.key, text)) {
-          if (link.target !== address) continue
-          const reason = brokenBy(link, `${from}:${link.line}`, address, held.body)
-          if (reason !== null) failures.push({ path: held.path, reason })
-        }
-      }
-    }
-    return failures
+    return judgeLinks(
+      staged,
+      (address) => {
+        const held = staged.get(address)
+        if (held !== undefined) return held.body
+        const root = roots[repoIn(address)]
+        return root === undefined ? null : textAt(root, keyIn(address))
+      },
+      (target) => [...sourcesAt(LINK_RELATION, target)]
+    )
   },
 }
 
