@@ -14,7 +14,7 @@ import {
   payloadText,
   runTool,
   valueOf,
-} from "../patch.ts"
+} from "./patch.ts"
 
 const EDIT_TOOL = "edit.ts"
 
