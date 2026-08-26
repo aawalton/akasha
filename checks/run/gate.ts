@@ -7,7 +7,7 @@ import { contextOver } from "../../cache/said.ts"
 import { actOn } from "../../agent/writer.ts"
 import type { Check, CheckRun } from "../check/check-shape.ts"
 import { linkedInto } from "../../workspace-package/packages.ts"
-import { trackedIn, treeOn } from "./tree.ts"
+import { onDisk, trackedIn, treeOn } from "./tree.ts"
 import { judgesAuthor } from "./all.ts"
 import { runKept, type Subject } from "./kept.ts"
 

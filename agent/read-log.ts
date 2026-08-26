@@ -3,6 +3,7 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { HERE } from "../graph/roots.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { coveredTo, type Span } from "./read-records.ts"
+import { SUBAGENT_MARK } from "./writer.ts"
 
 export { coveredTo }
 export type { Span }

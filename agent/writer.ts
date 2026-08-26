@@ -1,7 +1,7 @@
 import type { Act } from "../checks/check/check-shape.ts"
 import { onDisk } from "../checks/run/tree.ts"
 
-const SUBAGENT_MARK = "--"
+export const SUBAGENT_MARK = "--"
 
 function said(name: string): string {
   return (process.env[name] ?? "").trim()
