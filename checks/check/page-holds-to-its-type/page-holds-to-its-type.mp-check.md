@@ -8,12 +8,14 @@ needs: tree
 
 # Definition
 
-- **Page holds to its type** — fails a page whose frontmatter or body is outside what its page type states.
+- **Page holds to its type** — fails a page outside what its page type states, or in the wrong repository for that type.
 
 # Design
 
 A page type says what a page is in two parts, so one check judges both and a page answers for each in one act.
 
-A page no page type claims, or two claim, goes unjudged: nothing settles what it would be held to.
+A page no page type claims anywhere, or two claim here, goes unjudged: nothing settles what it would be held to.
+
+A page whose only claimant files it into another repository is refused rather than left unjudged.
 
 Rows beside a page are judged against the page type their property names, never against the page's own.
