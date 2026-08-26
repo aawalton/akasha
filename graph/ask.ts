@@ -1,6 +1,7 @@
 import besideEdgeProducer from "./edge-producer/beside/beside.ts"
 import extensionEdgeProducer from "./edge-producer/extension/extension.ts"
 import frontmatterEdgeProducer from "./edge-producer/frontmatter/frontmatter.ts"
+import loaderEdgeProducer from "./edge-producer/loader/loader.ts"
 import pathEdgeProducer from "./edge-producer/path/path.ts"
 import typescriptEdgeProducer from "./edge-producer/typescript/typescript.ts"
 import type { EdgeInit, EdgeProducer } from "./edge-producer/edge-shape.ts"
@@ -13,6 +14,7 @@ export const EDGE_PRODUCERS: readonly EdgeProducer[] = [
   extensionEdgeProducer,
   typescriptEdgeProducer,
   besideEdgeProducer,
+  loaderEdgeProducer,
   pathEdgeProducer,
 ]
 export function nodeAt(ctx: BuildContext, ref: NodeRef): FileNode | null {
