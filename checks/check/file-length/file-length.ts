@@ -7,7 +7,7 @@ export const CEILING_BYTES = 15000
 
 const CEILING_SAID = CEILING_BYTES.toLocaleString("en-US")
 
-export const fileLength: Check = {
+export const fileLength = {
   slug: "file-length",
   needs: "file",
   cached: false,
@@ -17,6 +17,6 @@ export const fileLength: Check = {
     if (isGeneratedFile(relative(root, path), decodeUtf8(body) ?? body)) return []
     return [`${bytes.toLocaleString("en-US")} bytes, over the ${CEILING_SAID} ceiling`]
   },
-}
+} satisfies Check
 
 export default fileLength
