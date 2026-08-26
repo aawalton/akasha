@@ -41,7 +41,7 @@ import {
 } from "./modules/import"
 import { transformModuleDeclaration } from "./namespace"
 import { transformReturnStatement } from "./return"
-import { transformSourceFileNode } from "./sourceFile"
+import { transformSourceFileNode } from "./source-file"
 import { transformSpreadElement } from "./spread"
 import { transformSwitchStatement } from "./switch"
 import { transformTaggedTemplateExpression, transformTemplateExpression } from "./template"
