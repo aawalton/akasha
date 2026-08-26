@@ -58,8 +58,10 @@ function refusalOverTarget(
   if (reading === null) return refusalText("file-never-read", { path: said, route })
   const mark = blobId(body)
   if (!bodyItself(reading, mark)) {
-    const which = sameBody(reading, mark) ? "body-moved-mechanically" : "file-changed-after-read"
-    return refusalText(which, { path: said, route })
+    return refusalText(
+      sameBody(reading, mark) ? "body-moved-mechanically" : "file-changed-after-read",
+      { path: said, route }
+    )
   }
   const lines = countLines(new TextDecoder().decode(body))
   const unread = firstUnreadLine(reading, mark, lines)
