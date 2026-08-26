@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
-import { rootsHere } from "../repo/roots.ts"
-import { listField } from "../page/frontmatter.ts"
-import { blockOf } from "../page/text.ts"
-import { standingHere } from "../page/warrant-index.ts"
-import type { Target } from "./read-target.ts"
+import { rootsHere } from "../../../../repo/roots.ts"
+import { listField } from "../../../../page/frontmatter.ts"
+import { blockOf } from "../../../../page/text.ts"
+import { standingHere } from "../../../../page/warrant-index.ts"
+import type { Target } from "../target/read-target.ts"
 
 const CONDITIONAL_KEY = "conditional-reading-slugs"
 
