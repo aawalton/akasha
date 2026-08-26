@@ -1,4 +1,4 @@
-import type { Roots } from "../../instructions/tools/lib/roots.ts"
+export type Roots = Readonly<Record<string, string | undefined>>
 
 export type BuildContext = {
   readonly roots: Roots

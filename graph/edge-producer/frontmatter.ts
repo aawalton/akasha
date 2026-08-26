@@ -1,5 +1,4 @@
 import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
-import { addressParts } from "../../../instructions/tools/page/page-address.ts"
 import { diskFileTree } from "../../../instructions/tools/page/page-file-tree.ts"
 import { registryOf } from "../../../instructions/tools/page/page-registry.ts"
 import {
@@ -13,6 +12,21 @@ import {
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { AKASHA, BORROWED_PAGE_TYPES } from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
+
+const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
+
+type Address = {
+  readonly type: string
+  readonly slug: string
+}
+
+function addressParts(text: string): Address | null {
+  const found = ADDRESS.exec(text)
+  if (found === null) return null
+  const type = found[1]
+  const slug = found[2]
+  return type === undefined || slug === undefined ? null : { type, slug }
+}
 
 export const RELATION_EDGE = "relation"
 
