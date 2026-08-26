@@ -9,4 +9,4 @@ cached: false
 
 # Definition
 
-- **Import reach** — fails an import reaching outside the repository the file is in.
+- **Import reach** — fails an import reaching outside the repository the file is in, unless it names a type declaration.
