@@ -1,10 +1,10 @@
 import { existsSync } from "node:fs"
-import { diskFileTree, type FileTree } from "../file-tree.ts"
-import { parseFrontmatter } from "../frontmatter.ts"
-import { claiming, type PageType, placeDirOf } from "../page-types.ts"
-import { registryOf } from "../property/registry.ts"
+import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
+import { parseFrontmatter } from "../../page/frontmatter.ts"
+import { claiming, type PageType, placeDirOf } from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
 import { rootsHere } from "../../repo/roots/roots.ts"
-import { idOfFilePage } from "./naming/naming.ts"
+import { idOfFilePage } from "../../page/name/naming/naming.ts"
 
 const ID_KEY = "id"
 
