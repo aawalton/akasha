@@ -1,9 +1,9 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { markOf } from "../../cache/mark/mark.ts"
-import { oidsUnder } from "../../repo/oid/oid.ts"
-import type { Roots } from "../page-at.ts"
-import { pageNameOf } from "../page-name.ts"
+import { markOf } from "../../../cache/mark/mark.ts"
+import { oidsUnder } from "../../../repo/oid/oid.ts"
+import type { Roots } from "../../page-at.ts"
+import { pageNameOf } from "../../page-name.ts"
 import {
   type Named,
   type Source,
@@ -12,10 +12,10 @@ import {
   namedOf,
   saidNamed,
   sourcesOf,
-} from "./entry.ts"
-import type { Stated } from "./identity.ts"
-import type { Relation } from "./relation.ts"
-import { builtFromAt, fileFor, identityFile, indexRoot } from "./place.ts"
+} from "../entry/entry.ts"
+import type { Stated } from "../identity/identity.ts"
+import type { Relation } from "../relation/relation.ts"
+import { builtFromAt, fileFor, identityFile, indexRoot } from "../place/place.ts"
 
 const KIND = "pages-index"
 

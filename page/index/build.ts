@@ -1,7 +1,7 @@
 import type { PageAt, Roots } from "../page-at.ts"
 import { pageNameOf } from "../page-name.ts"
 import { blockOf } from "../text.ts"
-import { type Named, type Source, saidNamed, saidSource } from "./entry.ts"
+import { type Named, type Source, saidNamed, saidSource } from "./entry/entry.ts"
 import {
   type Held,
   type Resolve,
@@ -10,9 +10,9 @@ import {
   identityOver,
   resolveOver,
   statedOf,
-} from "./identity.ts"
-import { identityFile } from "./place.ts"
-import { type Relation, reachedFrom, relationsOver } from "./relation.ts"
+} from "./identity/identity.ts"
+import { identityFile } from "./place/place.ts"
+import { type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
 import {
   builtFrom,
   emptyIndex,
@@ -27,7 +27,7 @@ import {
   marksOver,
   namedIn,
   sourcesAt,
-} from "./store.ts"
+} from "./store/store.ts"
 
 export type Built = {
   readonly files: number

@@ -1,7 +1,7 @@
-import type { Frontmatter } from "../frontmatter.ts"
-import type { PageAt, Roots } from "../page-at.ts"
-import { pagesIn } from "../pages.ts"
-import { blockOf, NONE, stringAt, textAt } from "../text.ts"
+import type { Frontmatter } from "../../frontmatter.ts"
+import type { PageAt, Roots } from "../../page-at.ts"
+import { pagesIn } from "../../pages.ts"
+import { blockOf, NONE, stringAt, textAt } from "../../text.ts"
 
 export const BY_ID = "relation-id"
 

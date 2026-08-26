@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { join, resolve } from "node:path"
 
-const AKASHA = resolve(import.meta.dir, "..", "..")
+const AKASHA = resolve(import.meta.dir, "..", "..", "..")
 
 const UNDER = "pages"
 

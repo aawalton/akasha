@@ -1,6 +1,6 @@
 import { type Frontmatter, listField } from "../../page/frontmatter.ts"
-import { type Resolve, type Stated, kindOf, resolveOver } from "../../page/index/identity.ts"
-import { loadPages } from "../../page/index/store.ts"
+import { type Resolve, type Stated, kindOf, resolveOver } from "../../page/index/identity/identity.ts"
+import { loadPages } from "../../page/index/store/store.ts"
 import { NONE, stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../frontmatter-at/frontmatter-at.ts"

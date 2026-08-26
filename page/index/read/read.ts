@@ -1,7 +1,7 @@
 import { existsSync, readdirSync } from "node:fs"
-import type { PageAt } from "../page-at.ts"
-import { pageNameOf } from "../page-name.ts"
-import type { Source } from "./entry.ts"
+import type { PageAt } from "../../page-at.ts"
+import { pageNameOf } from "../../page-name.ts"
+import type { Source } from "../entry/entry.ts"
 import {
   ID_WORD,
   NAME_WORD,
@@ -10,9 +10,9 @@ import {
   SLUG_WORD,
   addressIn,
   wordOf,
-} from "./identity.ts"
-import { fileFor, relationsRoot } from "./place.ts"
-import { pagesNamed, sourcesAt } from "./store.ts"
+} from "../identity/identity.ts"
+import { fileFor, relationsRoot } from "../place/place.ts"
+import { pagesNamed, sourcesAt } from "../store/store.ts"
 
 export function sourcesFor(relation: string, to: PageAt): readonly Source[] {
   return sourcesAt(relation, to.stem, to.type)
