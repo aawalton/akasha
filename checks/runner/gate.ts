@@ -2,6 +2,7 @@ import { execFileSync } from "node:child_process"
 import { mkdtempSync, rmSync } from "node:fs"
 import { resolve } from "node:path"
 import { answersAt } from "../../cache/answer.ts"
+import { oidOf } from "../../cache/mark.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
 import { trackedIn, treeOn } from "../tree.ts"
 import { runKept, type Subject } from "./kept.ts"
@@ -40,30 +41,18 @@ export function changedBy(patch: Patch, index: string): readonly string[] {
   return named(patch, index, "AM")
 }
 
-function oidsIn(patch: Patch, index: string): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  for (const line of git(patch, index, ["ls-files", "-s", "-z"]).toString("utf8").split("\0")) {
-    if (line === "") continue
-    const [meta, path] = line.split("\t")
-    const oid = meta?.split(" ")[1]
-    if (oid !== undefined && path !== undefined) found.set(path, oid)
-  }
-  return found
-}
-
 export function runGate(checks: readonly Check[], patch: Patch): readonly CheckRun[] {
   const index = `${mkdtempSync(`${SCRATCH}/gate-`)}.index`
   let made: string | null = null
   try {
     const landing = changedBy(patch, index)
-    const oids = oidsIn(patch, index)
     const changed = new Map<string, Buffer | null>()
     const subjects: Subject[] = []
     for (const relPath of landing) {
       const at = resolve(patch.root, relPath)
-      changed.set(at, git(patch, index, ["cat-file", "blob", `:${relPath}`]))
-      const oid = oids.get(relPath)
-      if (oid !== undefined) subjects.push({ at, oid })
+      const body = git(patch, index, ["cat-file", "blob", `:${relPath}`])
+      changed.set(at, body)
+      subjects.push({ at, oid: oidOf(body) })
     }
     for (const relPath of named(patch, index, "D")) changed.set(resolve(patch.root, relPath), null)
     const dir = (): string => {
