@@ -8,7 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
-initiative-slug: athena-one-write-command
+initiative-slug: athena-commands-stand-only-in-akasha
 errand: "No, those are potentially deprecated ideas, so they do not carry forward to the new version unless we independently discover they are needed."
 registration-account: aawalton
 claude-code-session-uuid: b508d212-b610-46eb-a7d7-d001f0badd53
