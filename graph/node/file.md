@@ -8,3 +8,7 @@ slug: file
 # Definition
 
 - **File** — the node for one file.
+
+# Design
+
+No file outside the akasha repository has a node.
