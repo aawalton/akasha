@@ -1,6 +1,6 @@
 import { type Frontmatter, listField } from "../../page/frontmatter.ts"
 import { type Resolve, type Stated, kindOf, resolveOver } from "../../page/index/identity.ts"
-import { loadPages, staleIn } from "../../page/index/store.ts"
+import { loadPages } from "../../page/index/store.ts"
 import { NONE, stringAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../frontmatter-at.ts"
@@ -61,7 +61,6 @@ function relationsIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]
 }
 
 function indexedFor(ctx: BuildContext): readonly Stated[] | null {
-  if (staleIn(ctx.roots).length > 0) return null
   const held = loadPages().filter((one) => ctx.roots[one.repo] !== undefined)
   return held.length === 0 ? null : held
 }
