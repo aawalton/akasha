@@ -88,7 +88,7 @@ export function pageById(roots: Roots, id: string): PageAt | null {
   return theOne(found, `the id \`${id}\``)
 }
 
-export function pageBySeq(roots: Roots, seq: string): PageAt | null {
-  const found = matching(roots, null, (at) => statedAt(roots, at, SEQ) === seq)
-  return theOne(found, `the seq \`${seq}\``)
+export function pageBySeq(roots: Roots, type: string, seq: string): PageAt | null {
+  const found = matching(roots, type, (at) => statedAt(roots, at, SEQ) === seq)
+  return theOne(found, `the seq \`${seq}\` under the page type \`${type}\``)
 }
