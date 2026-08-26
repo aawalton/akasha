@@ -98,23 +98,30 @@ function numberIn(text: string | null): number | null {
   return Number.isFinite(read) ? read : null
 }
 
-export function pageTypesIn(instructions: string): readonly PageType[] {
+function placesIn(fm: ReturnType<typeof blockOf>["fm"]): readonly (readonly [string, string])[] {
+  const one = stringAt(fm, FILES)
+  const stated = one === null ? listField(fm, FILES) : one === NONE ? [] : [one]
+  const places: (readonly [string, string])[] = []
+  for (const said of stated) {
+    const at = said.indexOf(":")
+    if (at !== -1) places.push([said.slice(0, at), said.slice(at + 1)])
+  }
+  return places
+}
+
+export function pageTypesIn(root: string, listing: Listing = new Map()): readonly PageType[] {
   const found: PageType[] = []
-  for (const { key: relPath } of pagesIn(instructions).filter((one) => one.type === PAGE_TYPE)) {
-    const text = textAt(instructions, relPath)
+  for (const { key: relPath } of listedIn(root, listing).filter((one) => one.type === PAGE_TYPE)) {
+    const text = textAt(root, relPath)
     if (text === null) continue
     const { fm, why } = blockOf(text)
     if (why !== null) continue
     const slug = stringAt(fm, SLUG)
     if (slug === null) continue
-    const files = stringAt(fm, FILES)
-    const at = files === null || files === NONE ? -1 : files.indexOf(":")
-    found.push({
-      slug,
-      extends: stringAt(fm, EXTENDS_SLUG),
-      repo: at === -1 ? null : (files as string).slice(0, at),
-      pattern: at === -1 ? null : (files as string).slice(at + 1),
-    })
+    const base = stringAt(fm, EXTENDS_SLUG)
+    const places = placesIn(fm)
+    if (places.length === 0) found.push({ slug, extends: base, repo: null, pattern: null })
+    for (const [repo, pattern] of places) found.push({ slug, extends: base, repo, pattern })
   }
   return found
 }
@@ -210,15 +217,15 @@ function takesIn(fm: ReturnType<typeof blockOf>["fm"]): Readonly<Record<string, 
 }
 
 export function readoutCatalog(roots: Roots = rootsHere()): ReadoutCatalog {
-  const instructions = roots.instructions
-  if (instructions === undefined) {
+  const dirs = [...new Set(Object.values(roots).filter((one): one is string => one !== undefined))]
+  if (dirs.length === 0) {
     throw new Error(
-      "readoutCatalog: no `instructions` root, and the page types stating where every readout, " +
-        "scale, group and query stands are read from it"
+      "readoutCatalog: no repository root, and the page types stating where every readout, " +
+        "scale, group and query stands are read from the repositories themselves"
     )
   }
   const listing: Listing = new Map()
-  const types = pageTypesIn(instructions)
+  const types = dirs.flatMap((root) => pageTypesIn(root, listing))
   const readoutTypeSlugs = descendantsOf(READOUT_PAGE_TYPE_SLUG, types)
 
   const readouts = new Map<string, ReadoutRow>()
