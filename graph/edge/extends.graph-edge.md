@@ -5,11 +5,11 @@ title: "Extends"
 slug: extends
 derives: from
 from-node:
-  kind: page
+  kind: file
   where:
     page-type-slug: page-type
 to-node:
-  kind: page
+  kind: file
   where:
     page-type-slug: page-type
 ---

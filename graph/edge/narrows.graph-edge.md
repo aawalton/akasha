@@ -5,11 +5,11 @@ title: "Narrows"
 slug: narrows
 derives: none
 from-node:
-  kind: page
+  kind: file
   where:
     page-type-slug: page-property-definition
 to-node:
-  kind: page
+  kind: file
   where:
     page-type-slug: page-type
 ---

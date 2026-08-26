@@ -1,22 +1,10 @@
 import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
 import { addressParts } from "../../../instructions/tools/page/page-address.ts"
 import { blockOf, NONE, textAt } from "../../../instructions/tools/page/page-types.ts"
+import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import type { FileNode } from "../node-producer/file.ts"
-import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 const SHARED_REPO = "instructions"
-
-export type EdgeInit = {
-  readonly kind: string
-  readonly from: NodeRef
-  readonly to: NodeRef
-}
-
-export type EdgeProducer = {
-  readonly name: string
-  readonly edgeKinds: readonly string[]
-  readonly build: (ctx: BuildContext, pages: readonly FileNode[]) => readonly EdgeInit[]
-}
 
 export type Reference = {
   readonly key: string

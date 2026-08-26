@@ -5,11 +5,11 @@ title: "Defined on"
 slug: defined-on
 derives: to
 from-node:
-  kind: page
+  kind: file
   where:
     page-type-slug: page-property-definition
 to-node:
-  kind: page
+  kind: file
   where:
     page-type-slug: page-type
 ---

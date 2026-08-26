@@ -5,9 +5,9 @@ title: "Sequence"
 slug: sequence
 derives: none
 from-node:
-  kind: page
+  kind: file
 to-node:
-  kind: page
+  kind: file
 ---
 
 # Definition

@@ -5,9 +5,9 @@ title: "Page type"
 slug: page-type
 derives: from
 from-node:
-  kind: page
+  kind: file
 to-node:
-  kind: page
+  kind: file
   where:
     page-type-slug: page-type
 ---

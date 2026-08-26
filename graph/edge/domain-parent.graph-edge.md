@@ -5,9 +5,9 @@ title: "Domain parent"
 slug: domain-parent
 derives: none
 from-node:
-  kind: page
+  kind: file
 to-node:
-  kind: page
+  kind: file
 ---
 
 # Definition

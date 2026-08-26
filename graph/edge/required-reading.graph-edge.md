@@ -5,9 +5,9 @@ title: "Required reading"
 slug: required-reading
 derives: none
 from-node:
-  kind: page
+  kind: file
 to-node:
-  kind: page
+  kind: file
 ---
 
 # Definition
