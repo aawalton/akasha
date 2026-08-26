@@ -12,7 +12,3 @@ attributes-slugs:
 # Definition
 
 - **File** — the node for one file.
-
-# Design
-
-A page type, page property type, page property definition or file kind outside akasha has a node.

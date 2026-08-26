@@ -1,7 +1,6 @@
 import type { BuildContext, NodeProducer, NodeRef } from "../node-shape.ts"
 import { pageNameOf } from "../../page/page-name.ts"
 import { trackedIn } from "../../page/pages.ts"
-import { AKASHA } from "../roots.ts"
 
 export const FILE_NODE_KIND = "file"
 
@@ -46,17 +45,12 @@ function nodeOf(repo: string, key: string, attrs: FileNodeAttrs): FileNode {
   return { kind: FILE_NODE_KIND, repo, key, attrs }
 }
 
-function carried(repo: string, key: string): boolean {
-  return repo === AKASHA || pageNameOf(key) !== null
-}
-
 export const fileNodeProducer: NodeProducer<FileNode> = {
   name: "file",
   nodeKinds: [FILE_NODE_KIND],
   at: (ctx, ref) => {
     const root = ctx.roots[ref.repo]
     if (root === undefined) return null
-    if (!carried(ref.repo, ref.key)) return null
     if (!keysIn(ctx, ref.repo, root).has(ref.key)) return null
     return nodeOf(ref.repo, ref.key, namedBy(ref.key))
   },
@@ -64,10 +58,7 @@ export const fileNodeProducer: NodeProducer<FileNode> = {
     const nodes: FileNode[] = []
     for (const [repo, root] of Object.entries(ctx.roots)) {
       if (root === undefined) continue
-      for (const key of keysIn(ctx, repo, root)) {
-        if (!carried(repo, key)) continue
-        nodes.push(nodeOf(repo, key, namedBy(key)))
-      }
+      for (const key of keysIn(ctx, repo, root)) nodes.push(nodeOf(repo, key, namedBy(key)))
     }
     return nodes
   },

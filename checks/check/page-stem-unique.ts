@@ -1,7 +1,7 @@
 import { relative } from "node:path"
 import type { Check } from "../check-shape.ts"
 import { indexOf, nameOf, type PageAt, pagesOver, saidAt } from "../../graph/page-index.ts"
-import { AKASHA, INSTRUCTIONS, ROOTS_HERE } from "../../graph/roots.ts"
+import { AKASHA, INSTRUCTIONS, rootsHere } from "../../graph/roots.ts"
 import { pageNameOf } from "../../page/page-name.ts"
 import { trackedIn } from "../../page/pages.ts"
 
@@ -17,7 +17,7 @@ export const pageStemUnique: Check = {
       .map((one) => relative(tree.root, one))
       .filter((one) => pageNameOf(one) !== null)
     if (here.length === 0) return []
-    const lending = ROOTS_HERE[INSTRUCTIONS]
+    const lending = rootsHere()[INSTRUCTIONS]
     const every = [
       ...pagesOver(
         AKASHA,
