@@ -9,6 +9,7 @@ person-slug: alan
 start-mode: interactive
 on-call: true
 initiative-slug: vera-the-graph-stands-only-in-akasha
+errand: "capability"
 registration-account: aawalton
 claude-code-session-uuid: 8e19a7fd-f063-43db-a7a6-3190f18773e4
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/8e19a7fd-f063-43db-a7a6-3190f18773e4.jsonl
