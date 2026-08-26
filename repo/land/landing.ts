@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { type Landing, landHere, markLanded } from "../../page/index/build.ts"
+import { indexReaches } from "../../page/index/store/store.ts"
 
 const PAGE_FILE = /\.[a-z0-9-]+\.md$/
 
@@ -57,6 +58,7 @@ export function indexAfterLanding(
 ): readonly string[] {
   const landings = landingsFor(repo, root, before, written, removed)
   if (landings.length === 0) return []
+  if (!indexReaches(repo, root)) return []
   try {
     landHere(landings)
   } catch (err) {

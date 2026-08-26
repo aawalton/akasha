@@ -1,17 +1,6 @@
-import { realpathSync } from "node:fs"
-import { rootsHere } from "../../../repo/roots/roots.ts"
-import { builtFrom, loadPages } from "../store/store.ts"
+import { builtFrom, indexReaches, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/
-
-function sameTree(one: string, two: string): boolean {
-  if (one === two) return true
-  try {
-    return realpathSync(one) === realpathSync(two)
-  } catch {
-    return false
-  }
-}
 
 export function scannedFromIndex(
   root: string,
@@ -20,8 +9,7 @@ export function scannedFromIndex(
 ): readonly string[] | null {
   if (repo === null || patterns.length === 0) return null
   if (!patterns.every((one) => SUFFIXED.test(one))) return null
-  const here = rootsHere()[repo]
-  if (here === undefined || !sameTree(here, root)) return null
+  if (!indexReaches(repo, root)) return null
   const marks = builtFrom()
   if (marks === null || marks[repo] === undefined) {
     throw new Error(
