@@ -7,7 +7,7 @@ import { validateAssignment } from "../utils/assignment-validation"
 import { invalidMultiFunctionReturnType } from "../utils/diagnostics"
 import { createUnpackCall, wrapInTable } from "../utils/lua-ast"
 import { ScopeType, walkScopesUp } from "../utils/scope"
-import { isInAsyncFunction } from "../utils/typescript/nodes"
+import { isInAsyncFunction } from "../utils/typescript/typescript"
 import {
   canBeMultiReturnType,
   isInMultiReturnFunction,

@@ -14,7 +14,7 @@ import {
 import { createUnpackCall } from "../utils/lua-ast"
 import { transformLuaLibFunction } from "../utils/lualib"
 import { type Scope, ScopeType } from "../utils/scope"
-import { isInAsyncFunction, isInGeneratorFunction } from "../utils/typescript/nodes"
+import { isInAsyncFunction, isInGeneratorFunction } from "../utils/typescript/typescript"
 import { wrapInAsyncAwaiter } from "./async-await"
 import { transformScopeBlock } from "./block"
 import { transformIdentifier } from "./identifier"

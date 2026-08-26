@@ -8,7 +8,7 @@ import type { TransformationContext } from "../../context/transformation-context
 import { transformLuaLibFunction } from "../../utils/lualib"
 import { LuaLibFeature } from "../../../LuaLib"
 import { transformInPrecedingStatementScope } from "../../utils/preceding-statements"
-import { isAssignmentPattern } from "../../utils/typescript/nodes"
+import { isAssignmentPattern } from "../../utils/typescript/typescript"
 import { transformPropertyName } from "../property-name"
 import {
   transformAssignment,

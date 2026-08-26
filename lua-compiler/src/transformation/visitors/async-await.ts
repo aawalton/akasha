@@ -6,7 +6,7 @@ import type { FunctionVisitor } from "../context/visitors"
 import { awaitMustBeInAsyncFunction } from "../utils/diagnostics"
 import { importLuaLibFeature, transformLuaLibFunction } from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
-import { isInAsyncFunction } from "../utils/typescript/nodes"
+import { isInAsyncFunction } from "../utils/typescript/typescript"
 
 export const transformAwaitExpression: FunctionVisitor<ts.AwaitExpression> = (node, context) => {
   if (!isInAsyncFunction(node)) {

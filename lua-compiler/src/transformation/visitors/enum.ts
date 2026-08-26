@@ -7,7 +7,7 @@ import type { FunctionVisitor } from "../context/visitors"
 import { AnnotationKind, getTypeAnnotations } from "../utils/annotations"
 import { addExportToIdentifier, getSymbolExportScope } from "../utils/export"
 import { createLocalOrExportedOrGlobalDeclaration } from "../utils/lua-ast"
-import { isFirstDeclaration } from "../utils/typescript/nodes"
+import { isFirstDeclaration } from "../utils/typescript/typescript"
 import { transformIdentifier } from "./identifier"
 import { transformPropertyName } from "./property-name"
 
