@@ -6,8 +6,8 @@
   "description": "iOS Capacitor shell (thin WKWebView over the live smilingjenny.me site) + the home-screen review ring. The web view carries no credential: Jenny signs in on the site's own sign-in screen, and the session is a cookie on that origin. The WIDGET does carry a credential, baked into the build by scripts/apply-ios-seam.sh §5 from NATIVE_SHELL_RING_CREDENTIAL and never committed, because its route is no longer public (#18343). That script is the whole native layer: the export-compliance declaration, the widget target, two plugins and that substitution — no entitlement, no App Group, no capability. Built on the macbook via Xcode.",
   "scripts": {
     "cap": "cap",
-    "ios:add": "bash scripts/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
-    "ios:sync": "bash scripts/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
+    "ios:add": "bash ../../ios-seam/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
+    "ios:sync": "bash ../../ios-seam/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
     "ios:open": "cap open ios"
   },
   "dependencies": {

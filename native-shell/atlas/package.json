@@ -6,8 +6,8 @@
   "description": "iOS Capacitor shell (thin WKWebView over the live atlas.alanwalton.com site). Carries a background-location native seam (parent #15549 phase 1): the @capgo/background-geolocation + @capacitor/preferences plugins, and scripts/apply-ios-seam.sh (Info.plist location strings + UIBackgroundModes). Built on the macbook via Xcode.",
   "scripts": {
     "cap": "cap",
-    "ios:add": "bash scripts/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
-    "ios:sync": "bash scripts/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
+    "ios:add": "bash ../../ios-seam/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
+    "ios:sync": "bash ../../ios-seam/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
     "ios:open": "cap open ios"
   },
   "dependencies": {

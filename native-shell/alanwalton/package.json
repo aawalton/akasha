@@ -6,8 +6,8 @@
   "description": "iOS Capacitor shell (thin WKWebView over the live alanwalton.com site) + offline-audio native seam. Built on the macbook via Xcode.",
   "scripts": {
     "cap": "cap",
-    "ios:add": "bash scripts/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
-    "ios:sync": "bash scripts/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
+    "ios:add": "bash ../../ios-seam/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
+    "ios:sync": "bash ../../ios-seam/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
     "ios:open": "cap open ios"
   },
   "dependencies": {
