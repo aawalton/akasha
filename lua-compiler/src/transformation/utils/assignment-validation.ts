@@ -4,7 +4,7 @@ import type { TransformationContext } from "../context/transformation-context"
 import { unsupportedNoSelfFunctionConversion, unsupportedOverloadAssignment } from "./diagnostics"
 import { ContextType, getFunctionContextType } from "./function-context"
 import { willWrapThisVoidAdapter } from "./this-void-adapter"
-import { isReferenceType } from "./typescript/types"
+import { isReferenceType } from "./typescript/typescript"
 
 const typeValidationCache = new WeakMap<ts.Type, Set<ts.Type>>()
 
