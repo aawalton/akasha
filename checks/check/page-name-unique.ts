@@ -9,8 +9,8 @@ function elsewhere(found: readonly PageAt[], at: PageAt): readonly PageAt[] {
   return found.filter((one) => one.repo !== at.repo || one.key !== at.key)
 }
 
-export const pageStemUnique: Check = {
-  slug: "page-stem-unique",
+export const pageNameUnique: Check = {
+  slug: "page-name-unique",
   needs: "tree",
   run: ({ paths, tree }) => {
     const here = paths
@@ -45,4 +45,4 @@ export const pageStemUnique: Check = {
   },
 }
 
-export default pageStemUnique
+export default pageNameUnique
