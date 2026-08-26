@@ -7,7 +7,7 @@ import {
   type Reading,
   readLogFor,
   sameBody,
-} from "../../../agent/read-log.ts"
+} from "../../../agent/read-record/read-log/read-log.ts"
 import { seatWarrantsFor } from "../../../agent/required-reading/required-reading.ts"
 import { textAt } from "../../../page/text.ts"
 import { standingHere } from "../../../page/warrant-index.ts"
