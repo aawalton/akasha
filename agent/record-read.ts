@@ -1,7 +1,16 @@
 import { exclusively } from "../exclusive/exclusive.ts"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../page/attachment-file.ts"
-import { agentPageFor, agentPages, replacedAt } from "./read-log.ts"
-import { coveredTo, type Entry, merge, type Records, recordsOf, type Span } from "./read-records.ts"
+import {
+  agentPageFor,
+  agentPages,
+  coveredTo,
+  type Entry,
+  merge,
+  type Records,
+  recordsOf,
+  replacedAt,
+  type Span,
+} from "./read-log.ts"
 
 const READINGS = "readings"
 

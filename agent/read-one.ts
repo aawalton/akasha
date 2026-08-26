@@ -2,8 +2,7 @@
 import { readFileSync, statSync } from "node:fs"
 import { difference } from "../repo/difference/difference.ts"
 import { blobId, readBlob } from "../repo/git/git.ts"
-import { countLines, type Reading } from "./read-log.ts"
-import type { Span } from "./read-records.ts"
+import { countLines, firstGapIn, type Reading, type Span } from "./read-log.ts"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
 import { decodeUtf8, leadingBytes } from "../utf8-body/utf8-body.ts"
 
@@ -29,16 +28,6 @@ function madeWhole(bytes: Uint8Array): string {
     `${bytes.length} bytes a command wrote whole from something else, so what a body printed here would cost ` +
     `you is what its generator emitted rather than anything an author chose`
   )
-}
-
-function firstGap(spans: readonly Span[], lines: number): number | null {
-  if (lines === 0) return null
-  let covered = 0
-  for (const [start, end] of spans) {
-    if (start > covered + 1) break
-    covered = Math.max(covered, end)
-  }
-  return covered >= lines ? null : covered + 1
 }
 
 interface Snapshot {
@@ -108,7 +97,7 @@ export function readOne(request: Request): Emission {
   if (reading === null) return whole("nothing on record says you have read it")
   const since = whenText(reading.at)
   if (reading.at === shot.at) {
-    const gap = firstGap(reading.spans, lines)
+    const gap = firstGapIn(reading.spans, lines)
     if (gap === null) return nothing(`unchanged since you read it at ${since}, and you have read all ${lines} lines`)
     return whole(`unchanged since you read it at ${since}, but line ${gap} of ${lines} onward was never in front of you`)
   }
@@ -120,7 +109,7 @@ export function readOne(request: Request): Emission {
   }
   const was = new TextDecoder().decode(prior)
   const priorLines = countLines(was)
-  const gap = firstGap(reading.spans, priorLines)
+  const gap = firstGapIn(reading.spans, priorLines)
   if (gap !== null) {
     return whole(
       `${changed}, and of that body you had seen only to line ${gap - 1} of ${priorLines}, so a difference would describe lines you never read`
