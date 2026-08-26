@@ -7,7 +7,7 @@ domain-parent-slug: domain/mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - surplus
-widget-path: code:packages/shared/ring/ios-widget/SurplusRing.swift
+widget-path: akasha:ios-widget/ring/SurplusRing.swift
 caption: "Surplus"
 gallery-name: "Surplus"
 gallery-description: "Hours of sleep left after what your day cost."

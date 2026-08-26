@@ -7,7 +7,7 @@ domain-parent-slug: domain/mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - values
-widget-path: code:packages/alanwalton/native-shell/ios-widget/ValuesStoplightsWidget.swift
+widget-path: akasha:native-shell/alanwalton/ios-widget/ValuesStoplightsWidget.swift
 gallery-name: "Values"
 gallery-description: "Your six daily values stoplights, at a glance."
 families:

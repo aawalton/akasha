@@ -7,7 +7,7 @@ domain-parent-slug: domain/mp-readouts
 app-slug: alanwalton-ios
 group-slugs:
   - inboxes
-widget-path: code:packages/alanwalton/native-shell/ios-widget/InboxStoplightsWidget.swift
+widget-path: akasha:native-shell/alanwalton/ios-widget/InboxStoplightsWidget.swift
 gallery-name: "Inboxes"
 gallery-description: "Your five inbox stoplights, at a glance."
 families:
