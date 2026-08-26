@@ -1,6 +1,6 @@
 import { listField } from "../../frontmatter.ts"
-import type { PageAt } from "../../page-at.ts"
-import { NONE, stringAt } from "../../text.ts"
+import type { PageAt } from "../../page.ts"
+import { NONE, stringAt } from "../../text/text.ts"
 import { type Held, type Resolve, kindOf } from "../identity/identity.ts"
 
 const DEFINITION = "page-property-definition"

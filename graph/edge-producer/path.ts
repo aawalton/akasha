@@ -1,5 +1,5 @@
 import { listField } from "../../page/frontmatter.ts"
-import { NONE, stringAt } from "../../page/text.ts"
+import { NONE, stringAt } from "../../page/text/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../frontmatter-at/frontmatter-at.ts"
 import fileNodeProducer from "../node-producer/file.ts"

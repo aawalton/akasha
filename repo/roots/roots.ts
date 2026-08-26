@@ -1,8 +1,8 @@
 import { existsSync, readdirSync } from "node:fs"
 import { resolve } from "node:path"
 import { canonicalize } from "../path/path.ts"
-import { pageNameOf } from "../../page/page-name.ts"
-import type { Roots } from "../../page/page-at.ts"
+import { pageNameOf } from "../../page/name/name.ts"
+import type { Roots } from "../../page/page.ts"
 
 export const AKASHA = "akasha"
 

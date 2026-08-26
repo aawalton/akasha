@@ -1,5 +1,5 @@
 import type { BuildContext, Said } from "../../graph/build-context/build-context.ts"
-import type { Roots } from "../../page/page-at.ts"
+import type { Roots } from "../../page/page.ts"
 import { KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
 import { type Key, answerAt, answersAt, cacheAnswer, sweep } from "../cache.ts"

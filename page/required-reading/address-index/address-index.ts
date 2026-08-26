@@ -1,6 +1,6 @@
-import type { Frontmatter } from "./frontmatter.ts"
-import type { PageAt } from "./page-at.ts"
-import { blockOf, NONE, stringAt } from "./text.ts"
+import type { Frontmatter } from "../../frontmatter.ts"
+import type { PageAt } from "../../page.ts"
+import { blockOf, NONE, stringAt } from "../../text/text.ts"
 
 const PAGE_TYPE = "page-type"
 

@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { type Frontmatter, parseFrontmatter } from "./frontmatter.ts"
+import { type Frontmatter, parseFrontmatter } from "../frontmatter.ts"
 
 export const NONE = "none"
 

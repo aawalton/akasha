@@ -1,10 +1,10 @@
 import { relative } from "node:path"
 import type { Check } from "../check-shape.ts"
 import { indexOf, nameOf, pagesOver } from "../../../graph/page-index/page-index.ts"
-import { type PageAt, saidAt } from "../../../page/page-at.ts"
+import { type PageAt, saidAt } from "../../../page/page.ts"
 import { AKASHA, INSTRUCTIONS, rootsHere } from "../../../repo/roots/roots.ts"
-import { pageNameOf } from "../../../page/page-name.ts"
-import { trackedIn } from "../../../page/pages.ts"
+import { pageNameOf } from "../../../page/name/name.ts"
+import { trackedIn } from "../../../page/tracked/tracked.ts"
 
 function elsewhere(found: readonly PageAt[], at: PageAt): readonly PageAt[] {
   return found.filter((one) => one.repo !== at.repo || one.key !== at.key)

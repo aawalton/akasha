@@ -1,6 +1,6 @@
 import { propertyTypesOf } from "./computed.ts"
 import { blockOf, claimant, matchesAny, NONE, PAGE_TYPE_GLOBS, placeOf, reposOf, PROPERTY_GLOBS, stringAt, type PageType } from "../page-types.ts"
-import { pageNameOf } from "../page-name.ts"
+import { pageNameOf } from "../name/name.ts"
 import { backReference, SELECT, TYPE_SLUG, TYPE_VOCABULARY } from "./value.ts"
 import { armFor, type Armed } from "./judge.ts"
 import { declarationsFromFiles, declarationsOf } from "./declarations.ts"

@@ -1,5 +1,5 @@
 import { readdirSync } from "node:fs"
-import { PAGE_EXTENSION, pageNameOf } from "./page-name.ts"
+import { PAGE_EXTENSION, pageNameOf } from "./name/name.ts"
 
 export const MARKDOWN = `.${PAGE_EXTENSION}`
 

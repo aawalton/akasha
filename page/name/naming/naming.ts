@@ -1,5 +1,5 @@
-import type { Frontmatter } from "./frontmatter.ts"
-import { blockOf, stringAt } from "./text.ts"
+import type { Frontmatter } from "../../frontmatter.ts"
+import { blockOf, stringAt } from "../../text/text.ts"
 
 const DIACRITICS = /[̀-ͯ]/g
 

@@ -1,5 +1,5 @@
 import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
-import { textAt } from "../../page/text.ts"
+import { textAt } from "../../page/text/text.ts"
 import type { BuildContext } from "../build-context/build-context.ts"
 
 export const FRONTMATTER_SAID = "frontmatter"

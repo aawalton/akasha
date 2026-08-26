@@ -1,8 +1,8 @@
 import { existsSync, readFileSync } from "node:fs"
-import type { AddressIndex } from "./address-index.ts"
-import { listField } from "./frontmatter.ts"
-import type { PageAt } from "./page-at.ts"
-import { NONE, PAGE_TYPE_SLUG, stringAt } from "./text.ts"
+import type { AddressIndex } from "./address-index/address-index.ts"
+import { listField } from "../frontmatter.ts"
+import type { PageAt } from "../page.ts"
+import { NONE, PAGE_TYPE_SLUG, stringAt } from "../text/text.ts"
 
 const REQUIRED_KEY = "required-reading-slugs"
 

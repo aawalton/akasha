@@ -5,8 +5,8 @@ import { listField, parseFrontmatter, type Frontmatter } from "./frontmatter.ts"
 import { notIgnored } from "../repo/ignored/ignored.ts"
 import { INSTRUCTIONS, reposNamed } from "../repo/roots/roots.ts"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
-import { pageNameOf } from "./page-name.ts"
-import type { Roots } from "./page-at.ts"
+import { pageNameOf } from "./name/name.ts"
+import type { Roots } from "./page.ts"
 
 export const PAGES_ROOT = "pages"
 

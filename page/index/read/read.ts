@@ -1,6 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
-import type { PageAt } from "../../page-at.ts"
-import { pageNameOf } from "../../page-name.ts"
+import type { PageAt } from "../../page.ts"
+import { pageNameOf } from "../../name/name.ts"
 import type { Source } from "../entry/entry.ts"
 import {
   ID_WORD,

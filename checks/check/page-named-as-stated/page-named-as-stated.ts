@@ -1,9 +1,9 @@
 import { relative } from "node:path"
 import { rootsHere } from "../../../repo/roots/roots.ts"
-import { pageNameOf } from "../../../page/page-name.ts"
-import { nameOf, namingOf, type PageTypeNaming, ruleFor } from "../../../page/page-naming.ts"
-import { pagesIn, specFor } from "../../../page/pages.ts"
-import { blockOf, textAt } from "../../../page/text.ts"
+import { pageNameOf } from "../../../page/name/name.ts"
+import { nameOf, namingOf, type PageTypeNaming, ruleFor } from "../../../page/name/naming/naming.ts"
+import { pagesIn, specFor } from "../../../page/tracked/tracked.ts"
+import { blockOf, textAt } from "../../../page/text/text.ts"
 import type { Check, CheckFailure, Tree } from "../check-shape.ts"
 
 const PAGE_TYPE = "page-type"

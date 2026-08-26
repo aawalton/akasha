@@ -30,7 +30,7 @@ function planted<T>(work: (at: string) => T): T {
 
 test("a relative specifier resolves against the importing file", () => {
   planted((at) => {
-    expect(targetOf(at, `${at}/checks/one.ts`, "../page/text.ts")).toBe(`${at}/page/text.ts`)
+    expect(targetOf(at, `${at}/checks/one.ts`, "../page/text.ts")).toBe(`${at}/page/text/text.ts`)
   })
 })
 

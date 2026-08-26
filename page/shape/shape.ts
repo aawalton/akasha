@@ -4,7 +4,7 @@ import { parse } from "../document/parse.ts"
 import type { Document, Refusal, Verdict } from "../document/types.ts"
 import type { Choice, PartDef, CompiledShape } from "../document/shape-types.ts"
 import { levelOf, type Level } from "./level.ts"
-import { pageNameOf } from "../page-name.ts"
+import { pageNameOf } from "../name/name.ts"
 import { refusalText } from "../../checks/refusal/refusal.ts"
 
 export interface Shape {

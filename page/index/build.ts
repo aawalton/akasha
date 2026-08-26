@@ -1,6 +1,6 @@
-import type { PageAt, Roots } from "../page-at.ts"
-import { pageNameOf } from "../page-name.ts"
-import { blockOf } from "../text.ts"
+import type { PageAt, Roots } from "../page.ts"
+import { pageNameOf } from "../name/name.ts"
+import { blockOf } from "../text/text.ts"
 import { type Named, type Source, saidNamed, saidSource } from "./entry/entry.ts"
 import {
   type Held,

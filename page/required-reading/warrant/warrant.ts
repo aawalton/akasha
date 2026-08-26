@@ -1,10 +1,10 @@
-import { pagesOver } from "../graph/page-index/page-index.ts"
-import { rootsHere } from "../repo/roots/roots.ts"
-import { type AddressIndex, addressIndexOver } from "./address-index.ts"
-import type { PageAt } from "./page-at.ts"
-import { trackedIn } from "./pages.ts"
-import { type Seeding, seedingOver } from "./required-reading.ts"
-import { textAt } from "./text.ts"
+import { pagesOver } from "../../../graph/page-index/page-index.ts"
+import { rootsHere } from "../../../repo/roots/roots.ts"
+import { type AddressIndex, addressIndexOver } from "../address-index/address-index.ts"
+import type { PageAt } from "../../page.ts"
+import { trackedIn } from "../../tracked/tracked.ts"
+import { type Seeding, seedingOver } from "../required-reading.ts"
+import { textAt } from "../../text/text.ts"
 
 const BEARING: readonly string[] = ["instructions", "akasha", "memory"]
 

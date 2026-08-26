@@ -1,7 +1,7 @@
-import type { AddressIndex } from "../../page/address-index.ts"
+import type { AddressIndex } from "../../page/required-reading/address-index/address-index.ts"
 import { listField } from "../../page/frontmatter.ts"
-import type { PageAt } from "../../page/page-at.ts"
-import { blockOf, stringAt } from "../../page/text.ts"
+import type { PageAt } from "../../page/page.ts"
+import { blockOf, stringAt } from "../../page/text/text.ts"
 
 const PERSONA_KEY = "persona-slug"
 

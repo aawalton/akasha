@@ -11,11 +11,11 @@ import {
   sameBody,
 } from "../../../agent/read-log.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
-import type { PageAt } from "../../../page/page-at.ts"
-import { pageNameOf } from "../../../page/page-name.ts"
-import { requiredReadingFor } from "../../../page/required-reading.ts"
-import { textAt } from "../../../page/text.ts"
-import { standingHere } from "../../../page/warrant-index.ts"
+import type { PageAt } from "../../../page/page.ts"
+import { pageNameOf } from "../../../page/name/name.ts"
+import { requiredReadingFor } from "../../../page/required-reading/required-reading.ts"
+import { textAt } from "../../../page/text/text.ts"
+import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
 import type { Act, Batch, Check, CheckFailure } from "../check-shape.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 

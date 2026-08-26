@@ -1,5 +1,5 @@
 import { dirname, resolve } from "node:path"
-import { textAt } from "../../page/text.ts"
+import { textAt } from "../../page/text/text.ts"
 import { packagesFor, pathOf } from "../../workspace-package/packages.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import fileNodeProducer from "../node-producer/file.ts"

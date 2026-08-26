@@ -1,6 +1,6 @@
-import { type PageAt, saidAt } from "../../page/page-at.ts"
-import { pageNameOf } from "../../page/page-name.ts"
-import { pagesIn } from "../../page/pages.ts"
+import { type PageAt, saidAt } from "../../page/page.ts"
+import { pageNameOf } from "../../page/name/name.ts"
+import { pagesIn } from "../../page/tracked/tracked.ts"
 import type { BuildContext } from "../build-context/build-context.ts"
 
 export type PageIndex = {

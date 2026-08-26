@@ -1,7 +1,7 @@
 import type { BuildContext } from "../build-context/build-context.ts"
 import type { NodeProducer, NodeRef } from "./node-shape.ts"
-import { pageNameOf } from "../../page/page-name.ts"
-import { trackedIn } from "../../page/pages.ts"
+import { pageNameOf } from "../../page/name/name.ts"
+import { trackedIn } from "../../page/tracked/tracked.ts"
 
 export const FILE_NODE_KIND = "file"
 

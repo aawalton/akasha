@@ -1,9 +1,9 @@
 import { realpathSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Roots } from "../page/page-at.ts"
-import { type PageFile, pagesIn } from "../page/pages.ts"
+import type { Roots } from "../page/page.ts"
+import { type PageFile, pagesIn } from "../page/tracked/tracked.ts"
 import { listField } from "../page/frontmatter.ts"
-import { blockOf, NONE, stringAt, textAt } from "../page/text.ts"
+import { blockOf, NONE, stringAt, textAt } from "../page/text/text.ts"
 import type { ReadoutScale } from "./readout-scale-shape.ts"
 
 export const READOUT_PAGE_TYPE_SLUG = "readout"
