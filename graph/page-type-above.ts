@@ -1,7 +1,7 @@
 import { stringAt } from "../page/text.ts"
 import { frontmatterAt } from "./frontmatter-at.ts"
 import type { BuildContext } from "./node-shape.ts"
-import { slugNamed } from "./page-address.ts"
+import { slugNamed } from "../page/page-address.ts"
 import { pagesOfType } from "./page-index.ts"
 
 const PAGE_TYPE = "page-type"
