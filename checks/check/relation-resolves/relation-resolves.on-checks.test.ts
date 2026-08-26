@@ -44,6 +44,12 @@ const UNREADABLE = "---\npage-type-slug: seat\nthis line is neither a key nor a 
 
 const SUBAGENT = "---\npage-type-slug: subagent\n---\n"
 
+const HERE = "relation-resolves-here"
+
+const HERE_AT = `alan/domain/${HERE}.domain.md`
+
+const DOMAIN_PAGE = `---\npage-type-slug: domain\nslug: ${HERE}\n---\n`
+
 const RELATIONS = join(
   execFileSync("git", ["-C", akashaRoot(), "rev-parse", "--absolute-git-dir"], { encoding: "utf8" }).trim(),
   "pages",
@@ -176,6 +182,18 @@ test("a value only a page of another page type carries does not answer the relat
   const ruling = verdict({ [SIBLING_AT]: SUBAGENT }, { [MADE_AT]: seat(`${CREATOR}: ${SIBLING}`) })
   expect(ruling.failures).toHaveLength(1)
   expect(ruling.failures[0]!.reason).toContain("no `seat` page carries that slug")
+})
+
+test("an address resolves where a page of the page type it names carries the slug it states", () => {
+  const patch = { [MADE_AT]: seat(`domain-slug: domain/${HERE}`) }
+  expect(verdict({ [HERE_AT]: DOMAIN_PAGE }, patch).failures).toEqual([])
+})
+
+test("an address is refused where the value is the bare slug, which names no page type", () => {
+  const ruling = verdict({ [HERE_AT]: DOMAIN_PAGE }, { [MADE_AT]: seat(`domain-slug: ${HERE}`) })
+  expect(ruling.failures).toHaveLength(1)
+  expect(ruling.failures[0]!.reason).toContain(`\`domain-slug\` names \`${HERE}\``)
+  expect(ruling.failures[0]!.reason).toContain("no page under `domain` carries that page type and slug")
 })
 
 test("two pages landing in one call resolve against each other, neither being on disk yet", () => {
