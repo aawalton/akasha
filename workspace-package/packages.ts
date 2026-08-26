@@ -147,18 +147,25 @@ function entriesIn(dir: string): readonly string[] {
   }
 }
 
+function holdersIn(root: string): readonly string[] {
+  return ["", ...[...packagesAt(root).values()].map((held) => `${held.dir}/`)]
+}
+
 export function installedInto(root: string, dir: string): readonly string[] {
-  const from = `${root}/${MODULES}`
   const made: string[] = []
-  for (const name of entriesIn(from)) {
-    if (!name.startsWith(SCOPE)) {
-      linkAt(`${from}/${name}`, `${dir}/${MODULES}/${name}`)
-      made.push(name)
-      continue
-    }
-    for (const under of entriesIn(`${from}/${name}`)) {
-      linkAt(`${from}/${name}/${under}`, `${dir}/${MODULES}/${name}/${under}`)
-      made.push(`${name}/${under}`)
+  for (const head of holdersIn(root)) {
+    const from = `${root}/${head}${MODULES}`
+    const into = `${dir}/${head}${MODULES}`
+    for (const name of entriesIn(from)) {
+      if (!name.startsWith(SCOPE)) {
+        linkAt(`${from}/${name}`, `${into}/${name}`)
+        made.push(`${head}${name}`)
+        continue
+      }
+      for (const under of entriesIn(`${from}/${name}`)) {
+        linkAt(`${from}/${name}/${under}`, `${into}/${name}/${under}`)
+        made.push(`${head}${name}/${under}`)
+      }
     }
   }
   return made.sort()

@@ -167,6 +167,21 @@ test("a scoped package is linked one name at a time, leaving the scope a directo
   }
 })
 
+test("a package installed under a workspace is linked where that workspace looks for it", () => {
+  const root = mkdtempSync(`${SCRATCH}/installed-`)
+  const dir = mkdtempSync(`${SCRATCH}/patched-`)
+  try {
+    mkdirSync(`${root}/packages/page/node_modules/zod`, { recursive: true })
+    writeFileSync(`${root}/package.json`, JSON.stringify({ workspaces: ["packages/*"] }))
+    writeFileSync(`${root}/packages/page/package.json`, JSON.stringify({ name: "@akasha/page" }))
+    expect(installedInto(root, dir)).toEqual(["packages/page/zod"])
+    expect(existsSync(`${dir}/packages/page/node_modules/zod`)).toBe(true)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+    rmSync(dir, { recursive: true, force: true })
+  }
+})
+
 test("a repository with nothing installed links nothing", () => {
   const root = mkdtempSync(`${SCRATCH}/installed-`)
   const dir = mkdtempSync(`${SCRATCH}/patched-`)
