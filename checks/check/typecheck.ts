@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { copyFileSync, existsSync, mkdtempSync, realpathSync, writeFileSync } from "node:fs"
+import { copyFileSync, existsSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import type { Check, CheckFailure, Tree } from "../check-shape.ts"
 import { carriesCode, specifiersIn, targetOf } from "../imports.ts"
@@ -101,6 +101,7 @@ export const typecheck: Check = {
       stdout: "pipe",
       stderr: "pipe",
     })
+    rmSync(config, { recursive: true, force: true })
     const output = `${ran.stdout.toString()}${ran.stderr.toString()}`
 
     const failures: CheckFailure[] = []
