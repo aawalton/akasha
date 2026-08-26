@@ -3,12 +3,11 @@ export const summary = "Run akasha's checks over the whole tree as it stands"
 import { relative } from "node:path"
 import { akashaRoot } from "../../repo/roots/roots.ts"
 import type { Check } from "../check/check-shape.ts"
-import folderShape from "../check/folder-shape/folder-shape.ts"
-import { CHECKS } from "../checks.ts"
+import { checksFound } from "../checks.ts"
 import { judgesAuthor } from "../run/all.ts"
 import { runAudit } from "../run/audit.ts"
 
-const AUDITED: readonly Check[] = [...CHECKS, folderShape]
+const AUDITED: readonly Check[] = checksFound()
 
 const ROOT_SAID = "."
 
