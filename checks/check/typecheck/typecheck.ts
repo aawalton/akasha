@@ -29,6 +29,8 @@ function tscAt(root: string): string | null {
 function instrument(root: string): Instrument | null {
   const found = tscAt(root)
   if (found === null || !existsSync(found)) return null
+  const beside = `${root}/node_modules/@types`
+  if (existsSync(`${beside}/bun`)) return { tsc: realpathSync(found), typeRoot: beside }
   const segments = realpathSync(found).split("/")
   const at = segments.lastIndexOf("node_modules")
   if (at === -1) return null
