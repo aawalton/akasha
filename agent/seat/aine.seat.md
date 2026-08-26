@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "yes"
 registration-account: aawalton
 claude-code-session-uuid: 9f2f59b5-c8f9-487e-a2d4-052699df329a
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/9f2f59b5-c8f9-487e-a2d4-052699df329a.jsonl
