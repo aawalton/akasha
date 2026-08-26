@@ -1,6 +1,6 @@
 import { relative } from "node:path"
-import { sweep } from "../../cache/answer.ts"
-import { closureOf } from "../../cache/closure.ts"
+import { sweep } from "../../cache/cache.ts"
+import { closureOf } from "../../cache/mark/closure.ts"
 import type { BuildContext } from "../../graph/node-shape.ts"
 import {
   cacheOutcome,
@@ -9,9 +9,9 @@ import {
   OUTCOME_KIND,
   outcomeKeyOf,
   outcomeMarkOf,
-} from "../../cache/check-outcome.ts"
-import { KEEP_KIND, keepUnder } from "../../cache/keep.ts"
-import { oidOfBody } from "../../cache/oid.ts"
+} from "../../cache/outcome/outcome.ts"
+import { KEEP_KIND, keepUnder } from "../../cache/keep/keep.ts"
+import { oidOfBody } from "../../repo/oid.ts"
 import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check/check-shape.ts"
 import { type Held, runAll } from "./all.ts"
 import { outcomesOf } from "./outcome.ts"
