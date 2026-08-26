@@ -79,7 +79,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
     const oids = oidsUnder(patch.root, null)
     const ctx = contextOver(patch.root, runtime, oids)
-    const act = patch.mechanical ? null : actOn(patch.root, patch.writer)
+    const act = patch.mechanical ? null : { writer: patch.writer, before: onDisk(patch.root) }
     const runs = applying(checks, patch.mechanical).map((check) =>
       runKept(check, subjects, runtime, answers, tree, { act, trial: true, oids, ctx })
     )

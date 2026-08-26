@@ -26,8 +26,6 @@ const CONTEXT_REPLACED = "context-replaced"
 
 const RETAINED = "resume"
 
-const SUBAGENT_MARK = "--"
-
 const ID_KEY = "id"
 
 const SUBAGENT_ID_KEY = "subagent-id"
