@@ -14,4 +14,6 @@ check-on-patch: false
 
 # Design
 
-`editor-extension` and everything under it is outside this check: `package.json` enters it at its `main` rather than at an import, so no import could reach into it.
+`editor-extension` and everything under it is outside this check.
+
+A folder with no code beneath its subfolders is outside this check.
