@@ -13,8 +13,11 @@ import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
 } from "../../utils/preceding-statements"
-import { isStandardLibraryType } from "../../utils/typescript/typescript"
-import { canBeFalsyWhenNotNull, isStringType } from "../../utils/typescript/typescript"
+import {
+  canBeFalsyWhenNotNull,
+  isStandardLibraryType,
+  isStringType,
+} from "../../utils/typescript/typescript"
 import { transformAssignmentExpression, transformAssignmentStatement } from "./assignments"
 import { type BitOperator, isBitOperator, transformBinaryBitOperation } from "./bit"
 import { transformBinaryOperationHolder } from "./binary-operation-deps"
