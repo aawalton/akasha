@@ -1,5 +1,5 @@
-import { patchUncommittedUnder, readUncommitted } from "../page/uncommitted/uncommitted.ts"
-import { agentPageFor, replacedAt } from "./read-log.ts"
+import { patchUncommittedUnder, readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { agentPageFor, replacedAt } from "../read-log.ts"
 
 type Notices = Record<string, number>
 

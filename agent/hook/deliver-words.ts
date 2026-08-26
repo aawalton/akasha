@@ -4,7 +4,7 @@ import { loadedFrom, unreadWordsIn, vocabularyOf, type Word } from "../../page/v
 import { INSTRUCTIONS, rootsHere } from "../../repo/roots/roots.ts"
 import { readLogFor } from "../read-log.ts"
 import { writerIn } from "../writer.ts"
-import { recordTold, toldOf } from "../word-notice.ts"
+import { recordTold, toldOf } from "./word-notice.ts"
 
 const TAIL = 400_000
 
