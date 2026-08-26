@@ -12,6 +12,7 @@ none-left-words: All reviewed!
 none-left-emoji: 🎉
 group-slugs:
   - categorization
+wire-key: unreviewed
 read-live-from: monarch
 ---
 
