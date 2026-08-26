@@ -4,7 +4,7 @@ import { compiledPageTypeFor } from "../property/frontmatter.ts"
 import type { Property } from "../property/property.ts"
 import { type PageType } from "../page-types.ts"
 import { NONE, blockOf, stringAt } from "../text/text.ts"
-import { stemOfPath as slugOf } from "../name/naming/naming.ts"
+import { stemOf as slugOf } from "../name/name.ts"
 import { addressOf } from "../page-address.ts"
 
 const POINTS = /\brelation(-(?:slug|seq|id|name|address))?\b/

@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto"
 import type { Frontmatter } from "../../frontmatter.ts"
 import { blockOf, stringAt } from "../../text/text.ts"
+import { stemOf } from "../name.ts"
 
 const DIACRITICS = /[̀-ͯ]/g
 
@@ -35,12 +36,6 @@ export function pageStem(text: string): string {
   return stem.length <= STEM_CEILING ? stem : stem.slice(0, STEM_CEILING).replace(EDGE_DASHES, "")
 }
 
-export function stemOfPath(relPath: string): string {
-  const stem = relPath.split("/").pop() ?? relPath
-  const dot = stem.indexOf(".")
-  return dot <= 0 ? stem : stem.slice(0, dot)
-}
-
 export function idDerivedFrom(at: string): string {
   const namespace = Buffer.from(AT_NAMESPACE.replaceAll("-", ""), "hex")
   const digest = createHash("sha1").update(namespace).update(at, "utf8").digest()
@@ -61,7 +56,7 @@ export function slugOfFilePage(stated: string | null, at: string | null): string
   const relPath = at.slice(at.indexOf(":") + 1)
   if (!relPath.endsWith(MARKDOWN)) return null
   const stem = relPath.split("/").pop() ?? relPath
-  const named = stem.indexOf(".") <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : stemOfPath(stem)
+  const named = stem.indexOf(".") <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : stemOf(stem)
   return named === "" ? null : named
 }
 
