@@ -8,7 +8,7 @@ needs: tree
 
 # Definition
 
-- **Relation resolves** — fails a removal after which a page relation names nothing.
+- **Relation resolves** — fails a change after which a page relation names nothing.
 
 # Design
 
