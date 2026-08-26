@@ -107,7 +107,12 @@ export function targetRepo(roots: Roots): Repo {
 }
 
 export function targetRoot(roots: Roots): string {
-  return roots[targetRepo(roots)]
+  const repo = targetRepo(roots)
+  const root = roots[repo]
+  if (root === undefined) {
+    throw new Error(`no \`${repo}\` repository is cloned here, so nothing says where its paths stand`)
+  }
+  return root
 }
 
 export interface Touched {
