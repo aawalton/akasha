@@ -8,7 +8,7 @@ export const help = {
     "Bundle `src/extension.ts` into `dist/extension.js`, with its sourcemap beside it. The editor reads that file through the symlink at `code-editor/extensions/ops`, so a window reload draws what this wrote — in the checkout, in the build worktree and in the artefact Alan runs alike.",
   flags: [
     {
-      name: "watch",
+      name: "--watch",
       description:
         "Bundle again on every change under `src`, and hold the terminal until interrupted.",
     },
