@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
-import { HERE } from "../graph/roots.ts"
+import { akashaRoot } from "../graph/roots.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { coveredTo, type Span } from "./read-records.ts"
 import { SUBAGENT_MARK } from "./writer.ts"
@@ -8,9 +8,13 @@ import { SUBAGENT_MARK } from "./writer.ts"
 export { coveredTo }
 export type { Span }
 
-const SEAT_DIR = `${HERE}/agent/seat`
+function seatDir(): string {
+  return `${akashaRoot()}/agent/seat`
+}
 
-const SUBAGENT_DIR = `${HERE}/agent/subagent`
+function subagentDir(): string {
+  return `${akashaRoot()}/agent/subagent`
+}
 
 const SEAT_SUFFIX = ".seat.md"
 

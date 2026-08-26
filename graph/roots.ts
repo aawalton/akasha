@@ -18,6 +18,11 @@ export function rootEnvName(repo: string): string {
   return `${repo.replaceAll("-", "_").toUpperCase()}_ROOT`
 }
 
+export function akashaRoot(): string {
+  const stated = process.env[rootEnvName(AKASHA)]
+  return stated === undefined || stated === "" ? HERE : resolve(stated)
+}
+
 const SIBLING = process.env[rootEnvName(INSTRUCTIONS)] ?? resolve(HERE, "..", INSTRUCTIONS)
 
 function namedIn(instructions: string): readonly string[] {
