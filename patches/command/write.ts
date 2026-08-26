@@ -348,6 +348,18 @@ function bodyText(bytes: Uint8Array, from: string): string {
   return body
 }
 
+if (import.meta.main) {
+  const own = process.argv.slice(2)
+  if (own.includes("--help") || own.includes("-h")) {
+    process.stdout.write(
+      "This is the write command's own entry point, for a caller that would pay to load every " +
+        "other command through `ops`. Its help is `ops write --help`.\n"
+    )
+  } else {
+    await write(own)
+  }
+}
+
 function binaryInJson(at: string): string {
   return (
     `${at} is of a file kind stating \`binary: true\`, and this payload is JSON, whose \`content\` ` +
