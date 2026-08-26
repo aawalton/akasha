@@ -152,41 +152,28 @@ export const help = {
     `${summary}.\n` +
     "\n" +
     "SEVERAL PATHS IS THE SHAPE, not a convenience: two documents naming each other cannot be " +
-    "removed one at a time in any order, so one call naming both is the only removal there is.\n" +
+    "removed one at a time in any order, so one call naming both is the only removal there is. A " +
+    "path that is not there is REFUSED rather than treated as already-done, a removal carrying no " +
+    "body to cross-check the path against.\n" +
     "\n" +
-    "A PAGE'S OWN FILES GO WITH IT. An attachment, a rows file and its parts, an uncommitted file " +
-    "or a sops file standing beside a named page is taken by the same call without your naming " +
-    "it, and every one is reported before anything goes. Nothing else is added: a sidecar named " +
-    "on its own is removed on its own, and a page's files are found by its path rather than by " +
-    "its type.\n" +
-    "\n" +
-    "A path that is not there is REFUSED rather than treated as already-done — a removal carries " +
-    "no body to cross-check the path against, so a typo would otherwise take nothing away and " +
-    "report success.\n" +
-    "\n" +
-    "A DIRECTORY TAKES EVERY TRACKED FILE UNDER IT, each reported before anything goes and each " +
-    "named in the commit, so the record reads the same whether you named the directory or its " +
-    "files. What git does not hold is not swept up. A directory git holds no file under is " +
-    "refused, that being a typo rather than an empty act.\n" +
-    "\n" +
-    "A DIRECTORY LEFT EMPTY BY THE REMOVAL GOES TOO. Git holds no empty directory, so one left " +
-    "behind is a thing on disk that no commit records and nothing else clears.\n" +
+    "A PAGE'S OWN FILES GO WITH IT: an attachment, a rows file and its parts, an uncommitted file " +
+    "or a sops file standing beside a named page. A DIRECTORY TAKES EVERY TRACKED FILE UNDER IT, " +
+    "and one git holds no file under is refused. Everything taken without your naming it is " +
+    "reported before anything goes and named in the commit, and a directory the removal leaves " +
+    "empty goes too, git holding no empty directory.\n" +
     "\n" +
     "A call addressing akasha is turned into a patch against HEAD and the checks akasha defines " +
-    "are run over what would go, before anything leaves disk: a relation on a file that would " +
-    "remain, still naming a page that would be gone, refuses the call, and so does a module a " +
-    "surviving file still imports. A call addressing any other repository is taken unjudged, " +
-    "those repositories having no checks. A path inside no repository is removed where it lies, " +
-    "with nothing committing it.\n" +
+    "are run over it before anything leaves disk: a relation on a surviving file still naming a " +
+    "page that would be gone refuses the call, and so does a module a survivor still imports. A " +
+    "call addressing any other repository is taken unjudged, those repositories having no checks. " +
+    "A path inside no repository is removed where it lies, with nothing committing it. A removal " +
+    "is decided by a program rather than authored, so the checks weighing what its writer read " +
+    "stand aside.\n" +
     "\n" +
-    "A REMOVAL IS DECIDED BY A PROGRAM RATHER THAN AUTHORED, so the checks weighing what its " +
-    "writer read stand aside, and the gate line counts the checks that ran.\n" +
-    "\n" +
-    "THIS IS NOT rename or move, and `ops mv` is. It carries the body to its new path, repoints " +
-    "every referrer that named it, and removes the path moved out of, in ONE commit — a repo " +
-    "holding the body at both paths at once being two documents declaring one `slug:`. Reach for " +
-    "it rather than removing a file and writing it back elsewhere, which drops the inbound links " +
-    "and the history together.",
+    "THIS IS NOT rename or move, and `ops mv` is: it carries the body to its new path, repoints " +
+    "every referrer that named it, and removes the path moved out of, in ONE commit. Reach for it " +
+    "rather than removing a file and writing it back elsewhere, which drops the inbound links and " +
+    "the history together.",
   flags: [
     { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
     { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the removed paths." },
