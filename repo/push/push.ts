@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, unlinkSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { git, remoteOf } from "../git/git.ts"
+import { holderProcessRuns } from "../holder/holder.ts"
 
 const STATE_DIR = "harness-push"
 
@@ -69,22 +70,6 @@ export function writePushState(root: string, state: PushState): void {
   }
 }
 
-function holderAlive(path: string): boolean {
-  let held: number
-  try {
-    held = Number(readFileSync(path, "utf8").trim())
-  } catch {
-    return false
-  }
-  if (!Number.isFinite(held) || held <= 0) return false
-  try {
-    process.kill(held, 0)
-    return true
-  } catch (thrown) {
-    return (thrown as NodeJS.ErrnoException).code !== "ESRCH"
-  }
-}
-
 export function takePushLock(root: string): boolean {
   const path = pushLockPath(root)
   if (path === null) return false
@@ -95,7 +80,7 @@ export function takePushLock(root: string): boolean {
   } catch (thrown) {
     if ((thrown as NodeJS.ErrnoException).code !== "EEXIST") return false
   }
-  if (holderAlive(path)) return false
+  if (holderProcessRuns(path)) return false
   try {
     rmSync(path)
     writeFileSync(path, `${process.pid}\n`, { flag: "wx" })

@@ -2,6 +2,7 @@
 import { createHash } from "node:crypto"
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { holderProcessRuns } from "../holder/holder.ts"
 
 export interface GitResult {
   readonly code: number
@@ -52,22 +53,6 @@ const LANDING_LOCK = "harness-landing.lock"
 export const LANDING_CEILING_MS = 120_000
 const LANDING_POLL_MS = 250
 
-function landingHolderAlive(path: string): boolean {
-  let held: number
-  try {
-    held = Number(readFileSync(path, "utf8").trim())
-  } catch {
-    return false
-  }
-  if (!Number.isFinite(held) || held <= 0) return false
-  try {
-    process.kill(held, 0)
-    return true
-  } catch (thrown) {
-    return (thrown as NodeJS.ErrnoException).code !== "ESRCH"
-  }
-}
-
 export type LandingOutcome<T> =
   | { readonly ok: true; readonly value: T }
   | { readonly ok: false; readonly reason: string }
@@ -106,7 +91,7 @@ export function whileHoldingLanding<T>(
             "nothing was committed. This is the lock path failing rather than another writer holding it.",
         }
       }
-      if (!landingHolderAlive(path)) {
+      if (!holderProcessRuns(path)) {
         try {
           rmSync(path)
         } catch {
