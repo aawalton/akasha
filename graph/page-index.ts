@@ -3,10 +3,6 @@ import { pageNameOf } from "../page/page-name.ts"
 import { pagesIn } from "../page/pages.ts"
 import type { BuildContext } from "./node-shape.ts"
 
-export type { PageAt }
-
-export { saidAt }
-
 export type PageIndex = {
   readonly byType: ReadonlyMap<string, readonly PageAt[]>
   readonly byName: ReadonlyMap<string, readonly PageAt[]>

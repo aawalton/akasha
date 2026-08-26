@@ -5,9 +5,6 @@ import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { coveredTo, type Span } from "./read-records.ts"
 import { SUBAGENT_MARK } from "./writer.ts"
 
-export { coveredTo }
-export type { Span }
-
 function seatDir(): string {
   return `${akashaRoot()}/agent/seat`
 }
