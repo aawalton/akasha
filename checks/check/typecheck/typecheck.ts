@@ -176,6 +176,17 @@ function hostOver(
   }
 }
 
+function ambientIn(project: Project): readonly string[] {
+  return [...project.files].filter((one) => one.endsWith(".d.ts"))
+}
+
+export function rootsFor(owner: Project | null, held: readonly string[]): readonly string[] {
+  if (owner === null) return held
+  const claimed = held.filter((one) => owner.files.has(one))
+  if (claimed.length === 0) return []
+  return [...new Set([...claimed, ...ambientIn(owner)])]
+}
+
 function diagnosticsOf(
   tree: Tree,
   rootNames: readonly string[],
@@ -208,7 +219,7 @@ export const typecheck: Check = {
     for (const [owner, held] of partition(subjects, projects)) {
       if (owner !== null && owner.foreign !== null) continue
       const options = owner === null ? DEFAULT_OPTIONS : owner.options
-      const rootNames = owner === null ? held : held.filter((one) => owner.files.has(one))
+      const rootNames = rootsFor(owner, held)
       for (const found of diagnosticsOf(tree, rootNames, options, read)) {
         if (found.file === undefined || found.start === undefined) continue
         const path = resolve(found.file.fileName)

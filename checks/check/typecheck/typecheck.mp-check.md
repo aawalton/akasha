@@ -16,6 +16,8 @@ A diagnostic is reported against a file being checked, or one that reaches it th
 
 Nothing is reported against a file that imports outside this repository.
 
+Every check of a project's files reads the declaration files that project claims.
+
 # Intent
 
 A file is checked under the project that claims it.
