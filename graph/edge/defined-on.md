@@ -1,7 +1,7 @@
 ---
 id: 49dfa289-b8d6-526b-9e01-1677c6c78357
 page-type-slug: mp-graph-edge
-title: "Mp graph edge defined on"
+title: "Defined on"
 slug: defined-on
 derives: to
 from-node:
@@ -16,4 +16,4 @@ to-node:
 
 # Definition
 
-- **Mp graph edge defined on** — the edge from a property definition to the page type it is declared on.
+- **Defined on** — the edge from a property definition to the page type it is declared on.

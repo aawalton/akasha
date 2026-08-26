@@ -1,7 +1,7 @@
 ---
 id: 79a1caa1-0416-5873-9c6c-559bfa7812f5
 page-type-slug: mp-graph-edge
-title: "Mp graph edge domain parent"
+title: "Domain parent"
 slug: domain-parent
 derives: none
 from-node:
@@ -12,4 +12,4 @@ to-node:
 
 # Definition
 
-- **Mp graph edge domain parent** — the edge from a domain to the one it sits under.
+- **Domain parent** — the edge from a domain to the one it sits under.

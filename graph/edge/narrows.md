@@ -1,7 +1,7 @@
 ---
 id: d96e391c-2a99-574e-9292-6c5ba0f17a31
 page-type-slug: mp-graph-edge
-title: "Mp graph edge narrows"
+title: "Narrows"
 slug: narrows
 derives: none
 from-node:
@@ -16,4 +16,4 @@ to-node:
 
 # Definition
 
-- **Mp graph edge narrows** — the edge from a property definition to the page type whose declaration it tightens.
+- **Narrows** — the edge from a property definition to the page type whose declaration it tightens.

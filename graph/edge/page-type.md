@@ -1,7 +1,7 @@
 ---
 id: 56ab6000-4171-5462-b456-ee9334040a98
 page-type-slug: mp-graph-edge
-title: "Mp graph edge page type"
+title: "Page type"
 slug: page-type
 derives: from
 from-node:
@@ -14,4 +14,4 @@ to-node:
 
 # Definition
 
-- **Mp graph edge page type** — the edge from a page to the page type it is written to.
+- **Page type** — the edge from a page to the page type it is written to.

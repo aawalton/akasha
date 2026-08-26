@@ -1,10 +1,10 @@
 ---
 id: a7fa0a47-c8c7-598d-954b-b5a73796ba08
 page-type-slug: mp-graph-node
-title: "Mp graph node page"
+title: "Page"
 slug: page
 ---
 
 # Definition
 
-- **Mp graph node page** — the node for one page.
+- **Page** — the node for one page.

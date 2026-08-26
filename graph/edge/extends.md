@@ -1,7 +1,7 @@
 ---
 id: 53094407-44b4-5ad4-959c-7695649d1e70
 page-type-slug: mp-graph-edge
-title: "Mp graph edge extends"
+title: "Extends"
 slug: extends
 derives: from
 from-node:
@@ -16,4 +16,4 @@ to-node:
 
 # Definition
 
-- **Mp graph edge extends** — the edge from a page type to the one it extends.
+- **Extends** — the edge from a page type to the one it extends.
