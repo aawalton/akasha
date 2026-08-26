@@ -5,11 +5,11 @@ title: "Inboxes"
 slug: inboxes
 domain-parent-slug: mp-readouts
 sequence-slugs:
-  - inboxes-email
-  - inboxes-tasks
-  - inboxes-temper-tasks
-  - inboxes-texts
-  - inboxes-questions
+  - mp-readout/inboxes-email
+  - mp-readout/inboxes-tasks
+  - mp-readout/inboxes-temper-tasks
+  - mp-readout/inboxes-texts
+  - mp-readout/inboxes-questions
 sort-order: place
 settled: true
 ---

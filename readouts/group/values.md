@@ -5,12 +5,12 @@ title: "Values"
 slug: values
 domain-parent-slug: mp-readouts
 sequence-slugs:
-  - faith
-  - love
-  - health
-  - learn
-  - fun
-  - wealth
+  - value/faith
+  - value/love
+  - value/health
+  - value/learn
+  - value/fun
+  - value/wealth
 sort-order: place
 settled: true
 ---

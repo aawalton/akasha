@@ -5,12 +5,12 @@ title: "Upkeep"
 slug: upkeep
 domain-parent-slug: mp-readouts
 sequence-slugs:
-  - upkeep-safety
-  - upkeep-surplus
-  - upkeep-capacity
-  - upkeep-plants
-  - upkeep-activity
-  - upkeep-sleep
+  - mp-readout/upkeep-safety
+  - mp-readout/upkeep-surplus
+  - mp-readout/upkeep-capacity
+  - mp-readout/upkeep-plants
+  - mp-readout/upkeep-activity
+  - mp-readout/upkeep-sleep
 sort-order: place
 settled: true
 ---
