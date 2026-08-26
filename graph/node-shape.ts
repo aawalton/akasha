@@ -1,5 +1,7 @@
 import type { Roots } from "../page/page-at.ts"
 
+export type { Roots }
+
 export type Said = {
   readonly of: (name: string, repo: string, key: string, work: () => unknown) => unknown
   readonly done: () => void
