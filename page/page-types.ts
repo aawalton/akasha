@@ -6,6 +6,7 @@ import { notIgnored } from "../repo/ignored/ignored.ts"
 import { INSTRUCTIONS, reposNamed } from "../repo/roots/roots.ts"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { stemOf } from "./name/name.ts"
+import { scannedFromIndex } from "./index/scan/scan.ts"
 import type { Roots } from "./page.ts"
 
 export const PAGES_ROOT = "pages"
@@ -85,7 +86,13 @@ export interface PageType {
   readonly namedFor: string | null
 }
 
-export function scanIn(root: string, patterns: readonly string[]): readonly string[] {
+export function scanIn(
+  root: string,
+  patterns: readonly string[],
+  repo: string | null = null
+): readonly string[] {
+  const indexed = scannedFromIndex(root, patterns, repo)
+  if (indexed !== null) return indexed
   const suffixes = new Set<string>()
   const walked: string[] = []
   for (const pattern of patterns) {
@@ -104,7 +111,7 @@ export function scanIn(root: string, patterns: readonly string[]): readonly stri
 
 export function scan(roots: Roots, globs: readonly string[]): readonly string[] {
   const root = roots[INSTRUCTIONS]
-  return root === undefined ? [] : scanIn(root, globs)
+  return root === undefined ? [] : scanIn(root, globs, INSTRUCTIONS)
 }
 
 export function textAt(root: string, relPath: string): string | null {
@@ -285,7 +292,7 @@ export function placesIn(one: PageType, repo: string): readonly string[] {
 }
 
 export function pagesOf(root: string, one: PageType, repo: string): readonly string[] {
-  return scanIn(root, placesIn(one, repo))
+  return scanIn(root, placesIn(one, repo), repo)
 }
 
 interface Claimants {
