@@ -109,6 +109,15 @@ export function agentPageFor(writer: string): string | null {
   return seatPageWithId(writer)
 }
 
+export function agentPages(): readonly string[] {
+  const found: string[] = []
+  for (const dir of [SEAT_DIR, SUBAGENT_DIR]) {
+    if (!existsSync(dir)) continue
+    for (const name of readdirSync(dir)) if (name.endsWith(PAGE_SUFFIX)) found.push(`${dir}/${name}`)
+  }
+  return found
+}
+
 function besidePage(page: string, suffix: string): string {
   return `${page.slice(0, -PAGE_SUFFIX.length)}${suffix}`
 }
