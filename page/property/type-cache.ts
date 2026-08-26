@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { existsSync, mkdirSync, readFileSync, statSync } from "node:fs"
-import { writeWhole } from "../../exclusive/exclusive.ts"
+import { writeWhole } from "../../write-whole/write-whole.ts"
 import type { Property } from "./property.ts"
 import type { FileTree } from "../file-tree.ts"
 import { PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS } from "../page-types.ts"

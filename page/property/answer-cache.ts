@@ -1,5 +1,5 @@
 import { mkdirSync, readFileSync, statSync } from "node:fs"
-import { writeWhole } from "../../exclusive/exclusive.ts"
+import { writeWhole } from "../../write-whole/write-whole.ts"
 
 const GIT_DIR = ".git"
 
