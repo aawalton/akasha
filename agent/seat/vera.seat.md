@@ -6,4 +6,5 @@ persona-slug: vera
 domain-slug: domain/graph-system
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 ---
