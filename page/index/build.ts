@@ -36,6 +36,18 @@ export type Standing = {
   readonly relations: ReadonlyMap<string, readonly Relation[]>
 }
 
+export type Landing = {
+  readonly source: Source
+  readonly before: string | null
+  readonly after: string | null
+}
+
+type Landed = {
+  readonly source: Source
+  readonly before: Held | null
+  readonly after: Held | null
+}
+
 const PART = "/"
 
 function fileKey(relation: string, to: PageAt): string {
@@ -132,10 +144,44 @@ export function updateFor(
   return touched
 }
 
-function restated(held: readonly Stated[], source: Source, after: Held | null): readonly Stated[] {
-  const said = saidSource(source)
-  const kept = held.filter((one) => saidSource(one) !== said)
-  return after === null ? kept : [...kept, statedOf(after)]
+function restatedAll(held: readonly Stated[], landed: readonly Landed[]): readonly Stated[] {
+  const said = new Set(landed.map((one) => saidSource(one.source)))
+  const kept = held.filter((one) => !said.has(saidSource(one)))
+  const added: Stated[] = []
+  for (const one of landed) {
+    if (one.after !== null) added.push(statedOf(one.after))
+  }
+  return [...kept, ...added]
+}
+
+function landedOf(landings: readonly Landing[]): readonly Landed[] {
+  const found: Landed[] = []
+  for (const one of landings) {
+    const before = one.before === null ? null : heldOf(one.source.repo, one.source.key, one.before)
+    const after = one.after === null ? null : heldOf(one.source.repo, one.source.key, one.after)
+    if (before === null && after === null) continue
+    found.push({ source: one.source, before, after })
+  }
+  return found
+}
+
+export function landHere(landings: readonly Landing[]): number {
+  const pages = loadPages()
+  if (pages.length === 0) return 0
+  const landed = landedOf(landings)
+  if (landed.length === 0) return 0
+  const stated = restatedAll(pages, landed)
+  const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
+  let touched = 0
+  for (const one of landed) touched += updateFor(standing, one.source, one.before, one.after)
+  keepPages(stated)
+  return touched
+}
+
+export function markLanded(repo: string, root: string): void {
+  const marks = { ...(builtFrom() ?? {}) }
+  marks[repo] = markFor(root)
+  keepBuiltFrom(marks)
 }
 
 export function updateHere(
@@ -144,20 +190,7 @@ export function updateHere(
   beforeText: string | null,
   afterText: string | null
 ): number {
-  const pages = loadPages()
-  if (pages.length === 0) return 0
-  const before = beforeText === null ? null : heldOf(source.repo, source.key, beforeText)
-  const after = afterText === null ? null : heldOf(source.repo, source.key, afterText)
-  if (before === null && after === null) return 0
-  const standing: Standing = {
-    resolve: resolveOver(restated(pages, source, after)),
-    relations: loadRelations(),
-  }
-  const touched = updateFor(standing, source, before, after)
-  keepPages(restated(pages, source, after))
-  const marks = { ...(builtFrom() ?? {}) }
-  marks[source.repo] = markFor(root)
-  keepBuiltFrom(marks)
+  const touched = landHere([{ source, before: beforeText, after: afterText }])
+  markLanded(source.repo, root)
   return touched
 }
-
