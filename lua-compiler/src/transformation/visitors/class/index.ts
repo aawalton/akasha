@@ -15,7 +15,7 @@ import {
 import { createSelfIdentifier } from "../../utils/lua-ast"
 import { transformInPrecedingStatementScope } from "../../utils/preceding-statements"
 import { createSafeName, isUnsafeName } from "../../utils/safe-names"
-import { findFirstNodeAbove } from "../../utils/typescript/find-first-node-above"
+import { findFirstNodeAbove } from "../../utils/typescript/typescript"
 import { transformIdentifier } from "../identifier"
 import {
   createClassDecoratingExpression,

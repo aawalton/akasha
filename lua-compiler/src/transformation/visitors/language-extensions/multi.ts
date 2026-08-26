@@ -7,7 +7,7 @@ import {
   IterableExtensionKind,
 } from "../../utils/language-extensions"
 import { findFirstNonOuterParent } from "../../utils/typescript/typescript"
-import { findFirstNodeAbove } from "../../utils/typescript/find-first-node-above"
+import { findFirstNodeAbove } from "../../utils/typescript/typescript"
 
 const multiReturnExtensionName = "__tstlMultiReturn"
 export function isMultiReturnType(type: ts.Type): boolean {
