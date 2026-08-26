@@ -21,7 +21,8 @@ export function treeOn(
   root: string,
   changed: ReadonlyMap<string, Buffer | null>,
   paths: () => readonly string[],
-  dir: () => string
+  dir: () => string,
+  goneElsewhere: () => readonly string[] = () => []
 ): Tree {
   let held: readonly string[] | null = null
   return {
@@ -32,6 +33,7 @@ export function treeOn(
     },
     dir,
     gone: () => [...changed].flatMap(([at, body]) => (body === null ? [at] : [])),
+    goneElsewhere,
     at: (path) => {
       const held = changed.get(path)
       if (held !== undefined) return held

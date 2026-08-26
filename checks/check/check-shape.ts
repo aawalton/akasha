@@ -3,6 +3,7 @@ export type Tree = {
   readonly at: (path: string) => Buffer | null
   readonly paths: () => readonly string[]
   readonly gone: () => readonly string[]
+  readonly goneElsewhere: () => readonly string[]
   readonly dir: () => string
 }
 

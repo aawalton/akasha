@@ -13,3 +13,5 @@ needs: tree
 # Design
 
 A page in another repository is judged against, and never judged.
+
+A page the same act takes out of another repository is not judged against.

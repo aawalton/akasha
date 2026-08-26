@@ -269,7 +269,8 @@ function akashaGated(
   entries: readonly Landing[],
   removing: readonly string[],
   carrying: readonly Carry[],
-  mechanical: boolean | ReadonlySet<string>
+  mechanical: boolean | ReadonlySet<string>,
+  goneElsewhere: readonly string[]
 ): void {
   if (repo !== AKASHA) return
   if (process.env[GATED] === "1") return
@@ -281,7 +282,13 @@ function akashaGated(
   const asMechanical =
     mechanical === true ||
     (mechanical !== false && entries.every((one) => mechanical.has(one.relPath)))
-  gateOrRefuse(patchText(landings, removals), asMechanical, landings.length + removals.length)
+  gateOrRefuse(
+    patchText(landings, removals, root),
+    asMechanical,
+    landings.length + removals.length,
+    root,
+    goneElsewhere
+  )
 }
 
 export interface Target {
@@ -296,10 +303,11 @@ export function land(
   dryRun: boolean,
   removing: readonly string[] = [],
   carrying: readonly Carry[] = [],
-  mechanical: boolean | ReadonlySet<string> = false
+  mechanical: boolean | ReadonlySet<string> = false,
+  goneElsewhere: readonly string[] = []
 ): Landed | null {
   const { repo, root } = where
-  akashaGated(repo, root, entries, removing, carrying, mechanical)
+  akashaGated(repo, root, entries, removing, carrying, mechanical, goneElsewhere)
   const taken =
     (removing.length === 0 ? "" : `, ${removing.length} removed`) +
     (carrying.length === 0 ? "" : `, ${carrying.length} carried`)

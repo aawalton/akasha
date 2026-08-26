@@ -27,6 +27,7 @@ function verdict(bodies: Readonly<Record<string, string>>): readonly CheckFailur
       },
       paths: () => paths,
       gone: () => [],
+      goneElsewhere: () => [],
       dir: () => ROOT,
     },
     keep: () => "",
