@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, realpathSync, rmSync, symlinkSync } from "node:fs"
+import { mkdirSync, readdirSync, readFileSync, realpathSync, rmSync, symlinkSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 
 export type Package = {
@@ -133,6 +133,37 @@ export function packagesFor(root: string): Packages {
 
 const MODULES = "node_modules"
 
+function linkAt(real: string, at: string): void {
+  mkdirSync(dirname(at), { recursive: true })
+  rmSync(at, { recursive: true, force: true })
+  symlinkSync(real, at)
+}
+
+function entriesIn(dir: string): readonly string[] {
+  try {
+    return readdirSync(dir)
+  } catch {
+    return []
+  }
+}
+
+export function installedInto(root: string, dir: string): readonly string[] {
+  const from = `${root}/${MODULES}`
+  const made: string[] = []
+  for (const name of entriesIn(from)) {
+    if (!name.startsWith(SCOPE)) {
+      linkAt(`${from}/${name}`, `${dir}/${MODULES}/${name}`)
+      made.push(name)
+      continue
+    }
+    for (const under of entriesIn(`${from}/${name}`)) {
+      linkAt(`${from}/${name}/${under}`, `${dir}/${MODULES}/${name}/${under}`)
+      made.push(`${name}/${under}`)
+    }
+  }
+  return made.sort()
+}
+
 export function linkedInto(dir: string): readonly string[] {
   const made: string[] = []
   for (const [name, held] of packagesAt(dir)) {
@@ -143,10 +174,7 @@ export function linkedInto(dir: string): readonly string[] {
     } catch {
       continue
     }
-    const at = `${dir}/${MODULES}/${name}`
-    mkdirSync(dirname(at), { recursive: true })
-    rmSync(at, { recursive: true, force: true })
-    symlinkSync(real, at)
+    linkAt(real, `${dir}/${MODULES}/${name}`)
     made.push(name)
   }
   return made.sort()
