@@ -1,0 +1,183 @@
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+/**
+ * The page type tree and the property type vocabulary, ASKED FOR as rows from the page query service.
+ *
+ * WHY THIS FILE NO LONGER SPAWNS `ops`. It used to run `ops instructions pages --json` and parse the
+ * tree that command composed. That made the editor a caller of another repository's CLI, against
+ * `pages/domain/pages-system.md` — "Only the page query service resolves where a page stands, and
+ * everything else reaches pages through it" — and against `pages/workstation-service/
+ * page-query-service.md` — "Nothing off the workstation reads a page except through the service."
+ * So the facts are asked of the service as named page queries and `assemble.ts` nests them.
+ *
+ * NAMED RATHER THAN COMPOSED, as `pages/page-type/page-query.md` intends: "A product names a page
+ * query rather than composing one." All six stand as pages under `pages/page-query/` in the
+ * instructions repository, so what this asks is reviewable there rather than only here.
+ *
+ * PARSED RATHER THAN CAST. The boundary moved — a query envelope now rather than a tree — but the
+ * reason did not: a service that changed underneath us should arrive as a message in the output
+ * channel, not as a tree half-built out of `undefined`.
+ */
+
+import * as path from 'node:path';
+import { z } from 'zod';
+import { instructionsRoot } from '../../harness-call';
+import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble';
+
+export { assemblePageTree } from './assemble';
+export type { PageAnswers, PageNode, PageTree, QueryRow } from './assemble';
+
+/** The service as it is reachable from this workstation. */
+export const PAGE_QUERY_ORIGIN = 'http://127.0.0.1:8787';
+
+/**
+ * The six queries, and which of the four things each answers.
+ *
+ * TWO PAIRS ARE MERGED because a page type is anything whose own page type REACHES `page-type`, and
+ * a query names one page type without expanding into its subtypes. See `assemble.ts` for what that
+ * costs and for the failure mode it leaves standing.
+ */
+export const TYPE_QUERIES: readonly string[] = ['page-type-all', 'rules-engine-rule-set-all'];
+export const PROPERTY_QUERIES: readonly string[] = [
+	'page-property-definition-all',
+	'alan-harness-tracking-field-all',
+];
+export const PROPERTY_TYPE_QUERY = 'page-property-type-all';
+/**
+ * Every domain, filtered to the kind documents once it arrives.
+ *
+ * ALL OF THEM BECAUSE THE LANGUAGE HAS NO PREFIX TEST. `pages/domain/page-query-language.md` keeps
+ * the predicates deliberately few, and none of them matches a slug's opening. Measured: 617 rows and
+ * 56,890 bytes to fill a five-entry map, alongside the 443KB the property definitions already carry,
+ * and all six asks run together.
+ */
+export const DOMAIN_QUERY = 'domain-all';
+
+/**
+ * The ceiling on one ask. The six run together, so this bounds the whole read. Past a minute the
+ * service has not answered and saying so beats a panel that never fills; a wait with no ceiling
+ * reports neither success nor failure.
+ */
+const ASK_CEILING_MS = 60_000;
+
+/**
+ * The service's envelope, narrowed to what this reads. `at` is the only place a path comes from: a
+ * query answers `<repo>:<relPath>`, and that is how a row says which document it stands for.
+ */
+const ROW_SCHEMA = z.object({
+	at: z.string().min(1),
+	values: z.record(z.string(), z.union([z.string(), z.array(z.string()), z.null()])),
+});
+
+const ANSWER_SCHEMA = z.object({
+	n: z.number(),
+	rows: z.array(ROW_SCHEMA),
+});
+
+/** The rows the service answered with, or a stated reason the answer is not usable. */
+export function parseAnswer(body: unknown, slug: string): readonly QueryRow[] {
+	const read = ANSWER_SCHEMA.safeParse(body);
+	if (!read.success) {
+		throw new Error(`the page query \`${slug}\` answered in a shape this cannot read: ${read.error.message}`);
+	}
+	return read.data.rows;
+}
+
+/**
+ * How many rows the tree holds, of every kind.
+ *
+ * WHAT THE COUNT BESIDE THE TITLE HAS TO BE, for the reason the Work panel states of its own.
+ * The filter matches on any row's own text, so the number it leaves standing counts the scaffolding
+ * rows alongside the ones that open a document. Counting only the latter against it would put a
+ * matched row over a total that never contained it — the two roots are themselves such rows, and a
+ * reader typing `property` would be told "1 of" a total that row is not in.
+ */
+export function countRows(nodes: readonly PageNode[]): number {
+	let total = 0;
+	for (const node of nodes) {
+		total += 1 + countRows(node.children);
+	}
+	return total;
+}
+
+/**
+ * How many rows stand for a document, as against scaffolding that opens nothing.
+ *
+ * SEPARATE FROM THE COUNT BESIDE THE TITLE, and reported into the output channel instead. The two
+ * answer different questions: `countRows` says how many rows were drawn, which is what a filter's
+ * number has to be held against, and this says how many of them a reader can open. That second
+ * question is a real one — it is how many pages there are rather than the size of the drawing — but
+ * it is not the one the title bar is asking.
+ */
+export function countPages(nodes: readonly PageNode[]): number {
+	let total = 0;
+	for (const node of nodes) {
+		total += (node.relPath === null ? 0 : 1) + countPages(node.children);
+	}
+	return total;
+}
+
+/**
+ * The absolute path of a row's document, or undefined where the row is scaffolding and has none.
+ *
+ * Joined against the repo the tree names rather than against a path this extension holds separately,
+ * so there is one answer to where the instructions repository sits.
+ */
+export function documentPath(tree: PageTree, node: PageNode): string | undefined {
+	return node.relPath === null ? undefined : path.join(tree.repo, node.relPath);
+}
+
+/** What performs the ask. Injected so the read can be held to an answer without a service running. */
+export type Fetcher = (url: string, init: RequestInit) => Promise<Response>;
+
+/**
+ * Ask one named query and answer its rows.
+ *
+ * EVERY FAILURE IS A THROW, unlike the status bar's reader beside it. That panel draws two numbers
+ * and can lose one and keep the other; this builds one tree out of six answers, so half an answer is
+ * a wrong tree rather than a smaller one, with every type that defines a property drawn bare.
+ */
+export async function askQuery(slug: string, fetcher: Fetcher): Promise<readonly QueryRow[]> {
+	const url = `${PAGE_QUERY_ORIGIN}/q/${slug}`;
+	let response: Response;
+	try {
+		response = await fetcher(url, {
+			headers: { accept: 'application/json' },
+			signal: AbortSignal.timeout(ASK_CEILING_MS),
+		});
+	} catch (cause) {
+		throw new Error(`${slug} went unasked: ${url} gave no answer within ${ASK_CEILING_MS}ms (${String(cause)})`);
+	}
+	if (!response.ok) {
+		throw new Error(`${slug} went unanswered: the page query service replied ${response.status}`);
+	}
+	let body: unknown;
+	try {
+		body = await response.json();
+	} catch (cause) {
+		throw new Error(`${slug} replied with what is not JSON (${String(cause)})`);
+	}
+	return parseAnswer(body, slug);
+}
+
+/**
+ * The tree, from the service.
+ *
+ * EVERY ASK TOGETHER, because no answer is usable without the rest and running them in turn would
+ * pay every latency for no gain.
+ */
+export async function readPageTree(fetcher: Fetcher = fetch): Promise<PageTree> {
+	const slugs = [...TYPE_QUERIES, ...PROPERTY_QUERIES, PROPERTY_TYPE_QUERY, DOMAIN_QUERY];
+	const answered = await Promise.all(slugs.map(async (slug) => askQuery(slug, fetcher)));
+	const at = (slug: string): readonly QueryRow[] => answered[slugs.indexOf(slug)] ?? [];
+	const answers: PageAnswers = {
+		types: TYPE_QUERIES.flatMap((slug) => [...at(slug)]),
+		properties: PROPERTY_QUERIES.flatMap((slug) => [...at(slug)]),
+		propertyTypes: at(PROPERTY_TYPE_QUERY),
+		domains: at(DOMAIN_QUERY),
+	};
+	return assemblePageTree(answers, instructionsRoot());
+}
