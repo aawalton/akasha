@@ -6,6 +6,7 @@ import {
   linksIn,
 } from "../../../page/index/link/link.ts"
 import { sourcesAt } from "../../../page/index/store/store.ts"
+import { mortalPagesAt } from "../../../page/mortal/mortal.ts"
 import { textAt } from "../../../page/text/text.ts"
 import { locate, rootsHere } from "../../../repo/roots/roots.ts"
 import { refusalText } from "../../refusal/refusal.ts"
@@ -41,26 +42,33 @@ function brokenBy(link: Link, where: string, resolved: string, body: string | nu
 
 export type Sources = (target: string) => readonly { repo: string; key: string }[]
 
+export type Mortal = (address: string) => boolean
+
+const NEVER_MORTAL: Mortal = () => false
+
 export function judgeLinks(
   staged: ReadonlyMap<string, Held>,
   bodyOf: (address: string) => string | null,
-  sourcesOf: Sources
+  sourcesOf: Sources,
+  mortal: Mortal = NEVER_MORTAL
 ): readonly CheckFailure[] {
   const failures: CheckFailure[] = []
   for (const [address, held] of staged) {
-    if (held.body === null) continue
+    if (held.body === null || mortal(address)) continue
     for (const link of linksIn(repoIn(address), keyIn(address), held.body)) {
-      if (link.target === null) continue
+      if (link.target === null || mortal(link.target)) continue
       const reason = brokenBy(link, `${address}:${link.line}`, link.target, bodyOf(link.target))
       if (reason !== null) failures.push({ path: held.path, reason })
     }
   }
   for (const [address, held] of staged) {
+    if (mortal(address)) continue
     for (const source of sourcesOf(address)) {
       const from = `${source.repo}${JOIN}${source.key}`
       if (staged.has(from)) continue
       const text = bodyOf(from)
       if (text === null) continue
+      if (mortal(from)) continue
       for (const link of linksIn(source.repo, source.key, text)) {
         if (link.target !== address) continue
         const reason = brokenBy(link, `${from}:${link.line}`, address, held.body)
@@ -96,7 +104,8 @@ export const linksResolve: Check = {
         const root = roots[repoIn(address)]
         return root === undefined ? null : textAt(root, keyIn(address))
       },
-      (target) => [...sourcesAt(LINK_RELATION, target)]
+      (target) => [...sourcesAt(LINK_RELATION, target)],
+      (address) => mortalPagesAt(keyIn(address), repoIn(address))
     )
   },
 }
