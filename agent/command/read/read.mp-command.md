@@ -1,0 +1,30 @@
+---
+id: 01a03f91-0e40-7000-b10c-75ee640482c7
+page-type-slug: mp-command
+title: "Read"
+slug: read
+path: read
+domain-parent-slug: domain/master-plan
+required-reading-slugs:
+  - page-type/mp-command
+---
+
+# Definition
+
+- **Read** — a file and what is required for it, recorded as read, and on a re-read only what changed.
+
+# Design
+
+A read returns the whole file where the agent asks for it or nothing says what it last saw.
+
+A read of a body that is not UTF-8 text returns what it is instead of the body, and records it read whole.
+
+A read of a generated file returns what it is instead of the body, and records it read whole.
+
+A read takes no line range.
+
+A read too big for one answer returns fewer files and how to ask for the rest.
+
+A read of a body past what one answer holds returns what it is instead of the body, and records nothing.
+
+What a path warrants is worked out by the code that refuses a write for not having read it.
