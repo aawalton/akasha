@@ -1,6 +1,6 @@
-import type { Check, CheckOutcome } from "../check-shape.ts"
+import type { Check, CheckRun } from "../check-shape.ts"
 
-function outcomeOf(check: Check, paths: readonly string[]): CheckOutcome {
+function runOf(check: Check, paths: readonly string[]): CheckRun {
   try {
     return { slug: check.slug, failures: check.run(paths) }
   } catch (thrown) {
@@ -8,9 +8,6 @@ function outcomeOf(check: Check, paths: readonly string[]): CheckOutcome {
   }
 }
 
-export function runAll(
-  checks: readonly Check[],
-  paths: readonly string[]
-): readonly CheckOutcome[] {
-  return checks.map((check) => outcomeOf(check, paths))
+export function runAll(checks: readonly Check[], paths: readonly string[]): readonly CheckRun[] {
+  return checks.map((check) => runOf(check, paths))
 }

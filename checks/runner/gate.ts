@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import type { Check, CheckOutcome } from "../check-shape.ts"
+import type { Check, CheckRun } from "../check-shape.ts"
 import { runAll } from "./all.ts"
 
 const SCRATCH = "/var/tmp"
@@ -34,7 +34,7 @@ export function changedBy(patch: Patch, index: string): readonly string[] {
   return named.toString("utf8").split("\0").filter((one) => one !== "")
 }
 
-export function runGate(checks: readonly Check[], patch: Patch): readonly CheckOutcome[] {
+export function runGate(checks: readonly Check[], patch: Patch): readonly CheckRun[] {
   const overlay = mkdtempSync(`${SCRATCH}/gate-`)
   const index = `${overlay}.index`
   try {
@@ -46,12 +46,12 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckO
       writeFileSync(at, git(patch, index, ["cat-file", "blob", `:${rel}`]))
       inRepo.set(at, resolve(patch.root, rel))
     }
-    return runAll(checks, [...inRepo.keys()]).map((outcome) =>
-      "threw" in outcome
-        ? outcome
+    return runAll(checks, [...inRepo.keys()]).map((ran) =>
+      "threw" in ran
+        ? ran
         : {
-            slug: outcome.slug,
-            failures: outcome.failures.map((one) => ({
+            slug: ran.slug,
+            failures: ran.failures.map((one) => ({
               path: inRepo.get(one.path) ?? one.path,
               reason: one.reason,
             })),

@@ -8,12 +8,12 @@ export type Check = {
   readonly run: (paths: readonly string[]) => readonly CheckFailure[]
 }
 
-export type Finding = {
+export type Outcome = {
   readonly slug: string
   readonly path: string
   readonly reasons: readonly string[]
 }
 
-export type CheckOutcome =
+export type CheckRun =
   | { readonly slug: string; readonly failures: readonly CheckFailure[] }
   | { readonly slug: string; readonly threw: string }
