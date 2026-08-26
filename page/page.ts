@@ -1,4 +1,6 @@
-export type Roots = Readonly<Record<string, string | undefined>>
+import type { Repo } from "./document/types.ts"
+
+export type Roots = Readonly<Record<string, string>> & { readonly target?: Repo }
 
 export type PageAt = {
   readonly repo: string
