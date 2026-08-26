@@ -1,7 +1,7 @@
 import { listField } from "../frontmatter.ts"
 import type { PageAt } from "../page-at.ts"
 import { NONE, stringAt } from "../text.ts"
-import { type Held, type Identity, kindOf } from "./identity.ts"
+import { type Held, type Resolve, kindOf } from "./identity.ts"
 
 const DEFINITION = "page-property-definition"
 
@@ -89,7 +89,7 @@ export function relationsOver(pages: readonly Held[]): ReadonlyMap<string, reado
 export function reachedFrom(
   at: Held,
   relations: ReadonlyMap<string, readonly Relation[]>,
-  identity: Identity
+  resolve: Resolve
 ): readonly Reached[] {
   const type = stringAt(at.fm, PAGE_TYPE_SLUG) ?? at.type
   const found: Reached[] = []
@@ -97,7 +97,7 @@ export function reachedFrom(
   for (const relation of relations.get(type) ?? []) {
     for (const value of listField(at.fm, relation.key)) {
       if (value === "" || value === NONE) continue
-      const to = identity.at(relation.kind, relation.target, value)
+      const to = resolve(relation.kind, relation.target, value)
       if (to === null) continue
       const said = `${relation.key} ${to.repo} ${to.key}`
       if (seen.has(said)) continue

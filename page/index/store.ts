@@ -1,10 +1,12 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname } from "node:path"
+import { dirname, join } from "node:path"
 import { markOf } from "../../cache/mark.ts"
 import { oidsUnder } from "../../cache/oid.ts"
 import type { Roots } from "../page-at.ts"
 import { PAGE_EXTENSION } from "../page-name.ts"
 import { type Source, bodyOf, sourcesOf } from "./entry.ts"
+import type { Stated } from "./identity.ts"
+import type { Relation } from "./relation.ts"
 import { builtFromAt, fileFor, indexRoot } from "./place.ts"
 
 const KIND = "pages-index"
@@ -12,6 +14,10 @@ const KIND = "pages-index"
 const NAME = "relation"
 
 const PAGE_ENDING = `.${PAGE_EXTENSION}`
+
+const PAGES = "pages.jsonl"
+
+const RELATIONS = "relations.json"
 
 export type BuiltFrom = Readonly<Record<string, string>>
 
@@ -86,6 +92,54 @@ export function staleIn(roots: Roots): readonly string[] {
     if (held[repo] !== markFor(root)) behind.push(repo)
   }
   return behind
+}
+
+function pagesAt(): string {
+  return join(indexRoot(), PAGES)
+}
+
+function relationsAt(): string {
+  return join(indexRoot(), RELATIONS)
+}
+
+export function keepPages(stated: Iterable<Stated>): void {
+  const lines: string[] = []
+  for (const one of stated) lines.push(JSON.stringify(one))
+  const at = pagesAt()
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)
+}
+
+export function loadPages(): readonly Stated[] {
+  const at = pagesAt()
+  if (!existsSync(at)) return []
+  const found: Stated[] = []
+  for (const line of readFileSync(at, "utf8").split("\n")) {
+    if (line === "") continue
+    try {
+      found.push(JSON.parse(line) as Stated)
+    } catch {
+      continue
+    }
+  }
+  return found
+}
+
+export function keepRelations(relations: ReadonlyMap<string, readonly Relation[]>): void {
+  const at = relationsAt()
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, JSON.stringify(Object.fromEntries(relations)))
+}
+
+export function loadRelations(): ReadonlyMap<string, readonly Relation[]> {
+  const at = relationsAt()
+  if (!existsSync(at)) return new Map()
+  try {
+    const held = JSON.parse(readFileSync(at, "utf8")) as Record<string, readonly Relation[]>
+    return new Map(Object.entries(held))
+  } catch {
+    return new Map()
+  }
 }
 
 export function emptyIndex(): void {
