@@ -14,6 +14,7 @@ import {
   carriedBy,
   pointsBy,
   relationsOn,
+  unread,
   unresolvable,
   wantsOf,
   type Bearers,
@@ -224,6 +225,9 @@ function unresolvedBy(wanted: readonly Wanted[], bearers: Bearers): readonly Che
     if (bearers.holds(one.want)) continue
     failures.push({ path: one.path, reason: unresolvable(one.want) })
   }
+  const first = failures[0]
+  if (first === undefined || bearers.missed.size === 0) return failures
+  for (const reason of unread(bearers.missed)) failures.push({ path: first.path, reason })
   return failures
 }
 
