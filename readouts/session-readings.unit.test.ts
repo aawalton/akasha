@@ -3,6 +3,7 @@ import {
   capacityFromSessions,
   dayAfter,
   type SessionAnswer,
+  sessionOf,
   sessionsFromAnswer,
   wakeBoundary,
   wakeWindow,
@@ -58,6 +59,23 @@ const WORKED = row(`${SIDECAR}#1`, {
 })
 
 const DAY: readonly Row[] = [SLEPT, WORKED]
+
+describe("sessionOf — the day comes off the sidecar the session was written into", () => {
+  test("reads the day where the page type stands between the day and the sessions suffix", () => {
+    const at = "memory:pages/daily-tracking/2026-06-19.daily-tracking.sessions.jsonl#0"
+    expect(sessionOf(at, { title: "Sleep" }).day).toBe("2026-06-19")
+  })
+
+  test("reads the day where nothing stands between them", () => {
+    expect(sessionOf(`${SIDECAR}#0`, { title: "Sleep" }).day).toBe("2026-08-18")
+  })
+
+  test("refuses a path naming no sessions sidecar at all", () => {
+    expect(() => sessionOf("memory:pages/daily-tracking/2026-06-19.daily-tracking.md#0", {})).toThrow(
+      /names no/
+    )
+  })
+})
 
 describe("sessionsFromAnswer — a short or mangled read refuses rather than answering", () => {
   test("an empty corpus is a broken read, not a life with nothing recorded in it", () => {

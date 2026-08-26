@@ -17,7 +17,7 @@ const NEEDED = [
   "capacity-rate",
 ] as const
 
-const SIDECAR_DAY = /\/(\d{4}-\d{2}-\d{2})\.sessions\.jsonl#/
+const SIDECAR_DAY = /\/(\d{4}-\d{2}-\d{2})\.(?:[\w-]+\.)?sessions\.jsonl#/
 const INSTANT_SHAPE = /^\d{4}-\d{2}-\d{2}T/
 const SLEEP_TITLE = "sleep"
 
