@@ -1,6 +1,8 @@
 import { isAttachmentFile } from "../../../page/attachment-file.ts"
 import type { FileTree } from "../../../page/file-tree.ts"
-import { stemOf } from "../../../page/name/name.ts"
+import { pageNameOf, stemOf } from "../../../page/name/name.ts"
+import { pageTargetOf } from "../../../page/index/place/place.ts"
+import { loadRelations, sourcesAt } from "../../../page/index/store/store.ts"
 import { claimant, globFor, pagesOf, placesIn, reposOf, type PageType } from "../../../page/page-types.ts"
 import { blockOf, textAt } from "../../../page/text/text.ts"
 import { declarationsOf } from "../../../page/property/declarations.ts"
@@ -139,6 +141,38 @@ function remainingRead(tree: Tree, types: readonly PageType[], chainFor: Chains)
   }
 }
 
+function relationKeys(): readonly string[] {
+  const keys = new Set<string>()
+  for (const held of loadRelations().values()) {
+    for (const one of held) keys.add(one.key)
+  }
+  return [...keys]
+}
+
+function targetsOf(gone: readonly string[]): readonly string[] {
+  const found = new Set<string>()
+  for (const relPath of gone) {
+    const named = pageNameOf(relPath)
+    if (named === null) continue
+    found.add(pageTargetOf(named.stem, named.type))
+  }
+  return [...found]
+}
+
+function namingGone(gone: readonly string[], root: string): readonly string[] {
+  const targets = targetsOf(gone)
+  if (targets.length === 0) return []
+  const found = new Set<string>()
+  for (const key of relationKeys()) {
+    for (const target of targets) {
+      for (const source of sourcesAt(key, target)) {
+        if (source.repo === AKASHA) found.add(`${root}/${source.key}`)
+      }
+    }
+  }
+  return [...found]
+}
+
 function orphanedBy(batch: Batch): readonly CheckFailure[] {
   const tree = batch.tree
   const gone = tree
@@ -154,7 +188,8 @@ function orphanedBy(batch: Batch): readonly CheckFailure[] {
   if (going.size === 0) return []
   const bearers = bearersFor(remainingRead(tree, types, chainFor))
   const failures: CheckFailure[] = []
-  for (const path of [...tree.paths()].sort()) {
+  const candidates = new Set([...namingGone(gone, tree.root), ...batch.paths])
+  for (const path of [...candidates].sort()) {
     const relPath = path.slice(tree.root.length + 1)
     if (!isPage(relPath)) continue
     const body = tree.at(path)
