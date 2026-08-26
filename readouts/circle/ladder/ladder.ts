@@ -1,4 +1,4 @@
-import type { DailyTierLadder } from "./daily-tier.ts"
+import type { DailyTierLadder } from "../tier/tier.ts"
 
 export const GREEN_DAY_UNITS_LADDER: DailyTierLadder = [
   { threshold: 0.25, color: "red" },

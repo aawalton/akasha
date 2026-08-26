@@ -3,7 +3,7 @@ import {
   type DescendingRung,
   descendingCircle,
   fixed,
-} from "./stoplight-circle.ts"
+} from "./circle.ts"
 
 const DAILY_INBOX_RUNGS: readonly DescendingRung[] = [
   { at: 100, color: "black" },

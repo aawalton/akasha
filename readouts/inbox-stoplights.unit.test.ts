@@ -4,7 +4,7 @@ import type {
   ResolvedReadout,
 } from "./readout-resolver.ts"
 import type { ReadoutScale } from "./readout-scale-shape.ts"
-import { UNKNOWN_READING } from "./stoplight-circle.ts"
+import { UNKNOWN_READING } from "./circle/circle.ts"
 import { groupCircle } from "./upkeep-stoplights.ts"
 
 const DAILY_INBOX: ReadoutScale = {

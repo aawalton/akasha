@@ -1,10 +1,10 @@
 import { comparePageSeq } from "../page/page-seq.ts"
-import type { DailyTierColor } from "./daily-tier.ts"
-import { readingUnitOf } from "./readout-measure.ts"
+import type { DailyTierColor } from "./circle/tier/tier.ts"
+import { readingUnitOf } from "./circle/measure/measure.ts"
 import { type Ask, askOr, type QueryRow, type ResolvedReadout, readReadoutGroupReadings, resolveReadoutGroup, resolveReadoutGroupLegend } from "./readout-resolver.ts"
 import { readoutCircle } from "./readout-scale-shape.ts"
-import { GREEN_DAY_UNITS_LADDER, greenDayUnits } from "./readout-scales.ts"
-import { ladderFloor, type StoplightCircle } from "./stoplight-circle.ts"
+import { GREEN_DAY_UNITS_LADDER, greenDayUnits } from "./circle/ladder/ladder.ts"
+import { ladderFloor, type StoplightCircle } from "./circle/circle.ts"
 
 const VALUES_GROUP_SLUG = "values"
 

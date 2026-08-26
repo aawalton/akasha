@@ -1,4 +1,4 @@
-import { type DailyTierColor, type DailyTierLadder, evalDailyTier } from "./daily-tier.ts"
+import { type DailyTierColor, type DailyTierLadder, evalDailyTier } from "./tier/tier.ts"
 
 export function tierFloorValues(ladder: DailyTierLadder): ReadonlyMap<DailyTierColor, number> {
   const floors = new Map<DailyTierColor, number>([["black", 0]])

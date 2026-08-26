@@ -1,4 +1,4 @@
-import type { DailyTierColor } from "./daily-tier.ts"
+import type { DailyTierColor } from "./circle/tier/tier.ts"
 import {
   continuousCircle,
   type DescendingRung,
@@ -7,7 +7,7 @@ import {
   type ReadingUnit,
   type StoplightCircle,
   type TierLadder,
-} from "./stoplight-circle.ts"
+} from "./circle/circle.ts"
 
 export const READOUT_SCALE_PAGE_TYPE_SLUG = "readout-scale"
 

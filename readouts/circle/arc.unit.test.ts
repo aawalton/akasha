@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
-import type { DailyTierColor } from "./daily-tier.ts"
-import { readoutCircle } from "./readout-scale-shape.ts"
-import type { ReadoutScale } from "./readout-scale-shape.ts"
+import type { DailyTierColor } from "./tier/tier.ts"
+import { readoutCircle } from "../readout-scale-shape.ts"
+import type { ReadoutScale } from "../readout-scale-shape.ts"
 
 const TIER_RANK: Readonly<Record<DailyTierColor, number>> = {
   black: 0,
