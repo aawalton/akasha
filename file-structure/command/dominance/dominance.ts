@@ -11,9 +11,11 @@ const ROOT_FOLDER = "."
 
 const NOTHING = "-"
 
+const FOREIGN = "outside akasha"
+
 export const help = {
   description:
-    "Print the dominance tree of a section: each file under the deepest folder holding every file that points at it. A file grouped above its own folder is one something outside that folder reaches into. A file nothing points at is grouped under a dash, having no dominator at all.",
+    "Print the dominance tree of a section: each file under the deepest folder holding every file that points at it. A file grouped above its own folder is one something outside that folder reaches into. A file anything in another repository points at is grouped as outside akasha, no folder here holding its callers. A file nothing points at is grouped under a dash, having no dominator at all.",
   positionals: [
     {
       name: "root",
@@ -50,21 +52,26 @@ export default async function dominance(argv: readonly string[]): Promise<void> 
   if (section === "" || section.startsWith("..")) {
     throw new Error(`${at} is outside akasha, and the graph this asks is the akasha one`)
   }
+  const everywhere = Object.keys(roots)
   const ctx = { roots, said: KEEPS_NOTHING }
-  const under = `${section}/`
-  const mine = nodesIn(ctx, [AKASHA]).filter((node) => node.key.startsWith(under))
+  const mine = nodesIn(ctx, [AKASHA]).filter((node) => node.key.startsWith(`${section}/`))
   if (mine.length === 0) throw new Error(`${section} holds no file the graph knows`)
-  const pointing = new Map<string, string[]>()
+  const here = new Map<string, string[]>()
+  const abroad = new Set<string>()
   const refs = mine.map((node) => ({ repo: node.repo, key: node.key }))
-  for (const edge of edgesInto(ctx, refs, [AKASHA], [IMPORT_EDGE, CODE_EDGE])) {
-    const held = pointing.get(edge.to.key)
-    if (held === undefined) pointing.set(edge.to.key, [edge.from.key])
+  for (const edge of edgesInto(ctx, refs, everywhere, [IMPORT_EDGE, CODE_EDGE])) {
+    if (edge.from.repo !== AKASHA) {
+      abroad.add(edge.to.key)
+      continue
+    }
+    const held = here.get(edge.to.key)
+    if (held === undefined) here.set(edge.to.key, [edge.from.key])
     else held.push(edge.from.key)
   }
   const grouped = new Map<string, string[]>()
   for (const node of mine) {
-    const who = pointing.get(node.key) ?? []
-    const home = who.length === 0 ? NOTHING : deepestHolding(who)
+    const who = here.get(node.key) ?? []
+    const home = abroad.has(node.key) ? FOREIGN : who.length === 0 ? NOTHING : deepestHolding(who)
     const held = grouped.get(home)
     if (held === undefined) grouped.set(home, [node.key])
     else held.push(node.key)
@@ -72,12 +79,14 @@ export default async function dominance(argv: readonly string[]): Promise<void> 
   const homes = [...grouped.keys()].sort((one, two) => {
     if (one === NOTHING) return 1
     if (two === NOTHING) return -1
+    if (one === FOREIGN) return 1
+    if (two === FOREIGN) return -1
     return one < two ? -1 : 1
   })
   for (const home of homes) {
     console.log(home)
     for (const key of (grouped.get(home) ?? []).sort()) {
-      const mark = home === NOTHING || folderOf(key) === home ? "" : "  reached into"
+      const mark = home === NOTHING || home === FOREIGN || folderOf(key) === home ? "" : "  reached into"
       console.log(`    ${key}${mark}`)
     }
   }
