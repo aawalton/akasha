@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import type { DailyTierColor } from "./circle/tier/tier.ts"
 import {
   type ReadoutScale,
   readoutRing,
@@ -47,6 +48,14 @@ const BACKLOG_COUNT: ReadoutScale = {
   orangeAt: 11,
   redAt: 21,
   blackAt: 31,
+}
+
+const ACTIVITY_CALORIES: ReadoutScale = {
+  slug: "readout-scale-activity-calories",
+  redAt: 100,
+  yellowAt: 200,
+  greenAt: 400,
+  blueAt: 800,
 }
 
 describe("readoutShape — which way a scale runs is read off its numbers", () => {
@@ -330,5 +339,35 @@ describe("readoutTierRing — the tier a scale awards for clearing rather than f
     expect(() =>
       readoutTierRing({ reading: 160, scale: PLANT_GRAMS, unit: "whole", earned: true })
     ).toThrow(/earned-color-slug/)
+  })
+})
+
+const TIER_RANK: Readonly<Record<DailyTierColor, number>> = {
+  black: 0,
+  red: 1,
+  yellow: 2,
+  green: 3,
+  blue: 4,
+}
+
+function arcOverruns(
+  rings: readonly { tier: DailyTierColor; nextTier: DailyTierColor | null }[]
+): readonly string[] {
+  const found: string[] = []
+  for (const ring of rings) {
+    if (ring.nextTier === null) continue
+    const climbed = TIER_RANK[ring.nextTier] - TIER_RANK[ring.tier]
+    if (climbed > 1)
+      found.push(`${ring.tier} ring drew a ${ring.nextTier} arc, ${climbed} tiers up`)
+  }
+  return found
+}
+
+describe("an arc never runs more than one tier above the ring it sits on", () => {
+  test("a reading drawn against an ascending scale, wherever on it the reading falls", () => {
+    const drawn = [-20, -1, 0, 0.5, 1, 40, 99, 100, 160, 199, 200, 400, 799, 800, 900, 3000].map(
+      (reading) => readoutRing({ reading, scale: ACTIVITY_CALORIES, unit: "whole" })
+    )
+    expect(arcOverruns(drawn)).toEqual([])
   })
 })
