@@ -2,7 +2,7 @@ import { relative } from "node:path"
 import { rootsHere } from "../../graph/roots.ts"
 import { pageNameOf } from "../../page/page-name.ts"
 import { nameOf, namingOf, type PageTypeNaming, ruleFor } from "../../page/page-naming.ts"
-import { pagesIn } from "../../page/pages.ts"
+import { pagesIn, specFor } from "../../page/pages.ts"
 import { blockOf, textAt } from "../../page/text.ts"
 import type { Check, CheckFailure, Tree } from "../check-shape.ts"
 
@@ -12,8 +12,7 @@ function namingIn(tree: Tree): ReadonlyMap<string, PageTypeNaming> {
   const found = new Map<string, PageTypeNaming>()
   for (const root of Object.values(rootsHere())) {
     if (root === undefined) continue
-    for (const page of pagesIn(root)) {
-      if (page.type !== PAGE_TYPE) continue
+    for (const page of pagesIn(root, specFor(PAGE_TYPE))) {
       const text = textAt(root, page.key)
       if (text === null) continue
       const held = namingOf(text)

@@ -32,9 +32,13 @@ export function indexOf(pages: Iterable<PageAt>): PageIndex {
   const byType = new Map<string, PageAt[]>()
   const byName = new Map<string, PageAt[]>()
   for (const at of pages) {
-    byType.set(at.type, [...(byType.get(at.type) ?? []), at])
+    const typed = byType.get(at.type)
+    if (typed === undefined) byType.set(at.type, [at])
+    else typed.push(at)
     const name = nameOf(at.type, at.stem)
-    byName.set(name, [...(byName.get(name) ?? []), at])
+    const named = byName.get(name)
+    if (named === undefined) byName.set(name, [at])
+    else named.push(at)
   }
   return { byType, byName }
 }

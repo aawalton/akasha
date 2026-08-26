@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { type PageName, pageNameOf } from "./page-name.ts"
+import { PAGE_EXTENSION, type PageName, pageNameOf } from "./page-name.ts"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
 
@@ -19,9 +19,13 @@ export function trackedIn(root: string, key: string | null = null): readonly str
     .filter((one) => one !== "")
 }
 
-export function pagesIn(root: string): readonly PageFile[] {
+export function specFor(type: string): string {
+  return `*.${type}.${PAGE_EXTENSION}`
+}
+
+export function pagesIn(root: string, spec: string | null = null): readonly PageFile[] {
   const found: PageFile[] = []
-  for (const key of trackedIn(root)) {
+  for (const key of trackedIn(root, spec)) {
     const named = pageNameOf(key)
     if (named === null) continue
     found.push({ key, stem: named.stem, type: named.type })
