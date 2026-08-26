@@ -1,4 +1,5 @@
 import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
+import { addressParts } from "../../../instructions/tools/page/page-address.ts"
 import { blockOf, NONE, textAt } from "../../../instructions/tools/page/page-types.ts"
 import type { FileNode } from "../node-producer/file.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
@@ -56,16 +57,17 @@ function bySlug(pages: readonly FileNode[]): ReadonlyMap<string, readonly FileNo
 }
 
 function named(
-  slug: string,
+  named: string,
   from: FileNode,
   reference: Reference,
   index: ReadonlyMap<string, readonly FileNode[]>
 ): FileNode | null {
+  const address = addressParts(named)
+  const slug = address === null ? named : address.slug
+  const wanted = address === null ? reference.toPageType : address.pageType
   const standing = index.get(slug) ?? []
   const fitting =
-    reference.toPageType === null
-      ? standing
-      : standing.filter((page) => page.attrs["page-type-slug"] === reference.toPageType)
+    wanted === null ? standing : standing.filter((page) => page.attrs["page-type-slug"] === wanted)
   if (fitting.length === 1) return fitting[0] ?? null
   if (fitting.length === 0) return null
   const own = fitting.filter((page) => page.repo === from.repo)
