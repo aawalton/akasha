@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { locate, rootsHere } from "../../../../repo/roots.ts"
+import { locate, rootsHere } from "../../../../repo/roots/roots.ts"
 import type { PageAt } from "../../../../page/page-at.ts"
 import { pageNameOf } from "../../../../page/page-name.ts"
 import { requiredReadingFor } from "../../../../page/required-reading.ts"

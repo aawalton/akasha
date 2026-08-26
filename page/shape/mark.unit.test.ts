@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
 import { CODE_DIRS, CODE_SEEDS } from "./mark.ts"
-import { HERE } from "../../repo/roots.ts"
+import { HERE } from "../../repo/roots/roots.ts"
 
 const RUNTIME = "node:"
 

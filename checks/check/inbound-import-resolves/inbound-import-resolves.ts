@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { readFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { AKASHA, rootsHere } from "../../../repo/roots.ts"
+import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 import type { Batch, Check, CheckFailure, Tree } from "../check-shape.ts"
 

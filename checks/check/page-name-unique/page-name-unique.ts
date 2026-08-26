@@ -2,7 +2,7 @@ import { relative } from "node:path"
 import type { Check } from "../check-shape.ts"
 import { indexOf, nameOf, pagesOver } from "../../../graph/page-index/page-index.ts"
 import { type PageAt, saidAt } from "../../../page/page-at.ts"
-import { AKASHA, INSTRUCTIONS, rootsHere } from "../../../repo/roots.ts"
+import { AKASHA, INSTRUCTIONS, rootsHere } from "../../../repo/roots/roots.ts"
 import { pageNameOf } from "../../../page/page-name.ts"
 import { trackedIn } from "../../../page/pages.ts"
 

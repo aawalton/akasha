@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
-import { AKASHA, akashaRoot } from "../../repo/roots.ts"
+import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
 import type { FileTree } from "../file-tree.ts"
 import { PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 

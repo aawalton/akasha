@@ -1,11 +1,11 @@
 import type { BuildContext, Said } from "../../graph/node-shape.ts"
 import type { Roots } from "../../page/page-at.ts"
 import { KEEPS_NOTHING } from "../../graph/node-shape.ts"
-import { AKASHA } from "../../repo/roots.ts"
+import { AKASHA } from "../../repo/roots/roots.ts"
 import { type Key, answerAt, answersAt, cacheAnswer, sweep } from "../cache.ts"
 import { closureOf } from "../closure/closure.ts"
 import { markOf } from "../mark/mark.ts"
-import { oidsUnder } from "../../repo/oid.ts"
+import { oidsUnder } from "../../repo/oid/oid.ts"
 
 export const SAID_KIND = "said"
 

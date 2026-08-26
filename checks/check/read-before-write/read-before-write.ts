@@ -10,7 +10,7 @@ import {
   type Reading,
   sameBody,
 } from "../../../agent/read-log.ts"
-import { AKASHA } from "../../../repo/roots.ts"
+import { AKASHA } from "../../../repo/roots/roots.ts"
 import type { PageAt } from "../../../page/page-at.ts"
 import { pageNameOf } from "../../../page/page-name.ts"
 import { requiredReadingFor } from "../../../page/required-reading.ts"

@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, unlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { git, remoteOf } from "./git.ts"
+import { git, remoteOf } from "../git/git.ts"
 
 const STATE_DIR = "harness-push"
 

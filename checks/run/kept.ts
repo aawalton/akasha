@@ -11,7 +11,7 @@ import {
   outcomeMarkOf,
 } from "../../cache/outcome/outcome.ts"
 import { KEEP_KIND, keepUnder } from "../../cache/keep/keep.ts"
-import { oidOfBody } from "../../repo/oid.ts"
+import { oidOfBody } from "../../repo/oid/oid.ts"
 import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check/check-shape.ts"
 import { type Held, runAll } from "./all.ts"
 import { outcomesOf } from "./outcome.ts"

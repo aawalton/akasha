@@ -2,7 +2,7 @@ export const summary = "Read a file, and after the first time only what changed"
 
 import { existsSync, mkdtempSync, rmSync, statSync } from "node:fs"
 import { discarded } from "./discarded/discarded.ts"
-import { canonicalize } from "../../../repo/path.ts"
+import { canonicalize } from "../../../repo/path/path.ts"
 import { ANSWER_CEILING, costOf, restCall } from "../../read-answer.ts"
 import { conditionalBelow, conditionalCaption, conditionalText } from "./conditional/read-conditional.ts"
 import { agentPageFor, readLogFor, replacedAt } from "../../read-log.ts"

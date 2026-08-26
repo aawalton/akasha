@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { markOf } from "../../cache/mark/mark.ts"
-import { oidsUnder } from "../../repo/oid.ts"
+import { oidsUnder } from "../../repo/oid/oid.ts"
 import type { Roots } from "../page-at.ts"
 import { pageNameOf } from "../page-name.ts"
 import {

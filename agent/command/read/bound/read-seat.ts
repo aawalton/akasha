@@ -1,5 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
-import { locate, rootsHere } from "../../../../repo/roots.ts"
+import { locate, rootsHere } from "../../../../repo/roots/roots.ts"
 import { standingHere } from "../../../../page/warrant-index.ts"
 import { agentPageFor } from "../../../read-log.ts"
 import type { Target } from "../target/read-target.ts"

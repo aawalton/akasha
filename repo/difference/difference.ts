@@ -1,6 +1,6 @@
 
 import { writeFileSync } from "node:fs"
-import { gitBytes } from "./git.ts"
+import { gitBytes } from "../git/git.ts"
 
 export function difference(prior: string, now: string, workspace: string): string | null {
   const base = `${workspace}/base`

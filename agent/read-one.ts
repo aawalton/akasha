@@ -1,7 +1,7 @@
 
 import { readFileSync, statSync } from "node:fs"
-import { difference } from "../repo/difference.ts"
-import { blobId, readBlob } from "../repo/git.ts"
+import { difference } from "../repo/difference/difference.ts"
+import { blobId, readBlob } from "../repo/git/git.ts"
 import { countLines, type Reading } from "./read-log.ts"
 import type { Span } from "./read-records.ts"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
