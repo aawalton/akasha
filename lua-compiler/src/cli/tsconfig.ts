@@ -1,4 +1,4 @@
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isRecord } from "../../vendor/utils-narrow/src/is-record"
 import * as path from "path"
 import * as ts from "typescript"
 import type { CompilerOptions, TstlOptions } from "../CompilerOptions"

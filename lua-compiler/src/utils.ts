@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "../vendor/utils-narrow/src/assert-never"
 import nativeAssert from "assert"
 import * as path from "path"
 import * as ts from "typescript"

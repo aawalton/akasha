@@ -1,4 +1,4 @@
-import { requireFirst } from "@shared/utils-narrow/require-first"
+import { requireFirst } from "../../vendor/utils-narrow/src/require-first"
 import * as ts from "typescript"
 import * as luaStatements from "../LuaAST-statements"
 import { getOrUpdate } from "../utils"

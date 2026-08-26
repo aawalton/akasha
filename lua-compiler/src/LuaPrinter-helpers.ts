@@ -1,6 +1,6 @@
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
-import { requireGet } from "@shared/utils-narrow/require-get"
+import { requireGet } from "../vendor/utils-narrow/src/require-get"
 import type { CompilerOptions } from "./CompilerOptions"
 import * as luaCore from "./LuaAST-core"
 import * as luaStatements from "./LuaAST-statements"
