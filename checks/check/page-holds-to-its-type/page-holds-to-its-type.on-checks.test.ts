@@ -61,3 +61,15 @@ test("a path no page type claims is not judged", () => {
   expect(verdict({ "checks/checks.ts": "export const CHECKS = []\n" })).toEqual([])
   expect(verdict({ "notes/loose.md": "# Loose\n\nA markdown file no page type claims.\n" })).toEqual([])
 })
+
+test("a path a page type files into another repository is refused, naming both", () => {
+  const failures = verdict({ "checks/check/trial/trial.gate.md": HELD })
+  expect(failures).toHaveLength(1)
+  expect(failures[0]!.path).toBe(`${ROOT}/checks/check/trial/trial.gate.md`)
+  expect(failures[0]!.reason).toContain("`gate` page type on the instructions repo")
+  expect(failures[0]!.reason).toContain("this call addresses the akasha repo")
+})
+
+test("a path this repository's own page type claims is judged here rather than refused", () => {
+  expect(verdict({ [AT]: HELD })).toEqual([])
+})
