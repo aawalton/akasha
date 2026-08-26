@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { CheckFailure } from "../check-shape.ts"
-import { type Held, judgeLinks, type Sources } from "./links-resolve.ts"
+import { type Held, judgeLinks, type Mortal, type Sources } from "./links-resolve.ts"
 
 const TARGET = "akasha/notes/target.md"
 
@@ -15,7 +15,8 @@ const from = (body: string | null): Held => ({ path: `/repos/${FROM}`, body })
 function verdict(
   staged: Readonly<Record<string, Held>>,
   world: Readonly<Record<string, string>> = {},
-  sources: Sources = NONE
+  sources: Sources = NONE,
+  mortal: Mortal = () => false
 ): readonly CheckFailure[] {
   const map = new Map(Object.entries(staged))
   return judgeLinks(
@@ -24,7 +25,8 @@ function verdict(
       const one = map.get(address)
       return one === undefined ? (world[address] ?? null) : one.body
     },
-    sources
+    sources,
+    mortal
   )
 }
 
@@ -77,4 +79,14 @@ test("a link is judged once where both ends are in the same change", () => {
   const failures = verdict({ [TARGET]: held("# Top\n"), [FROM]: from("[it](target.md#gone)") }, {}, sources)
   expect(failures).toHaveLength(1)
   expect(failures[0]!.path).toBe(`/repos/${FROM}`)
+})
+
+test("a link at a mortal page that has gone is passed, either end of it answering", () => {
+  const mortal: Mortal = (address) => address === TARGET
+  expect(verdict({ [FROM]: from("[it](target.md)") }, {}, NONE, mortal)).toEqual([])
+})
+
+test("a mortal page carrying a link at what has gone is passed", () => {
+  const mortal: Mortal = (address) => address === FROM
+  expect(verdict({ [FROM]: from("[it](target.md)") }, {}, NONE, mortal)).toEqual([])
 })
