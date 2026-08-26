@@ -1,4 +1,4 @@
-import type { Outcome } from "../checks/check-shape.ts"
+import type { Outcome } from "../checks/check/check-shape.ts"
 import { answerAt, cacheAnswer } from "./answer.ts"
 import type { Key } from "./key.ts"
 import { type Input, markOf } from "./mark.ts"

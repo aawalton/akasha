@@ -1,5 +1,5 @@
 import { relative } from "node:path"
-import type { Check } from "../../check-shape.ts"
+import type { Check } from "../check-shape.ts"
 import { indexOf, nameOf, type PageAt, pagesOver, saidAt } from "../../../graph/page-index.ts"
 import { AKASHA, INSTRUCTIONS, rootsHere } from "../../../graph/roots.ts"
 import { pageNameOf } from "../../../page/page-name.ts"

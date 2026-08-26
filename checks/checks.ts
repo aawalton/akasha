@@ -1,4 +1,4 @@
-import type { Check } from "./check-shape.ts"
+import type { Check } from "./check/check-shape.ts"
 import fileLength from "./check/file-length/file-length.ts"
 import importReach from "./check/import-reach/import-reach.ts"
 import pageNamedAsStated from "./check/page-named-as-stated/page-named-as-stated.ts"

@@ -1,4 +1,4 @@
-import type { CheckRun, Outcome } from "../check-shape.ts"
+import type { CheckRun, Outcome } from "../check/check-shape.ts"
 
 export function outcomesOf(ran: CheckRun, paths: readonly string[]): readonly Outcome[] {
   if ("threw" in ran) return []

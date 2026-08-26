@@ -1,4 +1,4 @@
-import type { Check } from "../../check-shape.ts"
+import type { Check } from "../check-shape.ts"
 import { carriesCode, outwardOf, specifiersIn } from "../../imports.ts"
 
 export const importReach: Check = {

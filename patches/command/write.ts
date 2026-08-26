@@ -5,7 +5,7 @@ import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "
 import { resolve } from "node:path"
 import { writerId } from "../../checks/act.ts"
 import { CHECKS } from "../../checks/checks.ts"
-import { applying, runGate } from "../../checks/gate/gate.ts"
+import { applying, runGate } from "../../checks/run/gate.ts"
 
 const HERE = realpathSync(resolve(import.meta.dir, "../.."))
 

@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Tree } from "./check-shape.ts"
+import type { Tree } from "../check/check-shape.ts"
 
 const BUFFER_CEILING = 64 * 1024 * 1024
 

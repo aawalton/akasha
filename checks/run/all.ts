@@ -1,4 +1,4 @@
-import type { Act, Check, CheckFailure, CheckRun, Tree } from "./check-shape.ts"
+import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check/check-shape.ts"
 
 const NO_ACT = "judges its author, so nothing it asks has an answer where no act is being judged"
 
