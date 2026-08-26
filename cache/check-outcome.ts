@@ -1,0 +1,31 @@
+import type { Outcome } from "../checks/check-shape.ts"
+import { answerAt, keepAnswer } from "./answer.ts"
+import type { Key } from "./key.ts"
+import { type Input, markOf } from "./mark.ts"
+
+export const OUTCOME_KIND = "outcome"
+
+export function outcomeMarkOf(
+  slug: string,
+  runtime: string,
+  closure: readonly Input[]
+): string {
+  return markOf(OUTCOME_KIND, slug, runtime, closure)
+}
+
+export function outcomeKeyOf(slug: string, mark: string, subject: string): Key {
+  return { kind: OUTCOME_KIND, name: slug, mark, subject }
+}
+
+export function keptOutcome(at: string, key: Key, path: string): Outcome | null {
+  const held = answerAt(at, key)
+  if (held === null || typeof held !== "object") return null
+  const reasons = (held as { reasons?: unknown }).reasons
+  if (!Array.isArray(reasons)) return null
+  if (!reasons.every((one) => typeof one === "string")) return null
+  return { slug: key.name, path, reasons }
+}
+
+export function keepOutcome(at: string, key: Key, outcome: Outcome): void {
+  keepAnswer(at, key, { reasons: outcome.reasons })
+}
