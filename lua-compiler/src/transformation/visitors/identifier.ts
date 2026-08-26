@@ -2,10 +2,10 @@ import * as ts from "typescript"
 import * as luaExpressions from "../../LuaAST-expressions"
 import {
   checkForLuaLibType,
-  createPromiseIdentifier,
   isPromiseClass,
   transformBuiltinIdentifierExpression,
 } from "../builtins"
+import { createPromiseIdentifier } from "../utils/lualib"
 import { tempSymbolId } from "../context/temp-symbol-id"
 import { type TransformationContext } from "../context/transformation-context"
 import { type FunctionVisitor } from "../context/visitors"
