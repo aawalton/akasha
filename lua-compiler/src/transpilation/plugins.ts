@@ -7,7 +7,7 @@ import type { Printer } from "../LuaPrinter-helpers"
 import * as performance from "../measure-performance"
 import type { Visitors } from "../transformation/context/visitors"
 import * as diagnosticFactories from "./diagnostics"
-import type { EmitFile, EmitHost, ProcessedFile } from "./utils"
+import type { EmitFile, EmitHost, ProcessedFile } from "./emit-host"
 
 export interface Plugin {
   visitors?: Visitors

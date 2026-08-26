@@ -6,7 +6,7 @@ import * as luaCore from "./LuaAST-core"
 import * as luaStatements from "./LuaAST-statements"
 import * as luaExpressions from "./LuaAST-expressions"
 import { shouldAllowUnicode } from "./transformation/utils/safe-names"
-import type { EmitHost } from "./transpilation/utils"
+import type { EmitHost } from "./transpilation/emit-host"
 
 const escapeStringRegExp = /[\b\f\n\r\t\v\\"\0]/g
 const escapeStringMap = new Map<string, string>([

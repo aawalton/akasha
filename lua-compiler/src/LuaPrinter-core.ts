@@ -7,7 +7,7 @@ import * as luaStatements from "./LuaAST-statements"
 import * as luaExpressions from "./LuaAST-expressions"
 import type { SourceChunk } from "./LuaPrinter-helpers"
 import { getEmitPath } from "./transpilation/program-paths"
-import type { EmitHost } from "./transpilation/utils"
+import type { EmitHost } from "./transpilation/emit-host"
 import { intersperse, normalizeSlashes } from "./utils"
 
 export interface LuaPrinterPrinters {

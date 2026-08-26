@@ -25,7 +25,7 @@ import {
   replaceRequireInSourceMap,
 } from "./resolve-require-replacement"
 import { getEmitPathRelativeToOutDir, getProjectRoot, getSourceDir } from "./program-paths"
-import type { EmitHost, ProcessedFile } from "./utils"
+import type { EmitHost, ProcessedFile } from "./emit-host"
 
 const resolver = resolve.ResolverFactory.createResolver({
   extensions: [".lua"],

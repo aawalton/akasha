@@ -21,7 +21,7 @@ import {
   type SourceChunk,
 } from "./LuaPrinter-helpers"
 import * as stmt from "./LuaPrinter-statements"
-import type { EmitHost } from "./transpilation/utils"
+import type { EmitHost } from "./transpilation/emit-host"
 
 export function createPrinter(printers: readonly Printer[]): Printer {
   if (printers.length === 0) {

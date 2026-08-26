@@ -17,7 +17,7 @@ import {
 import { requireLualibPrinter, requireLualibTranspiler } from "./lualib-builder-deps"
 import type { TransformationContext } from "./transformation/context/transformation-context"
 import type { Plugin } from "./transpilation/plugins"
-import type { EmitHost } from "./transpilation/utils"
+import type { EmitHost } from "./transpilation/emit-host"
 import { cast } from "./utils"
 
 function isExportTable(node: luaCore.Node): node is luaExpressions.Identifier {

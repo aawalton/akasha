@@ -10,7 +10,7 @@ import {
   resolveRecursiveLualibFeatures,
 } from "./LuaLib"
 import { buildLuaLib } from "./lualib-builder"
-import type { EmitHost } from "./transpilation/utils"
+import type { EmitHost } from "./transpilation/emit-host"
 
 const LUALIB_LOCAL_MATCH_SCHEMA = z
   .tuple([z.string(), z.string(), z.string()])
