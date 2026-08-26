@@ -2,7 +2,8 @@
 import { readFileSync, statSync } from "node:fs"
 import { difference } from "../repo/difference.ts"
 import { blobId, readBlob } from "../repo/git.ts"
-import { countLines, type Reading, type Span } from "./read-log.ts"
+import { countLines, type Reading } from "./read-log.ts"
+import type { Span } from "./read-records.ts"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
 import { decodeUtf8, leadingBytes } from "./command/read/utf8-body.ts"
 
