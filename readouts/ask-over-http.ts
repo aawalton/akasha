@@ -4,6 +4,8 @@ export type Fetching = (url: string, init: RequestInit) => Promise<Response>
 
 const CEILING_MS = 5_000
 
+export const PAGE_QUERY_ORIGIN = "http://127.0.0.1:8787"
+
 export function askedUrl(origin: string, querySlug: string, given: Given): string {
   const carried = new URLSearchParams()
   for (const [key, held] of Object.entries(given)) {
