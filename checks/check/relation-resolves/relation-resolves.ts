@@ -225,10 +225,13 @@ function unresolvedBy(wanted: readonly Wanted[], bearers: Bearers): readonly Che
     if (bearers.holds(one.want)) continue
     failures.push({ path: one.path, reason: unresolvable(one.want) })
   }
+  return failures
+}
+
+function withUnread(failures: readonly CheckFailure[], bearers: Bearers): readonly CheckFailure[] {
   const first = failures[0]
   if (first === undefined || bearers.missed.size === 0) return failures
-  for (const reason of unread(bearers.missed)) failures.push({ path: first.path, reason })
-  return failures
+  return [...failures, ...unread(bearers.missed).map((reason) => ({ path: first.path, reason }))]
 }
 
 function orphanedBy(batch: Batch): readonly CheckFailure[] {
@@ -249,7 +252,7 @@ function orphanedBy(batch: Batch): readonly CheckFailure[] {
   if (going.size === 0 && wanted.length === 0) return []
   const bearers = bearersFor(remainingRead(tree, types, chainFor))
   const failures: CheckFailure[] = [...unresolvedBy(wanted, bearers)]
-  if (going.size === 0) return failures
+  if (going.size === 0) return withUnread(failures, bearers)
   const candidates = new Set([...namingGone(gone, tree.root), ...batch.paths])
   for (const path of [...candidates].sort()) {
     const relPath = path.slice(tree.root.length + 1)
@@ -277,7 +280,7 @@ function orphanedBy(batch: Batch): readonly CheckFailure[] {
       }
     }
   }
-  return failures
+  return withUnread(failures, bearers)
 }
 
 export const relationResolves: Check = {
