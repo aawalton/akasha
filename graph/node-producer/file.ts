@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { BORROWED_PAGE_TYPES, BORROWED_REPO, borrowedPages } from "../../page/borrowed.ts"
 import { blockOf, PAGE_TYPE_SLUG, stringAt, textAt } from "../../page/text.ts"
-import type { BuildContext, NodeProducer, NodeRef } from "../node-shape.ts"
+import type { NodeProducer, NodeRef } from "../node-shape.ts"
 
 export const FILE_NODE_KIND = "file"
 

@@ -15,7 +15,8 @@ export function textAt(root: string, relPath: string): string | null {
 
 export function blockOf(text: string): { fm: Frontmatter; why: string | null } {
   const fm = parseFrontmatter(text)
-  if (!fm.present) return { fm, why: "it opens with no `---` frontmatter block, so it declares nothing" }
+  if (!fm.present)
+    return { fm, why: "it opens with no `---` frontmatter block, so it declares nothing" }
   if (fm.error !== null) return { fm, why: `its frontmatter cannot be accounted for: ${fm.error}` }
   return { fm, why: null }
 }
