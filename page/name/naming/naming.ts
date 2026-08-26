@@ -35,6 +35,12 @@ export function pageStem(text: string): string {
   return stem.length <= STEM_CEILING ? stem : stem.slice(0, STEM_CEILING).replace(EDGE_DASHES, "")
 }
 
+export function stemOfPath(relPath: string): string {
+  const stem = relPath.split("/").pop() ?? relPath
+  const dot = stem.indexOf(".")
+  return dot <= 0 ? stem : stem.slice(0, dot)
+}
+
 export function idDerivedFrom(at: string): string {
   const namespace = Buffer.from(AT_NAMESPACE.replaceAll("-", ""), "hex")
   const digest = createHash("sha1").update(namespace).update(at, "utf8").digest()
@@ -55,8 +61,7 @@ export function slugOfFilePage(stated: string | null, at: string | null): string
   const relPath = at.slice(at.indexOf(":") + 1)
   if (!relPath.endsWith(MARKDOWN)) return null
   const stem = relPath.split("/").pop() ?? relPath
-  const dot = stem.indexOf(".")
-  const named = dot <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : stem.slice(0, dot)
+  const named = stem.indexOf(".") <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : stemOfPath(stem)
   return named === "" ? null : named
 }
 
