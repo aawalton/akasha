@@ -1,5 +1,5 @@
 import { isAttachmentFile } from "../../../page/attachment-file.ts"
-import { diskFileTree, type FileTree } from "../../../page/file-tree.ts"
+import type { FileTree } from "../../../page/file-tree.ts"
 import { stemOf } from "../../../page/name/name.ts"
 import {
   blockOf,
@@ -25,6 +25,7 @@ import {
 } from "../../../page/relation/relation.ts"
 import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
 import type { Batch, Check, CheckFailure, Tree } from "../check-shape.ts"
+import { treeOver } from "../page-holds-to-its-type/staged-tree.ts"
 
 const SLUG = "relation-resolves"
 
@@ -146,13 +147,15 @@ function remainingRead(tree: Tree, types: readonly PageType[], chainFor: Chains)
   }
 }
 
-function orphanedBy(tree: Tree): readonly CheckFailure[] {
+function orphanedBy(batch: Batch): readonly CheckFailure[] {
+  const tree = batch.tree
   const gone = tree
     .gone()
     .map((path) => path.slice(tree.root.length + 1))
     .filter((relPath) => isPage(relPath))
   if (gone.length === 0) return []
-  const defs = diskFileTree(rootsHere())
+  const defs = treeOver(batch)
+  if (defs === null) return []
   const types = registryOf(defs)
   const chainFor = chainsOver(defs)
   const going = valuesGoing(gone, tree.root, defs, types, chainFor)
@@ -191,7 +194,7 @@ function orphanedBy(tree: Tree): readonly CheckFailure[] {
 export const relationResolves: Check = {
   slug: SLUG,
   needs: "tree",
-  run: ({ tree }: Batch): readonly CheckFailure[] => orphanedBy(tree),
+  run: (batch: Batch): readonly CheckFailure[] => orphanedBy(batch),
 }
 
 export default relationResolves
