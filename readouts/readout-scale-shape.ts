@@ -1,11 +1,11 @@
 import type { DailyTierColor } from "./circle/tier/tier.ts"
 import {
-  continuousCircle,
+  continuousRing,
   type DescendingRung,
-  descendingCircle,
-  noDataCircle,
+  descendingRing,
+  noDataRing,
   type ReadingUnit,
-  type StoplightCircle,
+  type StoplightRing,
   type TierLadder,
 } from "./circle/circle.ts"
 
@@ -128,13 +128,13 @@ export function readoutLadder(scale: ReadoutScale): ReadoutLadder {
   if (shape.direction === "descending") {
     throw new Error(
       `readoutLadder: ${readoutScaleDoc(scale.slug)} falls from black through blue, so a lower reading ` +
-        "is the better one and there is no ladder to climb; draw it with `readoutTierCircle`"
+        "is the better one and there is no ladder to climb; draw it with `readoutTierRing`"
     )
   }
   return climbFrom(shape)
 }
 
-export interface ReadoutTierCircle {
+export interface ReadoutTierRing {
   readonly tier: ReadoutTierColor
   readonly reading: string
   readonly nextTier: ReadoutTierColor | null
@@ -145,11 +145,11 @@ function drawAgainst(
   shape: ReadoutShape,
   reading: number | null,
   unit: ReadingUnit
-): ReadoutTierCircle {
-  if (reading === null) return noDataCircle(unit)
-  if (shape.direction === "descending") return descendingCircle(reading, fallFrom(shape))
+): ReadoutTierRing {
+  if (reading === null) return noDataRing(unit)
+  if (shape.direction === "descending") return descendingRing(reading, fallFrom(shape))
   const blackAt = blackAtOf(shape)
-  return continuousCircle({
+  return continuousRing({
     reading,
     ladder: climbFrom(shape),
     unit,
@@ -157,11 +157,11 @@ function drawAgainst(
   })
 }
 
-function earnedOver(drawn: ReadoutTierCircle, shape: ReadoutShape): ReadoutTierCircle {
+function earnedOver(drawn: ReadoutTierRing, shape: ReadoutShape): ReadoutTierRing {
   const earned = shape.earnedTier
   if (earned === null) {
     throw new Error(
-      `readoutTierCircle: a reading against ${readoutScaleDoc(shape.slug)} was drawn as earned, and ` +
+      `readoutTierRing: a reading against ${readoutScaleDoc(shape.slug)} was drawn as earned, and ` +
         "that scale states no `earned-color-slug`"
     )
   }
@@ -170,28 +170,28 @@ function earnedOver(drawn: ReadoutTierCircle, shape: ReadoutShape): ReadoutTierC
   return { ...drawn, tier: earned, nextTier: null, progress: null }
 }
 
-export function readoutTierCircle(args: {
+export function readoutTierRing(args: {
   readonly reading: number | null
   readonly scale: ReadoutScale
   readonly unit: ReadingUnit
   readonly earned?: boolean
-}): ReadoutTierCircle {
+}): ReadoutTierRing {
   const shape = readoutShape(args.scale)
   const drawn = drawAgainst(shape, args.reading, args.unit)
   return args.earned === true ? earnedOver(drawn, shape) : drawn
 }
 
-export function readoutCircle(args: {
+export function readoutRing(args: {
   readonly reading: number | null
   readonly scale: ReadoutScale
   readonly unit: ReadingUnit
   readonly earned?: boolean
-}): StoplightCircle {
-  const drawn = readoutTierCircle(args)
+}): StoplightRing {
+  const drawn = readoutTierRing(args)
   if (drawn.tier === "orange" || drawn.nextTier === "orange") {
     throw new Error(
-      `readoutCircle: ${readoutScaleDoc(args.scale.slug)} draws an orange tier, and \`DailyTierColor\` ` +
-        "carries no orange. Draw it with `readoutTierCircle`, which answers `ReadoutTierColor`"
+      `readoutRing: ${readoutScaleDoc(args.scale.slug)} draws an orange tier, and \`DailyTierColor\` ` +
+        "carries no orange. Draw it with `readoutTierRing`, which answers `ReadoutTierColor`"
     )
   }
   return {

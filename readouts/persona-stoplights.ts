@@ -3,8 +3,8 @@ import type { DailyTierColor } from "./circle/tier/tier.ts"
 import type { ReadoutSortOrder } from "./readout-catalog.ts"
 import { readingUnitOf } from "./circle/measure/measure.ts"
 import { type Ask, drawnOrder, type ResolvedReadout, readReadoutGroupReadings, resolveReadoutGroup } from "./readout-resolver.ts"
-import { readoutCircle } from "./readout-scale-shape.ts"
-import type { StoplightCircle } from "./circle/circle.ts"
+import { readoutRing } from "./readout-scale-shape.ts"
+import type { StoplightRing } from "./circle/circle.ts"
 import { type PersonaDayUnits, readPersonaDaily } from "./daily-stoplights.ts"
 
 const PERSONAS_GROUP_SLUG = "personas"
@@ -16,7 +16,7 @@ export interface PersonaNamedUnits extends PersonaDayUnits {
   readonly slug: string | null
 }
 
-export interface PersonaStoplight extends StoplightCircle {
+export interface PersonaStoplight extends StoplightRing {
   readonly persona: string
   readonly value: string
 }
@@ -51,7 +51,7 @@ export function drawPersonaStoplights(
   return drawnPersonaOrder(readouts, bySlug, sortOrder).map((readout) => ({
     persona: readout.label,
     value: bySlug.get(readout.slug)?.valueSlug ?? "",
-    ...readoutCircle({
+    ...readoutRing({
       reading: readings.get(readout.slug) ?? null,
       scale: readout.scale,
       unit: readingUnitOf(readout.unit),
@@ -86,7 +86,7 @@ export function drawPersonaDayColours(
       name: readout.label,
       valueSlug: persona.valueSlug,
       greenDayUnits: reading ?? 0,
-      tier: readoutCircle({
+      tier: readoutRing({
         reading,
         scale: readout.scale,
         unit: readingUnitOf(readout.unit),

@@ -1,8 +1,8 @@
 import type { DailyTierColor } from "./circle/tier/tier.ts"
 import { readingUnitOf } from "./circle/measure/measure.ts"
 import { type Ask, type ReadoutReading, type ResolvedReadout, readReadoutReading, resolveReadoutGroup, resolveReadoutGroupLegend } from "./readout-resolver.ts"
-import { readoutCircle } from "./readout-scale-shape.ts"
-import { type StoplightCircle, unknownCircle } from "./circle/circle.ts"
+import { readoutRing } from "./readout-scale-shape.ts"
+import { type StoplightRing, unknownRing } from "./circle/circle.ts"
 
 const COLOR_GLYPH: Readonly<Record<DailyTierColor, string>> = {
   black: "⚫",
@@ -20,12 +20,12 @@ export async function getUpkeepLegend(): Promise<string> {
   return resolveReadoutGroupLegend(UPKEEP_GROUP_SLUG)
 }
 
-export interface ReadoutGroupCircle extends StoplightCircle {
+export interface ReadoutGroupRing extends StoplightRing {
   readonly key: string
   readonly label: string
 }
 
-export interface UpkeepStoplight extends StoplightCircle {
+export interface UpkeepStoplight extends StoplightRing {
   readonly habit: string
   readonly label: string
 }
@@ -60,14 +60,14 @@ async function readGroupReadings(
   return read
 }
 
-export function groupCircle(
+export function groupRing(
   readout: ResolvedReadout,
   answered: ReadoutReading
-): ReadoutGroupCircle {
+): ReadoutGroupRing {
   const drawn =
     answered.reading === null
-      ? unknownCircle()
-      : readoutCircle({
+      ? unknownRing()
+      : readoutRing({
           reading: answered.reading,
           scale: readout.scale,
           unit: readingUnitOf(readout.unit),
@@ -76,20 +76,20 @@ export function groupCircle(
   return { key: readout.wireKey, label: readout.label, ...drawn }
 }
 
-export async function readReadoutGroupCircles(
+export async function readReadoutGroupRings(
   groupSlug: string,
   args: UpkeepArgs
-): Promise<readonly ReadoutGroupCircle[]> {
+): Promise<readonly ReadoutGroupRing[]> {
   const group = await resolveReadoutGroup(groupSlug)
   const read = await readGroupReadings(group.readouts, args)
-  return group.readouts.map((readout) => groupCircle(readout, read.get(readout.slug) ?? UNANSWERED))
+  return group.readouts.map((readout) => groupRing(readout, read.get(readout.slug) ?? UNANSWERED))
 }
 
 export function upkeepStoplight(
   readout: ResolvedReadout,
   answered: ReadoutReading
 ): UpkeepStoplight {
-  const { key, ...rest } = groupCircle(readout, answered)
+  const { key, ...rest } = groupRing(readout, answered)
   return { habit: key, ...rest }
 }
 
@@ -97,7 +97,7 @@ export async function getReadoutGroupStoplights(
   groupSlug: string,
   args: UpkeepArgs
 ): Promise<readonly UpkeepStoplight[]> {
-  return (await readReadoutGroupCircles(groupSlug, args)).map(({ key, ...rest }) => ({
+  return (await readReadoutGroupRings(groupSlug, args)).map(({ key, ...rest }) => ({
     habit: key,
     ...rest,
   }))

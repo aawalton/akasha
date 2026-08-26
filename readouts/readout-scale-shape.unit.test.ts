@@ -1,10 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import {
   type ReadoutScale,
-  readoutCircle,
+  readoutRing,
   readoutLadder,
   readoutShape,
-  readoutTierCircle,
+  readoutTierRing,
 } from "./readout-scale-shape.ts"
 
 const PLANT_GRAMS: ReadoutScale = {
@@ -150,7 +150,7 @@ describe("readoutLadder — an ascending scale's rungs above black", () => {
   })
 })
 
-describe("readoutCircle — an ascending reading drawn against a resolved scale", () => {
+describe("readoutRing — an ascending reading drawn against a resolved scale", () => {
   test.each([
     [null, "black"],
     [0, "black"],
@@ -163,11 +163,11 @@ describe("readoutCircle — an ascending reading drawn against a resolved scale"
     [319, "green"],
     [320, "blue"],
   ] as const)("%p grams reads %s against 40/80/160/320", (grams, tier) => {
-    expect(readoutCircle({ reading: grams, scale: PLANT_GRAMS, unit: "whole" }).tier).toBe(tier)
+    expect(readoutRing({ reading: grams, scale: PLANT_GRAMS, unit: "whole" }).tier).toBe(tier)
   })
 
   test("the Plants circle as the documents draw it on a 160g day", () => {
-    expect(readoutCircle({ reading: 160, scale: PLANT_GRAMS, unit: "whole" })).toEqual({
+    expect(readoutRing({ reading: 160, scale: PLANT_GRAMS, unit: "whole" })).toEqual({
       tier: "green",
       reading: "160",
       nextTier: "blue",
@@ -177,7 +177,7 @@ describe("readoutCircle — an ascending reading drawn against a resolved scale"
 
   test("moving green-at on the scale moves the tier, which is the whole point", () => {
     const raised: ReadoutScale = { ...PLANT_GRAMS, greenAt: 200 }
-    expect(readoutCircle({ reading: 160, scale: raised, unit: "whole" })).toEqual({
+    expect(readoutRing({ reading: 160, scale: raised, unit: "whole" })).toEqual({
       tier: "yellow",
       reading: "160",
       nextTier: "green",
@@ -186,13 +186,13 @@ describe("readoutCircle — an ascending reading drawn against a resolved scale"
   })
 
   test("`unit` here is the formatting mode, never the readout's grams", () => {
-    expect(readoutCircle({ reading: 160, scale: PLANT_GRAMS, unit: "hours" }).reading).toBe("160")
-    expect(readoutCircle({ reading: 7.5, scale: PLANT_GRAMS, unit: "hours" }).reading).toBe("7.5")
-    expect(readoutCircle({ reading: 7.5, scale: PLANT_GRAMS, unit: "whole" }).reading).toBe("8")
+    expect(readoutRing({ reading: 160, scale: PLANT_GRAMS, unit: "hours" }).reading).toBe("160")
+    expect(readoutRing({ reading: 7.5, scale: PLANT_GRAMS, unit: "hours" }).reading).toBe("7.5")
+    expect(readoutRing({ reading: 7.5, scale: PLANT_GRAMS, unit: "whole" }).reading).toBe("8")
   })
 })
 
-describe("readoutCircle — `black-at` puts black somewhere other than zero", () => {
+describe("readoutRing — `black-at` puts black somewhere other than zero", () => {
   test.each([
     [-20, "black"],
     [-12, "black"],
@@ -202,11 +202,11 @@ describe("readoutCircle — `black-at` puts black somewhere other than zero", ()
     [0, "green"],
     [4, "blue"],
   ] as const)("%p surplus hours reads %s", (hours, tier) => {
-    expect(readoutCircle({ reading: hours, scale: SURPLUS_HOURS, unit: "hours" }).tier).toBe(tier)
+    expect(readoutRing({ reading: hours, scale: SURPLUS_HOURS, unit: "hours" }).tier).toBe(tier)
   })
 
   test("progress runs from `black-at` rather than from zero", () => {
-    expect(readoutCircle({ reading: -10, scale: SURPLUS_HOURS, unit: "hours" })).toEqual({
+    expect(readoutRing({ reading: -10, scale: SURPLUS_HOURS, unit: "hours" })).toEqual({
       tier: "black",
       reading: "-10",
       nextTier: "red",
@@ -215,20 +215,20 @@ describe("readoutCircle — `black-at` puts black somewhere other than zero", ()
   })
 
   test("an ascending scale stating no `black-at` still reaches black below its lowest rung", () => {
-    expect(readoutCircle({ reading: 39, scale: PLANT_GRAMS, unit: "whole" }).tier).toBe("black")
+    expect(readoutRing({ reading: 39, scale: PLANT_GRAMS, unit: "whole" }).tier).toBe("black")
   })
 
   test("a rung takes the reading standing on it, so black beneath red at zero leaves zero red", () => {
     const blackUnderZero: ReadoutScale = { slug: "s", blackAt: -4, redAt: 0, yellowAt: 4 }
-    expect(readoutCircle({ reading: 0, scale: blackUnderZero, unit: "hours" }).tier).toBe("red")
-    expect(readoutCircle({ reading: -0.1, scale: blackUnderZero, unit: "hours" }).tier).toBe(
+    expect(readoutRing({ reading: 0, scale: blackUnderZero, unit: "hours" }).tier).toBe("red")
+    expect(readoutRing({ reading: -0.1, scale: blackUnderZero, unit: "hours" }).tier).toBe(
       "black"
     )
   })
 
   test("a reading past `black-at` has no further tier to fall to, so it sweeps no arc", () => {
     const blackUnderZero: ReadoutScale = { slug: "s", blackAt: -4, redAt: 0, yellowAt: 4 }
-    expect(readoutCircle({ reading: -40, scale: blackUnderZero, unit: "hours" })).toEqual({
+    expect(readoutRing({ reading: -40, scale: blackUnderZero, unit: "hours" })).toEqual({
       tier: "black",
       reading: "-40",
       nextTier: "red",
@@ -237,7 +237,7 @@ describe("readoutCircle — `black-at` puts black somewhere other than zero", ()
   })
 })
 
-describe("readoutCircle — a descending reading, where lower is better", () => {
+describe("readoutRing — a descending reading, where lower is better", () => {
   test.each([
     [0, "blue"],
     [1, "green"],
@@ -246,11 +246,11 @@ describe("readoutCircle — a descending reading, where lower is better", () => 
     [4, "red"],
     [10, "red"],
   ] as const)("%p open reads %s against 4/2/1/0", (open, tier) => {
-    expect(readoutCircle({ reading: open, scale: LIVE_COUNT, unit: "whole" }).tier).toBe(tier)
+    expect(readoutRing({ reading: open, scale: LIVE_COUNT, unit: "whole" }).tier).toBe(tier)
   })
 
   test("two of four open, halfway back toward one", () => {
-    expect(readoutCircle({ reading: 2, scale: LIVE_COUNT, unit: "whole" })).toEqual({
+    expect(readoutRing({ reading: 2, scale: LIVE_COUNT, unit: "whole" })).toEqual({
       tier: "yellow",
       reading: "2",
       nextTier: "green",
@@ -267,11 +267,11 @@ describe("readoutCircle — a descending reading, where lower is better", () => 
     [100, "black"],
     [250, "black"],
   ] as const)("%p waiting reads %s against black 100 / red 10 / yellow 1 / blue 0", (n, tier) => {
-    expect(readoutCircle({ reading: n, scale: DAILY_INBOX, unit: "whole" }).tier).toBe(tier)
+    expect(readoutRing({ reading: n, scale: DAILY_INBOX, unit: "whole" }).tier).toBe(tier)
   })
 })
 
-describe("readoutTierCircle — orange, which only `backlog-count` states", () => {
+describe("readoutTierRing — orange, which only `backlog-count` states", () => {
   test.each([
     [0, "yellow"],
     [10, "yellow"],
@@ -282,11 +282,11 @@ describe("readoutTierCircle — orange, which only `backlog-count` states", () =
     [31, "black"],
     [60, "black"],
   ] as const)("%p waiting reads %s against yellow 0 / orange 11 / red 21 / black 31", (n, tier) => {
-    expect(readoutTierCircle({ reading: n, scale: BACKLOG_COUNT, unit: "whole" }).tier).toBe(tier)
+    expect(readoutTierRing({ reading: n, scale: BACKLOG_COUNT, unit: "whole" }).tier).toBe(tier)
   })
 
   test("eleven waiting is one item into orange, nine tenths of the way back to yellow", () => {
-    expect(readoutTierCircle({ reading: 11, scale: BACKLOG_COUNT, unit: "whole" })).toEqual({
+    expect(readoutTierRing({ reading: 11, scale: BACKLOG_COUNT, unit: "whole" })).toEqual({
       tier: "orange",
       reading: "11",
       nextTier: "yellow",
@@ -294,41 +294,41 @@ describe("readoutTierCircle — orange, which only `backlog-count` states", () =
     })
   })
 
-  test("readoutCircle refuses orange rather than drawing the neighbouring tier", () => {
-    expect(() => readoutCircle({ reading: 11, scale: BACKLOG_COUNT, unit: "whole" })).toThrow(
+  test("readoutRing refuses orange rather than drawing the neighbouring tier", () => {
+    expect(() => readoutRing({ reading: 11, scale: BACKLOG_COUNT, unit: "whole" })).toThrow(
       /orange/
     )
   })
 })
 
-describe("readoutTierCircle — the tier a scale awards for clearing rather than for the count", () => {
+describe("readoutTierRing — the tier a scale awards for clearing rather than for the count", () => {
   test("a cleared inbox that refilled is green, not the yellow its count says", () => {
     expect(
-      readoutTierCircle({ reading: 5, scale: DAILY_INBOX, unit: "whole", earned: true })
+      readoutTierRing({ reading: 5, scale: DAILY_INBOX, unit: "whole", earned: true })
     ).toEqual({ tier: "green", reading: "5", nextTier: null, progress: null })
   })
 
   test("a cleared inbox deep in the red is still green", () => {
     expect(
-      readoutTierCircle({ reading: 250, scale: DAILY_INBOX, unit: "whole", earned: true }).tier
+      readoutTierRing({ reading: 250, scale: DAILY_INBOX, unit: "whole", earned: true }).tier
     ).toBe("green")
   })
 
   test("an inbox standing at zero keeps blue, which is better than earned green", () => {
     expect(
-      readoutTierCircle({ reading: 0, scale: DAILY_INBOX, unit: "whole", earned: true })
+      readoutTierRing({ reading: 0, scale: DAILY_INBOX, unit: "whole", earned: true })
     ).toEqual({ tier: "blue", reading: "0", nextTier: null, progress: null })
   })
 
   test("an inbox nobody cleared is drawn by its count alone", () => {
-    expect(readoutTierCircle({ reading: 5, scale: DAILY_INBOX, unit: "whole" })).toEqual(
-      readoutTierCircle({ reading: 5, scale: DAILY_INBOX, unit: "whole", earned: false })
+    expect(readoutTierRing({ reading: 5, scale: DAILY_INBOX, unit: "whole" })).toEqual(
+      readoutTierRing({ reading: 5, scale: DAILY_INBOX, unit: "whole", earned: false })
     )
   })
 
   test("earning against a scale that awards nothing refuses", () => {
     expect(() =>
-      readoutTierCircle({ reading: 160, scale: PLANT_GRAMS, unit: "whole", earned: true })
+      readoutTierRing({ reading: 160, scale: PLANT_GRAMS, unit: "whole", earned: true })
     ).toThrow(/earned-color-slug/)
   })
 })

@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import type { ResolvedReadout } from "./readout-resolver.ts"
 import type { ReadoutScale } from "./readout-scale-shape.ts"
-import { groupCircle, upkeepStoplight } from "./upkeep-stoplights.ts"
+import { groupRing, upkeepStoplight } from "./upkeep-stoplights.ts"
 
 const PLANT_SCALE: ReadoutScale = {
   slug: "readout-scale-plant-grams",
@@ -36,7 +36,7 @@ function readoutOf(
 describe("`Every difference between readouts stands in data, not code`", () => {
   test("the key the shipped widget looks for is the one the readout states", () => {
     expect(
-      groupCircle(
+      groupRing(
         readoutOf(
           "upkeep-plants",
           "Plants",
@@ -51,7 +51,7 @@ describe("`Every difference between readouts stands in data, not code`", () => {
 
   test("a readout stating no key of its own answers to its slug", () => {
     expect(
-      groupCircle(readoutOf("readout-hygiene", "Hygiene", "green day units", PLANT_SCALE), {
+      groupRing(readoutOf("readout-hygiene", "Hygiene", "green day units", PLANT_SCALE), {
         reading: 1,
         earned: false,
       }).key
@@ -60,7 +60,7 @@ describe("`Every difference between readouts stands in data, not code`", () => {
 
   test("the key a readout states is carried whatever its slug says", () => {
     expect(
-      groupCircle(
+      groupRing(
         readoutOf("readout-somewhere-else", "Tasks", "tasks", PLANT_SCALE, "temperTasks"),
         { reading: 1, earned: false }
       ).key

@@ -1,7 +1,7 @@
 import type { DailyTierColor } from "./circle/tier/tier.ts"
 import { resolveReadoutGroupLegend } from "./readout-resolver.ts"
-import type { StoplightCircle } from "./circle/circle.ts"
-import { readReadoutGroupCircles, type UpkeepArgs } from "./upkeep-stoplights.ts"
+import type { StoplightRing } from "./circle/circle.ts"
+import { readReadoutGroupRings, type UpkeepArgs } from "./upkeep-stoplights.ts"
 
 const INBOX_GROUP_SLUG = "inboxes"
 
@@ -17,7 +17,7 @@ export async function getInboxLegend(): Promise<string> {
   return resolveReadoutGroupLegend(INBOX_GROUP_SLUG)
 }
 
-export interface InboxStoplight extends StoplightCircle {
+export interface InboxStoplight extends StoplightRing {
   readonly inbox: string
   readonly label: string
 }
@@ -25,7 +25,7 @@ export interface InboxStoplight extends StoplightCircle {
 export type InboxArgs = UpkeepArgs
 
 export async function getInboxStoplightTiers(args: InboxArgs): Promise<readonly InboxStoplight[]> {
-  return (await readReadoutGroupCircles(INBOX_GROUP_SLUG, args)).map(({ key, ...rest }) => ({
+  return (await readReadoutGroupRings(INBOX_GROUP_SLUG, args)).map(({ key, ...rest }) => ({
     inbox: key,
     ...rest,
   }))

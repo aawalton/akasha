@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import type { DailyTierColor } from "./tier/tier.ts"
-import { readoutCircle } from "../readout-scale-shape.ts"
+import { readoutRing } from "../readout-scale-shape.ts"
 import type { ReadoutScale } from "../readout-scale-shape.ts"
 
 const TIER_RANK: Readonly<Record<DailyTierColor, number>> = {
@@ -35,7 +35,7 @@ function arcOverruns(
 describe("an arc never runs more than one tier above the ring it sits on", () => {
   test("a reading drawn against an ascending scale, wherever on it the reading falls", () => {
     const drawn = [-20, -1, 0, 0.5, 1, 40, 99, 100, 160, 199, 200, 400, 799, 800, 900, 3000].map(
-      (reading) => readoutCircle({ reading, scale: CALORIE_SCALE, unit: "whole" })
+      (reading) => readoutRing({ reading, scale: CALORIE_SCALE, unit: "whole" })
     )
     expect(arcOverruns(drawn)).toEqual([])
   })

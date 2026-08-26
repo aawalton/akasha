@@ -2,9 +2,9 @@ import { comparePageSeq } from "../page/page-seq.ts"
 import type { DailyTierColor } from "./circle/tier/tier.ts"
 import { readingUnitOf } from "./circle/measure/measure.ts"
 import { type Ask, askOr, type QueryRow, type ResolvedReadout, readReadoutGroupReadings, resolveReadoutGroup, resolveReadoutGroupLegend } from "./readout-resolver.ts"
-import { readoutCircle } from "./readout-scale-shape.ts"
+import { readoutRing } from "./readout-scale-shape.ts"
 import { GREEN_DAY_UNITS_LADDER, greenDayUnits } from "./circle/ladder/ladder.ts"
-import { ladderFloor, type StoplightCircle } from "./circle/circle.ts"
+import { ladderFloor, type StoplightRing } from "./circle/circle.ts"
 
 const VALUES_GROUP_SLUG = "values"
 
@@ -49,7 +49,7 @@ export function aggregateValueUnits(
   return sums
 }
 
-export interface ValueStoplight extends StoplightCircle {
+export interface ValueStoplight extends StoplightRing {
   readonly value: string
   readonly label: string
 }
@@ -102,7 +102,7 @@ export function drawValueStoplights(
   return readouts.map((readout) => {
     const serving = served.get(readout.slug)
     return {
-      ...readoutCircle({
+      ...readoutRing({
         reading: readings.get(readout.slug) ?? null,
         scale: readout.scale,
         unit: readingUnitOf(readout.unit),

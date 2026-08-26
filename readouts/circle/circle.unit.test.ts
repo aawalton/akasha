@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
   type DescendingRung,
-  descendingCircle,
+  descendingRing,
   fixed,
 } from "./circle.ts"
 
@@ -41,76 +41,76 @@ describe("a figure rounds on its decimal value, half away from zero", () => {
   })
 })
 
-describe("descendingCircle — the stroke carries the current tier's colour", () => {
+describe("descendingRing — the stroke carries the current tier's colour", () => {
   test("nothing waiting is the best rung on the daily inbox scale", () => {
-    expect(descendingCircle(0, DAILY_INBOX_RUNGS).tier).toBe("blue")
+    expect(descendingRing(0, DAILY_INBOX_RUNGS).tier).toBe("blue")
   })
 
   test("a reading inside a band takes that band's colour", () => {
-    expect(descendingCircle(5, DAILY_INBOX_RUNGS).tier).toBe("yellow")
-    expect(descendingCircle(50, DAILY_INBOX_RUNGS).tier).toBe("red")
+    expect(descendingRing(5, DAILY_INBOX_RUNGS).tier).toBe("yellow")
+    expect(descendingRing(50, DAILY_INBOX_RUNGS).tier).toBe("red")
   })
 
   test("a reading on a rung takes that rung, not the one below", () => {
-    expect(descendingCircle(10, DAILY_INBOX_RUNGS).tier).toBe("red")
-    expect(descendingCircle(1, DAILY_INBOX_RUNGS).tier).toBe("yellow")
+    expect(descendingRing(10, DAILY_INBOX_RUNGS).tier).toBe("red")
+    expect(descendingRing(1, DAILY_INBOX_RUNGS).tier).toBe("yellow")
   })
 })
 
-describe("descendingCircle — a reading past either end keeps its stroke", () => {
+describe("descendingRing — a reading past either end keeps its stroke", () => {
   test("past the worst rung there is no arc to draw", () => {
-    const circle = descendingCircle(250, DAILY_INBOX_RUNGS)
+    const circle = descendingRing(250, DAILY_INBOX_RUNGS)
     expect(circle.tier).toBe("black")
     expect(circle.nextTier).toBeNull()
     expect(circle.progress).toBeNull()
   })
 
   test("at the best rung there is nothing better to run toward", () => {
-    const circle = descendingCircle(0, DAILY_INBOX_RUNGS)
+    const circle = descendingRing(0, DAILY_INBOX_RUNGS)
     expect(circle.nextTier).toBeNull()
     expect(circle.progress).toBeNull()
   })
 
   test("a band only one reading wide is not between two rungs", () => {
-    const circle = descendingCircle(1, LIVE_COUNT_RUNGS)
+    const circle = descendingRing(1, LIVE_COUNT_RUNGS)
     expect(circle.tier).toBe("green")
     expect(circle.nextTier).toBeNull()
     expect(circle.progress).toBeNull()
   })
 })
 
-describe("descendingCircle — the arc carries the next tier's colour, skipping none", () => {
+describe("descendingRing — the arc carries the next tier's colour, skipping none", () => {
   test("yellow arcs to green though the scale's next rung is blue", () => {
-    expect(descendingCircle(5, DAILY_INBOX_RUNGS).nextTier).toBe("green")
+    expect(descendingRing(5, DAILY_INBOX_RUNGS).nextTier).toBe("green")
   })
 
   test("red arcs to yellow, the tier that actually follows it", () => {
-    expect(descendingCircle(50, DAILY_INBOX_RUNGS).nextTier).toBe("yellow")
+    expect(descendingRing(50, DAILY_INBOX_RUNGS).nextTier).toBe("yellow")
   })
 })
 
-describe("descendingCircle — the arc measures the band, never the whole scale", () => {
+describe("descendingRing — the arc measures the band, never the whole scale", () => {
   test("the worst reading in a band has covered none of it", () => {
-    expect(descendingCircle(9, DAILY_INBOX_RUNGS).progress).toBe(0)
-    expect(descendingCircle(3, LIVE_COUNT_RUNGS).progress).toBe(0)
+    expect(descendingRing(9, DAILY_INBOX_RUNGS).progress).toBe(0)
+    expect(descendingRing(3, LIVE_COUNT_RUNGS).progress).toBe(0)
   })
 
   test("the yellow band spans the nine readings 1 to 9, so 5 has covered four of them", () => {
-    expect(descendingCircle(5, DAILY_INBOX_RUNGS).progress).toBeCloseTo(4 / 9, 12)
+    expect(descendingRing(5, DAILY_INBOX_RUNGS).progress).toBeCloseTo(4 / 9, 12)
   })
 
   test("the red band spans the ninety readings 10 to 99, so 50 has covered forty-nine", () => {
-    expect(descendingCircle(50, DAILY_INBOX_RUNGS).progress).toBeCloseTo(49 / 90, 12)
+    expect(descendingRing(50, DAILY_INBOX_RUNGS).progress).toBeCloseTo(49 / 90, 12)
   })
 
   test("the same reading sits differently on a narrower band", () => {
-    expect(descendingCircle(2, LIVE_COUNT_RUNGS).progress).toBeCloseTo(1 / 2, 12)
+    expect(descendingRing(2, LIVE_COUNT_RUNGS).progress).toBeCloseTo(1 / 2, 12)
   })
 })
 
-describe("descendingCircle — a scale with no rungs", () => {
+describe("descendingRing — a scale with no rungs", () => {
   test("reads black with no arc rather than raising", () => {
-    const circle = descendingCircle(3, [])
+    const circle = descendingRing(3, [])
     expect(circle.tier).toBe("black")
     expect(circle.nextTier).toBeNull()
     expect(circle.progress).toBeNull()

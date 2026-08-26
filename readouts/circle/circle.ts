@@ -13,7 +13,7 @@ export function ladderFloor(reading: number, ladder: DailyTierLadder): number {
 
 export type ReadingUnit = "ratio" | "hours" | "whole" | "level"
 
-export interface StoplightCircle {
+export interface StoplightRing {
   readonly tier: DailyTierColor
   readonly reading: string
   readonly nextTier: DailyTierColor | null
@@ -27,7 +27,7 @@ export interface TierRung<Color> {
 
 export type TierLadder<Color> = readonly TierRung<Color>[]
 
-export interface TierCircle<Color> {
+export interface TierRing<Color> {
   readonly tier: Color
   readonly reading: string
   readonly nextTier: Color | null
@@ -82,26 +82,26 @@ function arcTier<Color extends string>(
   return TIER_ORDER[base + 1] ?? nextTier
 }
 
-export function noDataCircle(unit: ReadingUnit): StoplightCircle {
+export function noDataRing(unit: ReadingUnit): StoplightRing {
   return { tier: "black", reading: formatReading(0, unit), nextTier: null, progress: null }
 }
 
 export const UNKNOWN_READING = "?"
 
-export function unknownCircle(): StoplightCircle {
+export function unknownRing(): StoplightRing {
   return { tier: "black", reading: UNKNOWN_READING, nextTier: null, progress: null }
 }
 
 const DISCARDED_COLOR: DailyTierColor = "black"
 
-export function continuousCircle<Color extends string = DailyTierColor>(args: {
+export function continuousRing<Color extends string = DailyTierColor>(args: {
   readonly reading: number | null
   readonly ladder: TierLadder<Color>
   readonly unit: ReadingUnit
   readonly baseline?: number
   readonly blackAt?: number
-}): TierCircle<Color | DailyTierColor> {
-  if (args.reading === null) return noDataCircle(args.unit)
+}): TierRing<Color | DailyTierColor> {
+  if (args.reading === null) return noDataRing(args.unit)
   const blackAt = args.blackAt ?? 0
   const thresholdsOnly: DailyTierLadder = args.ladder.map((step) => ({
     threshold: step.threshold - blackAt,
@@ -124,14 +124,14 @@ export interface DescendingRung<Color = DailyTierColor> {
   readonly color: Color
 }
 
-export function descendingCircle<Color extends string = DailyTierColor>(
+export function descendingRing<Color extends string = DailyTierColor>(
   reading: number,
   rungs: readonly DescendingRung<Color>[]
-): TierCircle<Color | DailyTierColor> {
+): TierRing<Color | DailyTierColor> {
   const found = rungs.findIndex((rung) => reading >= rung.at)
   const picked = found === -1 ? rungs.length - 1 : found
   const cur = rungs[picked]
-  if (cur === undefined) return noDataCircle("whole")
+  if (cur === undefined) return noDataRing("whole")
   const above = picked === 0 ? undefined : rungs[picked - 1]
   const below = rungs[picked + 1]
   const fullRing = above === undefined || below === undefined || above.at - cur.at <= 1
@@ -143,11 +143,11 @@ export function descendingCircle<Color extends string = DailyTierColor>(
   }
 }
 
-export function wholeUnitCircle(args: {
+export function wholeUnitRing(args: {
   readonly tier: DailyTierColor
   readonly reading: number
   readonly unit: ReadingUnit
-}): StoplightCircle {
+}): StoplightRing {
   return {
     tier: args.tier,
     reading: formatReading(args.reading, args.unit),
