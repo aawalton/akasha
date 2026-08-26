@@ -148,7 +148,7 @@ export function heldAt(
   return { repo, key, stem, type, fm, links: linkTargetsFrom(repo, key, text) }
 }
 
-export function statedOf(at: Held): Stated {
+export function statedOf(at: PageAt & { readonly fm: Frontmatter }): Stated {
   return {
     repo: at.repo,
     key: at.key,
