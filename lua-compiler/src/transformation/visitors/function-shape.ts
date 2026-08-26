@@ -4,7 +4,7 @@ import * as luaStatements from "../../LuaAST-statements"
 import * as luaExpressions from "../../LuaAST-expressions"
 import type { TransformationContext } from "../context/transformation-context"
 import { getExtensionKindForType } from "../utils/language-extensions"
-import { isFunctionType } from "../utils/typescript/types"
+import { isFunctionType } from "../utils/typescript/typescript"
 
 export function createCallableTable(functionExpression: luaExpressions.Expression): luaExpressions.Expression {
   if (luaExpressions.isFunctionExpression(functionExpression)) {

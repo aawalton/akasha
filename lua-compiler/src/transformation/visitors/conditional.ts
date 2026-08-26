@@ -11,7 +11,7 @@ import {
   type WithPrecedingStatements,
 } from "../utils/preceding-statements"
 import { performHoisting, ScopeType } from "../utils/scope"
-import { canBeFalsy } from "../utils/typescript/types"
+import { canBeFalsy } from "../utils/typescript/typescript"
 import { transformBlockOrStatement } from "./block"
 
 function transformProtectedConditionalExpression(

@@ -10,7 +10,7 @@ import { undefinedInArrayLiteral, unsupportedAccessorInObjectLiteral } from "../
 import { transformLuaLibFunction } from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
 import { trackSymbolReference } from "../utils/symbols"
-import { isArrayType } from "../utils/typescript/types"
+import { isArrayType } from "../utils/typescript/typescript"
 import { transformFunctionLikeDeclaration } from "./function"
 import { transformIdentifierWithSymbol } from "./identifier"
 import { transformPropertyName } from "./property-name"

@@ -5,7 +5,7 @@ import { unsupportedProperty } from "../utils/diagnostics"
 import { addToNumericExpression } from "../utils/lua-ast"
 import { transformLuaLibFunction } from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
-import { isArrayType, isNumberType } from "../utils/typescript/types"
+import { isArrayType, isNumberType } from "../utils/typescript/typescript"
 import { transformOptionalDeleteExpression } from "./optional-chaining"
 
 export const transformDeleteExpression: FunctionVisitor<ts.DeleteExpression> = (node, context) => {

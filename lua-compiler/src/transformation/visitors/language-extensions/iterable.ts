@@ -7,7 +7,7 @@ import {
   invalidMultiIterableWithoutDestructuring,
   invalidPairsIterableWithoutDestructuring,
 } from "../../utils/diagnostics"
-import { isReferenceType } from "../../utils/typescript/types"
+import { isReferenceType } from "../../utils/typescript/typescript"
 import { getVariableDeclarationBinding, transformForInitializer } from "../loops/utils"
 import { transformArrayBindingElement } from "../variable-declaration"
 import { isMultiReturnType } from "./multi"

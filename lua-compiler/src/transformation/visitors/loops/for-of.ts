@@ -10,7 +10,7 @@ import {
 } from "../../utils/language-extensions"
 import { transformLuaLibFunction } from "../../utils/lualib"
 import { LuaLibFeature } from "../../../LuaLib"
-import { isArrayType } from "../../utils/typescript/types"
+import { isArrayType } from "../../utils/typescript/typescript"
 import {
   transformForOfIterableStatement,
   transformForOfPairsIterableStatement,

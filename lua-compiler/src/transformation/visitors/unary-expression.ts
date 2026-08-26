@@ -7,7 +7,7 @@ import type { TransformationContext } from "../context/transformation-context"
 import type { FunctionVisitor } from "../context/visitors"
 import { transformLuaLibFunction } from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
-import { isNumberType } from "../utils/typescript/types"
+import { isNumberType } from "../utils/typescript/typescript"
 import { transformUnaryBitOperation } from "./binary-expression/bit"
 import {
   transformCompoundAssignmentExpression,

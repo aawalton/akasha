@@ -4,7 +4,7 @@ import * as luaExpressions from "../../LuaAST-expressions"
 import type { FunctionVisitor } from "../context/visitors"
 import { ContextType, getCallContextType } from "../utils/function-context"
 import { wrapInToStringForConcat } from "../utils/lua-ast"
-import { isStringType } from "../utils/typescript/types"
+import { isStringType } from "../utils/typescript/typescript"
 import { transformContextualCallExpression } from "./call"
 
 function getRawLiteral(node: ts.LiteralLikeNode): string {

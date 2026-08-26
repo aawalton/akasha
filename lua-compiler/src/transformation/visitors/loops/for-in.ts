@@ -3,7 +3,7 @@ import * as luaStatements from "../../../LuaAST-statements"
 import * as luaExpressions from "../../../LuaAST-expressions"
 import type { FunctionVisitor } from "../../context/visitors"
 import { forbiddenForIn } from "../../utils/diagnostics"
-import { isArrayType } from "../../utils/typescript/types"
+import { isArrayType } from "../../utils/typescript/typescript"
 import { transformForInitializer, transformLoopBody } from "./utils"
 
 export const transformForInStatement: FunctionVisitor<ts.ForInStatement> = (statement, context) => {

@@ -3,7 +3,7 @@ import * as luaExpressions from "../../LuaAST-expressions"
 import type { TransformationContext } from "../context/transformation-context"
 import { importLuaLibFeature, transformLuaLibFunction } from "../utils/lualib"
 import { LuaLibFeature } from "../../LuaLib"
-import { isNumberType } from "../utils/typescript/types"
+import { isNumberType } from "../utils/typescript/typescript"
 import { transformStringConstructorCall } from "./string"
 
 export function tryTransformBuiltinGlobalCall(
