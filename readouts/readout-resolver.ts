@@ -39,6 +39,16 @@ export function askThrough(ask: Ask): void {
   asking = ask
 }
 
+export function askOr(ask?: Ask): Ask {
+  const held = ask ?? asking
+  if (held === null) {
+    throw new Error(
+      "askOr: nothing was handed in to ask with, and nothing was set with `askThrough`"
+    )
+  }
+  return held
+}
+
 const DAY_ARGUMENT_TYPE = "calendar-date"
 
 export function readoutQueryDoc(slug: string): string {

@@ -13,3 +13,13 @@ export const FAITH_LEARN_DAILY_LADDER: DailyTierLadder = [
   { threshold: 10_000, color: "green" },
   { threshold: 20_000, color: "blue" },
 ]
+
+export const DEFAULT_GREEN_DAY_POINTS = 10_000
+
+export function greenDayUnits(
+  points: number,
+  greenDayPoints: number = DEFAULT_GREEN_DAY_POINTS
+): number {
+  const divisor = greenDayPoints > 0 ? greenDayPoints : DEFAULT_GREEN_DAY_POINTS
+  return Math.max(points, 0) / divisor
+}
