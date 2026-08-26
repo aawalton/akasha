@@ -1,6 +1,6 @@
 ---
 id: 76a8e37e-e3b7-5a7c-b995-02f0ad27e40f
-page-type-slug: mp-graph-edge
+page-type-slug: graph-edge
 title: "Sequence"
 slug: sequence
 derives: none

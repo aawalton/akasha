@@ -1,6 +1,6 @@
 ---
 id: 56ab6000-4171-5462-b456-ee9334040a98
-page-type-slug: mp-graph-edge
+page-type-slug: graph-edge
 title: "Page type"
 slug: page-type
 derives: from
