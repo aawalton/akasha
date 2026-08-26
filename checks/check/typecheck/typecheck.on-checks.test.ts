@@ -15,6 +15,7 @@ function batchOver(at: string, held: Readonly<Record<string, string>>, subjects:
     paths: () => [...bodies.keys()],
     gone: () => [],
     goneElsewhere: () => [],
+    repointedElsewhere: () => new Map(),
     dir: () => at,
     at: (path) => {
       const found = bodies.get(resolve(path))

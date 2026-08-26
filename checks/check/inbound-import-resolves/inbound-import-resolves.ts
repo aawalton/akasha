@@ -1,6 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { readFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
+import { canonicalize } from "../../../repo/path/path.ts"
 import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 import type { Batch, Check, CheckFailure, Tree } from "../check-shape.ts"
@@ -38,13 +39,21 @@ function answersFor(paths: readonly string[], tree: Tree): boolean {
 
 function unresolvedIn(repo: string, root: string, tree: Tree): readonly string[] {
   const said: string[] = []
-  for (const key of ranIn(root, ["grep", "-l", "--fixed-strings", "--", MARK, "*.ts"])) {
+  const pending = tree.repointedElsewhere()
+  const inside = `${canonicalize(root)}/`
+  const here = new Set(ranIn(root, ["grep", "-l", "--fixed-strings", "--", MARK, "*.ts"]))
+  for (const one of pending.keys()) if (one.startsWith(inside)) here.add(one.slice(inside.length))
+  for (const key of here) {
     const at = `${root}/${key}`
+    const proposed = pending.get(`${inside}${key}`)
     let text: string
-    try {
-      text = readFileSync(at, "utf8")
-    } catch {
-      continue
+    if (proposed !== undefined) text = proposed
+    else {
+      try {
+        text = readFileSync(at, "utf8")
+      } catch {
+        continue
+      }
     }
     for (const found of text.matchAll(SPEC)) {
       const target = resolve(dirname(at), found[1] as string)

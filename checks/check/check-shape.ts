@@ -4,6 +4,7 @@ export type Tree = {
   readonly paths: () => readonly string[]
   readonly gone: () => readonly string[]
   readonly goneElsewhere: () => readonly string[]
+  readonly repointedElsewhere: () => ReadonlyMap<string, string>
   readonly dir: () => string
 }
 

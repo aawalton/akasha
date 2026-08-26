@@ -269,7 +269,8 @@ function akashaGated(
   removing: readonly string[],
   carrying: readonly Carry[],
   mechanical: boolean | ReadonlySet<string>,
-  goneElsewhere: readonly string[]
+  goneElsewhere: readonly string[],
+  repointedElsewhere: ReadonlyMap<string, string>
 ): void {
   if (repo !== AKASHA) return
   if (process.env[GATED] === "1") return
@@ -286,7 +287,8 @@ function akashaGated(
     asMechanical,
     landings.length + removals.length,
     root,
-    goneElsewhere
+    goneElsewhere,
+    repointedElsewhere
   )
 }
 
@@ -303,10 +305,20 @@ export function land(
   removing: readonly string[] = [],
   carrying: readonly Carry[] = [],
   mechanical: boolean | ReadonlySet<string> = false,
-  goneElsewhere: readonly string[] = []
+  goneElsewhere: readonly string[] = [],
+  repointedElsewhere: ReadonlyMap<string, string> = new Map()
 ): Landed | null {
   const { repo, root } = where
-  akashaGated(repo, root, entries, removing, carrying, mechanical, goneElsewhere)
+  akashaGated(
+    repo,
+    root,
+    entries,
+    removing,
+    carrying,
+    mechanical,
+    goneElsewhere,
+    repointedElsewhere
+  )
   const taken =
     (removing.length === 0 ? "" : `, ${removing.length} removed`) +
     (carrying.length === 0 ? "" : `, ${carrying.length} carried`)

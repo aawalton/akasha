@@ -93,14 +93,22 @@ function refusalsOver(
   patch: string,
   mechanical: boolean,
   root: string,
-  goneElsewhere: readonly string[]
+  goneElsewhere: readonly string[],
+  repointedElsewhere: ReadonlyMap<string, string>
 ): readonly string[] {
   const held = mkdtempSync(`${SCRATCH}/mp-gate-`)
   const file = `${held}/change.patch`
   try {
     writeFileSync(file, patch)
     const said: string[] = []
-    const asked = { root, file, writer: writerId(), mechanical, goneElsewhere }
+    const asked = {
+      root,
+      file,
+      writer: writerId(),
+      mechanical,
+      goneElsewhere,
+      repointedElsewhere,
+    }
     for (const ran of runGate(checksOnPatch(), asked)) {
       if ("threw" in ran) {
         said.push(`${ran.slug} threw: ${ran.threw}`)
@@ -119,13 +127,14 @@ export function gateOrRefuse(
   mechanical: boolean,
   changed: number,
   root: string = HERE,
-  goneElsewhere: readonly string[] = []
+  goneElsewhere: readonly string[] = [],
+  repointedElsewhere: ReadonlyMap<string, string> = new Map()
 ): void {
   if (patch.trim() === "") {
     process.stderr.write("gate: no line differs from what stands, so no check had anything to judge\n")
     return
   }
-  const refused = refusalsOver(patch, mechanical, root, goneElsewhere)
+  const refused = refusalsOver(patch, mechanical, root, goneElsewhere, repointedElsewhere)
   if (refused.length > 0) {
     process.stderr.write(`${refused.join("\n")}\nnothing was written\n`)
     process.exit(1)

@@ -28,6 +28,7 @@ function verdict(bodies: Readonly<Record<string, string>>): readonly CheckFailur
       paths: () => paths,
       gone: () => [],
       goneElsewhere: () => [],
+      repointedElsewhere: () => new Map(),
       dir: () => ROOT,
     },
     keep: () => "",

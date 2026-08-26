@@ -19,6 +19,7 @@ export type Patch = {
   readonly writer: string | null
   readonly mechanical: boolean
   readonly goneElsewhere: readonly string[]
+  readonly repointedElsewhere: ReadonlyMap<string, string>
 }
 
 function git(patch: Patch, index: string, args: readonly string[]): Buffer {
@@ -75,7 +76,14 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
       }
       return made
     }
-    const tree = treeOn(patch.root, changed, () => trackedIn(patch.root, index), dir, () => patch.goneElsewhere)
+    const tree = treeOn(
+      patch.root,
+      changed,
+      () => trackedIn(patch.root, index),
+      dir,
+      () => patch.goneElsewhere,
+      () => patch.repointedElsewhere
+    )
     const answers = answersAt(patch.root)
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
     const oids = oidsUnder(patch.root, null)
