@@ -18,3 +18,5 @@ required-reading-slugs:
 What points at a file is read from the graph rather than scanned again here.
 
 A page beside its own code points at the code, rather than the code pointing at the page.
+
+A file is judged against its own folder, so a folder answers for what it holds and never for what its subfolders expose.
