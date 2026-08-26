@@ -8,6 +8,11 @@ slug: talia
 domain-parent-slug: mp-readout-group/personas
 group-slugs:
   - personas
+unit: green day units
+scale-slug: green-day-units
+query-slug: persona-green-day-units-on-day
+query-argument: persona
+query-key: talia
 required-reading-slugs:
   - page-type/persona
 championed-domain-slug: scripture-study

@@ -14,7 +14,7 @@ group-slugs:
   - inboxes
 query-slug: inbox-readings-on-day
 query-key: inbox-temper-tasks
-earned-key: inboxTemperTasksClearedToday
+earned-key: inbox-temper-tasks-cleared-today
 wire-key: temperTasks
 settled: true
 ---

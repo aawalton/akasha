@@ -13,6 +13,7 @@ scale-slug: live-count
 group-slugs:
   - inboxes
 query-slug: questions-open
+query-key: n
 wire-key: questions
 settled: true
 ---

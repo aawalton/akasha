@@ -14,7 +14,7 @@ group-slugs:
   - inboxes
 query-slug: inbox-readings-on-day
 query-key: inbox-tasks
-earned-key: inboxTasksClearedToday
+earned-key: inbox-tasks-cleared-today
 wire-key: tasks
 settled: true
 ---
