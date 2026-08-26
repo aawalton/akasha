@@ -9,4 +9,5 @@ person-slug: alan
 start-mode: interactive
 on-call: true
 registration-account: aawalton
+claude-code-session-uuid: 0132f6b0-0f15-4047-aee4-92588a1d3fc0
 ---
