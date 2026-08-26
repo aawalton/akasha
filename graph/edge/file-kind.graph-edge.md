@@ -3,7 +3,6 @@ id: c1642ac9-b584-563e-9644-2bd89d56e9dd
 page-type-slug: graph-edge
 title: "File kind"
 slug: file-kind
-derives: none
 from-node:
   kind: file
 to-node:

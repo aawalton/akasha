@@ -3,7 +3,6 @@ id: d96e391c-2a99-574e-9292-6c5ba0f17a31
 page-type-slug: graph-edge
 title: "Narrows"
 slug: narrows
-derives: none
 from-node:
   kind: file
   where:

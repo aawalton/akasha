@@ -3,7 +3,6 @@ id: 49dfa289-b8d6-526b-9e01-1677c6c78357
 page-type-slug: graph-edge
 title: "Defined on"
 slug: defined-on
-derives: to
 from-node:
   kind: file
   where:
