@@ -1,5 +1,6 @@
 import { realpathSync } from "node:fs"
 import { resolve } from "node:path"
+import type { Roots } from "../page/page-at.ts"
 import { type PageFile, pagesIn } from "../page/pages.ts"
 import { listField } from "../page/frontmatter.ts"
 import { blockOf, NONE, stringAt, textAt } from "../page/text.ts"
@@ -15,7 +16,7 @@ const SLUG = "slug"
 const EXTENDS_SLUG = "extends-slug"
 const FILES = "files"
 
-export type Roots = Readonly<Record<string, string | undefined>>
+export type { Roots }
 
 let held: Roots | null = null
 

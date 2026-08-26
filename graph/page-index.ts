@@ -1,11 +1,11 @@
+import { type PageAt, saidAt } from "../page/page-at.ts"
 import { pageNameOf } from "../page/page-name.ts"
 import { pagesIn } from "../page/pages.ts"
-import type { BuildContext, NodeRef } from "./node-shape.ts"
+import type { BuildContext } from "./node-shape.ts"
 
-export type PageAt = NodeRef & {
-  readonly stem: string
-  readonly type: string
-}
+export type { PageAt }
+
+export { saidAt }
 
 export type PageIndex = {
   readonly byType: ReadonlyMap<string, readonly PageAt[]>
@@ -62,10 +62,6 @@ export function pageIndexIn(ctx: BuildContext): PageIndex {
 
 export function pagesOfType(ctx: BuildContext, type: string): readonly PageAt[] {
   return pageIndexIn(ctx).byType.get(type) ?? []
-}
-
-export function saidAt(at: PageAt): string {
-  return `${at.repo}:${at.key}`
 }
 
 export function pageNamed(ctx: BuildContext, type: string, stem: string): PageAt | null {
