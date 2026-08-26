@@ -64,7 +64,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
       if (oid !== undefined) subjects.push({ at, oid })
     }
     const answers = answersAt(patch.root)
-    const closure = closureOf(patch.root, index)
+    const closure = closureOf(patch.root)
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
     return checks
       .map((check) => runKept(check, subjects, closure, runtime, answers))
