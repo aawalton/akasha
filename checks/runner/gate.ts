@@ -54,13 +54,13 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
   let made: string | null = null
   try {
     const landing = changedBy(patch, index)
-    const oids = oidsUnder(patch.root, index)
+    const staged = oidsUnder(patch.root, index)
     const changed = new Map<string, Buffer | null>()
     const subjects: Subject[] = []
     for (const relPath of landing) {
       const at = resolve(patch.root, relPath)
       changed.set(at, git(patch, index, ["cat-file", "blob", `:${relPath}`]))
-      const oid = oids.get(relPath)
+      const oid = staged.get(relPath)
       if (oid !== undefined) subjects.push({ at, oid })
     }
     for (const relPath of named(patch, index, "D")) changed.set(resolve(patch.root, relPath), null)
@@ -74,9 +74,10 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     const tree = treeOn(patch.root, changed, () => trackedIn(patch.root, index), dir)
     const answers = answersAt(patch.root)
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
+    const oids = oidsUnder(patch.root, null)
     const act = patch.mechanical ? null : actOn(patch.root, patch.writer)
     return applying(checks, patch.mechanical).map((check) =>
-      runKept(check, subjects, runtime, answers, tree, { act, trial: true })
+      runKept(check, subjects, runtime, answers, tree, { act, trial: true, oids })
     )
   } finally {
     rmSync(index, { force: true })

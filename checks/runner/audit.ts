@@ -19,5 +19,5 @@ export function runAudit(checks: readonly Check[], root: string): readonly Check
   const runtime = `bun-${process.versions.bun ?? "unknown"}`
   return checks
     .filter((one) => !judgesAuthor(one))
-    .map((check) => runKept(check, subjects, runtime, answers, tree, { act: null, trial: false }))
+    .map((check) => runKept(check, subjects, runtime, answers, tree, { act: null, trial: false, oids }))
 }

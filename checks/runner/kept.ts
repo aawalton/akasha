@@ -23,6 +23,7 @@ export type Subject = {
 export type Setting = {
   readonly act: Act | null
   readonly trial: boolean
+  readonly oids: ReadonlyMap<string, string>
 }
 
 function uncached(check: Check): boolean {
@@ -42,7 +43,7 @@ export function runKept(
   tree: Tree,
   setting: Setting
 ): CheckRun {
-  const closure = closureOf(tree.root, entryOf(check.slug))
+  const closure = closureOf(tree.root, entryOf(check.slug), setting.oids)
   const mark = outcomeMarkOf(check.slug, runtime, closure)
   sweep(answers, OUTCOME_KIND, check.slug, mark)
   sweep(answers, KEEP_KIND, check.slug, mark)

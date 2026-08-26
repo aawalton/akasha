@@ -3,10 +3,12 @@ import { IMPORT_EDGE } from "../graph/edge-producer/typescript.ts"
 import { AKASHA } from "../graph/roots.ts"
 import type { BuildContext, NodeRef } from "../graph/node-shape.ts"
 import type { Input } from "./mark.ts"
-import { oidsUnder } from "./oid.ts"
 
-export function closureOf(root: string, entry: string): readonly Input[] {
-  const oids = oidsUnder(root, null)
+export function closureOf(
+  root: string,
+  entry: string,
+  oids: ReadonlyMap<string, string>
+): readonly Input[] {
   const ctx: BuildContext = { roots: { [AKASHA]: root } }
   const waiting: NodeRef[] = [{ repo: AKASHA, key: entry }]
   const seen = new Set<string>()
