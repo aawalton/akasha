@@ -4,7 +4,14 @@ import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
 import type { FileTree } from "../file-tree.ts"
 import { PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 
-export const CODE_DIRS: readonly string[] = ["cache", "checks/refusal", "exclusive", "page", "repo"]
+export const CODE_DIRS: readonly string[] = [
+  "cache",
+  "checks/refusal",
+  "during-call",
+  "exclusive",
+  "page",
+  "repo",
+]
 
 export const CODE_SEEDS: readonly string[] = [
   "page/file-tree.ts",
