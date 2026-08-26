@@ -1,5 +1,7 @@
-import type { PageAt } from "../../page/page.ts"
+import type { Stated } from "../../page/index/identity/identity.ts"
+import { loadPages } from "../../page/index/store/store.ts"
 import { pageNameOf } from "../../page/name/name.ts"
+import type { PageAt } from "../../page/page.ts"
 import { pagesIn } from "../../page/tracked/tracked.ts"
 import type { BuildContext } from "../build-context/build-context.ts"
 
@@ -9,6 +11,8 @@ export type PageIndex = {
 }
 
 const HELD = new WeakMap<BuildContext, PageIndex>()
+
+const STATED = new WeakMap<BuildContext, readonly Stated[]>()
 
 export function nameOf(type: string, stem: string): string {
   return `${type}/${stem}`
@@ -39,10 +43,29 @@ export function indexOf(pages: Iterable<PageAt>): PageIndex {
   return { byType, byName }
 }
 
+export function statedIn(ctx: BuildContext): readonly Stated[] {
+  const held = STATED.get(ctx)
+  if (held !== undefined) return held
+  const made = loadPages().filter((one) => ctx.roots[one.repo] !== undefined)
+  STATED.set(ctx, made)
+  return made
+}
+
 function madeOver(ctx: BuildContext): PageIndex {
+  const indexed = new Map<string, PageAt[]>()
+  for (const one of statedIn(ctx)) {
+    const held = indexed.get(one.repo) ?? []
+    held.push({ repo: one.repo, key: one.key, stem: one.stem, type: one.type })
+    indexed.set(one.repo, held)
+  }
   const pages: PageAt[] = []
   for (const [repo, root] of Object.entries(ctx.roots)) {
     if (root === undefined) continue
+    const held = indexed.get(repo)
+    if (held !== undefined) {
+      pages.push(...held)
+      continue
+    }
     for (const page of pagesIn(root)) pages.push({ repo, key: page.key, stem: page.stem, type: page.type })
   }
   return indexOf(pages)

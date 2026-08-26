@@ -11,6 +11,7 @@ import {
   namedBodyOf,
   namedOf,
   saidNamed,
+  saidSource,
   sourcesOf,
 } from "../entry/entry.ts"
 import type { Stated } from "../identity/identity.ts"
@@ -128,8 +129,11 @@ function relationsAt(): string {
 }
 
 export function keepPages(stated: Iterable<Stated>): void {
+  const held = [...stated].sort((one, two) =>
+    saidSource(one) < saidSource(two) ? -1 : saidSource(one) > saidSource(two) ? 1 : 0
+  )
   const lines: string[] = []
-  for (const one of stated) lines.push(JSON.stringify(one))
+  for (const one of held) lines.push(JSON.stringify(one))
   const at = pagesAt()
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)

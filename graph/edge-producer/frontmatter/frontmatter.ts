@@ -6,7 +6,6 @@ import {
   resolveOver,
   statedOf,
 } from "../../../page/index/identity/identity.ts"
-import { loadPages } from "../../../page/index/store/store.ts"
 import { NONE, stringAt } from "../../../page/text/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../../frontmatter-at/frontmatter-at.ts"
@@ -14,7 +13,7 @@ import type { BuildContext } from "../../build-context/build-context.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { slugNamed } from "../../../page/page-address.ts"
 import type { PageAt } from "../../../page/page.ts"
-import { pageIndexIn, pagesOfType } from "../../page-index/page-index.ts"
+import { pageIndexIn, pagesOfType, statedIn } from "../../page-index/page-index.ts"
 import { inheritedIn } from "../../page-type-above/page-type-above.ts"
 
 export const RELATION_EDGE = "relation"
@@ -63,7 +62,7 @@ function relationsIn(ctx: BuildContext): ReadonlyMap<string, readonly Relation[]
 }
 
 function indexedFor(ctx: BuildContext): readonly Stated[] | null {
-  const held = loadPages().filter((one) => ctx.roots[one.repo] !== undefined)
+  const held = statedIn(ctx)
   return held.length === 0 ? null : held
 }
 
