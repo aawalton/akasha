@@ -1,5 +1,6 @@
 import { describe, expect, it } from "bun:test"
 import {
+  dayAfter,
   diffEsoDays,
   getEsoDayAnchor,
   getEsoDayStr,
@@ -290,5 +291,40 @@ describe("nyWallHm", () => {
 
   it("zero-pads single-digit hours (05:00 UTC EST = 00:00 NY)", () => {
     expect(nyWallHm(new Date("2026-02-15T05:00:00Z"))).toBe("00:00")
+  })
+})
+
+describe("dayAfter", () => {
+  it("takes an ordinary day to the next one", () => {
+    expect(dayAfter("2026-08-18")).toBe("2026-08-19")
+  })
+
+  it("crosses the end of a month", () => {
+    expect(dayAfter("2026-08-31")).toBe("2026-09-01")
+  })
+
+  it("crosses the end of a year", () => {
+    expect(dayAfter("2026-12-31")).toBe("2027-01-01")
+  })
+
+  it("crosses the end of February in a leap year", () => {
+    expect(dayAfter("2028-02-28")).toBe("2028-02-29")
+    expect(dayAfter("2028-02-29")).toBe("2028-03-01")
+  })
+
+  it("crosses the end of February in a common year", () => {
+    expect(dayAfter("2026-02-28")).toBe("2026-03-01")
+  })
+
+  it("crosses a spring-forward day, which has only 23 hours of wall time", () => {
+    expect(dayAfter("2026-03-08")).toBe("2026-03-09")
+  })
+
+  it("hands back what it was given where that names no day", () => {
+    expect(dayAfter("not-a-day")).toBe("not-a-day")
+  })
+
+  it("names the day getEsoDayWindow ends on", () => {
+    expect(dayAfter("2026-10-31")).toBe("2026-11-01")
   })
 })

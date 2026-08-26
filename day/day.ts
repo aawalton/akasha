@@ -1,5 +1,28 @@
 const MS_PER_DAY = 86_400_000
 const MS_PER_HOUR = 3_600_000
+const NOON = 12
+
+function pad2(n: number): string {
+  return n < 10 ? `0${n}` : String(n)
+}
+
+function dayStrOf(at: Date): string {
+  return `${at.getUTCFullYear()}-${pad2(at.getUTCMonth() + 1)}-${pad2(at.getUTCDate())}`
+}
+
+function parseDay(dayStr: string): readonly [number, number, number] | null {
+  const [y, m, d] = dayStr.split("-").map(Number)
+  if (y === undefined || m === undefined || d === undefined) return null
+  if (!Number.isFinite(y) || !Number.isFinite(m) || !Number.isFinite(d)) return null
+  return [y, m, d]
+}
+
+export function dayAfter(dayStr: string): string {
+  const parsed = parseDay(dayStr)
+  if (parsed === null) return dayStr
+  const [y, m, d] = parsed
+  return dayStrOf(new Date(Date.UTC(y, m - 1, d, NOON, 0, 0, 0) + MS_PER_DAY))
+}
 
 function nthWeekdayOfMonth(year: number, month: number, targetDow: number, n: number): number {
   const dowOfFirst = new Date(Date.UTC(year, month, 1)).getUTCDay()
@@ -32,15 +55,6 @@ function denverOffsetMs(instantMs: number): number {
   return isMdt ? -6 * MS_PER_HOUR : -7 * MS_PER_HOUR
 }
 
-function pad2(n: number): string {
-  return n < 10 ? `0${n}` : String(n)
-}
-
-function nyDateStr(instantMs: number, offset: number): string {
-  const shifted = new Date(instantMs + offset)
-  return `${shifted.getUTCFullYear()}-${pad2(shifted.getUTCMonth() + 1)}-${pad2(shifted.getUTCDate())}`
-}
-
 export function getEsoResetTime(now: Date): Date {
   const nowMs = now.getTime()
   const offset = nyOffsetMs(nowMs)
@@ -71,10 +85,9 @@ export function getEsoDayStr(now: Date): string {
   const hour = shifted.getUTCHours()
   if (hour < 6) {
     const earlierMs = nowMs - MS_PER_DAY
-    const earlierOffset = nyOffsetMs(earlierMs)
-    return nyDateStr(earlierMs, earlierOffset)
+    return dayStrOf(new Date(earlierMs + nyOffsetMs(earlierMs)))
   }
-  return nyDateStr(nowMs, offset)
+  return dayStrOf(shifted)
 }
 
 export function getEsoDayAnchor(now: Date): Date {
@@ -83,13 +96,12 @@ export function getEsoDayAnchor(now: Date): Date {
   if (y === undefined || m === undefined || d === undefined) {
     return now
   }
-  return new Date(Date.UTC(y, m - 1, d, 12, 0, 0, 0))
+  return new Date(Date.UTC(y, m - 1, d, NOON, 0, 0, 0))
 }
 
 export function getEsoDayStrOffset(now: Date, daysOffset: number): string {
   const anchor = getEsoDayAnchor(now)
-  const shifted = new Date(anchor.getTime() + daysOffset * MS_PER_DAY)
-  return `${shifted.getUTCFullYear()}-${pad2(shifted.getUTCMonth() + 1)}-${pad2(shifted.getUTCDate())}`
+  return dayStrOf(new Date(anchor.getTime() + daysOffset * MS_PER_DAY))
 }
 
 function esoResetInstantForDay(dayStr: string): number | undefined {
@@ -111,13 +123,10 @@ function esoResetInstantForDay(dayStr: string): number | undefined {
 
 export function getEsoDayWindow(dayStr: string): { start: Date; end: Date } {
   const startMs = esoResetInstantForDay(dayStr)
-  const [y, m, d] = dayStr.split("-").map(Number)
-  if (startMs === undefined || y === undefined || m === undefined || d === undefined) {
+  if (startMs === undefined) {
     return { start: new Date(0), end: new Date(0) }
   }
-  const nextDayAnchor = new Date(Date.UTC(y, m - 1, d + 1, 12, 0, 0, 0))
-  const nextDayStr = `${nextDayAnchor.getUTCFullYear()}-${pad2(nextDayAnchor.getUTCMonth() + 1)}-${pad2(nextDayAnchor.getUTCDate())}`
-  const endMs = esoResetInstantForDay(nextDayStr)
+  const endMs = esoResetInstantForDay(dayAfter(dayStr))
   if (endMs === undefined) {
     return { start: new Date(0), end: new Date(0) }
   }
@@ -186,11 +195,9 @@ export function getMountainMorningDayStr(now: Date): string {
   const hour = shifted.getUTCHours()
   if (hour < 6) {
     const earlierMs = nowMs - MS_PER_DAY
-    const earlierOffset = denverOffsetMs(earlierMs)
-    const earlierShifted = new Date(earlierMs + earlierOffset)
-    return `${earlierShifted.getUTCFullYear()}-${pad2(earlierShifted.getUTCMonth() + 1)}-${pad2(earlierShifted.getUTCDate())}`
+    return dayStrOf(new Date(earlierMs + denverOffsetMs(earlierMs)))
   }
-  return `${shifted.getUTCFullYear()}-${pad2(shifted.getUTCMonth() + 1)}-${pad2(shifted.getUTCDate())}`
+  return dayStrOf(shifted)
 }
 
 export function getMountainEveningDayStr(now: Date): string {
@@ -198,8 +205,7 @@ export function getMountainEveningDayStr(now: Date): string {
   const offset = denverOffsetMs(nowMs)
   const shifted = new Date(nowMs + offset)
   const dayOffset = shifted.getUTCHours() >= 18 ? 1 : 0
-  const labeled = new Date(
-    Date.UTC(shifted.getUTCFullYear(), shifted.getUTCMonth(), shifted.getUTCDate() + dayOffset)
+  return dayStrOf(
+    new Date(Date.UTC(shifted.getUTCFullYear(), shifted.getUTCMonth(), shifted.getUTCDate() + dayOffset))
   )
-  return `${labeled.getUTCFullYear()}-${pad2(labeled.getUTCMonth() + 1)}-${pad2(labeled.getUTCDate())}`
 }
