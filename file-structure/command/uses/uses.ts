@@ -47,7 +47,7 @@ export default async function uses(argv: readonly string[]): Promise<void> {
     const line = `${edge.kind}  ${edge.from.key}`
     const held = pointing.get(edge.to.key)
     if (held === undefined) pointing.set(edge.to.key, [line])
-    else held.push(edge.from.key === "" ? line : line)
+    else held.push(line)
   }
   const doors = new Map<string, string[]>()
   for (const node of mine) {
