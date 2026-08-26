@@ -20,7 +20,7 @@ export interface Forebear {
   readonly text: string
 }
 
-const PROPERTY_SIDE = "tools/page/page-frontmatter.ts"
+const PROPERTY_SIDE = "page/property/frontmatter.ts"
 
 export function shapeOf(slug: string, relPath: string, text: string, above: readonly Forebear[] = []): Shape {
   const bare = { domain: slug, extends: [], regions: [], frontmatter: [], fragments: {} } as const

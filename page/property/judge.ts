@@ -30,7 +30,7 @@ function typeStated(property: Property, fm: Frontmatter): { type: string | null;
   return { type: own, why: null }
 }
 
-const SHAPE_SIDE = "tools/lib/page-shape.ts"
+const SHAPE_SIDE = "page/shape/shape.ts"
 
 const declaredAt = (property: Property): string => `\`${property.at}\``
 
