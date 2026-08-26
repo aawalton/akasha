@@ -14,8 +14,6 @@ const IDENTITY = "identity"
 
 const BUILT_FROM = "built-from.json"
 
-const CLAIMS = "claims.json"
-
 const BUCKET_WIDTH = 2
 
 export const ENDING = ".jsonl"
@@ -61,8 +59,4 @@ export function identityFile(word: string, at: string): string {
 
 export function builtFromAt(): string {
   return join(indexRoot(), BUILT_FROM)
-}
-
-export function claimsAt(): string {
-  return join(indexRoot(), CLAIMS)
 }
