@@ -1,6 +1,8 @@
 import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
+import type { Roots } from "../page/page.ts"
 import { ownRepoRoot } from "../repo/roots/roots.ts"
+import { type Moves, surveyRename } from "./repoint.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -36,4 +38,12 @@ export function installPages(root: string, relPaths: readonly string[]): void {
     mkdirSync(dirname(`${root}/${relPath}`), { recursive: true })
     cpSync(`${live}/${relPath}`, `${root}/${relPath}`)
   }
+}
+
+export function rootsAt(at: string): Roots {
+  return { instructions: at, code: `${at}/nonexistent-code`, memory: `${at}/nonexistent-memory`, books: `${at}/nonexistent-books`, stories: `${at}/nonexistent-stories`, "code-editor": `${at}/nonexistent-code-editor` }
+}
+
+export function landed(root: string, pairs: Moves, relPath: string): string | null {
+  return surveyRename(pairs, rootsAt(root)).entries.find((e) => e.relPath === relPath)?.body ?? null
 }

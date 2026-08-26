@@ -1,19 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import type { Roots } from "../page/page.ts"
-import { fixture } from "./fixture.ts"
+import { fixture, landed, rootsAt } from "./fixture.ts"
 import { mentionsOf } from "./mention.ts"
 import { type Moves, specifierReading, surveyRename } from "./repoint.ts"
 
-function rootsAt(at: string): Roots {
-  return { instructions: at, code: `${at}/nonexistent-code`, memory: `${at}/nonexistent-memory`, books: `${at}/nonexistent-books`, stories: `${at}/nonexistent-stories`, "code-editor": `${at}/nonexistent-code-editor` }
-}
-
 function moves(...pairs: readonly (readonly [string, string])[]): Moves {
   return new Map(pairs)
-}
-
-function landed(root: string, pairs: Moves, relPath: string): string | null {
-  return surveyRename(pairs, rootsAt(root)).entries.find((e) => e.relPath === relPath)?.body ?? null
 }
 
 describe("what a rename repoints", () => {

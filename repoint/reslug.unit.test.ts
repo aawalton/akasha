@@ -1,10 +1,9 @@
 import { describe, expect, test } from "bun:test"
 import { diskFileTree } from "../page/file-tree.ts"
-import type { Roots } from "../page/page.ts"
 import { shapeMarkOf } from "../page/shape/mark.ts"
 import { resolveRoots } from "../repo/roots/roots.ts"
-import { fixture, installPages } from "./fixture.ts"
-import { type Moves, surveyRename } from "./repoint.ts"
+import { fixture, installPages, landed, rootsAt } from "./fixture.ts"
+import type { Moves } from "./repoint.ts"
 import { readOnce, slugEdges } from "./reslug.ts"
 
 const SCHEMAS = [
@@ -19,16 +18,8 @@ const SCHEMAS = [
   "pages/page-property-definition/refusal-holes.page-property-definition.md",
 ]
 
-function rootsAt(at: string): Roots {
-  return { instructions: at, code: `${at}/nonexistent-code`, memory: `${at}/nonexistent-memory`, books: `${at}/nonexistent-books`, stories: `${at}/nonexistent-stories`, "code-editor": `${at}/nonexistent-code-editor` }
-}
-
 function moves(...pairs: readonly (readonly [string, string])[]): Moves {
   return new Map(pairs)
-}
-
-function landed(root: string, pairs: Moves, relPath: string): string | null {
-  return surveyRename(pairs, rootsAt(root)).entries.find((e) => e.relPath === relPath)?.body ?? null
 }
 
 function declaring(slug: string, term: string): string {

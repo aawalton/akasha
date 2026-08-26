@@ -1,12 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import type { Roots } from "../page/page.ts"
-import { type Fixture, fixture } from "./fixture.ts"
+import { type Fixture, fixture, rootsAt } from "./fixture.ts"
 import { escapedSpellings, mentionsOf } from "./mention.ts"
 import { surveyRename } from "./repoint.ts"
-
-function rootsAt(at: string): Roots {
-  return { instructions: at, code: `${at}/nonexistent-code`, memory: `${at}/nonexistent-memory`, books: `${at}/nonexistent-books`, stories: `${at}/nonexistent-stories`, "code-editor": `${at}/nonexistent-code-editor` }
-}
 
 const MOVE = new Map([["roles/reviewer.md", "roles/instructions-reviewer.md"]])
 

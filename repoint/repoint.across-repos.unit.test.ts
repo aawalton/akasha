@@ -4,12 +4,8 @@ import { tmpdir } from "node:os"
 import { dirname, relative, resolve } from "node:path"
 import type { Roots } from "../page/page.ts"
 import { targetRepo } from "../repo/roots/roots.ts"
-import { fixture } from "./fixture.ts"
+import { fixture, rootsAt } from "./fixture.ts"
 import { type Moves, surveyImporters, surveyRename } from "./repoint.ts"
-
-function rootsAt(at: string): Roots {
-  return { instructions: at, code: `${at}/nonexistent-code`, memory: `${at}/nonexistent-memory`, books: `${at}/nonexistent-books`, stories: `${at}/nonexistent-stories`, "code-editor": `${at}/nonexistent-code-editor` }
-}
 
 function moves(...pairs: readonly (readonly [string, string])[]): Moves {
   return new Map(pairs)
