@@ -1,7 +1,8 @@
 import { dirname, resolve } from "node:path"
 import { textAt } from "../../../instructions/tools/page/page-types.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
-import type { FileNode } from "../node-producer/file.ts"
+import fileNodeProducer from "../node-producer/file.ts"
+import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 export const IMPORT_EDGE = "import"
 
@@ -28,36 +29,35 @@ export function namedIn(text: string): readonly string[] {
   return [...found]
 }
 
+function refAt(ctx: BuildContext, at: string): NodeRef | null {
+  for (const [repo, root] of Object.entries(ctx.roots)) {
+    if (typeof root !== "string") continue
+    const within = `${root}/`
+    if (!at.startsWith(within)) continue
+    return { repo, key: at.slice(within.length) }
+  }
+  return null
+}
+
 export const typescriptEdgeProducer: EdgeProducer = {
   name: "typescript",
   edgeKinds: [IMPORT_EDGE],
-  build: (ctx, files) => {
-    const standing = new Map<string, FileNode>()
-    for (const file of files) {
-      const root = ctx.roots[file.repo]
-      if (root === undefined) continue
-      standing.set(resolve(root, file.key), file)
-    }
+  from: (ctx, file) => {
+    if (file.attrs["file-extension"] !== TYPESCRIPT) return []
+    const root = ctx.roots[file.repo]
+    if (root === undefined) return []
+    const text = textAt(root, file.key)
+    if (text === null) return []
+    const from = resolve(root, file.key)
     const edges: EdgeInit[] = []
-    for (const file of files) {
-      if (file.attrs["file-extension"] !== TYPESCRIPT) continue
-      const root = ctx.roots[file.repo]
-      if (root === undefined) continue
-      const text = textAt(root, file.key)
-      if (text === null) continue
-      const from = resolve(root, file.key)
-      for (const named of namedIn(text)) {
-        if (!named.startsWith(RELATIVE)) continue
-        for (const tail of TAILS) {
-          const to = standing.get(resolve(dirname(from), `${named}${tail}`))
-          if (to === undefined) continue
-          edges.push({
-            kind: IMPORT_EDGE,
-            from: { repo: file.repo, key: file.key },
-            to: { repo: to.repo, key: to.key },
-          })
-          break
-        }
+    for (const named of namedIn(text)) {
+      if (!named.startsWith(RELATIVE)) continue
+      for (const tail of TAILS) {
+        const ref = refAt(ctx, resolve(dirname(from), `${named}${tail}`))
+        if (ref === null) continue
+        if (fileNodeProducer.at(ctx, ref) === null) continue
+        edges.push({ kind: IMPORT_EDGE, from: { repo: file.repo, key: file.key }, to: ref })
+        break
       }
     }
     return edges

@@ -10,5 +10,5 @@ export type EdgeInit = {
 export type EdgeProducer = {
   readonly name: string
   readonly edgeKinds: readonly string[]
-  readonly build: (ctx: BuildContext, files: readonly FileNode[]) => readonly EdgeInit[]
+  readonly from: (ctx: BuildContext, file: FileNode) => readonly EdgeInit[]
 }

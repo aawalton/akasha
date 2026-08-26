@@ -1,10 +1,17 @@
 import { type Frontmatter, listField } from "../../../instructions/tools/page/frontmatter.ts"
 import { addressParts } from "../../../instructions/tools/page/page-address.ts"
-import { blockOf, NONE, textAt } from "../../../instructions/tools/page/page-types.ts"
+import { diskFileTree } from "../../../instructions/tools/page/page-file-tree.ts"
+import { registryOf } from "../../../instructions/tools/page/page-registry.ts"
+import {
+  blockOf,
+  NONE,
+  type PageType,
+  pagesOf,
+  textAt,
+} from "../../../instructions/tools/page/page-types.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import type { FileNode } from "../node-producer/file.ts"
-
-const SHARED_REPO = "instructions"
+import type { BuildContext, NodeRef } from "../node-shape.ts"
 
 export type Reference = {
   readonly key: string
@@ -33,35 +40,61 @@ export const REFERENCES: readonly Reference[] = [
   { key: "required-reading-slugs", kind: "required-reading", fromPageType: null, toPageType: null },
 ]
 
-function bySlug(pages: readonly FileNode[]): ReadonlyMap<string, readonly FileNode[]> {
-  const found = new Map<string, FileNode[]>()
-  for (const page of pages) {
-    const slug = page.attrs["file-stem"]
-    const held = found.get(slug)
-    if (held === undefined) found.set(slug, [page])
-    else held.push(page)
-  }
-  return found
+type Standing = {
+  registry: readonly PageType[] | null
+  readonly named: Map<string, ReadonlyMap<string, NodeRef>>
 }
 
-function named(
-  named: string,
-  from: FileNode,
-  reference: Reference,
-  index: ReadonlyMap<string, readonly FileNode[]>
-): FileNode | null {
+const HELD = new WeakMap<BuildContext, Standing>()
+
+function standingIn(ctx: BuildContext): Standing {
+  const held = HELD.get(ctx)
+  if (held !== undefined) return held
+  const made: Standing = { registry: null, named: new Map() }
+  HELD.set(ctx, made)
+  return made
+}
+
+function registryIn(ctx: BuildContext): readonly PageType[] {
+  const standing = standingIn(ctx)
+  if (standing.registry !== null) return standing.registry
+  const made = registryOf(diskFileTree(ctx.roots))
+  standing.registry = made
+  return made
+}
+
+function stemOf(key: string): string {
+  const base = key.slice(key.lastIndexOf("/") + 1)
+  return base.split(".")[0] ?? base
+}
+
+function pagesNamed(ctx: BuildContext, pageType: string): ReadonlyMap<string, NodeRef> {
+  const standing = standingIn(ctx)
+  const held = standing.named.get(pageType)
+  if (held !== undefined) return held
+  const made = new Map<string, NodeRef>()
+  for (const one of registryIn(ctx)) {
+    if (one.slug !== pageType) continue
+    const repo = one.repo
+    if (repo === null) continue
+    const root = ctx.roots[repo]
+    if (root === undefined) continue
+    for (const key of pagesOf(root, one)) {
+      const stem = stemOf(key)
+      if (made.has(stem)) continue
+      made.set(stem, { repo, key })
+    }
+  }
+  standing.named.set(pageType, made)
+  return made
+}
+
+function reached(ctx: BuildContext, named: string, reference: Reference): NodeRef | null {
   const address = addressParts(named)
+  const pageType = address === null ? reference.toPageType : address.type
+  if (pageType === null) return null
   const slug = address === null ? named : address.slug
-  const wanted = address === null ? reference.toPageType : address.type
-  const standing = index.get(slug) ?? []
-  const fitting =
-    wanted === null ? standing : standing.filter((page) => page.attrs["page-type-slug"] === wanted)
-  if (fitting.length === 1) return fitting[0] ?? null
-  if (fitting.length === 0) return null
-  const own = fitting.filter((page) => page.repo === from.repo)
-  if (own.length === 1) return own[0] ?? null
-  const shared = fitting.filter((page) => page.repo === SHARED_REPO)
-  return shared.length === 1 ? (shared[0] ?? null) : null
+  return pagesNamed(ctx, pageType).get(slug) ?? null
 }
 
 function namesIn(fm: Frontmatter, reference: Reference): readonly string[] {
@@ -71,28 +104,21 @@ function namesIn(fm: Frontmatter, reference: Reference): readonly string[] {
 export const frontmatterEdgeProducer: EdgeProducer = {
   name: "frontmatter",
   edgeKinds: REFERENCES.map((reference) => reference.kind),
-  build: (ctx, pages) => {
-    const index = bySlug(pages)
+  from: (ctx, file) => {
+    const root = ctx.roots[file.repo]
+    if (root === undefined) return []
+    const text = textAt(root, file.key)
+    if (text === null) return []
+    const { fm, why } = blockOf(text)
+    if (why !== null) return []
     const edges: EdgeInit[] = []
-    for (const page of pages) {
-      const root = ctx.roots[page.repo]
-      if (root === undefined) continue
-      const text = textAt(root, page.key)
-      if (text === null) continue
-      const { fm, why } = blockOf(text)
-      if (why !== null) continue
-      for (const reference of REFERENCES) {
-        if (reference.fromPageType !== null && page.attrs["page-type-slug"] !== reference.fromPageType)
-          continue
-        for (const slug of namesIn(fm, reference)) {
-          const to = named(slug, page, reference, index)
-          if (to === null) continue
-          edges.push({
-            kind: reference.kind,
-            from: { repo: page.repo, key: page.key },
-            to: { repo: to.repo, key: to.key },
-          })
-        }
+    for (const reference of REFERENCES) {
+      if (reference.fromPageType !== null && file.attrs["page-type-slug"] !== reference.fromPageType)
+        continue
+      for (const named of namesIn(fm, reference)) {
+        const to = reached(ctx, named, reference)
+        if (to === null) continue
+        edges.push({ kind: reference.kind, from: { repo: file.repo, key: file.key }, to })
       }
     }
     return edges
