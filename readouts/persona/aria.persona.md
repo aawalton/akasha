@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: aria
-required-reading-slugs:
-  - page-type/persona
 role-slug: game-master
 value-slug: fun
 origin: welsh

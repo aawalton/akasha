@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: athena
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: agent-harness
 role-slug: definer
 value-slug: wealth

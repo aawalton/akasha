@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: erin
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: chess
 role-slug: coach
 value-slug: learn

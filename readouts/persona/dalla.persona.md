@@ -14,7 +14,6 @@ query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: dalla
 required-reading-slugs:
-  - page-type/persona
   - domain/seat-assignment-on-call
 championed-domain-slug: change-harness
 role-slug: definer

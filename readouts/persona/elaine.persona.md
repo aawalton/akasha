@@ -12,8 +12,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: elaine
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: medicine
 role-slug: coach
 value-slug: health

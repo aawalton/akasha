@@ -4,8 +4,6 @@ page-type-slug: persona
 title: "Claude"
 slug: claude
 domain-parent-slug: page-type/persona
-required-reading-slugs:
-  - page-type/persona
 ---
 
 # Definition

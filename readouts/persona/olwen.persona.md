@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: olwen
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: design-system
 role-slug: definer
 value-slug: wealth

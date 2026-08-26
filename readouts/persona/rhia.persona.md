@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: rhia
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: world-lore
 role-slug: definer
 value-slug: learn

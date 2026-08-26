@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: zeli
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: visual-arts
 role-slug: companion
 value-slug: fun

@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: natalie
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: food-entry
 role-slug: coach
 value-slug: health

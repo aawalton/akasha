@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: amy
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: alan-harness
 role-slug: definer
 value-slug: health

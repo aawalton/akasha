@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: elin
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: collections
 role-slug: definer
 value-slug: fun

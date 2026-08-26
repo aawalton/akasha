@@ -13,8 +13,6 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: lali
-required-reading-slugs:
-  - page-type/persona
 championed-domain-slug: mathematics
 role-slug: coach
 value-slug: learn
