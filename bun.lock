@@ -25,10 +25,9 @@
     "lua-compiler": {
       "name": "@temper/shared-build-deploy-tstl",
       "bin": {
-        "tstl": "src/tstl.ts",
+        "tstl": "src/cli/tstl.ts",
       },
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
         "enhanced-resolve": "5.8.2",
         "picomatch": "^2.3.1",
         "resolve": "^1.15.1",
@@ -71,12 +70,6 @@
       "devDependencies": {
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
-      },
-    },
-    "lua-compiler/vendor/utils-narrow": {
-      "name": "@shared/utils-narrow",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
       },
     },
     "native-shell/atlas": {
@@ -227,8 +220,6 @@
     "@parcel/watcher-win32-arm64": ["@parcel/watcher-win32-arm64@2.6.0", "", { "os": "win32", "cpu": "arm64" }, "sha512-gIZAP23jaHjGWasY/TY6yL7NHFClf0Ga7FN+iINvk+KN94rhm94lYZhFsbYFNcA04/onvGD9kKmiJLJB2HbNwQ=="],
 
     "@parcel/watcher-win32-x64": ["@parcel/watcher-win32-x64@2.6.0", "", { "os": "win32", "cpu": "x64" }, "sha512-cA+/pXV2YkfxlIcXOQ5fSWqAzzPyD78/x5qbK/I0vUkrlYHA8TIz+MXjAbGouguKVSI4bOmkTSJ1/poVSsgt+A=="],
-
-    "@shared/utils-narrow": ["@shared/utils-narrow@workspace:lua-compiler/vendor/utils-narrow"],
 
     "@temper/shared-build-deploy-checks": ["@temper/shared-build-deploy-checks@workspace:lua-compiler/vendor/temper-checks"],
 
