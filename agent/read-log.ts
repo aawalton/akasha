@@ -68,10 +68,10 @@ export function firstUnreadLine(reading: Reading | null, mark: string, lines: nu
 }
 
 function seatPageWithId(id: string): string | null {
-  if (!existsSync(SEAT_DIR)) return null
-  for (const name of readdirSync(SEAT_DIR)) {
+  if (!existsSync(seatDir())) return null
+  for (const name of readdirSync(seatDir())) {
     if (!name.endsWith(SEAT_SUFFIX)) continue
-    const at = `${SEAT_DIR}/${name}`
+    const at = `${seatDir()}/${name}`
     try {
       if (textField(parseFrontmatter(readFileSync(at, "utf8")), ID_KEY) === id) return at
     } catch {
@@ -82,10 +82,10 @@ function seatPageWithId(id: string): string | null {
 }
 
 function subagentPageWith(childId: string): string | null {
-  if (!existsSync(SUBAGENT_DIR)) return null
-  for (const name of readdirSync(SUBAGENT_DIR)) {
+  if (!existsSync(subagentDir())) return null
+  for (const name of readdirSync(subagentDir())) {
     if (!name.endsWith(SUBAGENT_SUFFIX)) continue
-    const at = `${SUBAGENT_DIR}/${name}`
+    const at = `${subagentDir()}/${name}`
     try {
       if (textField(parseFrontmatter(readFileSync(at, "utf8")), SUBAGENT_ID_KEY) === childId) return at
     } catch {
@@ -98,7 +98,7 @@ function subagentPageWith(childId: string): string | null {
 export function agentPageFor(writer: string): string | null {
   const mark = writer.indexOf(SUBAGENT_MARK)
   if (mark > 0) {
-    const named = `${SUBAGENT_DIR}/${writer}${SUBAGENT_SUFFIX}`
+    const named = `${subagentDir()}/${writer}${SUBAGENT_SUFFIX}`
     if (existsSync(named)) return named
     return subagentPageWith(writer.slice(mark + SUBAGENT_MARK.length))
   }
@@ -107,7 +107,7 @@ export function agentPageFor(writer: string): string | null {
 
 export function agentPages(): readonly string[] {
   const found: string[] = []
-  for (const dir of [SEAT_DIR, SUBAGENT_DIR]) {
+  for (const dir of [seatDir(), subagentDir()]) {
     if (!existsSync(dir)) continue
     for (const name of readdirSync(dir)) if (name.endsWith(PAGE_SUFFIX)) found.push(`${dir}/${name}`)
   }
