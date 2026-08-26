@@ -8,7 +8,7 @@ import {
   getEsoResetTime,
   nyWallHm,
   nyWallToInstant,
-} from "./reset-times.ts"
+} from "./day.ts"
 
 describe("getEsoResetTime", () => {
   it("midwinter EST after reset → reset is today at 11:00 UTC", () => {

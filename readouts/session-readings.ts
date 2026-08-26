@@ -1,5 +1,5 @@
 import { dayAfter } from "../day/calendar-day.ts"
-import { nyWallToInstant } from "../day/reset-times.ts"
+import { nyWallToInstant } from "../day/day.ts"
 import { type Ask, askOr } from "./readout-resolver.ts"
 
 export const SESSIONS_QUERY = "session-tracking-all"
