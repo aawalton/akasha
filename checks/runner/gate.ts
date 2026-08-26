@@ -2,7 +2,6 @@ import { execFileSync } from "node:child_process"
 import { mkdtempSync, rmSync } from "node:fs"
 import { resolve } from "node:path"
 import { answersAt } from "../../cache/answer.ts"
-import { closureOf } from "../../cache/closure.ts"
 import type { Check, CheckRun } from "../check-shape.ts"
 import { trackedIn, treeOn } from "../tree.ts"
 import { runKept, type Subject } from "./kept.ts"
@@ -76,9 +75,8 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     }
     const tree = treeOn(patch.root, changed, () => trackedIn(patch.root, index), dir)
     const answers = answersAt(patch.root)
-    const closure = closureOf(patch.root)
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
-    return checks.map((check) => runKept(check, subjects, closure, runtime, answers, tree))
+    return checks.map((check) => runKept(check, subjects, runtime, answers, tree))
   } finally {
     rmSync(index, { force: true })
     if (made !== null) rmSync(made, { recursive: true, force: true })
