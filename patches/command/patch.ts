@@ -2,7 +2,7 @@ import { execFileSync, spawn } from "node:child_process"
 import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { writerId } from "../../agent/writer.ts"
-import { CHECKS } from "../../checks/checks.ts"
+import { checksOnPatch } from "../../checks/checks.ts"
 import { applying, runGate } from "../../checks/run/gate.ts"
 import { GATED } from "./gated.ts"
 
@@ -122,7 +122,7 @@ export function refusalsOver(patch: string, mechanical: boolean): readonly strin
     writeFileSync(file, patch)
     const said: string[] = []
     const asked = { root: HERE, file, writer: writerId(), mechanical }
-    for (const ran of runGate(CHECKS, asked)) {
+    for (const ran of runGate(checksOnPatch(), asked)) {
       if ("threw" in ran) {
         said.push(`${ran.slug} threw: ${ran.threw}`)
         continue
@@ -146,7 +146,7 @@ export function gateOrRefuse(patch: string, mechanical: boolean, changed: number
     process.exit(1)
   }
   process.stderr.write(
-    `gate: ${applying(CHECKS, mechanical).length} akasha check(s) over ${changed} changed file(s), none refused\n`
+    `gate: ${applying(checksOnPatch(), mechanical).length} akasha check(s) over ${changed} changed file(s), none refused\n`
   )
 }
 
