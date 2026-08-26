@@ -11,6 +11,7 @@ export const CODE_DIRS: readonly string[] = [
   "exclusive",
   "page",
   "repo",
+  "write-whole",
 ]
 
 export const CODE_SEEDS: readonly string[] = [
