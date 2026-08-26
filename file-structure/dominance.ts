@@ -1,13 +1,7 @@
 export const summary = "Group each file of one section under the folder that holds everything pointing at it"
 
-import { relative, resolve } from "node:path"
-import { edgesInto, nodesIn } from "../graph/ask.ts"
-import { CODE_EDGE } from "../graph/edge-producer/beside/beside.ts"
-import { IMPORT_EDGE } from "../graph/edge-producer/typescript/typescript.ts"
-import { KEEPS_NOTHING } from "../graph/build-context/build-context.ts"
-import { AKASHA, rootsHere } from "../repo/roots/roots.ts"
-
-const ROOT_FOLDER = "."
+import { AKASHA } from "../repo/roots/roots.ts"
+import { ROOT_FOLDER, folderOf, pointersInto, sectionAt } from "./section.ts"
 
 const NOTHING = "-"
 
@@ -22,11 +16,6 @@ export const help = {
       description: "The section to group. Defaults to the working directory.",
     },
   ],
-}
-
-function folderOf(key: string): string {
-  const cut = key.lastIndexOf("/")
-  return cut < 0 ? ROOT_FOLDER : key.slice(0, cut)
 }
 
 function deepestHolding(keys: readonly string[]): string {
@@ -44,22 +33,10 @@ function deepestHolding(keys: readonly string[]): string {
 }
 
 export default async function dominance(argv: readonly string[]): Promise<void> {
-  const roots = rootsHere()
-  const repoRoot = roots[AKASHA]
-  if (repoRoot === undefined) throw new Error("akasha is not cloned here, so there is no graph to ask")
-  const at = resolve(argv[0] ?? ".")
-  const section = relative(repoRoot, at)
-  if (section === "" || section.startsWith("..")) {
-    throw new Error(`${at} is outside akasha, and the graph this asks is the akasha one`)
-  }
-  const everywhere = Object.keys(roots)
-  const ctx = { roots, said: KEEPS_NOTHING }
-  const mine = nodesIn(ctx, [AKASHA]).filter((node) => node.key.startsWith(`${section}/`))
-  if (mine.length === 0) throw new Error(`${section} holds no file the graph knows`)
+  const section = sectionAt(argv)
   const here = new Map<string, string[]>()
   const abroad = new Set<string>()
-  const refs = mine.map((node) => ({ repo: node.repo, key: node.key }))
-  for (const edge of edgesInto(ctx, refs, everywhere, [IMPORT_EDGE, CODE_EDGE])) {
+  for (const edge of pointersInto(section)) {
     if (edge.from.repo !== AKASHA) {
       abroad.add(edge.to.key)
       continue
@@ -69,7 +46,7 @@ export default async function dominance(argv: readonly string[]): Promise<void> 
     else held.push(edge.from.key)
   }
   const grouped = new Map<string, string[]>()
-  for (const node of mine) {
+  for (const node of section.nodes) {
     const who = here.get(node.key) ?? []
     const home = abroad.has(node.key) ? FOREIGN : who.length === 0 ? NOTHING : deepestHolding(who)
     const held = grouped.get(home)

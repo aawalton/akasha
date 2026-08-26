@@ -1,11 +1,9 @@
 export const summary = "Map what points at each file under one section of a repository"
 
-import { relative, resolve } from "node:path"
-import { edgesFrom, edgesInto, nodesIn } from "../graph/ask.ts"
+import { edgesFrom } from "../graph/ask.ts"
 import { CODE_EDGE } from "../graph/edge-producer/beside/beside.ts"
-import { IMPORT_EDGE } from "../graph/edge-producer/typescript/typescript.ts"
-import { KEEPS_NOTHING } from "../graph/build-context/build-context.ts"
-import { AKASHA, rootsHere } from "../repo/roots/roots.ts"
+import { AKASHA } from "../repo/roots/roots.ts"
+import { folderOf, pointersInto, sectionAt } from "./section.ts"
 
 const TEST_SUFFIX = ".test.ts"
 
@@ -22,29 +20,10 @@ export const help = {
   ],
 }
 
-function folderOf(key: string): string {
-  const cut = key.lastIndexOf("/")
-  return cut < 0 ? "." : key.slice(0, cut)
-}
-
 export default async function uses(argv: readonly string[]): Promise<void> {
-  const roots = rootsHere()
-  const repoRoot = roots[AKASHA]
-  if (repoRoot === undefined) throw new Error("akasha is not cloned here, so there is no graph to ask")
-  const at = resolve(argv[0] ?? ".")
-  const section = relative(repoRoot, at)
-  if (section === "" || section.startsWith("..")) {
-    throw new Error(`${at} is outside akasha, and the graph this asks is the akasha one`)
-  }
-  const everywhere = Object.keys(roots)
-  const ctx = { roots, said: KEEPS_NOTHING }
-  const mine = nodesIn(ctx, [AKASHA])
-    .filter((node) => node.key.startsWith(`${section}/`))
-    .sort((one, two) => (one.key < two.key ? -1 : 1))
-  if (mine.length === 0) throw new Error(`${section} holds no file the graph knows`)
+  const section = sectionAt(argv)
   const pointing = new Map<string, { kind: string; from: string; foreign: boolean }[]>()
-  const refs = mine.map((node) => ({ repo: node.repo, key: node.key }))
-  for (const edge of edgesInto(ctx, refs, everywhere, [IMPORT_EDGE, CODE_EDGE])) {
+  for (const edge of pointersInto(section)) {
     const foreign = edge.from.repo !== AKASHA
     const one = { kind: edge.kind, from: foreign ? `${edge.from.repo}:${edge.from.key}` : edge.from.key, foreign }
     const held = pointing.get(edge.to.key)
@@ -52,12 +31,12 @@ export default async function uses(argv: readonly string[]): Promise<void> {
     else held.push(one)
   }
   const doors = new Map<string, string[]>()
-  for (const node of mine) {
+  for (const node of section.nodes) {
     const home = folderOf(node.key)
     const within = `${home}/`
     const who = [...(pointing.get(node.key) ?? [])].sort((one, two) => (one.from < two.from ? -1 : 1))
     const outside = who.filter((one) => one.foreign || !one.from.startsWith(within))
-    const beside = edgesFrom(ctx, node, [CODE_EDGE]).length > 0
+    const beside = edgesFrom(section.ctx, node, [CODE_EDGE]).length > 0
     const mark = node.key.endsWith(TEST_SUFFIX)
       ? "test"
       : outside.length > 0
