@@ -19,8 +19,7 @@ export function rootEnvName(repo: string): string {
 }
 
 export function akashaRoot(): string {
-  const stated = process.env[rootEnvName(AKASHA)]
-  return stated === undefined || stated === "" ? HERE : resolve(stated)
+  return rootOf(AKASHA)
 }
 
 const SIBLING = process.env[rootEnvName(INSTRUCTIONS)] ?? resolve(HERE, "..", INSTRUCTIONS)
