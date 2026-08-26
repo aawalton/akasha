@@ -253,7 +253,7 @@ export function dayGiven(readout: ResolvedReadout, query: ReadoutQuery, day: str
       `dayGiven: readout \`${readout.slug}\` reads query \`${query.slug}\`, which takes ` +
         `${unheld.join(", ")}, and a readout holds a day and its own \`query-key\` — ` +
         `${readoutQueryDoc(query.slug)} states what the query takes, and \`key-argument\` ` +
-        "on the readout's source states which of them the source-key fills"
+        "`query-argument` on the readout states which of them the query-key fills"
     )
   }
   return given
@@ -288,7 +288,7 @@ export function readingIn(
     if (!query.reducesToOneNumber) {
       throw new Error(
         readout.keyArgument === null
-          ? `readingIn: readout \`${readout.slug}\` names no \`source-key\`, and query ` +
+          ? `readingIn: readout \`${readout.slug}\` names no \`query-key\`, and query ` +
               `\`${query.slug}\` states no \`function:\`, so it answers keyed rows rather than one ` +
               "number — the readout has to name which number it takes"
           : `readingIn: readout \`${readout.slug}\` spends its key on argument ` +
@@ -321,7 +321,7 @@ export function readingIn(
       .map((one) => `\`${one}\``)
       .join(", ")
     throw new Error(
-      `readingIn: readout \`${readout.slug}\` names \`source-key: ${named}\`, which reads ` +
+      `readingIn: readout \`${readout.slug}\` names \`query-key: ${named}\`, which reads ` +
         `\`${key}\`, and query \`${query.slug}\` answers ` +
         `${carried === "" ? "no keys at all" : carried}`
     )
