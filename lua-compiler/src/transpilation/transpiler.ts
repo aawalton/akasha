@@ -15,7 +15,8 @@ import { getPlugins, type Plugin } from "./plugins"
 import { getEmitPath, getSourceDir } from "./program-paths"
 import { resolveDependencies } from "./resolve"
 import { getProgramTranspileResult, type TranspileOptions } from "./transpile"
-import type { EmitFile, EmitHost, ProcessedFile } from "./emit-host"
+import type { EmitFile, ProcessedFile } from "./emit-file"
+import type { EmitHost } from "./emit-host"
 
 export interface TranspilerOptions {
   emitHost?: EmitHost

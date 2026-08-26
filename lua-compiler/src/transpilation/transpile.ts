@@ -10,7 +10,8 @@ import { createPruneUnusedReexportsTransformer } from "./prune-unused-reexports"
 import { computeReachability, type ReachabilityResult } from "./reachability"
 import { getTransformers } from "./transformers"
 import { getProjectRoot } from "./program-paths"
-import type { EmitHost, ProcessedFile } from "./emit-host"
+import type { ProcessedFile } from "./emit-file"
+import type { EmitHost } from "./emit-host"
 
 export interface TranspileOptions {
   program: ts.Program

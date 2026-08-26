@@ -1,7 +1,7 @@
 import { SourceNode } from "source-map"
 import { formatPathToLuaPath } from "../utils"
 import type { LuaRequire } from "./find-lua-requires"
-import type { ProcessedFile } from "./emit-host"
+import type { ProcessedFile } from "./emit-file"
 
 export function replaceRequireInCode(
   file: ProcessedFile,

@@ -6,7 +6,7 @@ import { escapeString } from "../LuaPrinter-helpers"
 import { cast, formatPathToLuaPath, isNonNull, trimExtension } from "../utils"
 import { couldNotFindBundleEntryPoint } from "./diagnostics"
 import { getEmitOutDir, getEmitPathRelativeToOutDir, getProjectRoot } from "./program-paths"
-import type { EmitFile, ProcessedFile } from "./emit-host"
+import type { EmitFile, ProcessedFile } from "./emit-file"
 
 const createModulePath = (pathToResolve: string, program: ts.Program) =>
   escapeString(
