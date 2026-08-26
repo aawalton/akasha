@@ -121,26 +121,30 @@ function mustBeInside(pathish: string): string {
   return relPath
 }
 
-function removalsIn(argv: readonly string[]): readonly string[] {
+function removalsNamed(argv: readonly string[]): readonly string[] {
   const found: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
     if (argv[at] !== "--remove") continue
     const value = argv[at + 1]
     if (value === undefined || value.startsWith("-")) fail("--remove needs a path")
     at += 1
-    found.push(mustBeInside(value))
+    found.push(value)
   }
   return found
 }
 
-function landingsIn(pairs: readonly Pair[]): readonly Landing[] {
+function removalsIn(argv: readonly string[]): readonly string[] {
+  return removalsNamed(argv).map(mustBeInside)
+}
+
+function landingsIn(pairs: readonly Pair[], removals: readonly string[]): readonly Landing[] {
   if (pairs.some((one) => one.contentFile === "-")) {
     fail(
       `a ${CONTENT_FILE} reads \`-\`, and a patch is built by reading every body twice — once into ` +
         "the patch and once by the write that lands it. Put the body in a file of its own."
     )
   }
-  if (pairs.length === 0) {
+  if (pairs.length === 0 && removals.length === 0) {
     fail(
       `this call addresses akasha and names no ${FILE_PATH}, so there is no body to build a patch ` +
         `from. Hand each body in as ${FILE_PATH} <path> ${CONTENT_FILE} <file>.`
@@ -246,7 +250,9 @@ export const help = {
 
 export default async function write(argv: readonly string[]): Promise<void> {
   const pairs = pairsIn(argv)
-  const here = pairs.some((one) => inside(one.filePath) !== null)
+  const here =
+    pairs.some((one) => inside(one.filePath) !== null) ||
+    removalsNamed(argv).some((one) => inside(one) !== null)
 
   if (!here) {
     if (valueOf(argv, PATCH_FILE) !== null) {
@@ -256,14 +262,16 @@ export default async function write(argv: readonly string[]): Promise<void> {
     return
   }
 
-  const landings = landingsIn(pairs)
-  const patch = patchText(landings, removalsIn(argv))
+  const removals = removalsIn(argv)
+  const landings = landingsIn(pairs, removals)
+  const patch = patchText(landings, removals)
 
   const held = valueOf(argv, PATCH_FILE)
   if (held !== null) {
     writeFileSync(resolve(process.cwd(), held), patch)
     process.stderr.write(
-      `patch: ${patch.length} byte(s) over ${landings.length} file(s) — nothing was checked or landed\n`
+      `patch: ${patch.length} byte(s) over ${landings.length + removals.length} file(s) — ` +
+        "nothing was checked or landed\n"
     )
     return
   }
@@ -275,8 +283,8 @@ export default async function write(argv: readonly string[]): Promise<void> {
     process.exit(1)
   }
   process.stderr.write(
-    `gate: ${applying(CHECKS, mechanical).length} akasha check(s) over ${landings.length} ` +
-      "changed file(s), none refused\n"
+    `gate: ${applying(CHECKS, mechanical).length} akasha check(s) over ` +
+      `${landings.length + removals.length} changed file(s), none refused\n`
   )
   await runWriteTool(without(argv, PATCH_FILE), false)
 }
