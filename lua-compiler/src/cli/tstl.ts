@@ -1,18 +1,18 @@
 #!/usr/bin/env bun
 import * as ts from "typescript"
-import * as tstlCompilerOptions from "./CompilerOptions"
-import * as tstlTranspiler from "./transpilation/transpiler"
-import { isBundleEnabled } from "./CompilerOptions"
-import * as cliDiagnostics from "./cli/diagnostics"
-import { getHelpString, name } from "./cli/information"
-import { parseCommandLine } from "./cli/parse"
-import { createDiagnosticReporter } from "./cli/report"
+import * as tstlCompilerOptions from "../CompilerOptions"
+import * as tstlTranspiler from "../transpilation/transpiler"
+import { isBundleEnabled } from "../CompilerOptions"
+import * as cliDiagnostics from "./diagnostics"
+import { getHelpString, name } from "./information"
+import { parseCommandLine } from "./parse"
+import { createDiagnosticReporter } from "./report"
 import {
   createConfigFileUpdater,
   locateConfigFile,
   parseConfigFileWithSystem,
-} from "./cli/tsconfig"
-import * as performance from "./measure-performance"
+} from "./tsconfig"
+import * as performance from "../measure-performance"
 
 const shouldBePretty = ({ pretty }: ts.CompilerOptions = {}) =>
   typeof pretty === "boolean" ? pretty : (ts.sys.writeOutputIsTTY?.() ?? false)
