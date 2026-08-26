@@ -10,7 +10,3 @@ export function writerId(): string | null {
   const acting = said("ACTING_AGENT_ID")
   return acting.startsWith(`${seat}${SUBAGENT_MARK}`) ? acting : seat
 }
-
-export function actOn(root: string, writer: string | null): Act {
-  return { writer, before: onDisk(root) }
-}
