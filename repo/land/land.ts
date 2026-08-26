@@ -348,3 +348,42 @@ export function land(
   )
   return landed
 }
+
+export interface Loose {
+  readonly absolute: string
+  readonly body: string | Uint8Array
+}
+
+export function landOutside(entries: readonly Loose[], dryRun: boolean): void {
+  const sizes: readonly SizeChange[] = entries.map((entry) => ({
+    relPath: entry.absolute,
+    before: byteSize(entry.absolute),
+    after: byteCount(entry.body),
+  }))
+  if (dryRun) {
+    process.stdout.write(
+      [
+        `write:  dry-run — ${entries.length} file(s) would be written outside every repo`,
+        ...sizeLines(sizes),
+      ].join("\n") + "\n"
+    )
+    return
+  }
+  for (const entry of entries) {
+    try {
+      put(entry.absolute, entry.body)
+    } catch (err) {
+      throw new LandingRefused(
+        `could not write ${entry.absolute}: ${err instanceof Error ? err.message : String(err)}`
+      )
+    }
+    recordOwnWrite(entry.absolute, entry.body)
+  }
+  process.stdout.write(
+    [
+      `write:  ${entries.length} file(s) written outside every repo`,
+      ...sizeLines(sizes),
+      "commit: none — no repo holds these paths, so nothing carries their history",
+    ].join("\n") + "\n"
+  )
+}
