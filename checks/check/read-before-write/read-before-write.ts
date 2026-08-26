@@ -10,18 +10,18 @@ import {
   type Reading,
   sameBody,
 } from "../../../agent/read-log.ts"
-import { pagesOver } from "../../../graph/page-index.ts"
-import { AKASHA, INSTRUCTIONS, rootsHere } from "../../../graph/roots.ts"
-import { addressIndexOver } from "../../../page/address-index.ts"
+import { AKASHA } from "../../../graph/roots.ts"
 import type { PageAt } from "../../../page/page-at.ts"
 import { pageNameOf } from "../../../page/page-name.ts"
-import { trackedIn } from "../../../page/pages.ts"
-import { requiredReadingFor, seedingOver } from "../../../page/required-reading.ts"
+import { requiredReadingFor } from "../../../page/required-reading.ts"
 import { textAt } from "../../../page/text.ts"
-import type { Act, Batch, Check, CheckFailure, Tree } from "../check-shape.ts"
+import { standingHere } from "../../../page/warrant-index.ts"
+import type { Act, Batch, Check, CheckFailure } from "../check-shape.ts"
 import { refusalText } from "../../refusal.ts"
 
 const SLUG = "read-before-write"
+
+const OWED = "for this path"
 
 function routeTo(absolute: string): string {
   return `bun ~/repos/instructions/tools/read.ts --file-path ${absolute}`
@@ -74,11 +74,12 @@ function refusalOverRequired(
   absolute: string
 ): string | null {
   const route = routeTo(absolute)
-  if (reading === null) return refusalText("required-document-unread", { path: said, route })
+  if (reading === null) return refusalText("required-document-unread", { path: said, owed: OWED, route })
   const mark = blobId(body)
   if (!sameBody(reading, mark)) {
     return refusalText("required-document-changed", {
       path: said,
+      owed: OWED,
       read: whenText(reading.at),
       changed: changedAt(absolute),
       route,
@@ -89,22 +90,11 @@ function refusalOverRequired(
   if (unread === null) return null
   return refusalText("required-document-part-read", {
     path: said,
+    owed: OWED,
     line: `${unread}`,
     lines: `${lines}`,
     route,
   })
-}
-
-function warrantsOver(tree: Tree) {
-  const lending = rootsHere()[INSTRUCTIONS]
-  const pages = lending === undefined ? [] : pagesOver(INSTRUCTIONS, trackedIn(lending))
-  const bodyOf = (at: PageAt): string | null =>
-    at.repo === INSTRUCTIONS && lending !== undefined ? textAt(lending, at.key) : null
-  const index = addressIndexOver(pages, bodyOf)
-  const seeding = seedingOver(pages, index)
-  const rootOfRepo = (repo: string): string | undefined => rootsHere()[repo]
-  return (at: PageAt, text: string | null): readonly PageAt[] =>
-    requiredReadingFor(at, text, index, seeding, rootOfRepo)
 }
 
 export const readBeforeWrite: Check = {
@@ -127,7 +117,9 @@ export const readBeforeWrite: Check = {
       return paths.map((path) => ({ path, reason }))
     }
 
-    const warrants = warrantsOver(tree)
+    const { index, seeding, rootOf } = standingHere()
+    const warrants = (at: PageAt, text: string | null): readonly PageAt[] =>
+      requiredReadingFor(at, text, index, seeding, rootOf)
     const failures: CheckFailure[] = []
     const judged = new Set<string>()
 
@@ -141,7 +133,7 @@ export const readBeforeWrite: Check = {
       const landing = tree.at(path)
       const text = landing === null ? null : landing.toString("utf8")
       for (const one of warrants(pageAtOf(AKASHA, key), text)) {
-        const root_ = rootsHere()[one.repo]
+        const root_ = rootOf(one.repo)
         if (root_ === undefined) continue
         const absolute = `${root_}/${one.key}`
         if (judged.has(absolute)) continue

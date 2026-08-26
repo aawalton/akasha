@@ -16,6 +16,8 @@ import type { Act, Batch, Check, CheckFailure } from "../check-shape.ts"
 
 const SLUG = "read-what-is-required"
 
+const OWED = "for your seat"
+
 const LAPSED =
   "nothing can say what you have read, so every document your persona, domain and role " +
   "stand on would go unread with nothing saying so"
@@ -43,11 +45,12 @@ function refusalOver(
   absolute: string
 ): string | null {
   const route = routeTo(absolute)
-  if (reading === null) return refusalText("required-document-unread", { path: said, route })
+  if (reading === null) return refusalText("required-document-unread", { path: said, owed: OWED, route })
   const mark = blobId(new TextEncoder().encode(body))
   if (!sameBody(reading, mark)) {
     return refusalText("required-document-changed", {
       path: said,
+      owed: OWED,
       read: whenText(reading.at),
       changed: changedAt(absolute),
       route,
@@ -58,6 +61,7 @@ function refusalOver(
   if (unread === null) return null
   return refusalText("required-document-part-read", {
     path: said,
+    owed: OWED,
     line: `${unread}`,
     lines: `${lines}`,
     route,
@@ -72,7 +76,7 @@ export const readWhatIsRequired: Check = {
     const first = paths[0]
     if (first === undefined) return []
     if (act.writer === null) {
-      return [{ path: first, reason: refusalText("required-reading-writer-unidentified", {}) }]
+      return [{ path: first, reason: refusalText("writer-unidentified", {}) }]
     }
     const page = agentPageFor(act.writer)
     const log = page === null ? null : readLogFor(act.writer)
