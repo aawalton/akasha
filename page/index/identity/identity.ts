@@ -1,3 +1,4 @@
+import { linkTargetsFrom } from "../link/link.ts"
 import type { Frontmatter } from "../../frontmatter.ts"
 import type { PageAt, Roots } from "../../page.ts"
 import { pagesIn } from "../../tracked/tracked.ts"
@@ -76,6 +77,7 @@ export function wordOf(kind: string): string | null {
 
 export type Held = PageAt & {
   readonly fm: Frontmatter
+  readonly links: readonly string[]
 }
 
 export type Stated = PageAt & {
@@ -143,7 +145,7 @@ export function heldAt(
   if (text === null) return null
   const { fm, why } = blockOf(text)
   if (why !== null) return null
-  return { repo, key, stem, type, fm }
+  return { repo, key, stem, type, fm, links: linkTargetsFrom(repo, key, text) }
 }
 
 export function statedOf(at: Held): Stated {

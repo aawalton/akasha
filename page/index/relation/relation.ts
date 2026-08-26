@@ -1,6 +1,7 @@
 import { listField } from "../../frontmatter.ts"
 import { NONE, stringAt } from "../../text/text.ts"
 import { BY_FILE, type Held, type Resolve, kindOf } from "../identity/identity.ts"
+import { LINK_RELATION } from "../link/link.ts"
 import { pageTargetOf } from "../place/place.ts"
 
 const DEFINITION = "page-property-definition"
@@ -121,6 +122,12 @@ export function reachedFrom(
       seen.add(said)
       found.push({ relation: relation.key, target })
     }
+  }
+  for (const target of at.links) {
+    const said = `${LINK_RELATION} ${target}`
+    if (seen.has(said)) continue
+    seen.add(said)
+    found.push({ relation: LINK_RELATION, target })
   }
   return found
 }

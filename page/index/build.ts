@@ -11,6 +11,7 @@ import {
   resolveOver,
   statedOf,
 } from "./identity/identity.ts"
+import { linkTargetsFrom } from "./link/link.ts"
 import { identityFile } from "./place/place.ts"
 import { type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
 import {
@@ -87,7 +88,7 @@ export function heldOf(repo: string, key: string, text: string): Held | null {
   if (named === null) return null
   const { fm, why } = blockOf(text)
   if (why !== null) return null
-  return { repo, key, stem: named.stem, type: named.type, fm }
+  return { repo, key, stem: named.stem, type: named.type, fm, links: linkTargetsFrom(repo, key, text) }
 }
 
 export function buildOver(roots: Roots): Built {
