@@ -1,8 +1,3 @@
-export type CheckFailure = {
-  readonly path: string
-  readonly reason: string
-}
-
 export type Tree = {
   readonly root: string
   readonly at: (path: string) => Buffer | null
@@ -10,10 +5,60 @@ export type Tree = {
   readonly dir: () => string
 }
 
-export type Check = {
-  readonly slug: string
-  readonly run: (paths: readonly string[], tree: Tree) => readonly CheckFailure[]
+export type CheckFailure = {
+  readonly path: string
+  readonly reason: string
 }
+
+export type At = {
+  readonly root: string
+  readonly path: string
+}
+
+export type File = At & {
+  readonly body: Buffer
+}
+
+export type Batch = {
+  readonly root: string
+  readonly paths: readonly string[]
+  readonly tree: Tree
+}
+
+export type Act = {
+  readonly writer: string | null
+  readonly before: Tree
+}
+
+export type Needs = "path" | "file" | "tree"
+
+type Given = {
+  path: At
+  file: File
+  tree: Batch
+}
+
+type Answer = {
+  path: readonly string[]
+  file: readonly string[]
+  tree: readonly CheckFailure[]
+}
+
+type CheckOf<K extends Needs> =
+  | {
+      readonly slug: string
+      readonly needs: K
+      readonly needsAuthor?: false
+      readonly run: (given: Given[K]) => Answer[K]
+    }
+  | {
+      readonly slug: string
+      readonly needs: K
+      readonly needsAuthor: true
+      readonly run: (given: Given[K], act: Act) => Answer[K]
+    }
+
+export type Check = CheckOf<"path"> | CheckOf<"file"> | CheckOf<"tree">
 
 export type Outcome = {
   readonly slug: string

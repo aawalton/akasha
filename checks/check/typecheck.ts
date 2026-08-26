@@ -82,7 +82,8 @@ function tsconfigFor(dir: string, typeRoot: string, buildInfo: string): string {
 
 export const typecheck: Check = {
   slug: "typecheck",
-  run: (paths, tree) => {
+  needs: "tree",
+  run: ({ paths, tree }) => {
     const subjects = paths.filter((one) => one.endsWith(".ts"))
     if (subjects.length === 0) return []
     const found = instrument()

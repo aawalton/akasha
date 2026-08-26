@@ -3,8 +3,9 @@ export const summary = "Write whole files as a patch, gated before anything land
 import { execFileSync, spawn } from "node:child_process"
 import { mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
+import { writerId } from "../../checks/act.ts"
 import { CHECKS } from "../../checks/checks.ts"
-import { runGate } from "../../checks/runner/gate.ts"
+import { applying, runGate } from "../../checks/runner/gate.ts"
 
 const HERE = realpathSync(resolve(import.meta.dir, "../.."))
 
@@ -23,6 +24,8 @@ const FILE_PATH = "--file-path"
 const CONTENT_FILE = "--content-file"
 
 const PATCH_FILE = "--patch-file"
+
+const MECHANICAL = "--mechanical"
 
 const VALUE_FLAGS = [
   "--repo",
@@ -175,13 +178,14 @@ function patchText(landings: readonly Landing[], removals: readonly string[]): s
   }
 }
 
-function refusalsOver(patch: string): readonly string[] {
+function refusalsOver(patch: string, mechanical: boolean): readonly string[] {
   const held = mkdtempSync(`${SCRATCH}/mp-gate-`)
   const file = `${held}/change.patch`
   try {
     writeFileSync(file, patch)
     const said: string[] = []
-    for (const ran of runGate(CHECKS, { root: HERE, file })) {
+    const asked = { root: HERE, file, writer: writerId(), mechanical }
+    for (const ran of runGate(CHECKS, asked)) {
       if ("threw" in ran) {
         said.push(`${ran.slug} threw: ${ran.threw}`)
         continue
@@ -264,13 +268,15 @@ export default async function write(argv: readonly string[]): Promise<void> {
     return
   }
 
-  const refused = refusalsOver(patch)
+  const mechanical = argv.includes(MECHANICAL)
+  const refused = refusalsOver(patch, mechanical)
   if (refused.length > 0) {
     process.stderr.write(`${refused.join("\n")}\nnothing was written\n`)
     process.exit(1)
   }
   process.stderr.write(
-    `gate: ${CHECKS.length} akasha check(s) over ${landings.length} changed file(s), none refused\n`
+    `gate: ${applying(CHECKS, mechanical).length} akasha check(s) over ${landings.length} ` +
+      "changed file(s), none refused\n"
   )
   await runWriteTool(without(argv, PATCH_FILE), false)
 }
