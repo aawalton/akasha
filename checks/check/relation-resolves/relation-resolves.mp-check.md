@@ -12,10 +12,12 @@ needs: tree
 
 # Design
 
-The tree judged is the one the change would leave, so a page it removes and a page it adds both count.
+The tree judged is the one the change would leave, not the one that stands.
+
+A page the change adds counts as a bearer, and a page it removes does not.
 
 A relation whose property is marked `may-be-gone` is outside this check.
 
 Only pages in this repository are read for the relations they carry.
 
-A relation naming nothing before the change is not reported, no page going being what bore its value.
+A relation that named nothing before the change is not reported.
