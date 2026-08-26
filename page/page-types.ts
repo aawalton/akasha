@@ -1,0 +1,365 @@
+import { readdirSync, readFileSync } from "node:fs"
+import { isRowsFile } from "./rows-file.ts"
+import { isAttachmentFile } from "./attachment-file.ts"
+import { listField, parseFrontmatter, type Frontmatter } from "./frontmatter.ts"
+import { notIgnored } from "../repo/ignored.ts"
+import { INSTRUCTIONS, reposNamed } from "../repo/roots.ts"
+import { MARKDOWN, pageFileIn } from "./page-file.ts"
+import { pageNameOf } from "./page-name.ts"
+import type { Roots } from "./page-at.ts"
+
+export const PAGES_ROOT = "pages"
+
+export const PAGE_TYPE_GLOBS: readonly string[] = [
+  "page-types/**/*.md",
+  placeOf("page-type"),
+  placeOf("rules-engine-rule-set"),
+]
+
+export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [
+  "page-body-shapes/*.md",
+  placeOf("page-body-shape"),
+]
+
+export const PROPERTY_GLOBS: readonly string[] = [
+  "properties/**/*.md",
+  placeOf("page-property-definition"),
+  placeOf("alan-harness-tracking-field"),
+]
+
+export const PAGE_GLOBS = [...PAGE_TYPE_GLOBS, ...PAGE_BODY_SHAPE_GLOBS, ...PROPERTY_GLOBS]
+
+export const PAGE_PROPERTY_TYPE_GLOB = placeOf("page-property-type")
+
+export const PAGE_SHAPE_GLOBS = [...PAGE_GLOBS, PAGE_PROPERTY_TYPE_GLOB]
+
+const globs = new Map<string, Bun.Glob>()
+
+export function globFor(pattern: string): Bun.Glob {
+  const held = globs.get(pattern)
+  if (held !== undefined) return held
+  const made = new Bun.Glob(pattern)
+  globs.set(pattern, made)
+  return made
+}
+
+export function matchesAny(relPath: string, globs: readonly string[]): boolean {
+  return globs.some((one) => globFor(one).match(relPath))
+}
+
+const LOCATION_FREE = /^\*\*\/\*\.([a-z0-9-]+)\.md$/
+
+export function typeSuffixIn(glob: string): string | null {
+  return LOCATION_FREE.exec(glob)?.[1] ?? null
+}
+
+export function typeSuffixOf(relPath: string): string {
+  const name = relPath.slice(relPath.lastIndexOf("/") + 1)
+  const cut = name.length - MARKDOWN.length
+  if (cut <= 0 || !name.endsWith(MARKDOWN)) return ""
+  const dot = name.lastIndexOf(".", cut - 1)
+  return dot < 0 ? "" : name.slice(dot + 1, cut)
+}
+
+export const NONE = "none"
+
+export const FILES = "files"
+
+export const PAGE_TYPE_SLUG = "page-type-slug"
+
+export const DEFINED_ON = "defined-on-slug"
+
+export const EXTENDS_SLUG = "extends-slug"
+
+export const DOMAIN_SLUG = "domain"
+
+export const NAMED_FOR = "named-for"
+
+export const SLUG = "slug"
+
+export interface PageType {
+  readonly slug: string
+  readonly relPath: string
+  readonly filed: readonly Filed[]
+  readonly extends: string | null
+  readonly namedFor: string | null
+}
+
+export function scanIn(root: string, patterns: readonly string[]): readonly string[] {
+  const suffixes = new Set<string>()
+  const walked: string[] = []
+  for (const pattern of patterns) {
+    const suffix = typeSuffixIn(pattern)
+    if (suffix === null) walked.push(pattern)
+    else suffixes.add(suffix)
+  }
+  const found = walked.flatMap((pattern) => [...globFor(pattern).scanSync({ cwd: root })])
+  if (suffixes.size > 0) {
+    for (const at of globFor(`**/*${MARKDOWN}`).scanSync({ cwd: root })) {
+      if (suffixes.has(typeSuffixOf(at))) found.push(at)
+    }
+  }
+  return [...notIgnored(root, [...new Set(found)])].sort()
+}
+
+export function scan(roots: Roots, globs: readonly string[]): readonly string[] {
+  const root = roots[INSTRUCTIONS]
+  return root === undefined ? [] : scanIn(root, globs)
+}
+
+export function textAt(root: string, relPath: string): string | null {
+  try {
+    return readFileSync(`${root}/${relPath}`, "utf8")
+  } catch {
+    return null
+  }
+}
+
+export function blockOf(text: string): { fm: Frontmatter; why: string | null } {
+  const fm = parseFrontmatter(text)
+  if (!fm.present) return { fm, why: "it opens with no `---` frontmatter block, so it declares nothing" }
+  if (fm.error !== null) return { fm, why: `its frontmatter cannot be accounted for: ${fm.error}` }
+  return { fm, why: null }
+}
+
+export function stringAt(fm: Frontmatter, key: string): string | null {
+  const value = fm.fields.get(key)
+  return typeof value === "string" && value.trim() !== "" ? value.trim() : null
+}
+
+export interface StatedPageType {
+  readonly slug: string
+  readonly relPath: string
+  readonly stated: readonly Filed[] | null
+  readonly extends: string | null
+  readonly namedFor: string | null
+}
+
+export function pageTypeStatedAt(relPath: string, text: string): StatedPageType | null {
+  const { fm, why } = blockOf(text)
+  if (why !== null) return null
+  return {
+    slug: stringAt(fm, SLUG) ?? pageNameOf(relPath)?.stem ?? "",
+    relPath,
+    stated: filedIn(fm),
+    extends: stringAt(fm, EXTENDS_SLUG),
+    namedFor: stringAt(fm, NAMED_FOR),
+  }
+}
+
+export function pageTypeOf(one: StatedPageType, repo: string | null): PageType {
+  return {
+    slug: one.slug,
+    relPath: one.relPath,
+    filed: one.stated ?? (repo === null ? [] : [{ repo, place: null }]),
+    extends: one.extends,
+    namedFor: one.namedFor,
+  }
+}
+
+export function pageTypeAt(relPath: string, text: string, repo: string | null = null): PageType | null {
+  const one = pageTypeStatedAt(relPath, text)
+  return one === null ? null : pageTypeOf(one, repo)
+}
+
+export function domainKinds(types: readonly PageType[]): ReadonlySet<string> {
+  const above = new Map(types.map((one) => [one.slug, one.extends]))
+  const kinds = new Set<string>()
+  for (const one of types) {
+    const seen = new Set<string>()
+    let at: string | null | undefined = one.slug
+    while (at !== null && at !== undefined && !seen.has(at)) {
+      seen.add(at)
+      if (at === DOMAIN_SLUG) {
+        kinds.add(one.slug)
+        break
+      }
+      at = above.get(at)
+    }
+  }
+  return kinds
+}
+
+export function domainKindTest(
+  repo: string,
+  types: readonly PageType[]
+): (relPath: string, fm: Frontmatter) => boolean {
+  const kinds = domainKinds(types)
+  return (relPath, fm) => {
+    const kind = stringAt(fm, PAGE_TYPE_SLUG) ?? claimant(relPath, repo, types).slug
+    return kind !== null && kinds.has(kind)
+  }
+}
+
+export function placeDirOf(slug: string): string {
+  return `${PAGES_ROOT}/${slug}`
+}
+
+export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
+  const placed = new Map<string, string>()
+  for (const repo of reposNamed()) {
+    let entries
+    try {
+      entries = readdirSync(`${roots[repo]}/${PAGES_ROOT}`, { withFileTypes: true })
+    } catch {
+      continue
+    }
+    for (const entry of entries) {
+      if (entry.isDirectory() && !placed.has(entry.name)) placed.set(entry.name, repo)
+    }
+  }
+  return placed
+}
+
+export function pageTypePathIn(root: string, slug: string): string {
+  const held = pageFileIn(root, placeDirOf("page-type"), slug)
+  return held ?? `page-types/${slug}.md`
+}
+
+export function placeOf(slug: string): string {
+  return `${placeDirOf(slug)}/**/*.md`
+}
+
+export interface Filed {
+  readonly repo: string | null
+  readonly place: string | null
+}
+
+export function filedIn(fm: Frontmatter): readonly Filed[] | null {
+  const one = stringAt(fm, FILES)
+  const stated = one === null ? listField(fm, FILES) : [one]
+  if (stated.length === 0) return null
+  const filed: Filed[] = []
+  for (const each of stated) {
+    const text = each.trim()
+    if (text === NONE) return []
+    const cut = text.indexOf(":")
+    if (cut < 0) return null
+    const repo = text.slice(0, cut).trim()
+    const place = text.slice(cut + 1).trim()
+    if (!reposNamed().includes(repo) || place === "") return null
+    filed.push({ repo, place })
+  }
+  return filed
+}
+
+export function pagePrefixOf(at: string, slug: string): string | null {
+  const dir = placeDirOf(slug)
+  return at.startsWith(`${dir}/`) ? `${dir}/` : null
+}
+
+export function filesByName(type: PageType): boolean {
+  return placesOf(type).some((one) => one.endsWith(`*.${type.slug}${MARKDOWN}`))
+}
+
+export function newPageNameFor(type: PageType, name: string): string {
+  return filesByName(type) ? `${name}.${type.slug}${MARKDOWN}` : `${name}${MARKDOWN}`
+}
+
+export function pageRelIn(root: string, slug: string, name: string): string {
+  const dir = placeDirOf(slug)
+  return pageFileIn(root, dir, name) ?? `${dir}/${name}${MARKDOWN}`
+}
+
+export function placesOf(one: PageType): readonly string[] {
+  return [
+    ...new Set(one.filed.flatMap((each) => (each.repo === null ? [] : [each.place ?? placeOf(one.slug)]))),
+  ]
+}
+
+export function reposOf(one: PageType): readonly string[] {
+  return one.filed.flatMap((each) => (each.repo === null ? [] : [each.repo]))
+}
+
+export function filedIntoAny(one: PageType, repos: readonly string[]): boolean {
+  return reposOf(one).some((each) => repos.includes(each))
+}
+
+export function soleRepoOf(one: PageType): string | null {
+  const repos = reposOf(one)
+  return repos.length === 1 ? (repos[0] ?? null) : null
+}
+
+export function placesIn(one: PageType, repo: string): readonly string[] {
+  return one.filed.flatMap((each) => (each.repo === repo ? [each.place ?? placeOf(one.slug)] : []))
+}
+
+export function pagesOf(root: string, one: PageType, repo: string): readonly string[] {
+  return scanIn(root, placesIn(one, repo))
+}
+
+interface Claimants {
+  readonly rank: ReadonlyMap<PageType, number>
+  readonly bySuffix: ReadonlyMap<string, readonly PageType[]>
+  readonly elsewhere: readonly PageType[]
+}
+
+const claimants = new WeakMap<readonly PageType[], Claimants>()
+
+function claimantsOf(types: readonly PageType[]): Claimants {
+  const held = claimants.get(types)
+  if (held !== undefined) return held
+  const rank = new Map<PageType, number>()
+  const bySuffix = new Map<string, PageType[]>()
+  const elsewhere: PageType[] = []
+  for (const one of types) {
+    const places = placesOf(one)
+    if (places.length === 0) continue
+    rank.set(one, rank.size)
+    const suffixes = [...new Set(places.map(typeSuffixIn))]
+    if (suffixes.every((suffix) => suffix !== null)) {
+      for (const suffix of suffixes) {
+        const bucket = bySuffix.get(suffix as string)
+        if (bucket === undefined) bySuffix.set(suffix as string, [one])
+        else bucket.push(one)
+      }
+      continue
+    }
+    elsewhere.push(one)
+  }
+  const made = { rank, bySuffix, elsewhere }
+  claimants.set(types, made)
+  return made
+}
+
+export function claiming(relPath: string, repo: string, types: readonly PageType[]): readonly PageType[] {
+  if (isAttachmentFile(relPath) || isRowsFile(relPath)) return []
+  const { rank, bySuffix, elsewhere } = claimantsOf(types)
+  const named = bySuffix.get(typeSuffixOf(relPath)) ?? []
+  const found = [...named, ...elsewhere].filter(
+    (one) => placesIn(one, repo).some((glob) => globFor(glob).match(relPath))
+  )
+  return found.length < 2 ? found : found.sort((a, b) => (rank.get(a) ?? 0) - (rank.get(b) ?? 0))
+}
+
+export type Claim =
+  | { readonly slug: string; readonly type: PageType; readonly why: null }
+  | { readonly slug: null; readonly type: null; readonly why: string }
+
+function statedSlug(body: string): string | null {
+  const { fm, why } = blockOf(body)
+  return why === null ? stringAt(fm, PAGE_TYPE_SLUG) : null
+}
+
+export function claimant(
+  relPath: string,
+  repo: string,
+  types: readonly PageType[],
+  body: string | null = null
+): Claim {
+  const stated = body === null ? null : statedSlug(body)
+  if (stated !== null) {
+    const named = types.find((one) => one.slug === stated)
+    if (named === undefined)
+      return { slug: null, type: null, why: `it states \`${PAGE_TYPE_SLUG}: ${stated}\`, which names no page type here` }
+    return { slug: named.slug, type: named, why: null }
+  }
+  const owners = claiming(relPath, repo, types)
+  const one = owners[0]
+  if (one === undefined) return { slug: null, type: null, why: `no page type claims it in ${repo}` }
+  if (owners.length > 1) {
+    const named = owners.map((each) => `\`${each.slug}\``).join(", ")
+    return { slug: null, type: null, why: `${owners.length} page types claim it in ${repo} (${named})` }
+  }
+  return { slug: one.slug, type: one, why: null }
+}

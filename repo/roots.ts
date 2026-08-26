@@ -41,6 +41,13 @@ function namedIn(instructions: string): readonly string[] {
   return [...found].sort()
 }
 
+let namedRepos: readonly string[] | null = null
+
+export function reposNamed(): readonly string[] {
+  if (namedRepos === null) namedRepos = namedIn(SIBLING)
+  return namedRepos
+}
+
 function rootOf(repo: string): string {
   const stated = process.env[rootEnvName(repo)]
   if (stated !== undefined) return resolve(stated)
