@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: thea-checks-stand-only-in-akasha
 errand: "Start by reading the aine-the-master-plan initiative to orient"
 registration-account: aawalton
 claude-code-session-uuid: 439c0b7e-c799-434e-ae65-9efaefb8985c
