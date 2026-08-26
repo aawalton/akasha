@@ -12,11 +12,11 @@ const REPO = "--repo"
 
 const OLD_STRING = "--old-string"
 
-const OLD_FILE = "--old-file"
+const OLD_STRING_FILE = "--old-string-file"
 
 const NEW_STRING = "--new-string"
 
-const NEW_FILE = "--new-file"
+const NEW_STRING_FILE = "--new-string-file"
 
 const MESSAGE = "--message"
 
@@ -24,7 +24,7 @@ const MESSAGE_FILE = "--message-file"
 
 const DRY_RUN = "--dry-run"
 
-const VALUE_FLAGS = [REPO, OLD_STRING, OLD_FILE, NEW_STRING, NEW_FILE, MESSAGE, MESSAGE_FILE]
+const VALUE_FLAGS = [REPO, OLD_STRING, OLD_STRING_FILE, NEW_STRING, NEW_STRING_FILE, MESSAGE, MESSAGE_FILE]
 
 const BARE_FLAGS = [DRY_RUN, "--help", "-h"]
 
@@ -191,16 +191,16 @@ export const help = {
   flags: [
     { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
     { name: OLD_STRING, argLabel: "<s>", valueShape: "prose" as const, description: "The exact text to replace. The key `edit` calls it by." },
-    { name: OLD_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read --old-string from this file, for text a shell cannot carry." },
+    { name: OLD_STRING_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read --old-string from this file, for text a shell cannot carry." },
     { name: NEW_STRING, argLabel: "<s>", valueShape: "prose" as const, description: "What replaces it. An empty one is legitimate and deletes the text." },
-    { name: NEW_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read --new-string from this file." },
+    { name: NEW_STRING_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read --new-string from this file." },
     { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the rewritten paths." },
     { name: MESSAGE_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read the commit message from a file." },
     { name: DRY_RUN, description: "Search, compose, gate and report; write and commit nothing." },
   ],
   mutuallyExclusive: [
-    [OLD_STRING, OLD_FILE],
-    [NEW_STRING, NEW_FILE],
+    [OLD_STRING, OLD_STRING_FILE],
+    [NEW_STRING, NEW_STRING_FILE],
   ],
   positionals: [
     {
@@ -216,8 +216,8 @@ export default async function replace(argv: readonly string[]): Promise<void> {
   rejectUnknownFlags(argv, VALUE_FLAGS, BARE_FLAGS)
 
   const paths = namedIn(argv)
-  const old = stated(argv, OLD_STRING, OLD_FILE)
-  const next = stated(argv, NEW_STRING, NEW_FILE)
+  const old = stated(argv, OLD_STRING, OLD_STRING_FILE)
+  const next = stated(argv, NEW_STRING, NEW_STRING_FILE)
   if (old === null) fail(`${OLD_STRING} names the text to replace, and none was given`)
   if (next === null) fail(`${NEW_STRING} names what replaces it; give an empty one to delete the text`)
   if (old === "") fail(`${OLD_STRING} is empty, which matches everywhere and nowhere`)
