@@ -66,7 +66,7 @@ export interface ResolvedReadoutGroup {
   readonly unresolved: ReadonlyMap<string, string>
 }
 
-export async function resolveReadout(_sb: unknown, slug: string): Promise<ResolvedReadout> {
+export async function resolveReadout(slug: string): Promise<ResolvedReadout> {
   const catalog = readoutCatalog()
   const readout = catalog.readouts.get(slug)
   if (readout === undefined) {
@@ -122,10 +122,7 @@ export async function resolveReadout(_sb: unknown, slug: string): Promise<Resolv
   }
 }
 
-export async function resolveReadoutGroup(
-  _sb: unknown,
-  groupSlug: string
-): Promise<ResolvedReadoutGroup> {
+export async function resolveReadoutGroup(groupSlug: string): Promise<ResolvedReadoutGroup> {
   const catalog = readoutCatalog()
   const sortOrder = catalog.groups.get(groupSlug)
   if (sortOrder === undefined) {
@@ -147,7 +144,7 @@ export async function resolveReadoutGroup(
   const settled = await Promise.all(
     named.map(async (slug) => {
       try {
-        return { slug, readout: await resolveReadout(null, slug), why: "" }
+        return { slug, readout: await resolveReadout(slug), why: "" }
       } catch (error) {
         return { slug, readout: null, why: error instanceof Error ? error.message : String(error) }
       }
@@ -175,11 +172,8 @@ export function readoutGroupLegend(group: ResolvedReadoutGroup): string {
   return group.readouts.map((readout) => readout.label).join(LEGEND_SEPARATOR)
 }
 
-export async function resolveReadoutGroupLegend(
-  _sb: unknown,
-  groupSlug: string
-): Promise<string> {
-  return readoutGroupLegend(await resolveReadoutGroup(null, groupSlug))
+export async function resolveReadoutGroupLegend(groupSlug: string): Promise<string> {
+  return readoutGroupLegend(await resolveReadoutGroup(groupSlug))
 }
 
 export interface ReadoutGroupReadings {
