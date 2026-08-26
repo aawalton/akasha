@@ -1,9 +1,9 @@
 import { execFileSync, spawn } from "node:child_process"
 import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { writerId } from "../../agent/writer.ts"
-import { CHECKS } from "../../checks/checks.ts"
-import { applying, runGate } from "../../checks/run/gate.ts"
+import { writerId } from "../agent/writer.ts"
+import { CHECKS } from "../checks/checks.ts"
+import { applying, runGate } from "../checks/run/gate.ts"
 
 export const HERE = realpathSync(resolve(import.meta.dir, ".."))
 

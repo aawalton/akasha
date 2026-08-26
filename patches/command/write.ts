@@ -14,7 +14,7 @@ import {
   runTool,
   valueOf,
   without,
-} from "./patch.ts"
+} from "../patch.ts"
 
 const WRITE_TOOL = "write.ts"
 
