@@ -29,6 +29,18 @@ const MODE_PREFIX = "seat-mode-"
 
 const TRUE = "true"
 
+const PERSONA_TYPE = "persona"
+
+const ROLE_TYPE = "role"
+
+const TASK_TYPE = "task"
+
+const INITIATIVE_TYPE = "initiative"
+
+const PERSON_TYPE = "person"
+
+const DOMAIN_TYPE = "domain"
+
 export interface Warranted {
   readonly claimant: string
   readonly page: PageAt
@@ -62,25 +74,25 @@ export function seatWarrantsFor(
   const { fm, why } = blockOf(body)
   if (why !== null) return []
   const found: Warranted[] = []
-  const take = (claimant: string, named: string | null): PageAt | null => {
+  const take = (claimant: string, type: string, named: string | null): PageAt | null => {
     if (named === null) return null
-    const page = index.domainAt(named)
+    const page = index.domainAt(named.includes("/") ? named : `${type}/${named}`)
     if (page !== null) found.push({ claimant, page })
     return page
   }
 
-  take("persona", stringAt(fm, PERSONA_KEY))
-  const domain = take("domain", stringAt(fm, DOMAIN_KEY))
+  take("persona", PERSONA_TYPE, stringAt(fm, PERSONA_KEY))
+  const domain = take("domain", DOMAIN_TYPE, stringAt(fm, DOMAIN_KEY))
   if (domain !== null) {
     for (const one of above(domain, index)) found.push({ claimant: "domain", page: one })
   }
-  take("role", stringAt(fm, ROLE_KEY))
-  take("task", stringAt(fm, TASK_KEY))
-  take("initiative", stringAt(fm, INITIATIVE_KEY))
-  take("principal", stringAt(fm, PERSON_KEY))
+  take("role", ROLE_TYPE, stringAt(fm, ROLE_KEY))
+  take("task", TASK_TYPE, stringAt(fm, TASK_KEY))
+  take("initiative", INITIATIVE_TYPE, stringAt(fm, INITIATIVE_KEY))
+  take("principal", PERSON_TYPE, stringAt(fm, PERSON_KEY))
   const mode = stringAt(fm, MODE_KEY)
-  if (mode !== null) take("mode", `${MODE_PREFIX}${mode}`)
-  if (stringAt(fm, ON_CALL_KEY) === TRUE) take("on-call", ON_CALL_DOMAIN)
+  if (mode !== null) take("mode", DOMAIN_TYPE, `${MODE_PREFIX}${mode}`)
+  if (stringAt(fm, ON_CALL_KEY) === TRUE) take("on-call", DOMAIN_TYPE, ON_CALL_DOMAIN)
 
   const reached = new Map<string, Warranted>()
   const queue = [...found]

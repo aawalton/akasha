@@ -48,16 +48,22 @@ export function addressIndexOver(
 
   const ordered = [...lending].sort((a, b) => (a.key < b.key ? -1 : a.key > b.key ? 1 : 0))
   const bySlug = new Map<string, PageAt>()
+  const byTypedSlug = new Map<string, PageAt>()
   const byStem = new Map<string, PageAt>()
   for (const at of ordered) {
     if (REGISTRY.includes(at.type) && !byStem.has(at.stem)) byStem.set(at.stem, at)
     const fm = frontmatterOf(at)
     if (fm === null) continue
     const slug = stringAt(fm, SLUG_KEY)
-    if (slug !== null && !bySlug.has(slug)) bySlug.set(slug, at)
+    if (slug === null) continue
+    if (!bySlug.has(slug)) bySlug.set(slug, at)
+    const typed = `${at.type}/${slug}`
+    if (!byTypedSlug.has(typed)) byTypedSlug.set(typed, at)
   }
 
   const domainAt = (address: string): PageAt | null => {
+    const typed = byTypedSlug.get(address)
+    if (typed !== undefined) return typed
     const direct = bySlug.get(address)
     if (direct !== undefined) return direct
     const part = slugPart(address)
