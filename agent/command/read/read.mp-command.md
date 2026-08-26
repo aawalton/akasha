@@ -17,14 +17,12 @@ required-reading-slugs:
 
 A read returns the whole file where the agent asks for it or nothing says what it last saw.
 
-A read of a body that is not UTF-8 text returns what it is instead of the body, and records it read whole.
-
-A read of a generated file returns what it is instead of the body, and records it read whole.
+A read of a body that is not UTF-8 text, or of a generated file, returns what it is instead of the body and records it read whole.
 
 A read takes no line range.
 
 A read too big for one answer returns fewer files and how to ask for the rest.
 
-A read of a body past what one answer holds returns what it is instead of the body, and records nothing.
+A body past what one answer holds returns what it is, and records nothing.
 
-What a path warrants is worked out by the code that refuses a write for not having read it.
+What a path warrants is worked out by the code that refuses the write.

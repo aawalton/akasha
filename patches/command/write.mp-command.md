@@ -25,4 +25,4 @@ Which extensions carry bytes is read off the file kinds, and nothing here lists 
 
 A gate that reads a body as text steps aside for a body of bytes rather than being handed one.
 
-A body handed in as `--content-file -` cannot be patched, stdin being one stream the patch would drain.
+A body handed in as `--content-file -` cannot be patched.
