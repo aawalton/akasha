@@ -1,7 +1,7 @@
 export const summary = "Write whole files as a patch, gated before anything lands"
 
 import { execFileSync, spawn } from "node:child_process"
-import { mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { writerId } from "../../checks/act.ts"
 import { CHECKS } from "../../checks/checks.ts"
@@ -107,6 +107,60 @@ function pairsIn(argv: readonly string[]): readonly Pair[] {
     if (token !== undefined && VALUE_FLAGS.includes(token)) at += 1
   }
   if (open !== null) fail(`${FILE_PATH} needs ${CONTENT_FILE}`)
+  return pairs
+}
+
+interface Carried {
+  readonly filePath: string
+  readonly content: string
+}
+
+function carriedIn(text: string): readonly Carried[] {
+  let read: unknown
+  try {
+    read = JSON.parse(text)
+  } catch {
+    return []
+  }
+  const many = Array.isArray(read) ? read : [read]
+  const found: Carried[] = []
+  for (const one of many) {
+    if (typeof one !== "object" || one === null) continue
+    const held = one as Record<string, unknown>
+    const filePath = held["file_path"]
+    const content = held["content"]
+    if (typeof filePath !== "string" || typeof content !== "string") continue
+    found.push({ filePath, content })
+  }
+  return found
+}
+
+function payloadText(argv: readonly string[]): string | null {
+  const named = valueOf(argv, "--input-file")
+  if (named !== null) {
+    try {
+      return readFileSync(resolve(process.cwd(), named), "utf8")
+    } catch {
+      return null
+    }
+  }
+  if (process.stdin.isTTY === true) return null
+  try {
+    const read = readFileSync(0, "utf8")
+    return read === "" ? null : read
+  } catch {
+    return null
+  }
+}
+
+function pairsOver(carried: readonly Carried[]): readonly Pair[] {
+  const pairs: Pair[] = []
+  for (const one of carried) {
+    if (inside(one.filePath) === null) continue
+    const at = `${mkdtempSync(`${SCRATCH}/mp-body-`)}/body`
+    writeFileSync(at, one.content)
+    pairs.push({ filePath: one.filePath, contentFile: at })
+  }
   return pairs
 }
 
@@ -249,7 +303,16 @@ export const help = {
 }
 
 export default async function write(argv: readonly string[]): Promise<void> {
-  const pairs = pairsIn(argv)
+  const named = pairsIn(argv)
+  const text = argv.includes("--help") ? null : payloadText(argv)
+  let forward = argv
+  if (text !== null && valueOf(argv, "--input-file") === null) {
+    const at = `${mkdtempSync(`${SCRATCH}/mp-payload-`)}/payload.json`
+    writeFileSync(at, text)
+    forward = [...argv, "--input-file", at]
+  }
+  const carried = text === null ? [] : carriedIn(text)
+  const pairs = [...named, ...pairsOver(carried)]
   const here =
     pairs.some((one) => inside(one.filePath) !== null) ||
     removalsNamed(argv).some((one) => inside(one) !== null)
@@ -258,7 +321,7 @@ export default async function write(argv: readonly string[]): Promise<void> {
     if (valueOf(argv, PATCH_FILE) !== null) {
       fail(`${PATCH_FILE} is for a call addressing akasha; nothing outside it is landed by patch`)
     }
-    await runWriteTool(argv, false)
+    await runWriteTool(forward, false)
     return
   }
 
@@ -286,5 +349,5 @@ export default async function write(argv: readonly string[]): Promise<void> {
     `gate: ${applying(CHECKS, mechanical).length} akasha check(s) over ` +
       `${landings.length + removals.length} changed file(s), none refused\n`
   )
-  await runWriteTool(without(argv, PATCH_FILE), false)
+  await runWriteTool(without(forward, PATCH_FILE), false)
 }

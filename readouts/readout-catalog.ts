@@ -1,6 +1,6 @@
 import { realpathSync } from "node:fs"
 import { resolve } from "node:path"
-import { borrowedPages } from "../page/borrowed.ts"
+import { pagesIn } from "../page/pages.ts"
 import { listField } from "../page/frontmatter.ts"
 import { blockOf, NONE, stringAt, textAt } from "../page/text.ts"
 import type { ReadoutScale } from "./readout-scale-shape.ts"
@@ -81,7 +81,7 @@ function numberIn(text: string | null): number | null {
 
 export function pageTypesIn(instructions: string): readonly PageType[] {
   const found: PageType[] = []
-  for (const relPath of borrowedPages(instructions, PAGE_TYPE)) {
+  for (const { key: relPath } of pagesIn(instructions).filter((one) => one.type === PAGE_TYPE)) {
     const text = textAt(instructions, relPath)
     if (text === null) continue
     const { fm, why } = blockOf(text)

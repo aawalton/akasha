@@ -1,15 +1,9 @@
-import { execFileSync } from "node:child_process"
-import { BORROWED_PAGE_TYPES, BORROWED_REPO, borrowedPages } from "../../page/borrowed.ts"
-import { blockOf, PAGE_TYPE_SLUG, stringAt, textAt } from "../../page/text.ts"
-import type { NodeProducer, NodeRef } from "../node-shape.ts"
+import type { BuildContext, NodeProducer, NodeRef } from "../node-shape.ts"
+import { pageNameOf } from "../../page/page-name.ts"
+import { trackedIn } from "../../page/pages.ts"
+import { AKASHA } from "../roots.ts"
 
 export const FILE_NODE_KIND = "file"
-
-export const AKASHA = "akasha"
-
-const PAGE_EXTENSION = "md"
-
-const BUFFER_CEILING = 64 * 1024 * 1024
 
 export type FileNodeAttrs = {
   readonly "file-stem": string
@@ -22,16 +16,19 @@ export type FileNode = NodeRef & {
   readonly attrs: FileNodeAttrs
 }
 
-export function trackedIn(root: string, key: string | null = null): readonly string[] {
-  const listed = execFileSync(
-    "git",
-    key === null ? ["-C", root, "ls-files", "-z"] : ["-C", root, "ls-files", "-z", "--", key],
-    { maxBuffer: BUFFER_CEILING }
-  )
-  return listed
-    .toString("utf8")
-    .split("\0")
-    .filter((one) => one !== "")
+const HELD = new WeakMap<BuildContext, Map<string, ReadonlySet<string>>>()
+
+function keysIn(ctx: BuildContext, repo: string, root: string): ReadonlySet<string> {
+  let held = HELD.get(ctx)
+  if (held === undefined) {
+    held = new Map()
+    HELD.set(ctx, held)
+  }
+  const found = held.get(repo)
+  if (found !== undefined) return found
+  const made = new Set(trackedIn(root))
+  held.set(repo, made)
+  return made
 }
 
 export function namedBy(key: string): FileNodeAttrs {
@@ -39,29 +36,18 @@ export function namedBy(key: string): FileNodeAttrs {
   const dot = base.lastIndexOf(".")
   if (dot <= 0) return { "file-stem": base, "page-type-slug": null, "file-extension": null }
   const extension = base.slice(dot + 1)
-  const rest = base.slice(0, dot)
-  const plain = { "file-stem": rest, "page-type-slug": null, "file-extension": extension }
-  if (extension !== PAGE_EXTENSION) return plain
-  const inner = rest.lastIndexOf(".")
-  if (inner <= 0) return plain
-  return {
-    "file-stem": rest.slice(0, inner),
-    "page-type-slug": rest.slice(inner + 1),
-    "file-extension": extension,
-  }
+  const named = pageNameOf(key)
+  if (named === null)
+    return { "file-stem": base.slice(0, dot), "page-type-slug": null, "file-extension": extension }
+  return { "file-stem": named.stem, "page-type-slug": named.type, "file-extension": extension }
 }
 
 function nodeOf(repo: string, key: string, attrs: FileNodeAttrs): FileNode {
   return { kind: FILE_NODE_KIND, repo, key, attrs }
 }
 
-function borrowed(root: string, key: string): string | null {
-  const text = textAt(root, key)
-  if (text === null) return null
-  const { fm, why } = blockOf(text)
-  if (why !== null) return null
-  const slug = stringAt(fm, PAGE_TYPE_SLUG)
-  return slug !== null && BORROWED_PAGE_TYPES.includes(slug) ? slug : null
+function carried(repo: string, key: string): boolean {
+  return repo === AKASHA || pageNameOf(key) !== null
 }
 
 export const fileNodeProducer: NodeProducer<FileNode> = {
@@ -70,39 +56,17 @@ export const fileNodeProducer: NodeProducer<FileNode> = {
   at: (ctx, ref) => {
     const root = ctx.roots[ref.repo]
     if (root === undefined) return null
-    const attrs = namedBy(ref.key)
-    if (ref.repo === AKASHA) {
-      return trackedIn(root, ref.key).length === 0 ? null : nodeOf(ref.repo, ref.key, attrs)
-    }
-    const held = borrowed(root, ref.key)
-    if (held === null) return null
-    return nodeOf(ref.repo, ref.key, { ...attrs, "page-type-slug": held })
+    if (!carried(ref.repo, ref.key)) return null
+    if (!keysIn(ctx, ref.repo, root).has(ref.key)) return null
+    return nodeOf(ref.repo, ref.key, namedBy(ref.key))
   },
   all: (ctx) => {
     const nodes: FileNode[] = []
-    const standing = new Set<string>()
-    const own = ctx.roots[AKASHA]
-    if (own !== undefined) {
-      for (const key of trackedIn(own)) {
-        standing.add(`${AKASHA}:${key}`)
-        nodes.push(nodeOf(AKASHA, key, namedBy(key)))
-      }
-    }
-    const lending = ctx.roots[BORROWED_REPO]
-    if (lending !== undefined) {
-      for (const slug of BORROWED_PAGE_TYPES) {
-        for (const key of borrowedPages(lending, slug)) {
-          const at = `${BORROWED_REPO}:${key}`
-          if (standing.has(at)) continue
-          standing.add(at)
-          const attrs = namedBy(key)
-          nodes.push(
-            nodeOf(BORROWED_REPO, key, {
-              ...attrs,
-              "page-type-slug": attrs["page-type-slug"] ?? slug,
-            })
-          )
-        }
+    for (const [repo, root] of Object.entries(ctx.roots)) {
+      if (root === undefined) continue
+      for (const key of keysIn(ctx, repo, root)) {
+        if (!carried(repo, key)) continue
+        nodes.push(nodeOf(repo, key, namedBy(key)))
       }
     }
     return nodes

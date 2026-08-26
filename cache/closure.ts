@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { edgesFrom, nodeAt } from "../graph/ask.ts"
 import { IMPORT_EDGE } from "../graph/edge-producer/typescript.ts"
-import { AKASHA } from "../graph/node-producer/file.ts"
+import { AKASHA } from "../graph/roots.ts"
 import type { BuildContext, NodeRef } from "../graph/node-shape.ts"
 import { type Input, oidOf } from "./mark.ts"
 

@@ -1,7 +1,7 @@
-import { BORROWED_REPO, borrowedPages } from "../../page/borrowed.ts"
 import { blockOf, stringAt, textAt } from "../../page/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import type { BuildContext, NodeRef } from "../node-shape.ts"
+import { pagesOfType, saidAt } from "../page-index.ts"
 
 export const FILE_KIND_EDGE = "file-kind"
 
@@ -15,17 +15,24 @@ function spellingIn(ctx: BuildContext): ReadonlyMap<string, NodeRef> {
   const held = HELD.get(ctx)
   if (held !== undefined) return held
   const made = new Map<string, NodeRef>()
-  const root = ctx.roots[BORROWED_REPO]
-  if (root !== undefined) {
-    for (const key of borrowedPages(root, FILE_KIND_PAGE_TYPE)) {
-      const text = textAt(root, key)
-      if (text === null) continue
-      const { fm, why } = blockOf(text)
-      if (why !== null) continue
-      const spelled = stringAt(fm, EXTENSION_KEY)
-      if (spelled === null || made.has(spelled)) continue
-      made.set(spelled, { repo: BORROWED_REPO, key })
+  const where = new Map<string, string>()
+  for (const at of pagesOfType(ctx, FILE_KIND_PAGE_TYPE)) {
+    const root = ctx.roots[at.repo]
+    if (root === undefined) continue
+    const text = textAt(root, at.key)
+    if (text === null) continue
+    const { fm, why } = blockOf(text)
+    if (why !== null) continue
+    const spelled = stringAt(fm, EXTENSION_KEY)
+    if (spelled === null) continue
+    const already = where.get(spelled)
+    if (already !== undefined) {
+      throw new Error(
+        `two file kinds claim the extension \`${spelled}\` — ${already} and ${saidAt(at)} — so nothing says which one a file carrying it is`
+      )
     }
+    where.set(spelled, saidAt(at))
+    made.set(spelled, { repo: at.repo, key: at.key })
   }
   HELD.set(ctx, made)
   return made
