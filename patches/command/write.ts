@@ -135,7 +135,7 @@ function carriedIn(text: string): readonly Carried[] {
   return found
 }
 
-function payloadText(argv: readonly string[]): string | null {
+function payloadText(argv: readonly string[], wanted: boolean): string | null {
   const named = valueOf(argv, "--input-file")
   if (named !== null) {
     try {
@@ -144,6 +144,7 @@ function payloadText(argv: readonly string[]): string | null {
       return null
     }
   }
+  if (!wanted) return null
   if (process.stdin.isTTY === true) return null
   try {
     const read = readFileSync(0, "utf8")
@@ -304,7 +305,8 @@ export const help = {
 
 export default async function write(argv: readonly string[]): Promise<void> {
   const named = pairsIn(argv)
-  const text = argv.includes("--help") ? null : payloadText(argv)
+  const wanted = named.length === 0 && removalsNamed(argv).length === 0
+  const text = argv.includes("--help") ? null : payloadText(argv, wanted)
   let forward = argv
   if (text !== null && valueOf(argv, "--input-file") === null) {
     const at = `${mkdtempSync(`${SCRATCH}/mp-payload-`)}/payload.json`
