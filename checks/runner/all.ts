@@ -1,8 +1,8 @@
-import type { Check, CheckRun } from "../check-shape.ts"
+import type { Check, CheckRun, Tree } from "../check-shape.ts"
 
-function runOf(check: Check, paths: readonly string[], root: string): CheckRun {
+function runOf(check: Check, paths: readonly string[], tree: Tree): CheckRun {
   try {
-    return { slug: check.slug, failures: check.run(paths, root) }
+    return { slug: check.slug, failures: check.run(paths, tree) }
   } catch (thrown) {
     return { slug: check.slug, threw: thrown instanceof Error ? thrown.message : String(thrown) }
   }
@@ -11,7 +11,7 @@ function runOf(check: Check, paths: readonly string[], root: string): CheckRun {
 export function runAll(
   checks: readonly Check[],
   paths: readonly string[],
-  root: string
+  tree: Tree
 ): readonly CheckRun[] {
-  return checks.map((check) => runOf(check, paths, root))
+  return checks.map((check) => runOf(check, paths, tree))
 }

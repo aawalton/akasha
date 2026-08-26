@@ -3,9 +3,14 @@ export type CheckFailure = {
   readonly reason: string
 }
 
+export type Tree = {
+  readonly root: string
+  readonly at: (path: string) => Buffer | null
+}
+
 export type Check = {
   readonly slug: string
-  readonly run: (paths: readonly string[], root: string) => readonly CheckFailure[]
+  readonly run: (paths: readonly string[], tree: Tree) => readonly CheckFailure[]
 }
 
 export type Outcome = {

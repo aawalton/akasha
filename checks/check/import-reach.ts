@@ -1,4 +1,3 @@
-import { readFileSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
 import type { Check, CheckFailure } from "../check-shape.ts"
 
@@ -14,14 +13,6 @@ const SPECIFIERS: readonly RegExp[] = [
 function carriesCode(path: string): boolean {
   const dot = path.lastIndexOf(".")
   return dot !== -1 && CODE.has(path.slice(dot + 1))
-}
-
-function textAt(path: string): string | null {
-  try {
-    return readFileSync(path, "utf8")
-  } catch {
-    return null
-  }
 }
 
 function specifiersIn(text: string): readonly string[] {
@@ -44,14 +35,14 @@ function reachOf(specifier: string, path: string, root: string): string | null {
 
 export const importReach: Check = {
   slug: "import-reach",
-  run: (paths, root) => {
+  run: (paths, tree) => {
     const failures: CheckFailure[] = []
     for (const path of paths) {
       if (!carriesCode(path)) continue
-      const text = textAt(path)
-      if (text === null) continue
-      for (const specifier of specifiersIn(text)) {
-        const outward = reachOf(specifier, path, root)
+      const body = tree.at(path)
+      if (body === null) continue
+      for (const specifier of specifiersIn(body.toString("utf8"))) {
+        const outward = reachOf(specifier, path, tree.root)
         if (outward === null) continue
         failures.push({
           path,
