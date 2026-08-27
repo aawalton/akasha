@@ -1,0 +1,45 @@
+---
+id: 298e932a-3f03-5987-b26f-c312b1c75ef8
+page-type-slug: story-read-royal-road
+title: "Passive Aggressive [Reverse portal invasion LitRPG with a broken build]"
+slug: passive-aggressive-reverse-portal-invasion-litrpg
+world: passive-aggressive-reverse-portal-invasion-litrpg
+unit: words
+author: "N Conceivable"
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Portal Fantasy / Isekai"
+  - "Progression"
+  - "Comedy"
+  - "Male Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+  - "Survival"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg"
+royalRoadId: "170563"
+---
+
+No spells. No weapons. No problem!
+
+The rift was instantaneous. One moment, a meth lab was bubbling along happily. The next, aliens charged through the cloud of chemicals, ready to subjugate and conquer. Only, they weren’t ready for humanity. It didn’t take long before humanity went a-conquering right back at them.
+
+Liam has had a rough life. He’s used to taking it on the chin and soldiering on. Now, with a foreign realm suddenly available for the taking, he throws himself through the rift, head-first. He knows that this is his one chance to finally make something of himself. Earn Levels, skills and unfathomable powers!
+
+Except, this isn’t your everyday competition. This is the Gold Rush 2.0, a line for Best Buy on Black Friday and the Hunger Games all combined. Half of Earth is ready to throw their lives into the pot to take over this new-found realm of magic and wonders.
+
+Facing inordinate levels of competition, Liam realizes that he needs to take a real risk to win big. The rewards are tangible: vastly improved attributes and passive power. Yet, it comes at a heavy cost: he cannot use offensive powers, can’t attack with weapons, or even throw a damn punch.
+
+The odds of survival are poor. But in exchange for that that degree of self-handicapping, he's been given a gift that means he could go all the way... if he lives long enough. In time, Liam can go from being a passive doormat…
+
+To Passive Aggressive.
+
+Updates Tuesday/Thursday/Saturday.
+
+What're you getting here? Action-heavy, crunchy LitRPG, with plenty of battles and system evolution. It isn't a solo story, but the MC does spend a good deal of time alone. 
+
+Look elsewhere if you're looking for this: Cozy, slice of life stuff. Sex. This is survival. It's a race for supremacy. There will be downtime, but it's all centered around growth, improvement and trying to game the system. Oh, and it ain't grimdark. The universe as we know it may have changed, but there's no need to be all sullen about it.

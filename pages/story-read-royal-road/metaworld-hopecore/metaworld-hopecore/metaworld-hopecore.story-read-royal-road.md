@@ -1,0 +1,48 @@
+---
+id: a660b1ea-6b4d-5b8e-86d9-c10cb58e9ddc
+page-type-slug: story-read-royal-road
+title: "Metaworld HopeCore"
+slug: metaworld-hopecore
+world: metaworld-hopecore
+unit: words
+author: "Wutosama"
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Progression"
+  - "Comedy"
+  - "Psychological"
+  - "Female Lead"
+  - "Contemporary"
+  - "Drama"
+  - "Attractive Lead"
+  - "Cozy"
+  - "Modern Knowledge"
+  - "Slice of Life"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore"
+royalRoadId: "166359"
+---
+
+The Year is 2032, and AI slop has won. Far from creating utopia, society has become divided by bots and culture wars, creating a world of disunity.
+
+Enter Lana Zacanissian, Corpo superstar, the prophet of profits. She who created the largest IP aggregate marketplace in the world, vertically integrating every creative’s worst nightmare to empower an inflated IPO. In the style of SpaceX infamy, she fleeces billions of people of their life savings, catapulting herself onto the cover of every industry magazine. 
+
+Then, like Icarus skirting the sun—
+
+She is judged by her coworkers and victims, tossed into Santa Monica Bay from her yacht. 
+Their final words: 
+
+“Do you believe in Karma?!” 
+
+When Lana opens her eyes again, she is in the body of a girl-child she does not recognise. 
+
+[SYSTEM MESSAGE] 
+
+Usurper, you have not only unjustly ended the Karmic Causality of another, but your boundless greed has usurped countless Causality from others. You who have catalysed the sale of ideas to soulless machines have given each and every dreamer a little death. 
+
+In a time gone by, Lana Zacanissian, the psychic loathing you have reaped would have given birth to a God.
+
+Live again to atone for your sins, or sink into eternal oblivion.
+
+P.S I forgot to put Discord for like 2 months... Metaworld (Chron) Discord

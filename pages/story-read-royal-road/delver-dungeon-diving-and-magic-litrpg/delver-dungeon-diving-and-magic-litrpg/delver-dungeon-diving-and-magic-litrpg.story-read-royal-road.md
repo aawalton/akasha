@@ -1,0 +1,36 @@
+---
+id: 5892e531-ae46-5635-a580-b257ee80e3c2
+page-type-slug: story-read-royal-road
+title: "Delver [Dungeon Diving and Magic LitRPG]"
+slug: delver-dungeon-diving-and-magic-litrpg
+world: delver-dungeon-diving-and-magic-litrpg
+unit: words
+author: "Corwin Benedict"
+royalRoadTags:
+  - "LitRPG"
+  - "Post Apocalyptic"
+  - "Male Lead"
+  - "Strong Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "Dungeon Crawler"
+  - "High Fantasy"
+  - "Local Protagonist"
+  - "Mythos"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg"
+royalRoadId: "169341"
+---
+
+“What wisdom do you seek?”
+
+Five hundred years ago, the system broke magic. Mana went wild, turning the dead into abominations, and wrenching all unbound magic from the hands of humans. Monsters that had been kept at bay, were left to roam free, and the world lost contact with the divine realms. Only a few Strongholds managed to survive the storm as humanity was nearly wiped out.
+
+With the slow return of magic, Leo, a young man with the Delver class, explores ancient ruins of the old world. He delves deep beneath the earth to find wonders and artifacts that have been lost to humans for centuries. 
+
+In the dark home of an ancient Archmage, Leo finds something that shouldn’t exist, an item that starts him on a journey of ancient magic and terrifying delves.
+
+Class Orb (unique item)
+
+Created by a nameless Archmage, these orbs grant the user an additional class

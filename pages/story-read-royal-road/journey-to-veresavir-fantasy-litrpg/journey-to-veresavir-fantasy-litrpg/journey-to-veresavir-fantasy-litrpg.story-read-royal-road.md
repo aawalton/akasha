@@ -1,0 +1,65 @@
+---
+id: 9ac37522-d881-5883-8f65-e7b425c86bcb
+page-type-slug: story-read-royal-road
+title: "Journey to Veresavir [Fantasy LitRPG]"
+slug: journey-to-veresavir-fantasy-litrpg
+world: journey-to-veresavir-fantasy-litrpg
+unit: words
+author: "Rhaegar"
+royalRoadTags:
+  - "LitRPG"
+  - "Portal Fantasy / Isekai"
+  - "Progression"
+  - "Male Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "Magic"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg"
+royalRoadId: "137228"
+---
+
+Cover by my friend Mattias (baconstrap)
+
+_
+
+“I offer you an adventure. In a world of magic and monsters, steel and fire, ruins and long forgotten fates. If you are willing.”
+
+ 
+
+ 
+
+Veron was fed up with his corporate job in Paris. He quit and moved to the countryside, taking a step back to take a breath, to think about where his path had led him, and what he wanted now. When he decides to take a nap in one of the quiet countryside forests, he spots something strange. A hazy glowing bird of light, very interested in getting him to follow. And of course, he bites.
+
+What he finds is an offer. No demon king to slay, no rebellion to lead, nor gods looking for a pawn. An adventure, that is all. Just Veron, and the magic that he learns to wield.
+
+He is sent to Renavor and arrives in a mountainous valley, ready to explore a world on the brink of change, with relics unearthed in ancient dungeons, and beasts of blood and chaos lurking in the dark.
+
+Shelter would come first, and then he could figure out the rest.
+
+ 
+
+What to expect: Journey to Veresavir is an isekai fantasy and progression story with litrpg elements. The litrpg aspect is very light at the start, so no massive stat screens or tons of skills. It will increase later in the story. The pacing is neither particularly fast nor slow, though the power progression itself is slow.
+
+The main themes are magic discovery, exploration, action, slice of life, monster hunts/dungeoneering, survival, friendship, and self-discovery.
+
+The tone and stakes of the novel vary depending on what happens (what a basic thing to say). What I mean by that is that it’s hard for me to pin down an overall feel. There will be chill slice of life focused chapters, chill fights, but also high stakes scenes and sections with fear, grief, and tension at the forefront. I would say it’s balanced.
+
+I’m the author of Azarinth Healer, and if you read it or a part of it, here’s a quick thought of comparison. Veresavir is slower, more grounded, and more mature. The progression and magic isn’t as flashy but it’s still my voice, and everything I learned. I think no matter if you liked Azarinth or not, give this one a chance, I like it a lot :)!
+
+ 
+
+Copyright © Rhaegar, 2025
+
+All rights reserved.
+
+This story is fully human written.
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior permission of the copyright owner.
+
+You do not have my permission to feed this story and its contents into a large language model.
+
+All characters and events in this book are fictitious, and any resemblance to actual persons, living or dead, is purely coincidental.
+
+Journey to Veresavir is only posted on Royalroad and my Patreon, any other publication is stolen and violates my copyright.

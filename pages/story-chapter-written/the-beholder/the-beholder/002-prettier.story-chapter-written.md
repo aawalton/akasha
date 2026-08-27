@@ -1,0 +1,107 @@
+---
+id: 916ad3b9-f9db-59d1-9df5-759599a8f25b
+page-type-slug: story-chapter-written
+title: "Prettier"
+slug: 002-prettier
+partOf: the-beholder
+position: 2
+ownLength: 2637
+unit: words
+---
+```stat-screen
+ACQUISITION — CONFIRMED
+ACQUIRED: ALLURE  +10%  (14.0 -> 15.6)
+SOURCE: Colette Vane — UNPOWERED
+
+PEARL  Might 8.0 · Vitality 9.0 · Celerity 11.0 · Acuity 12.0 · Will 10.0 · Allure 15.6
+```
+
+The card hung in the corner of my eye for hours after Colette — frost-bright, patient, and so terribly *flat* about the whole thing. ALLURE, it said. Fourteen-point-oh to fifteen-point-six. As though it were reading out the weather, and not handing me the rest of my life. The System never gloats. That's all right. I gloat plenty for the both of us.
+
+Three separate people had walked into things since Tuesday — a door, a lamppost, the edge of a fountain — because they were looking at me instead of where they were going, and I had decided this was the best thing that had ever happened to anyone.
+
+It's the eyes that find you first. That's the part nobody tells you about getting prettier: it isn't that you see a better face in the mirror, though you do, oh you do. It's that the whole room *tilts* toward you, soft and helpless, like a field of flowers when the sun moves. A barista forgot my order halfway through and had to ask again, pink to the ears. A woman on the tram looked at me the way you look at weather coming in. I caught myself in the dark glass of a shop window — the new me, the improved me, the me with a little more of the light in it — and I thought, with a warmth that filled me right up to the brim: *thanks, Lettie.*
+
+Colette would have hated that I call her Lettie now. She never let anyone call her Lettie. But she isn't really in a position to set the terms anymore, and I'm in a position to wear her cheekbones into a better life, so I think it balances out. I think we're square — or near enough; honestly, *square* is me being sweet about it, because she got to stop, and I get to keep going, and going is the only thing I've ever wanted. That's not the consolation prize. That's the whole prize, and I'm the one who gets to skip off with it.
+
+You're still here, by the way. I did tell you last time that you could stop — that you wouldn't learn anything kinder — and here you are anyway, leaned in close, breath held. I knew I liked you.
+
+They ruled it a fall — a clumsy girl alone after hours, a bad landing on something sharp — which is the part I find truly delicious, because it makes no sense at all. It was me, and the good shears, and rather a lot of red, and you do not open a throat like that by falling. Somebody should have asked how a fall does that. Nobody did. The sweet little wardrobe girl who found her and wept so prettily sat right at the top of every list, and the detective was very kind to me, and they're all very kind to me now. I watched the suspicion surface in him while he asked his careful questions, and I watched it lose its footing on my face and slide clean off — because it turns out fifteen-point-six is the finest alibi in the world. Beautiful is such a hard thing to handcuff. I gave him my softest wet eyes and told him I'd have done anything for Lettie, and he apologized for troubling me, and I enjoyed it more than was strictly decent.
+
+There were flowers against the stage door for a week, getting browner. Somebody laminated a photo of her mid-leap and zip-tied it to the railing, and people stood in front of it and cried, and I stood in front of it too, and let me tell you, standing in a crowd of grieving people while wearing a piece of the dead girl is the warmest I have ever felt in my life. All that feeling, swirling around the room, and none of it landing on the one person who'd earned it. I drank it like sun.
+
+So. I was having a wonderful week. And then the wonderful week got better, because Mr. Aldous found me by the flowers and decided I should belong to a nicer world.
+
+---
+
+"You shouldn't be back here with the mops and the misery," he said, which was rich, since the mops and the misery were my entire job. But he said it looking at my face the way they all looked at my face now, and I understood that the rules had changed. Last month I was too pretty to be staff and too sweet to be prey. This month I was simply too pretty, full stop, and a man like Aldous can't stand to see something that pretty in a room that plain. It offends his sense of arrangement. He collects beautiful things and sets them in beautiful rooms; that's the whole of him.
+
+"Come Saturday," he said. "I'm having people up. You'll brighten the place."
+
+I said I'd love to, which was true, and I touched his sleeve, which still worked, even better than before — I felt the little hitch in him, the half-second where he forgot the sentence he was building. Fifteen-point-six does that. I'd been testing it all week like a new pair of scissors, finding the give in people, and Aldous gave like wet paper.
+
+His "up" turned out to be the top of a glass tower with the whole city poured out glittering below it, and his "people" turned out to be the kind who have never carried their own anything. I'd spent my life in the sweat-and-rosin underside of beauty — the dressing rooms, the blistered feet, the safety pins. This was the other side. Champagne the color of the light I love best, that low warm gold. Women lacquered to a shine. A string quartet nobody listened to. Everything in the room had been chosen, and now I had been chosen too, and I moved through it glowing and collecting glances like a girl filling her skirt with windfall apples.
+
+I was so busy being delighted that I almost missed her.
+
+Then the lights dropped, and the ceiling opened, and I forgot every other beautiful thing in the room.
+
+---
+
+They'd rigged silks from the high steel of the atrium — two long ribbons of red falling forty feet into the cleared center of the party — and a woman came down them out of the dark like something the building had been keeping secret.
+
+Her name was Dove. Of course it was. She wore almost nothing and needed nothing, because the body was the costume; she was all long clean lines and a strength you didn't see until it did something impossible, and then you couldn't see anything else. She climbed the air. She'd wrap a wrist, drop, and catch herself on one arm forty feet up with the whole of her held out straight and level to the floor — held there, *easy*, smiling down at us, while a hundred soft rich people made the same small sound at once. I have a quick body. The System gives me an 11.0 and tells me I'm graceful. Watching Dove I understood I am a clever housecat and she was something that hunts on the wing. The strength of her. God, the *strength* — coiled up under all that prettiness like a blade in a bouquet.
+
+And under all of it, she was not afraid. It crept up on me slowest, because fearlessness is the quietest thing in the world to look at. There was no net. There was no wire. There was nothing under her but a marble floor and forty feet of nothing, and she played in it. She let go of things on purpose. She fell, and laughed while she fell, and caught herself at the very bottom of the breath when every animal part of the watching room had already flinched — and she did it again, and again, because the fear that lives in the rest of us simply wasn't installed in her. She spent it like she had too much. She made falling look like the most fun a person could have. And oh, I wanted that — not the falling, but the *missing* part, the cool empty socket where the fear had been lifted clean out of her. I wanted to reach in and take that quiet for my own, to wear it the way I wear everything I take, and go through the rest of my long bright life with nothing left in me that flinched.
+
+I stood at the back with a glass of gold going warm in my hand and I felt the hum start up behind my eyes.
+
+I love the hum now. The first time, with Lettie, it frightened me a little before it delighted me — that new sense dropping over the world like a jeweler's loupe. Now I know it for what it is. It's my appetite waking up and stretching. It's the part of me that *tastes*, and it had tasted nothing this rich since the night I learned what I was. She was so *full* — that was the thing about Dove, brimming with every lovely thing a person is allowed to be, more than one body had any business holding — and the hum went over her and *sang.*
+
+I wanted her before I'd decided to. That's how I know it's love.
+
+---
+
+The trick, I've learned — and I have learned so much, so fast, I'm really very proud of how fast — is that you don't go to the beautiful thing. You let the beautiful thing come to you. A month ago I'd have orbited Dove all night like everyone else, one more upturned face. But I had fifteen-point-six now, and fifteen-point-six doesn't chase. So I stood where the light was kindest and I let it do the work, and sure enough, after she'd come down and been wrapped in a robe and passed through the crowd accepting her due, she found her way to me, the one face in the room that hadn't gone slack with wanting.
+
+"You're not impressed," she said, delighted. Up close her pulse was still going from the drop, a little flutter at her throat, and I finally got a proper look at her face — a colder, cleaner beauty than Lettie's, all clean bone and no give to it, the kind that doesn't ask to be admired because it has never once doubted it would be. A notch under what I was already wearing, I decided, weighing her against my own new warmth the way you heft two stones to feel which sits heavier in the hand. A notch under — and I wanted it anyway, wanted to lay her cold lines over my borrowed glow and find out what I'd turn into. Her eyes were doing the thing, too, finding me, warming. They all warm to me now. It's the loveliest part. They walk right up to the thing that's going to eat them and they *bloom.*
+
+"I'm completely impressed," I said. "I'm just not going to embarrass us both by saying so." She laughed — a real one, surprised out of her — and that was that. I was in. I am always in. I touched her arm to make a point about the silks and felt the muscle under the skin, dense and warm and humming with the strength I wanted, and I held the touch exactly one beat past friendly, the way you press a fabric you intend to buy.
+
+"You should come up," she said, when the party had gone loose and loud. "The rigging loft. The city's better from up there, and nobody bothers you." She said it like a gift, like a secret, the perceptive generous offer of a girl who liked me. The one with no fear, offering to take the new pretty stranger somewhere high and quiet and alone.
+
+I do love it when they help.
+
+---
+
+The loft was a steel catwalk above the atrium, all girders and dim work-light and the great dark drop where the silks still hung, and beyond the glass the city burned low and gold all the way out to the edge of the world. We were the only warm things up there. She leaned on the rail with her back to the long fall and told me about the silks, how you learn to trust the wrap, how the fear leaves you a piece at a time until one day it's just *gone* and there's only the falling and the catching and the joy. She had no idea she was handing me the instructions to her own life. The fearless never guard the ledge.
+
+I want to be honest about how good I felt, standing there. Not nervous — that was the first time, and the first time you don't know if you can. Now I know. This was the feeling of being *good* at something I was built for, the calm bright certainty of a craftswoman with the right tool already in her hand, and the tool this time wasn't even a tool. It was just the rail at the small of her back, and forty feet of dark, and the half-second when she leaned to point at something below and her own beautiful fearlessness left her weight in exactly the wrong place.
+
+I helped. The way I help everyone.
+
+She didn't laugh, falling. That surprised me — I'd half expected she would, out of habit. But there was no wrap waiting at the bottom of this breath, and some old animal in her knew it even if the rest had been trained out, and the last thing of hers I got to keep before the System opened was the look on her face when the part of her that had no fear finally, finally found some.
+
+Then the click. My click, the one I know now, the one I'd been hungry for all night — the loupe swinging down, the world going sharp and itemized, and Dove, far below and bent all wrong on the gold-lit marble, stopped being a girl and became what she'd really been all along, under the silk and the strength and the smile.
+
+A rack of beautiful things. Mine to take one from.
+
+I leaned on the rail where she'd leaned and looked down at the readout blooming up sweet and bright in the corner of my eye, and I felt the city glittering behind me and the warmth filling me to the brim, and I read what she'd left me with the slow greedy pleasure of a girl who has all night and only one thing she's allowed to buy.
+
+```stat-screen
+ACQUISITION — APPRAISAL
+SUBJECT: Dove — UNPOWERED
+PEARL  Might 8.0 · Vitality 9.0 · Celerity 11.0 · Acuity 12.0 · Will 10.0 · Allure 15.6
+
+  1  MIGHT    subject 16.0   you 8.0 -> 9.6     physical force; striking, lifting
+  2  ALLURE   subject 15.0   you 15.6 -> 17.1   presence; social leverage
+  3  WILL     subject 14.0   you 10.0 -> 11.4   psyche; resolve, nerve
+
+SELECT ONE. ONE ONLY.
+```
+
+The flowers for Dove would be white, I decided. They'd suit her. I'd go and stand in them, later, and let the room cry, and feel the sun of it on my new face.
+
+But first — oh, first — I had a choice to make, and I was going to enjoy every second of it, up here in the gold and the quiet, the prettiest thing in the building deciding which kind of better to become.
+
+

@@ -1,0 +1,145 @@
+---
+id: fcff33fe-8c8d-56bc-a875-7fb4665724fa
+page-type-slug: story-chapter-written
+title: "Something Borrowed"
+slug: 001-something-borrowed
+partOf: the-beholder
+position: 1
+ownLength: 2726
+unit: words
+---
+Colette Vane had the prettiest throat I had ever seen, and I spent most of the second act thinking about it.
+
+I mean that as a compliment. I think about beautiful things the way other people pray — helplessly, gratefully, on my knees in my own head. And Colette, lit gold under the gels at the top of her solo, her chin tipped back so the whole long stem of her neck went taut and luminous, the little notch at the base of it catching light like a thumbprint pressed into cream — Colette was the most beautiful thing in a building full of beautiful things, and I loved her for it, and I wanted it off of her and onto me so badly that my teeth ached.
+
+That's the whole me, really. You can stop reading now if you like. You won't learn anything kinder.
+
+I watched from the prompt-side wing with the dress kit slung over my shoulder, needle still threaded from the hem emergency in act one, and I let myself be happy. It's important to be happy. People underestimate how much of the world will simply hand itself to a happy girl. Sweet little Pearl, the wardrobe assistant, always smiling, always early, who fixes your strap and tells you you're radiant and means it — oh, she does mean it, that's the thing they can feel, that's why they trust me. I never have to lie about loving them. I just don't tell them the second part.
+
+The second part is that I'm going to take it.
+
+---
+
+Here is a fact about me that the System, in its dull little way, would put on a card if it could be bothered: my name is Pearl, and I picked it.
+
+Not my mother's name for me. Hers was something soft and forgettable, a name like a wet napkin. I shed it at sixteen the way you'd shed a coat that smelled. *Pearl.* Do you know how a pearl is actually made? Something gets *in* — a speck of filth, a parasite, a wrongness — and the creature can't get it out, so instead it just... builds. Layer over layer over layer, smoothing the ugly thing under coat after coat of shine, until the flaw at the center is the whole reason for the beauty. You become gorgeous by burying what you started as.
+
+I have always known I was going to do that. I just didn't know, until tonight, that the world had finally handed me the tools.
+
+But I'm getting ahead. I do that when I'm excited.
+
+The patron found me in the wing during the bows — Mr. Aldous, who funds half the season and looks at all the dancers like a man at a buffet he's not allowed to touch. He didn't look at me like that. Men like Aldous never quite do; I'm too pretty to be staff and too sweet to be prey, and it short-circuits them. He just beamed and pressed a glass of something gold into my hand that I hadn't asked for.
+
+"You're the only honest face back here," he confided, leaning in, breath like oak and money. "Everyone else wants something. You just want them to do well."
+
+"I want everyone to be exactly as wonderful as they can be," I told him, which was true, and I touched his sleeve, which made him glow, and I thought, with perfect cheer, that he had a magnificent watch and absolutely no idea what was standing next to him.
+
+That's Allure, if you want the boring word for it. The System measures it. Says I'm a 14.0 where ordinary is 10.0, which is the System being modest. Fourteen is the number for *the world keeps opening doors and calling it your idea.* Fourteen is why I have never once had to break in anywhere. Why would I? They invite me.
+
+Aldous wandered off to be wonderful at someone else. I drank his gold drink. On stage, Colette finished her final bow, and the house came up roaring, and I watched her do the thing she does — the thing that, honestly, I coveted even more than the throat.
+
+She *read* them.
+
+---
+
+I have to make you understand Colette, because in about forty minutes I'm going to kill her, and I'd hate for you to think she was nothing. She was the opposite of nothing. She was the standard I measured my own insufficiency against, which is a kind of love most people never get from anybody.
+
+The beauty I've covered. You've seen beautiful women; multiply by the way she carried it, like it cost her nothing, like it was just weather she happened to live inside. I'm pretty — don't mistake me, I'm very pretty — but I'm pretty the way a knife is pretty, all edge and intention. Colette was pretty the way a sunrise is. Stupidly. Generously. As if the universe simply could not help itself.
+
+Then there was the way she *moved.* This is the part that made me feel my own body like an ill-fitting dress. The System would call it Celerity and stop there, the philistine. What it actually was: she could change her mind in the air. I watched her, a hundred times from this exact wing, leave the ground intending one shape and become a different one before she landed, faster than the decision should have traveled, her body answering questions her mind hadn't finished asking. Quick. God, *quick.* When she walked she did it like the floor was lucky. I am quick too — quicker than most, the System gives me an 11.0 — but next to her I'm a girl hurrying. She was speed that had been taught to sing.
+
+And then the third thing. The reading.
+
+When the bows ended she came offstage glittering with sweat, and the new corps girl — Tamsin, eighteen, first season, terrified — was crying in the opposite wing, very quietly, certain no one could see. Forty people backstage. Nobody saw. Colette saw. Colette crossed the whole black width of the backstage without seeming to hurry, took Tamsin's wet face in both hands, and said something I couldn't hear that made the girl laugh through the tears like a window opening. Then she said, still too low for me, glancing at *no one* — "and tell whoever's in the loading dock the cue light's been dead since intermission, that's why you missed your entrance, it wasn't you" — and Tamsin's whole body unlocked, because Colette had reached into the exact center of a stranger's shame and found the one true thing nobody else had even looked for.
+
+She did that constantly. She read rooms like sheet music. She knew who was about to quit, who was sleeping with whom, who'd had bad news from a phone call you didn't know she'd noticed. She saw *everyone.*
+
+It is going to be very funny, in a minute, that the woman who saw everyone never once saw me.
+
+---
+
+It happened while I was helping her out of the act-three bodice.
+
+You should know — because I think it matters, and because I want you to like me, which I know is greedy — that I didn't plan tonight. I'd planned *eventually.* I'd planned the way you plan to be rich someday: as a warm fog on the horizon. I had no knife. I had no scheme. I had a sewing kit and a crush on the idea of being more than I was, and that, it turns out, was enough, because tonight something woke up.
+
+The company had thinned to nothing. That's the rhythm of after — the roar drains out of the building in twenty minutes, dancers and crew and donors all sucked out into the cold, until the theatre exhales and goes quiet and the big stage rig clunks down to the work-lights, those low amber ones that make everything look like it's remembering itself. Colette never left with the herd. She liked the empty studio off the green room, the one walled entirely in mirror, and she liked me to help her break down the heavy costumes there where the light was kind.
+
+So it was the two of us. Mirrors on every side, so there were a hundred of us, a whole congregation of Colettes and a whole congregation of me, all of us gold and quiet. She stood with her back to me, arms lifted, while I worked the long hooks of the bodice down her spine, and she talked, the easy chatter of a woman who feels safe.
+
+"You're so good to me, Pearlie," she said, to my reflection, smiling. "You should be dancing, you know. You've got the line for it. Better than mine."
+
+She didn't mean it. People say that to me — the *you're so lovely, you should be more* — because my face makes them generous. But I watched her say it in the mirror, watched her own incomparable throat work around the words, and that's when it happened.
+
+The whole world dropped a lens over my eye.
+
+I can only tell you what it was like, and it was like *tasting.* Like every beautiful thing I had ever stood next to wanting had been, all my life, behind glass — and the glass was suddenly gone, and I could *taste* her. Not her body. Her — the her-ness, the gathered set of everything she was, laid out for me like flavors on a tongue. Sweet where she was beautiful. Bright and humming where she was quick. And cool, clean, almost minty, that strange perceiving thing she did, the seeing. I could taste which parts of her were finest. A jeweler's loupe had dropped over my whole life and the diamond was right *there,* warm and breathing and telling me I should dance.
+
+And under the tasting, gentle as a hand on the back of my neck, came a certainty so calm and so total that I almost laughed:
+
+*You could just take it.*
+
+Oh, I thought back. Delighted. Genuinely, helplessly delighted, the way you feel when a gift turns out to be the exact thing you'd wanted and never said.
+
+*Oh, of course. Of course I could. I've been able to all along, haven't I. I just didn't have the hands.*
+
+---
+
+I want to be honest about the next part, because I think the honesty is the only beautiful thing I can offer you and I'd like to give you something.
+
+I was not afraid. I keep hearing that's what you're supposed to feel, the first time — dread, a great moral wall rising up. I felt the opposite. I felt the way you feel at the top of the high board when you were small and brave: the giddy, fizzing, can't-stop-grinning lightness of *about to.* My hands were a little unsteady, but it was a crush's tremble, not a coward's. My heart wasn't pounding *no.* It was pounding *finally.*
+
+The shears were in the kit at my hip. Wardrobe shears — heavy, bright, French-forged, sharp enough to halve a silk ribbon with their own weight. I take very good care of my tools. A craftswoman should.
+
+I understood, the way you understand the rules of a game the instant you're handed the controller, that I would only get to keep one thing. The lens told me that much, somehow — that this was a single, deliberate theft, one perfect choice per life, and that greed past that point would buy me nothing. *One.* Just one. Which means it has to be the *right* one, and isn't that the loveliest, the cruelest, the most delicious problem in the whole world — to stand in front of everything you've ever wanted and be allowed only the single most beautiful piece.
+
+I think that's when I knew I was going to be very, very good at this.
+
+She was still talking. Something about the spring program, her reflection's mouth moving in a hundred gilded panels. Her arms were up. Her spine was a row of soft knobs under my fingers, the bodice half-down, her throat — that throat, the one I'd worshipped for two hours — tipped back and open and trusting and entirely, generously mine.
+
+"Colette," I said.
+
+She met my eyes in the mirror. Not her own reflection — mine. She found me in all that gold, the way she always found everyone, the reader, the one who saw, and for one quarter of one second something flickered behind her face. Some old animal part of her, the part that read rooms, finally read me — finally turned its perfect attention on the sweet girl with the threaded needle, a year too late, and *saw.*
+
+I smiled at her. I meant it.
+
+Then I did it watching us both in the glass, because I wanted to see it — I wanted to see the exact moment the prettier girl's prettiness came loose, and there's no mirror in the world honest enough to make that ugly to me. It was the most beautiful thing I had ever done. It was over very fast, the way the best dancing is, faster than the decision should have traveled. She had taught me that, watching her all those nights from the wing: how to change in the air.
+
+There was a great deal of red. I will tell you the truth — it was *gorgeous,* sheeting bright down all that gold-lit cream, and the hundred mirrored Pearls held the hundred mirrored Colettes and I thought, with my whole sunny heart, that we had never once looked so good together.
+
+And then the click.
+
+---
+
+I don't have a better word than *click.* It was the sound a lock makes when the key is the right key. It was the snap of a clasp closing on a necklace at the back of your neck — that small, final, satisfying *there.* The lens that had dropped over my eye opened all the way, like a pupil in the dark, and Colette — what had been Colette, what was now slumped and red and finished and so, so quiet in my arms — stopped being a person and became a *display.*
+
+A menu. A dress rack. The most exquisite shop in the world, and everything in it on a single tag that read FREE, and a little card in the corner of my vision in a font like frost on a window, cheerful and bright and so terribly polite, laying out for me — appraising her, the way I'd been appraising everyone my whole life, except now the world finally agreed it was allowed —
+
+the three best things she'd ever been.
+
+I knelt there in the warm red lake of her, a hundred of me kneeling in a hundred mirrors, grinning so wide it hurt, and I read the card the way you read a love letter, and oh — oh, it was going to be *so hard* to choose. That's the part nobody warns you about. Not the blood. The *choosing.* Standing in front of everything you ever wanted, the whole gleaming rack of her, knowing you may take exactly one home, and that whatever you don't pick is going to cool on this floor forever and be gone.
+
+I have such good taste, though. I've been practicing my whole life.
+
+Let me show you what she left me.
+
+```stat-screen
+ACQUISITION — APPRAISAL
+SUBJECT: Colette Vane — UNPOWERED
+PEARL  Might 8.0 · Vitality 9.0 · Celerity 11.0 · Acuity 12.0 · Will 10.0 · Allure 14.0
+
+  1  ALLURE     subject 16.0   you 14.0 -> 15.6   presence; social leverage
+  2  CELERITY   subject 15.0   you 11.0 -> 12.5   speed; reflexes, evasion
+  3  ACUITY     subject 13.0   you 12.0 -> 13.3   perception; precision, target-read
+
+SELECT ONE. ONE ONLY.
+```
+
+So.
+
+Three little doors, and Colette tucked behind every one of them — still warm, still mine.
+
+I crouch back down beside her, polite as anything, and let my eyes wander the menu only I can see. One of the three is glowing brighter than its neighbors. They always do, the ones worth wanting.
+
+My finger drifts up and hovers over the light. Oh — this is going to be the best part of my whole life. Every single time.
+
+

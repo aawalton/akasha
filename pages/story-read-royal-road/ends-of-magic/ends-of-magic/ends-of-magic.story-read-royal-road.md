@@ -1,0 +1,47 @@
+---
+id: 6bc3ec9e-22a3-58ea-a3d9-6fef6b826c35
+page-type-slug: story-read-royal-road
+title: "Ends of Magic"
+slug: ends-of-magic
+world: ends-of-magic
+unit: words
+author: "Alexander Olson"
+rank: b-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Portal Fantasy / Isekai"
+  - "Progression"
+  - "Male Lead"
+  - "Strong Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+  - "Technologically Engineered"
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic"
+royalRoadId: "57697"
+---
+
+A scientist from another world. A mage seeking deadly knowledge. A power that could topple an empire. 
+
+Nathan's life was defined by labs and lectures until an Archmage yanked him into Davrar and made him a tantalizing offer: master magic in exchange for Earth's scientific secrets. Yet, Nathan can't shake off the feeling that darker truths lurk beneath such promises. 
+
+The world of Davrar is a dangerous place teeming with dungeons and monsters – ruled by levels, Talents, and a near-infinite progression of power. Nathan will need to rely on himself to survive, forging alliances and taking every advantage he can get against those that seek to control him. 
+
+His unique capacity to counteract magic gives him an unprecedented edge, making him a beacon of resistance against those who wield magic as a weapon of control. Armed with intellect and an emerging power that could dismantle the very foundations of Davrar's society, 
+
+Nathan emerges not as a mere student of magic, but as its ultimate adversary: the Antimage.
+
+Books one and two are now available on Amazon and as audiobooks!
+
+Book 1 on Amazon: https://www.amazon.com/dp/B0CJBL9RXV 
+
+Book 1 on Audible: https://www.audible.com/pd/B0CJVXGNYT
+
+Book 2 on Amazon: https://www.amazon.com/dp/B0CKF8FS4Q 
+
+Book 2 on Audible: https://www.audible.com/pd/B0CSKRDKVK 
+
+Please note that Nathan is a Bisexual man, and will appreciate multiple genders. However, there is no romance in the story.

@@ -1,0 +1,54 @@
+---
+id: dfff153d-4647-5e9c-b55e-2e0e96feac0f
+page-type-slug: story-read-royal-road
+title: "Azarinth Healer"
+slug: azarinth-healer
+world: azarinth-healer
+unit: words
+author: "Rhaegar"
+rank: b-rank
+royalRoadTags:
+  - "LitRPG"
+  - "Female Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "Magic"
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer"
+royalRoadId: "16946"
+---
+
+Heya. 
+
+The heavily edited version of the story will slowly be published through Kindle and Kindle Unlimited (there will be Audiobooks too). Due to exclusivity for the infinite money glitch that is Kindle Unlimited, the heavily edited section of the story will be exclusive to Amazon but a small cut of each sale goes to Royalroad.
+
+Find Book One here (Chapters 1-74): Book One - Ebook/Kindle Unlimited
+Audio: Book One - Audio narrated by Andrea Parsneau
+Find Book Two here (Chapters 75-151): Book Two - Ebook/Kindle Unlimited
+Audio: Book Two - Audio narrated by Andrea Parsneau
+Find Book Three here (Chapters 152-323): Book Three - Ebook/Kindle Unlimited
+Audio: Book Three - Audio narrated by Andrea Parsneau
+Find Book Four here (Chapters 324-439): Book Four - Ebook/Kindle Unlimited
+Book 4 audio has not launched yet
+
+Next to the published book on Amazon, I only post Azarinth content on Royalroad, Scribblehub, and Patreon.
+
+A new world with nearly unlimited possibilities. A status, classes, magic and monsters. Sounds good? Well, for Ilea it didn't come quite as expected as for some other protagonists, nor was there a king or god to welcome her.
+
+The grand quest? Well, she might figure that out someday but for now, a new world with new food is prize enough. Her fists at the ready, she's prepared to punch and get punched, however long it takes and however many limbs she might have to regrow.
+
+A story I've started writing now quite a while ago. Transported to another world, somewhat standard fantasy setting with my beginner attempts to make it dark but funny. There are Litrpg elements here but I do hope it's not too heavy and annoying. The fights should be interesting and aren't just numbers vs numbers. Contrary to the title the protagonist will be quite an offensive fighter.
+
+Ilea Spears is your average sarcastic kick-boxing fast food worker and soon to be student. She will be transported to another world rather conventionally and will be confronted with survival in the wild.
+
+Give it a shot and let me know what you think. My experience is incredibly lacking. If you find yourself hating it early on, do convey your anger in a detailed comment or review :) I want to get better but without any feedback it's simply quite difficult.
+
+Quick heads up: Around chapter 120 there are a bunch of longer PoV changes that I discontinued again shortly after. The Arc around chapters 150-200 is darker than the rest and the themes shift quite a bit. Just know that it goes back to what you've come to know after that section.
+
+Thank you for reading.
+
+Quick update June 2019: Many complaints regarding the formatting, specifically spacing in conversations and of course the usage of the present tense in the first 36 chapters have been addressed. I'm of course learning by the day but compared to how it was before it should be an improvement at least.
+
+Chapters usually around 3k words
+
+Cover art by Kevin Catalan

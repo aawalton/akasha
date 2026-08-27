@@ -1,0 +1,41 @@
+---
+id: b5fdbd8b-3ad2-57c6-ab62-5ebc3ddd00f4
+page-type-slug: story-read-royal-road
+title: "Mother of Learning"
+slug: mother-of-learning
+world: mother-of-learning
+unit: words
+author: "nobody103"
+rank: b-rank
+royalRoadTags:
+  - "Time Loop"
+  - "Adventure"
+  - "Fantasy"
+  - "Mystery"
+  - "Magic"
+royalRoadSeriesStatus: completed
+link: "https://www.royalroad.com/fiction/21220/mother-of-learning"
+royalRoadId: "21220"
+---
+
+Zorian is a teenage mage of humble birth and slightly above-average skill, attending his third year of education at Cyoria's magical academy. He is a driven and irritable young man, consumed by a desire to ensure his own future and free himself of the influence of his family, whom he resents for favoring his brothers over him. Consequently, he has no time for pointless distractions or paying attention to other people's problems.
+
+As it happens, time is something he is about to get plenty of. On the eve of the Cyoria's annual summer festival, he is killed and brought back to the beginning of the month, just before he was about to take a train to Cyoria. Suddenly trapped in a time loop with no clear end or exit, Zorian will have to look both within and without to unravel the mystery before him. And he does have to unravel it, for the time loop hadn't been made for his sake and dangers lurk everywhere...
+
+Repetition is the mother of learning, but Zorian will have to first make sure he survives to try again - in a world of magic, even a time traveler isn't safe from those who wish him ill.
+
+**********************************
+
+Mother of Learning is now available for sale on Amazon. The story will remain available in full here on Royal Road and on Fictionpress, but if you're more interested to read the story as a Kindle Edition e-book you now have a way to do that.
+
+The audiobooks can be found on this link here. The physical edition is available through a Kickstarter campaign, which can be found here.
+
+I will keep you all updated on that as things develop.
+
+**********************************
+
+If anyone is interested, I have a story-related worldbuilding site that can be found here. I don't update it as often as I should, but there is a fair amount of content there already. It also contains a page with all the fanart, fan translations, audio books and the like - you can reach it directly by clicking this link.
+
+I have a patreon account for those kind people that want to give me money. It also contains info for those who want to donate via paypal.
+
+The story was originally posted on fictionpress, back in 2011. When I reached chapter 91, I started uploading the story to RoyalRoad, one chapter per day. The Fictionpress version of the story can be reached by clicking on this link if somebody is interested, though at this point there is nothing there that isn't also on RoyalRoad.

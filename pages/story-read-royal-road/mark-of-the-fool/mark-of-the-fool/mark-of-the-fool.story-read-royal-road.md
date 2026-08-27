@@ -1,0 +1,73 @@
+---
+id: b1788248-2497-5312-b5f0-60b4f9c52354
+page-type-slug: story-read-royal-road
+title: "Mark of the Fool"
+slug: mark-of-the-fool
+world: mark-of-the-fool
+unit: words
+author: "J.M. Clarke (U Juggernaut)"
+rank: b-rank
+royalRoadTags:
+  - "GameLit"
+  - "Progression"
+  - "Strategy"
+  - "Comedy"
+  - "Male Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+  - "School Life"
+  - "Strong Lead"
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool"
+royalRoadId: "41618"
+---
+
+Hello, folks, just to tell ya, chapters 8 to 633 have been published on Kindle and Audible. That's up to book 7. The audiobook is narrated by Travis Baldree!
+
+After his parents died, Alex Roth had a plan: become a wizard. Through hard work, he was accepted into the world’s greatest university of wizardry—but fate had another plan.
+
+On his eighteenth, he is marked as one of his kingdom’s five Heroes, chosen to fight the land’s great enemy. But his brand is 'The Fool', worst of the marks.
+
+Rather than die or serve the other Heroes like Fools in the past, he packs up his little sister, his childhood friend and her cerberus, then flees for the university in hope of refuge, magic and to unravel the truth about his land’s evil. 
+
+There’s one small problem: The Mark tries to ruin magic while enhancing skills outside of divinity, combat and spellcraft.… 
+
+…that is, unless he can learn to exploit the hell out of it.
+
+*****
+
+This the first time I am writing a web novel type story, and I hope you like it. I like progression stories and I've always wanted to try and write one like a few of the web novels that inspired me.
+
+Updates Tues-Wed-Thur-Fri-Sat.
+
+There are currently 20 advanced chapters on my patreon as a thank you to patrons.
+
+Join us on discord! https://discord.gg/A4M3CzfWBn
+
+Chapters will be roughly 2000-2500 words.
+
+***
+
+Rating: This story is kind of like a PG-13 movie. There'll be gore and some swearing but not much beyond that. If that changes, I'll warn you. 
+
+Tone: Tone will be a mix of some action-adventure with excitement, comedy, slice of life elements and mystery. I won't be going too dark with this story. There will be mentions of war, some death, grief and violence.
+
+MC: MC is analytical/rational with emotions. He is mostly in control of those emotions. MC will progress in power, eventually becoming very strong. Strong Lead tag added.
+
+Fights: Fights will be detailed.
+
+***
+
+Stuff this story won't have:
+
+- Extreme grimdark content
+
+- Murderhobo plots
+
+- Edgy, anti-hero MC 
+
+- Pacifist MC
+
+- Harems

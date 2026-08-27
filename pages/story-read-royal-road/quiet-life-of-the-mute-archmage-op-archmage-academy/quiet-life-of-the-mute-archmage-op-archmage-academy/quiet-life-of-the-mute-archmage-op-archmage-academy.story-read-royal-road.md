@@ -1,0 +1,80 @@
+---
+id: fec0066f-9fef-53f4-a5c1-472d0e265fa3
+page-type-slug: story-read-royal-road
+title: "Quiet Life Of The Mute Archmage (OP Archmage/ Academy/ XianXia/ LITRPG/ Mute MC)"
+slug: quiet-life-of-the-mute-archmage-op-archmage-academy
+world: quiet-life-of-the-mute-archmage-op-archmage-academy
+unit: words
+author: "P_Magno"
+royalRoadTags:
+  - "LitRPG"
+  - "Progression"
+  - "Super Heroes"
+  - "Wuxia"
+  - "Female Lead"
+  - "Adventure"
+  - "Drama"
+  - "Fantasy"
+  - "Sci-fi"
+  - "Cozy"
+  - "Crafting"
+  - "Cultivation"
+  - "First Contact"
+  - "High Fantasy"
+  - "Magic"
+  - "Magitech"
+  - "Martial Arts"
+  - "Mythos"
+  - "School Life"
+  - "Secret Identity"
+  - "Slice of Life"
+  - "Soft Sci-fi"
+  - "Strong Lead"
+  - "Supernatural"
+  - "Tower"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy"
+royalRoadId: "167476"
+---
+
+What does it take for a mute girl to climb out of the slums and defy the very heavens?
+
+Rescued from a rainy grave in the slums by a kindly Sage, Molly found a home and a talent for magic she never knew she had. But while others chant to shape Root and Structure, Molly sees the symbols in silence. When she awakens her true Affinity, [Epilogue], she learns her power doesn't just use the relentless magic of an archmage. It ends it. Even the gods fear the silence of Epilogue.
+
+When her mentor dies, her final wish is simple: Hide. Enroll in the academy. Graduate. Find a party. Do not end up alone again.
+
+Disguising a divine-level threat as an average hero-in-training is hard enough. Harder still when the heavens are watching, waiting for the one mortal who holds the key to their undoing.
+
+In a world where only those with a voice are heard, can a mute girl defy the pantheons?
+
+Or will the world finally listen when this broken girl decides to stop hiding?
+
+What to expect:
+
+- Unique magic system that uses mana(symbols) to visualize Roots and Structures to create a perfect formula (magic spell).
+
+- Intriguing magic fights, with martial arts and lots more.
+
+- Mute MC
+
+- OP MC
+
+- An mc that doesn't just go around destroying things even when she's strong.
+
+- Slice of life and slow burn adventures.
+
+- Super Heroes 
+
+- Deep love for food and eating.
+
+- Character focused drama (Not romance)
+
+- Extensive world building on multiple worlds
+
+- Extraterrestrial life forms
+
+- Sects, clans, tribes, kingdoms, flying swords, martial arts, giant monsters, towers, mythical creatures, secret magic formulas, space mages and dragons. Lots of them.
+
+This story was inspired by Frieren, The Silent Witch, Witch Hat Atelier, Delicious In Dungeon, A Silent Voice, Super Supportive, Wistoria Wand And Sword, Legend Of The Northern Blade, Cultivation Stories and a lot more.
+
+Read all available chapters ahead on Patreon! / https://patreon.com/P_Magno
