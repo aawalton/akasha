@@ -9,9 +9,9 @@ parent-slug: aine-global
 
 # Intent
 
-# Notes
+The turn state for a seat whose role is to wait is spelled `idle-ready`.
 
-Opened 2026-08-27 as a stub. No intent is settled yet, and none is written here.
+# Notes
 
 `domain/agent-harness` holds two intent lines today, which this initiative would take off the
 domain and carry as its own text once its set is settled.
