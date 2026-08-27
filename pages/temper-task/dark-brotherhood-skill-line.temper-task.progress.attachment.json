@@ -1,0 +1,147 @@
+{
+  "total": 240,
+  "current": 151,
+  "entries": {
+    "019dda20-723a-792a-99cc-c642ede18861": {
+      "href": "/completion?tab=characters&character=019dda20-723a-792a-99cc-c642ede18861&scrollTo=skill-lines",
+      "label": "Durene",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 10
+    },
+    "019dda20-753c-7497-91c9-be4d37200409": {
+      "href": "/completion?tab=characters&character=019dda20-753c-7497-91c9-be4d37200409&scrollTo=skill-lines",
+      "label": "Serafierre",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 5
+    },
+    "019dda20-785c-725c-9755-e858993eda07": {
+      "href": "/completion?tab=characters&character=019dda20-785c-725c-9755-e858993eda07&scrollTo=skill-lines",
+      "label": "Amerys",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 9
+    },
+    "019dda20-7b4d-7e3d-b536-31161341a1eb": {
+      "href": "/completion?tab=characters&character=019dda20-7b4d-7e3d-b536-31161341a1eb&scrollTo=skill-lines",
+      "label": "The Death of Chains",
+      "total": 12,
+      "current": 2,
+      "sortOrder": 20
+    },
+    "019dda20-7e2b-7e3f-a07e-62a06010184e": {
+      "href": "/completion?tab=characters&character=019dda20-7e2b-7e3f-a07e-62a06010184e&scrollTo=skill-lines",
+      "label": "Seraphel",
+      "total": 12,
+      "current": 7,
+      "sortOrder": 16
+    },
+    "019dda20-810c-74b1-9fa4-350eb88bc5c5": {
+      "href": "/completion?tab=characters&character=019dda20-810c-74b1-9fa4-350eb88bc5c5&scrollTo=skill-lines",
+      "label": "Lyonette",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 11
+    },
+    "019dda20-83ff-7e21-bcc6-a0b3bed56960": {
+      "href": "/completion?tab=characters&character=019dda20-83ff-7e21-bcc6-a0b3bed56960&scrollTo=skill-lines",
+      "label": "Valeterisa",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 7
+    },
+    "019dda20-86ca-7452-8c74-73699a1fae95": {
+      "href": "/completion?tab=characters&character=019dda20-86ca-7452-8c74-73699a1fae95&scrollTo=skill-lines",
+      "label": "Shaestrel",
+      "total": 12,
+      "current": 2,
+      "sortOrder": 15
+    },
+    "019dda20-89a4-76b9-b1b9-3d6ac305af6b": {
+      "href": "/completion?tab=characters&character=019dda20-89a4-76b9-b1b9-3d6ac305af6b&scrollTo=skill-lines",
+      "label": "Belavierr",
+      "total": 12,
+      "current": 0,
+      "sortOrder": 18
+    },
+    "019dda20-8c7c-772a-9cbd-3ae77bd7c136": {
+      "href": "/completion?tab=characters&character=019dda20-8c7c-772a-9cbd-3ae77bd7c136&scrollTo=skill-lines",
+      "label": "Maviola",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 2
+    },
+    "019dda20-8f62-7a6f-a9de-662e594f3485": {
+      "href": "/completion?tab=characters&character=019dda20-8f62-7a6f-a9de-662e594f3485&scrollTo=skill-lines",
+      "label": "Khelta",
+      "total": 12,
+      "current": 0,
+      "sortOrder": 17
+    },
+    "019dda20-9231-7c70-937c-8215629e57d1": {
+      "href": "/completion?tab=characters&character=019dda20-9231-7c70-937c-8215629e57d1&scrollTo=skill-lines",
+      "label": "The Death of Magic",
+      "total": 12,
+      "current": 0,
+      "sortOrder": 19
+    },
+    "019dda20-9520-7261-a87f-6f2567dd6020": {
+      "href": "/completion?tab=characters&character=019dda20-9520-7261-a87f-6f2567dd6020&scrollTo=skill-lines",
+      "label": "The Quarass",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 6
+    },
+    "019dda20-9803-7566-8a23-432c0301720b": {
+      "href": "/completion?tab=characters&character=019dda20-9803-7566-8a23-432c0301720b&scrollTo=skill-lines",
+      "label": "Rafaema",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 8
+    },
+    "019dda20-9adf-7228-b05e-34eadfba7800": {
+      "href": "/completion?tab=characters&character=019dda20-9adf-7228-b05e-34eadfba7800&scrollTo=skill-lines",
+      "label": "Ceria",
+      "total": 12,
+      "current": 0,
+      "sortOrder": 14
+    },
+    "019dda20-9dc3-7f46-9cf3-b2c53c6b2df9": {
+      "href": "/completion?tab=characters&character=019dda20-9dc3-7f46-9cf3-b2c53c6b2df9&scrollTo=skill-lines",
+      "label": "Yvlon",
+      "total": 12,
+      "current": 7,
+      "sortOrder": 12
+    },
+    "019dda20-a0b3-7b8b-ae04-dae6143ee548": {
+      "href": "/completion?tab=characters&character=019dda20-a0b3-7b8b-ae04-dae6143ee548&scrollTo=skill-lines",
+      "label": "Three-Color",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 4
+    },
+    "019dda20-a396-715c-b6a7-bf556e159ddb": {
+      "href": "/completion?tab=characters&character=019dda20-a396-715c-b6a7-bf556e159ddb&scrollTo=skill-lines",
+      "label": "Mrsha",
+      "total": 12,
+      "current": 1,
+      "sortOrder": 13
+    },
+    "019dda20-a672-7ca7-bb4c-c533c9c3c754": {
+      "href": "/completion?tab=characters&character=019dda20-a672-7ca7-bb4c-c533c9c3c754&scrollTo=skill-lines",
+      "label": "Nirayicel",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 3
+    },
+    "019dda20-a963-727d-8922-2712d94cd668": {
+      "href": "/completion?tab=characters&character=019dda20-a963-727d-8922-2712d94cd668&scrollTo=skill-lines",
+      "label": "Erin",
+      "total": 12,
+      "current": 12,
+      "sortOrder": 1
+    }
+  },
+  "activeEntryKey": "019dda20-9dc3-7f46-9cf3-b2c53c6b2df9"
+}
