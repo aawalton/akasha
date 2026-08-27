@@ -27,8 +27,6 @@ const ADDRESS_JOIN = "/"
 
 const REPO_MARK = /^([a-z][a-z0-9-]*):(\S)/
 
-const INSTRUCTIONS = "instructions"
-
 export type Relation = {
   readonly key: string
   readonly kind: string | null
@@ -44,9 +42,17 @@ export type Reached = {
   readonly target: string
 }
 
-export function fileTargetOf(stated: string): string {
+/**
+ * How the index names a file end: the repository, then the path within it.
+ *
+ * `here` IS WHAT AN UNMARKED PATH MEANS, and it is asked for rather than defaulted. A path with no
+ * `repo:` on the front was filed under `instructions` however it was reached. That repository was
+ * folded into akasha, so all 317 `command-path` entries sat under a name nothing carries, and a
+ * lookup keyed on the repository the file is actually in reached none of them.
+ */
+export function fileTargetOf(stated: string, here: string): string {
   const marked = REPO_MARK.exec(stated)
-  if (marked === null) return `${INSTRUCTIONS}${ADDRESS_JOIN}${stated}`
+  if (marked === null) return `${here}${ADDRESS_JOIN}${stated}`
   const repo = marked[1] as string
   return `${repo}${ADDRESS_JOIN}${stated.slice(repo.length + 1)}`
 }
@@ -106,9 +112,14 @@ export function relationsOver(pages: readonly Held[]): ReadonlyMap<string, reado
   return made
 }
 
-function targetOf(relation: Relation, value: string, resolve: Resolve): string | null {
+function targetOf(
+  relation: Relation,
+  value: string,
+  resolve: Resolve,
+  here: string
+): string | null {
   if (relation.kind === null) return null
-  if (relation.kind === BY_FILE) return fileTargetOf(value)
+  if (relation.kind === BY_FILE) return fileTargetOf(value, here)
   const to = resolve(relation.kind, relation.target, value)
   return to === null ? null : pageTargetOf(to.stem, to.type)
 }
@@ -128,7 +139,7 @@ export function reachedFrom(
     if (relation.attachment !== null) {
       const key = attachmentFileOf(at.key, relation.key, relation.attachment)
       if (!holds(at.repo, key)) continue
-      const target = fileTargetOf(`${at.repo}:${key}`)
+      const target = fileTargetOf(`${at.repo}:${key}`, at.repo)
       const said = `${relation.key} ${target}`
       if (seen.has(said)) continue
       seen.add(said)
@@ -137,7 +148,7 @@ export function reachedFrom(
     }
     for (const value of listField(at.fm, relation.key)) {
       if (value === "" || value === NONE) continue
-      const target = targetOf(relation, value, resolve)
+      const target = targetOf(relation, value, resolve, at.repo)
       if (target === null) continue
       const said = `${relation.key} ${target}`
       if (seen.has(said)) continue
