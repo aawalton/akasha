@@ -6,6 +6,8 @@
   "exports": {
     "./cdk8s-synth": "./src/cdk8s-synth.ts",
     "./hostnames": "./src/hostnames.ts",
+    "./k8s-manifest-scanner": "./src/k8s-manifest-scanner.ts",
+    "./k8s-manifest-walker": "./src/k8s-manifest-walker.ts",
     "./labels": "./src/labels.ts",
     "./orchestrator-cache": "./src/orchestrator-cache.ts",
     "./*": "./src/*.ts"

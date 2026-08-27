@@ -17,5 +17,9 @@
     "dist",
     "./**/*.test.ts"
   ],
-  "references": []
+  "references": [
+    {
+      "path": "../../shared/utils-narrow"
+    }
+  ]
 }
