@@ -53,11 +53,17 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **The write path calls the file-side formula evaluator directly for now, settled 2026-08-27.** `tools/lib/page-expression.ts` is the evaluator naming can reach, being the file-side one. That evaluator belongs under `pages-system/` in the end, so this edge is a stage rather than where it comes to rest.
 
+**`unique-key` is a notation nothing implements.** No file-side code renders it, and four of the six stated values carry holes no naming regex can match, so nothing ever did. Removing it takes away a spelling rather than a behaviour.
+
+**A dotted name cannot be written as a formula.** The file side refuses a path step whose head is not an object, and a page's frontmatter holds only text. Reaching another page's property is a `rollup`, which declares a relation and a target rather than a formula. No `named-for` value is dotted, so no naming translation needs this.
+
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
-- Naming runs on templates rather than on the formula language. Four hole-renderers behave four different ways on an unfilled hole, twenty hyphenated holes parse as subtraction rather than as references, and `{id}` is out of scope where a new page is named.
+- Seventeen hyphenated holes, over twenty-three occurrences, parse as subtraction rather than as references unless every one is spelled `prop(...)`.
+- A template refuses a write whose hole nothing fills; a formula renders that gap as nothing and answers a name that looks right. Eleven page types name pages from more than one part, and only those are exposed.
+- Twenty-five pages carry a stem cut at the old ceiling of 71, so their rule now fills to more than their filename holds.
+- `ops food log` names its own pages: its own stemmer at `tools/commands/food/log.ts:123`, its own `-2` suffix at `:146`, and a write through the query client rather than the naming path.
 - `vocabulary` and `rows-homes` are cached under a mark taken over the page shape alone, while both read the registry, which reads the index. Only `registry` carries an index stamp.
-- `page/shape/mark.ts` names `checks/refusal` where the folder is `checks-system/refusal`, so `ownCodeParts` finds one folder short and answers nothing. `page/shape/mark.unit.test.ts` fails on main for this. Whether the answers cache is thereby dead is unsettled: answers landed today carrying whole shape marks.
 - 2,633 pages exist byte-identically in both `akasha` and `books`, which is why `page-name-unique` meets collisions it cannot explain.
 - The unique-name intent costs 24,518 renames across eight page types. Four are clear: `persona-day`, `persona-craft-day`, `idle-persona-card` and `story-turn`, 2,301 pages between them, at most one call site each.
 - `finding` cannot take a flat name while `tools/audits/findings-sorted.ts` refuses a name of one segment, which would refuse all 3,456 findings. Three refusal pages spell the old shape.
