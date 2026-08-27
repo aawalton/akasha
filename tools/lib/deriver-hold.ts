@@ -1,4 +1,5 @@
-import { type Carries, type Deriver, deriver, type Row } from "./page-derive.ts"
+import { deriver } from "./page-derive.ts"
+import { type Carries, type Deriver, type Row } from "./page-derive-shape.ts"
 import type { Roots } from "../../page/page"
 
 let deriverTtlMs = 0

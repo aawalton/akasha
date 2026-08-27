@@ -1,4 +1,4 @@
-import { type Deriver, type Relation } from "./page-derive.ts"
+import { type Deriver, type Relation } from "./page-derive-shape.ts"
 import { type Values } from "./page-file-values"
 import { deriverFor } from "./deriver-hold.ts"
 import { listOf, textOf } from "./page-query-values.ts"

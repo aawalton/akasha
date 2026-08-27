@@ -1,4 +1,4 @@
-import { type Carries } from "./page-derive.ts"
+import { type Carries } from "./page-derive-shape.ts"
 import { BODY } from "./page-file-values"
 import type { PageQuery } from "./page-query.ts"
 

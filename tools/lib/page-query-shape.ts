@@ -1,6 +1,6 @@
 import { deriverFor } from "./deriver-hold.ts"
 import { textOf, type Row } from "./page-query.ts"
-import type { Deriver } from "./page-derive.ts"
+import type { Deriver } from "./page-derive-shape.ts"
 import type { Values } from "./page-file-values"
 import { camelizeKey } from "../page/page-naming.ts"
 import { idOfFilePage } from "../../page/name/naming/naming"

@@ -1,4 +1,4 @@
-import { type Backed, type Row } from "./page-derive.ts"
+import { type Backed, type Row } from "./page-derive-shape.ts"
 import { type Held, type Values } from "./page-file-values"
 import { deriverFor } from "./deriver-hold.ts"
 import { idOfFilePage as pageId, slugOfFilePage as pageSlug } from "../../page/name/naming/naming"
