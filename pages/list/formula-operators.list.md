@@ -18,9 +18,9 @@ domain-parent-slug: domain/formula-language
 - **`/`** — divides one number by another.
 - **`==`** — whether two values are the same.
 - **`!=`** — whether two values differ.
-- **`<`** — whether the left is less than the right.
-- **`<=`** — whether the left is at most the right.
-- **`>`** — whether the left is more than the right.
-- **`>=`** — whether the left is at least the right.
+- **`<`** — whether one number is less than another.
+- **`<=`** — whether one number is at most another.
+- **`>`** — whether one number is more than another.
+- **`>=`** — whether one number is at least another.
 - **`&&`** — whether both sides are true.
 - **`??`** — the left, or the right where the left is absent.
