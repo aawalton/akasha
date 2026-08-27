@@ -9,7 +9,7 @@ import { decideSmsRoute, type SmsExternalIdentity } from "./sms-identity"
 import { extractInboundSms, telnyxWebhookSchema } from "./telnyx-inbound"
 import { verifyTelnyxSignature } from "./verify-signature"
 
-const ALAN_HANDLER_SEAT = "amy-alan-handler"
+const ALAN_HANDLER_SEAT = "alan"
 
 export type DeliveryKind = "inbound-message" | "refusal-notice"
 
