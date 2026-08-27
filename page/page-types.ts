@@ -197,11 +197,11 @@ export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
 
 export function pageTypePathIn(root: string, slug: string): string {
   const held = pageFileIn(root, placeDirOf("page-type"), slug)
-  return held ?? `page-types/${slug}.md`
+  return held ?? `${placeDirOf("page-type")}/${slug}.page-type${MARKDOWN}`
 }
 
 export function placeOf(slug: string): string {
-  return `${placeDirOf(slug)}/**/*.md`
+  return `${placeDirOf(slug)}/**/*.${slug}${MARKDOWN}`
 }
 
 export interface Filed {
@@ -232,17 +232,13 @@ export function pagePrefixOf(at: string, slug: string): string | null {
   return at.startsWith(`${dir}/`) ? `${dir}/` : null
 }
 
-export function filesByName(type: PageType): boolean {
-  return placesOf(type).some((one) => one.endsWith(`*.${type.slug}${MARKDOWN}`))
-}
-
 export function newPageNameFor(type: PageType, name: string): string {
-  return filesByName(type) ? `${name}.${type.slug}${MARKDOWN}` : `${name}${MARKDOWN}`
+  return `${name}.${type.slug}${MARKDOWN}`
 }
 
 export function pageRelIn(root: string, slug: string, name: string): string {
   const dir = placeDirOf(slug)
-  return pageFileIn(root, dir, name) ?? `${dir}/${name}${MARKDOWN}`
+  return pageFileIn(root, dir, name) ?? `${dir}/${name}.${slug}${MARKDOWN}`
 }
 
 export function placesOf(one: PageType): readonly string[] {
