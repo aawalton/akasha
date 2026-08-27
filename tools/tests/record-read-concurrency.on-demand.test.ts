@@ -3,7 +3,7 @@ import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { canonicalize } from "../../repo/path/path"
-import { type Fixture, fixture, installGates } from "./fixture.ts"
+import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
 
 const HOOK = `${import.meta.dir}/../hooks/record-read.ts`
 const AGENT = "agent-parallel"
@@ -16,6 +16,9 @@ let at: Fixture
 beforeEach(() => {
   at = fixture()
   installGates(at.root)
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so
+  // the spawned hook throws in `roots.ts` at import without them.
+  installRepos(at.root)
   at.installRecorder(AGENT)
 })
 
@@ -25,17 +28,19 @@ afterEach(() => {
 
 function documents(count: number): { readonly rel: string[]; readonly keys: string[] } {
   const rel = Array.from({ length: count }, (_, i) => `domains/document-${i}.md`)
-  for (const relPath of rel) at.memoryDocument(relPath, "slug: x\ndomain-parent-slug: global", 5)
-  return { rel, keys: rel.map((p) => canonicalize(`${at.memory}/${p}`)).sort() }
+  for (const relPath of rel) at.document(relPath, "slug: x\ndomain-parent-slug: global", 5)
+  return { rel, keys: rel.map((p) => canonicalize(`${at.root}/${p}`)).sort() }
 }
 
 function recordOne(relPath: string, call: Record<string, unknown> = {}): Promise<number> {
   return Bun.spawn({
     cmd: [process.execPath, HOOK],
     stdin: Buffer.from(
-      JSON.stringify({ tool_input: { file_path: `${at.memory}/${relPath}`, ...call } })
+      JSON.stringify({ tool_input: { file_path: `${at.root}/${relPath}`, ...call } })
     ),
-    env: { ...process.env, HOME: at.home, MEMORY_ROOT: at.memory, AGENT_ID: AGENT },
+    // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `MEMORY_ROOT`, naming a repository that is gone:
+    // nothing reads it, so the hook recorded against the live checkout's seat pages instead.
+    env: { ...process.env, HOME: at.home, AKASHA_ROOT: at.root, AGENT_ID: AGENT },
     stdout: "pipe",
     stderr: "pipe",
   }).exited
@@ -46,7 +51,7 @@ async function recordAllAtOnce(paths: readonly string[]): Promise<void> {
 }
 
 function seatsDir(): string {
-  return `${at.akasha}/agent/seat`
+  return `${at.root}/agent/seat`
 }
 
 function recordPath(): string {
