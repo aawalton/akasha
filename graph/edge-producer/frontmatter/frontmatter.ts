@@ -1,5 +1,6 @@
 import { type Frontmatter, listField } from "../../../page/frontmatter.ts"
 import {
+  BY_FILE,
   type Resolve,
   type Stated,
   kindOf,
@@ -10,6 +11,7 @@ import { NONE, stringAt } from "../../../page/text/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import { frontmatterAt } from "../../frontmatter-at/frontmatter-at.ts"
 import type { BuildContext } from "../../build-context/build-context.ts"
+import fileNodeProducer from "../../node-producer/file/file.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { slugNamed } from "../../../page/page-address.ts"
 import type { PageAt } from "../../../page/page.ts"
@@ -21,6 +23,8 @@ export const RELATION_EDGE = "relation"
 const RELATION_KEY = "relation-key"
 
 const DEFINITION_PAGE_TYPE = "page-property-definition"
+
+const REPO_MARK = ":"
 
 export type Relation = {
   readonly key: string
@@ -86,7 +90,20 @@ function resolvingIn(ctx: BuildContext): Resolve {
   return made
 }
 
-function reached(ctx: BuildContext, named: string, relation: Relation): NodeRef | null {
+function fileAt(ctx: BuildContext, repo: string, named: string): NodeRef | null {
+  const cut = named.indexOf(REPO_MARK)
+  const ref =
+    cut < 0 ? { repo, key: named } : { repo: named.slice(0, cut), key: named.slice(cut + 1) }
+  return fileNodeProducer.at(ctx, ref) === null ? null : ref
+}
+
+function reached(
+  ctx: BuildContext,
+  from: NodeRef,
+  named: string,
+  relation: Relation
+): NodeRef | null {
+  if (relation.kind === BY_FILE) return fileAt(ctx, from.repo, named)
   return resolvingIn(ctx)(relation.kind, relation.target, named)
 }
 
@@ -105,7 +122,7 @@ export const frontmatterEdgeProducer: EdgeProducer = {
     const edges: EdgeInit[] = []
     for (const relation of relationsIn(ctx).get(pageType) ?? []) {
       for (const named of namesIn(fm, relation)) {
-        const to = reached(ctx, named, relation)
+        const to = reached(ctx, file, named, relation)
         if (to === null) continue
         edges.push({
           kind: RELATION_EDGE,
