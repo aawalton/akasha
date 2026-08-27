@@ -1,4 +1,5 @@
-import type { PageQuery, Row } from "./page-query.ts"
+import type { PageQuery } from "./page-query.ts"
+import type { Row } from "./page-derive-shape.ts"
 
 const NUMBER = "number"
 

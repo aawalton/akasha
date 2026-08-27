@@ -1,7 +1,8 @@
 import { afterAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { answer, type Row } from "../lib/page-query.ts"
+import { answer } from "../lib/page-query.ts"
+import { type Row } from "../lib/page-derive-shape.ts"
 import { textOf } from "../lib/page-query-values.ts"
 import type { Roots } from "../../page/page"
 

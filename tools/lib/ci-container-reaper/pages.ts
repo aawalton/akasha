@@ -1,4 +1,5 @@
-import { answer, type Row } from "../page-query.ts"
+import { answer } from "../page-query.ts"
+import { type Row } from "../page-derive-shape.ts"
 import { textOf } from "../page-query-values.ts"
 import type { Roots } from "../../../page/page"
 

@@ -1,5 +1,6 @@
 import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
-import { answer, type Values } from "../page-query.ts"
+import { answer } from "../page-query.ts"
+import { type Values } from "../page-file-values.ts"
 import { listOf, textOf } from "../page-query-values.ts"
 import { whereFor } from "../page-write-where.ts"
 import type { Roots } from "../../../page/page"

@@ -1,4 +1,5 @@
-import { answer, type PageQuery, type Row, UNREACHED } from "../page-query.ts"
+import { answer, type PageQuery, UNREACHED } from "../page-query.ts"
+import { type Row } from "../page-derive-shape.ts"
 import { listOf, textOf } from "../page-query-values.ts"
 import type { Roots } from "../../../page/page"
 

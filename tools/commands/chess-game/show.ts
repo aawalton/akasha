@@ -3,7 +3,8 @@ export const summary = "Show one chess game — metadata and full PGN — for re
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { answer, type Row } from "../../lib/page-query.ts"
+import { answer } from "../../lib/page-query.ts"
+import { type Row } from "../../lib/page-derive-shape.ts"
 import { textOf } from "../../lib/page-query-values.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
 

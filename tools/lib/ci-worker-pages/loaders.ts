@@ -1,4 +1,5 @@
-import type { Row, Test } from "../page-query.ts"
+import type { Test } from "../page-query.ts"
+import type { Row } from "../page-derive-shape.ts"
 import type { Roots } from "../../../page/page"
 import { NON_TERMINAL_PIPELINE_STATUSES } from "../ci-orchestrator/statuses.ts"
 import { FAILED, PASSED, PIPELINE, STEP, WORKFLOW } from "../sweep-pipeline-pages/statuses.ts"

@@ -1,7 +1,8 @@
 
 import { type GatedAct, landBodies } from "./gated-landing.ts"
 import { attachmentFileOf } from "../../page/attachment-file.ts"
-import { answer, type Row } from "./page-query.ts"
+import { answer } from "./page-query.ts"
+import { type Row } from "./page-derive-shape.ts"
 import { textOf } from "./page-query-values.ts"
 import { landingTextFor } from "./page-write-compose.ts"
 import { splitValues, type Value } from "./page-write-values.ts"

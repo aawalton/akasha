@@ -1,4 +1,5 @@
-import { answer, type Values } from "./page-query.ts"
+import { answer } from "./page-query.ts"
+import { type Values } from "./page-file-values.ts"
 import { textOf } from "./page-query-values.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 

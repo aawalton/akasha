@@ -1,4 +1,4 @@
-import type { Row } from "../page-query.ts"
+import type { Row } from "../page-derive-shape.ts"
 import { listOf, textOf } from "./reads.ts"
 import { COMMIT_KEY, ONLY_CHECK_NAMES_KEY } from "./vocabulary.ts"
 

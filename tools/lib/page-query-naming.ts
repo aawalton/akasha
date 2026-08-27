@@ -1,5 +1,5 @@
 import { deriverFor } from "./deriver-hold.ts"
-import { type Row } from "./page-query.ts"
+import { type Row } from "./page-derive-shape.ts"
 import { listOf, textOf } from "./page-query-values.ts"
 import type { Deriver } from "./page-derive-shape.ts"
 import { kebabized } from "../../page/property/key-spelling.ts"

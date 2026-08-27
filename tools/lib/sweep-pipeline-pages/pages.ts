@@ -1,5 +1,6 @@
 import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
-import { load, type Row, UNREACHED } from "../page-query.ts"
+import { load, UNREACHED } from "../page-query.ts"
+import { type Row } from "../page-derive-shape.ts"
 import { whereFor } from "../page-write-where.ts"
 import type { Roots } from "../../../page/page"
 import { type Pipeline, pipelineIn, type Step, stepIn, type Workflow, workflowIn } from "./entities.ts"

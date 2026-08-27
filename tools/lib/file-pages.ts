@@ -1,4 +1,5 @@
-import { answer, type Row, UNREACHED } from "./page-query.ts"
+import { answer, UNREACHED } from "./page-query.ts"
+import { type Row } from "./page-derive-shape.ts"
 import { textOf } from "./page-query-values.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 

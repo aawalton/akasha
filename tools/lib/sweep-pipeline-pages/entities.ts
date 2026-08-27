@@ -1,4 +1,5 @@
-import { type Row, type Values } from "../page-query.ts"
+import { type Row } from "../page-derive-shape.ts"
+import { type Values } from "../page-file-values.ts"
 import { listOf, textOf } from "../page-query-values.ts"
 import { PENDING } from "./statuses.ts"
 
