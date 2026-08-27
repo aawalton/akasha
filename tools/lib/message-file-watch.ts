@@ -1,7 +1,7 @@
 
 import { mkdirSync, watch } from "node:fs"
 import { type Message, messageDirRelPath, recipientRefused, unclaimedTo } from "./message-file.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots"
 
 const BACKSTOP_MS = 5_000
 
@@ -19,7 +19,7 @@ export function watchMessagesTo(
   const refused = recipientRefused(to)
   if (refused !== null) throw new Error(refused)
   const onError = opts.onError ?? ((err) => console.error("[messages] watch:", err))
-  const dir = `${resolveRoots().memory}/${messageDirRelPath(to)}`
+  const dir = `${akashaRoot()}/${messageDirRelPath(to)}`
   try {
     mkdirSync(dir, { recursive: true })
   } catch (err) {
