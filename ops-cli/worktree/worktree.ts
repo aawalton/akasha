@@ -1,4 +1,4 @@
-import { existsSync } from "node:fs"
+import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { placeDirOf } from "../../page/page-types.ts"
 
@@ -14,10 +14,16 @@ const WORKTREE_AT = "worktree "
 
 const HEAD_AT = "HEAD "
 
-export interface Tree {
-  readonly name: string
+const PAGE_ENDING = `.${PAGE_TYPE}.md`
+
+export interface Claimed {
+  readonly name: string | null
   readonly at: string
   readonly head: string
+}
+
+export interface Tree extends Claimed {
+  readonly name: string
 }
 
 export interface Said {
@@ -40,23 +46,34 @@ export function ran(root: string, args: readonly string[]): Said {
   }
 }
 
-export function treesHere(root: string): readonly Tree[] {
+export function everyTreeHere(root: string): readonly Claimed[] {
   const listed = ran(root, ["worktree", "list", "--porcelain"])
   if (!listed.ok) fail(`git could not list akasha's worktrees:\n${listed.said}`)
-  const trees: Tree[] = []
+  const claimed: Claimed[] = []
   let at: string | null = null
   let head = ""
+  let name: string | null = null
+  const keep = (): void => {
+    if (at !== null) claimed.push({ name, at, head })
+    at = null
+    head = ""
+    name = null
+  }
   for (const line of listed.said.split("\n")) {
     if (line.startsWith(WORKTREE_AT)) {
+      keep()
       at = line.slice(WORKTREE_AT.length)
-      head = ""
       continue
     }
     if (line.startsWith(HEAD_AT)) head = line.slice(HEAD_AT.length)
-    if (!line.startsWith(BRANCH_AT) || at === null) continue
-    trees.push({ name: line.slice(BRANCH_AT.length), at, head })
+    if (line.startsWith(BRANCH_AT)) name = line.slice(BRANCH_AT.length)
   }
-  return trees
+  keep()
+  return claimed
+}
+
+export function treesHere(root: string): readonly Tree[] {
+  return everyTreeHere(root).filter((one): one is Tree => one.name !== null)
 }
 
 export function treeAtCwd(trees: readonly Tree[]): Tree | null {
@@ -66,7 +83,15 @@ export function treeAtCwd(trees: readonly Tree[]): Tree | null {
 }
 
 export function pageRelOf(name: string): string {
-  return `${placeDirOf(PAGE_TYPE)}/${name}.${PAGE_TYPE}.md`
+  return `${placeDirOf(PAGE_TYPE)}/${name}${PAGE_ENDING}`
+}
+
+export function namesPaged(memoryRoot: string): readonly string[] {
+  const at = join(memoryRoot, placeDirOf(PAGE_TYPE))
+  if (!existsSync(at)) return []
+  return readdirSync(at)
+    .filter((one) => one.endsWith(PAGE_ENDING))
+    .map((one) => one.slice(0, one.length - PAGE_ENDING.length))
 }
 
 export function pageOf(memoryRoot: string, name: string): string {
@@ -87,8 +112,8 @@ export function takeTreeAway(root: string, tree: Tree, remote: boolean): readonl
   if (existsSync(tree.at) && !ran(root, ["worktree", "remove", "--force", tree.at]).ok) {
     left.push(`its tree at ${tree.at}`)
   }
-  const stands = ran(root, ["rev-parse", "--verify", "--quiet", `refs/heads/${tree.name}`]).ok
-  if (stands && !ran(root, ["branch", "-D", tree.name]).ok) left.push(`the branch ${tree.name}`)
+  const held = ran(root, ["rev-parse", "--verify", "--quiet", `refs/heads/${tree.name}`]).ok
+  if (held && !ran(root, ["branch", "-D", tree.name]).ok) left.push(`the branch ${tree.name}`)
   if (remote && !ran(root, ["push", ORIGIN, "--delete", tree.name]).ok) {
     left.push(`${ORIGIN}/${tree.name}`)
   }
