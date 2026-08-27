@@ -16,32 +16,31 @@ Measured 2026-08-07 while emptying `dirty/skills/chess/SKILL.md`, whose item 8
 describes the same rows as "the durable progress record landed and is not the
 record".
 
-`ops page list --type chess-progress --count` returns 5. With
-`--properties title,createdAt,lastReviewed,category,activeDrill` the five are
-"Overall: where his game stands", "Fork (tactical motif)", "Opening
-understanding", "Endgame technique" and "Thread: gentlest diagnosis next
-session" — categories `overall`, `motif`, `opening`, `endgame`, `thread`. Every
-`createdAt` is `2026-06-27T01:39:0*`, inside forty seconds of one another, and
-every `lastReviewed` is `2026-06-26`: one session, six weeks ago, never touched
-since.
+The five stand as files under `pages/chess-progress/`:
+`overall-where-his-game-stands`, `fork-tactical-motif`,
+`opening-understanding`, `endgame-technique` and
+`thread-gentlest-diagnosis-next-session` — categories `overall`, `motif`,
+`opening`, `endgame`, `thread`. Every `createdAt` is `2026-06-27T01:39:0*`,
+inside forty seconds of one another, and every `lastReviewed` is `2026-06-26`:
+one session, six weeks ago, never touched since.
 
-`rg -n --multiline "chess-progress|chessProgress|chess_progress"` over the whole
-code repository returns exactly one line, and it is a comment about a different
-page-type:
-`packages/alanwalton/erin-chess-points/src/chess-review-session-page-type.ts:9`,
-naming "the durable-mastery (`chess-progress`) signal" while explaining what
-`chess-review-session` is kept separate from. The same search over the
-instructions repository excluding `dirty/` returns nothing.
+`rg "chess-progress|chessProgress|chess_progress"` over this repository outside
+`pages/` returns nothing at all. The one hit it once had was a comment about a
+different page-type, at
+`packages/alanwalton/erin-chess-points/src/chess-review-session-page-type.ts:9`
+in the code repository, naming "the durable-mastery (`chess-progress`) signal"
+while explaining what `chess-review-session` is kept separate from; that package
+stands in no tree here.
 
-`ops --help` lists twelve chess verbs and none reaches it: `chess` has
+`ops` lists ten chess verbs and none reaches it: `chess` has
 `legal-moves`, `evaluate`, `apply-move`, `play`, `play-game`; `chess-game` has
-`seed-page-types`, `ingest`, `list`, `show`; `chess-puzzle` has `sync`, `query`,
-`solve`.
+`list` and `show`; `chess-puzzle` has `sync`, `query`, `solve`.
 
 The contrast with its two siblings is the point. `chess-game` and `chess-puzzle`
-each carry a page-type module, a seeding or sync verb, a producer and a
-subscriber in `packages/alanwalton/erin-chess-points/src/subscriber.ts`.
-`chess-review-session` carries four of those five and lacks only the producer,
-which is the standing finding `chess/studied-path-has-no-producer.md`. This one
-carries none of them and yet is the only one of the four holding rows about
-Alan himself.
+each carried a page-type module, a seeding or sync verb, a producer and a
+subscriber in `packages/alanwalton/erin-chess-points/src/subscriber.ts`, and
+both still carry a producer verb here. `chess-review-session` carried four of
+those five and lacked only the producer, which is the standing finding
+`pages/finding/chess/studied-path-has-no-producer.finding.md`. This one carries
+none of them and yet is the only one of the four holding pages about Alan
+himself.
